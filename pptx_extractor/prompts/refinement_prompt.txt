@@ -1,0 +1,20 @@
+You are refining a slide description based on feedback about differences between the original template and a recreation attempt.
+
+## Current Description:
+{current_description}
+
+## Feedback About Differences:
+{diff_feedback}
+
+## Your Task:
+Update the description to correct the issues identified in the feedback. Be precise with measurements and colors.
+
+Focus on:
+1. Adjusting positions (left_inches, top_inches) to fix placement issues
+2. Adjusting sizes (width_inches, height_inches, font_size_pt) to fix sizing issues
+3. Correcting colors to match the original exactly
+4. Adding any missing elements that were identified
+5. Removing any extra elements that shouldn't be there
+6. Fixing font families, weights, and styles
+
+Output the complete updated JSON description (not just the changes).

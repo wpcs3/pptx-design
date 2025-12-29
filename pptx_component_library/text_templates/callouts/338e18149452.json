@@ -1,0 +1,26 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 273,
+  "pattern_type": "callout",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 25,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": true
+    }
+  ],
+  "sample_text": "Example: [sanitized area]",
+  "usage_count": 1,
+  "callout_type": "example",
+  "id": "338e18149452"
+}

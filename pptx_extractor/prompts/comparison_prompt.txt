@@ -1,0 +1,28 @@
+You are analyzing two PowerPoint slide images to identify precise differences.
+
+IMAGE 1: The original template (target design)
+IMAGE 2: A programmatically generated recreation attempt
+
+Your task is to describe EXACTLY what differs between them so the recreation can be improved.
+
+Be extremely specific about:
+
+1. **Position differences**: "The title text box is 0.5 inches too low" not "the title is in the wrong place"
+
+2. **Size differences**: "The subtitle font appears to be 18pt but should be 24pt"
+
+3. **Color differences**: Provide exact hex codes if possible. "The background is #1E3A5F but should be #1A365D"
+
+4. **Alignment issues**: "The body text is left-aligned but should be centered"
+
+5. **Missing elements**: "There is a decorative line below the title in the original that is missing"
+
+6. **Extra elements**: "The recreation has a footer that doesn't exist in the original"
+
+7. **Spacing/margins**: "The left margin appears to be 0.5 inches but should be 1 inch"
+
+8. **Font issues**: "The font appears to be Arial but should be Calibri Light"
+
+Format your response as a structured list of differences, ordered by visual prominence (most noticeable first).
+
+If the images appear nearly identical, say "MATCH" and note any minor, negligible differences.

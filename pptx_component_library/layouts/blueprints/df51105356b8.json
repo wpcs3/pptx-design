@@ -1,0 +1,450 @@
+{
+  "id": "df51105356b8",
+  "template": "template_market_analysis",
+  "slide_num": 172,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Based on these results, four digital MVPs have bee"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.1928,
+        "width": 0.4441,
+        "height": 0.0595,
+        "right": 0.4896,
+        "bottom": 0.2524
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.45,
+        "width": 5.92,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Personalized Insurance"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5104,
+        "top": 0.1928,
+        "width": 0.4441,
+        "height": 0.0595,
+        "right": 0.9545,
+        "bottom": 0.2524
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 1.45,
+        "width": 5.92,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Business Platform"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.2524,
+        "width": 0.4441,
+        "height": 0.2905,
+        "right": 0.4896,
+        "bottom": 0.5429
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.89,
+        "width": 5.92,
+        "height": 2.18
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Personalized Insurance is a simple, personalized,"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5104,
+        "top": 0.2524,
+        "width": 0.4441,
+        "height": 0.2905,
+        "right": 0.9545,
+        "bottom": 0.5429
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 1.89,
+        "width": 5.92,
+        "height": 2.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u201cBusiness platform\u201d is the go-to place for an SME"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.5555,
+        "width": 0.4441,
+        "height": 0.0595,
+        "right": 0.4896,
+        "bottom": 0.615
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.17,
+        "width": 5.92,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Intelligent Pricing"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5104,
+        "top": 0.5555,
+        "width": 0.4441,
+        "height": 0.0595,
+        "right": 0.9545,
+        "bottom": 0.615
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 4.17,
+        "width": 5.92,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Digital Sales Support"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.615,
+        "width": 0.4441,
+        "height": 0.2905,
+        "right": 0.4896,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.61,
+        "width": 5.92,
+        "height": 2.18
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Intelligent pricing applies the best of machine le"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5104,
+        "top": 0.615,
+        "width": 0.4441,
+        "height": 0.2905,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 4.61,
+        "width": 5.92,
+        "height": 2.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u201cDigital Sales Support\u201d provides the sales team wi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0552,
+        "top": 0.6319,
+        "width": 0.1339,
+        "height": 0.2597,
+        "right": 0.1891,
+        "bottom": 0.8917
+      },
+      "position_inches": {
+        "left": 0.74,
+        "top": 4.74,
+        "width": 1.78,
+        "height": 1.95
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized screenshot]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5201,
+        "top": 0.6319,
+        "width": 0.1339,
+        "height": 0.2597,
+        "right": 0.654,
+        "bottom": 0.8917
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 4.74,
+        "width": 1.78,
+        "height": 1.95
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized screenshot]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5201,
+        "top": 0.2694,
+        "width": 0.1339,
+        "height": 0.2597,
+        "right": 0.654,
+        "bottom": 0.5292
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 2.02,
+        "width": 1.78,
+        "height": 1.95
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized screenshot]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0552,
+        "top": 0.2694,
+        "width": 0.1293,
+        "height": 0.2597,
+        "right": 0.1845,
+        "bottom": 0.5292
+      },
+      "position_inches": {
+        "left": 0.74,
+        "top": 2.02,
+        "width": 1.72,
+        "height": 1.95
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.1928,
+        "right": 0.4896,
+        "bottom": 0.9056,
+        "width": 0.4442,
+        "height": 0.7128
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5104,
+        "top": 0.1928,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.4441,
+        "height": 0.7128
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.5201,
+        "top": 0.2694,
+        "right": 0.654,
+        "bottom": 0.8917,
+        "width": 0.1339,
+        "height": 0.6223
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "multi_column"
+}

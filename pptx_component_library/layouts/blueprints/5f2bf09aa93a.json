@@ -1,0 +1,447 @@
+{
+  "id": "5f2bf09aa93a",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 3,
+  "layout_name": "Default",
+  "element_count": 17,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The Due Diligence template is a supporting tool fo"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2267,
+        "top": 0.3015,
+        "width": 0.1928,
+        "height": 0.1071,
+        "right": 0.4195,
+        "bottom": 0.4086
+      },
+      "position_inches": {
+        "left": 3.02,
+        "top": 2.26,
+        "width": 2.57,
+        "height": 0.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target Identification"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4087,
+        "top": 0.3015,
+        "width": 0.1928,
+        "height": 0.1071,
+        "right": 0.6015,
+        "bottom": 0.4086
+      },
+      "position_inches": {
+        "left": 5.45,
+        "top": 2.26,
+        "width": 2.57,
+        "height": 0.8
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Due Diligence"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5907,
+        "top": 0.3015,
+        "width": 0.1928,
+        "height": 0.1071,
+        "right": 0.7836,
+        "bottom": 0.4086
+      },
+      "position_inches": {
+        "left": 7.88,
+        "top": 2.26,
+        "width": 2.57,
+        "height": 0.8
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Transaction Execution"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7728,
+        "top": 0.3015,
+        "width": 0.1928,
+        "height": 0.1071,
+        "right": 0.9656,
+        "bottom": 0.4086
+      },
+      "position_inches": {
+        "left": 10.3,
+        "top": 2.26,
+        "width": 2.57,
+        "height": 0.8
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Post-merger Integration"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0446,
+        "top": 0.3015,
+        "width": 0.1928,
+        "height": 0.1071,
+        "right": 0.2375,
+        "bottom": 0.4086
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 2.26,
+        "width": 2.57,
+        "height": 0.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "M&A Strategy"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0446,
+        "top": 0.418,
+        "width": 0.1711,
+        "height": 0.1661,
+        "right": 0.2157,
+        "bottom": 0.584
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 3.13,
+        "width": 2.28,
+        "height": 1.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "M&A objectives Organizing for M&A Guiding principl"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7728,
+        "top": 0.418,
+        "width": 0.1711,
+        "height": 0.2887,
+        "right": 0.9439,
+        "bottom": 0.7067
+      },
+      "position_inches": {
+        "left": 10.3,
+        "top": 3.13,
+        "width": 2.28,
+        "height": 2.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Post-merger strategy and high-level plan Day 1 rea"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2267,
+        "top": 0.418,
+        "width": 0.1711,
+        "height": 0.3575,
+        "right": 0.3978,
+        "bottom": 0.7755
+      },
+      "position_inches": {
+        "left": 3.02,
+        "top": 3.13,
+        "width": 2.28,
+        "height": 2.68
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target identification  Data collection and \u000bhigh-l"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4087,
+        "top": 0.418,
+        "width": 0.1711,
+        "height": 0.4802,
+        "right": 0.5798,
+        "bottom": 0.8982
+      },
+      "position_inches": {
+        "left": 5.45,
+        "top": 3.13,
+        "width": 2.28,
+        "height": 3.6
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Due diligence project plan Due diligence hypothesi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5907,
+        "top": 0.418,
+        "width": 0.1404,
+        "height": 0.1242,
+        "right": 0.7311,
+        "bottom": 0.5421
+      },
+      "position_inches": {
+        "left": 7.88,
+        "top": 3.13,
+        "width": 1.87,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Structure of deal  Negotiation strategy  Signing a"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2472,
+        "width": 0.1107,
+        "height": 0.0449,
+        "right": 0.149,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.85,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Phase 1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2267,
+        "top": 0.2472,
+        "width": 0.1107,
+        "height": 0.0449,
+        "right": 0.3373,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 3.02,
+        "top": 1.85,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Phase 2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4043,
+        "top": 0.2472,
+        "width": 0.1107,
+        "height": 0.0449,
+        "right": 0.5149,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 5.39,
+        "top": 1.85,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Phase 3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5907,
+        "top": 0.2472,
+        "width": 0.1107,
+        "height": 0.0449,
+        "right": 0.7014,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 7.88,
+        "top": 1.85,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Phase 4"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7728,
+        "top": 0.2472,
+        "width": 0.1107,
+        "height": 0.0449,
+        "right": 0.8834,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 10.3,
+        "top": 1.85,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Phase 5"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2472,
+        "right": 0.4195,
+        "bottom": 0.7755,
+        "width": 0.3811,
+        "height": 0.5283
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4043,
+        "top": 0.2472,
+        "right": 0.7311,
+        "bottom": 0.8982,
+        "width": 0.3268,
+        "height": 0.651
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5907,
+        "top": 0.2472,
+        "right": 0.9656,
+        "bottom": 0.7067,
+        "width": 0.3749,
+        "height": 0.4595
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0344,
+    "top": 0.0147,
+    "bottom": 0.1018,
+    "left_inches": 0.51,
+    "right_inches": 0.46,
+    "top_inches": 0.11,
+    "bottom_inches": 0.76
+  },
+  "content_types": {
+    "other": 17
+  },
+  "category": "multi_column"
+}

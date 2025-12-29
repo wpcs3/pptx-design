@@ -1,0 +1,47 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 209,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 2,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 99,
+      "word_count": 12,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 21,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Independent warranty service offices offer extended warranties separately to the equipment purchase\nTypically [sanitized]",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 2,
+    "max_depth": 1,
+    "items_per_level": {
+      "1": 2
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 7.0,
+    "pattern": "two_level"
+  },
+  "id": "56efc58fe17b"
+}

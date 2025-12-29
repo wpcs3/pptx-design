@@ -1,0 +1,245 @@
+{
+  "presentation_type": "investment_pitch",
+  "title": "$150M Industrial Industrial Fund",
+  "description": "Pitch for specific investment strategy or fund",
+  "context": {
+    "raw_request": "Create an investor pitch deck for a $150M Light Industrial direct investment strategy targeting small-bay warehouse and flex industrial properties in high-growth secondary markets across the US Sun Belt. The fund targets 15-18% net IRR with a value-add approach focusing on lease-up, tenant improvements, and light renovations. Key markets include Dallas-Fort Worth, Phoenix, Nashville, Charlotte, and Tampa.",
+    "fund_size": "$150M",
+    "strategy": "industrial",
+    "geography": "us",
+    "sector": "industrial",
+    "timeframe": null,
+    "key_topics": [
+      "industrial"
+    ]
+  },
+  "sections": [
+    {
+      "name": "Title",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "slide_number": 1,
+          "content_source": "user_input",
+          "content": {
+            "title": "Create an investor pitch deck for a $150M Light In"
+          }
+        }
+      ],
+      "content_source": "user_input",
+      "is_reusable": false
+    },
+    {
+      "name": "Executive Summary",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "research",
+          "content": {}
+        }
+      ],
+      "content_source": "research",
+      "is_reusable": false
+    },
+    {
+      "name": "Company Overview",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "reusable",
+          "content": {}
+        },
+        {
+          "slide_type": "image_slide",
+          "slide_number": 2,
+          "content_source": "reusable",
+          "content": {}
+        },
+        {
+          "slide_type": "title_content",
+          "slide_number": 3,
+          "content_source": "reusable",
+          "content": {}
+        },
+        {
+          "slide_type": "image_slide",
+          "slide_number": 4,
+          "content_source": "reusable",
+          "content": {}
+        }
+      ],
+      "content_source": "reusable",
+      "is_reusable": true,
+      "reusable_section_id": "company_overview"
+    },
+    {
+      "name": "Track Record",
+      "slides": [
+        {
+          "slide_type": "data_chart",
+          "slide_number": 1,
+          "content_source": "reusable",
+          "content": {}
+        },
+        {
+          "slide_type": "table_slide",
+          "slide_number": 2,
+          "content_source": "reusable",
+          "content": {}
+        },
+        {
+          "slide_type": "key_metrics",
+          "slide_number": 3,
+          "content_source": "reusable",
+          "content": {}
+        }
+      ],
+      "content_source": "reusable",
+      "is_reusable": true,
+      "reusable_section_id": "track_record"
+    },
+    {
+      "name": "Market Opportunity",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "slide_number": 1,
+          "content_source": "research",
+          "content": {
+            "title": "Market Opportunity"
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "slide_number": 2,
+          "content_source": "research",
+          "content": {}
+        },
+        {
+          "slide_type": "title_content",
+          "slide_number": 3,
+          "content_source": "research",
+          "content": {}
+        },
+        {
+          "slide_type": "two_column",
+          "slide_number": 4,
+          "content_source": "research",
+          "content": {}
+        }
+      ],
+      "content_source": "research",
+      "is_reusable": false,
+      "research_topics": [
+        "industrial market size in us",
+        "growth drivers in us",
+        "competitive landscape in us",
+        "target demographics in us"
+      ]
+    },
+    {
+      "name": "Investment Strategy",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "research",
+          "content": {}
+        },
+        {
+          "slide_type": "two_column",
+          "slide_number": 2,
+          "content_source": "research",
+          "content": {}
+        },
+        {
+          "slide_type": "image_slide",
+          "slide_number": 3,
+          "content_source": "research",
+          "content": {}
+        },
+        {
+          "slide_type": "title_content",
+          "slide_number": 4,
+          "content_source": "research",
+          "content": {}
+        }
+      ],
+      "content_source": "research",
+      "is_reusable": false
+    },
+    {
+      "name": "Pipeline / Targets",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "internal_data",
+          "content": {}
+        },
+        {
+          "slide_type": "table_slide",
+          "slide_number": 2,
+          "content_source": "internal_data",
+          "content": {}
+        },
+        {
+          "slide_type": "image_slide",
+          "slide_number": 3,
+          "content_source": "internal_data",
+          "content": {}
+        }
+      ],
+      "content_source": "internal_data",
+      "is_reusable": false
+    },
+    {
+      "name": "Risk Factors",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "research",
+          "content": {}
+        }
+      ],
+      "content_source": "research",
+      "is_reusable": false,
+      "research_topics": [
+        "industrial market risks in us",
+        "regulatory risks in us",
+        "execution risks in us"
+      ]
+    },
+    {
+      "name": "Terms and Structure",
+      "slides": [
+        {
+          "slide_type": "table_slide",
+          "slide_number": 1,
+          "content_source": "user_input",
+          "content": {}
+        }
+      ],
+      "content_source": "user_input",
+      "is_reusable": false
+    },
+    {
+      "name": "Contact",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "slide_number": 1,
+          "content_source": "reusable",
+          "content": {}
+        }
+      ],
+      "content_source": "reusable",
+      "is_reusable": true,
+      "reusable_section_id": "contact_info"
+    }
+  ],
+  "estimated_slide_count": 23
+}

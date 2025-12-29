@@ -1,0 +1,123 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 25,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 9,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 42,
+      "word_count": 7,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 171,
+      "word_count": 24,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 210,
+      "word_count": 37,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 98,
+      "word_count": 16,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 16,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 22,
+      "word_count": 3,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 206,
+      "word_count": 33,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 103,
+      "word_count": 18,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 202,
+      "word_count": 36,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Make your model as transparent as possible\nAssume your model will be opened by external people and build it accordingly \u2013 this means no quick fixes, hidden sheets, or nearly-right-but-a-bit-on-the-edg",
+  "usage_count": 3,
+  "bullet_style": {
+    "total_items": 9,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 2,
+      "1": 7
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 19.6,
+    "pattern": "two_level"
+  },
+  "id": "7430271a0700"
+}

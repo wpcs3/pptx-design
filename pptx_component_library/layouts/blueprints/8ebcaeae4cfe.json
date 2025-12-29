@@ -1,0 +1,680 @@
+{
+  "id": "8ebcaeae4cfe",
+  "template": "template_business_case",
+  "slide_num": 231,
+  "layout_name": "Default",
+  "element_count": 29,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "We have looked at over 20 different solution optio"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5765,
+        "width": 0.2227,
+        "height": 0.2169,
+        "right": 0.2682,
+        "bottom": 0.7934
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.32,
+        "width": 2.97,
+        "height": 1.63
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "20+ initial ideas  Invest in office \u201ctoys\u201d Develop"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2776,
+        "top": 0.5765,
+        "width": 0.2227,
+        "height": 0.2169,
+        "right": 0.5004,
+        "bottom": 0.7934
+      },
+      "position_inches": {
+        "left": 3.7,
+        "top": 4.32,
+        "width": 2.97,
+        "height": 1.63
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "10 high-impact ideas  Process improvements Develop"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5097,
+        "top": 0.5765,
+        "width": 0.2227,
+        "height": 0.2169,
+        "right": 0.7325,
+        "bottom": 0.7934
+      },
+      "position_inches": {
+        "left": 6.8,
+        "top": 4.32,
+        "width": 2.97,
+        "height": 1.63
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "5 most feasible ideas  Plan and execute process im"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7451,
+        "top": 0.5765,
+        "width": 0.1809,
+        "height": 0.2169,
+        "right": 0.926,
+        "bottom": 0.7934
+      },
+      "position_inches": {
+        "left": 9.94,
+        "top": 4.32,
+        "width": 2.41,
+        "height": 1.63
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Final list of 3 initiatives  Plan and execute proc"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.568,
+        "width": 0.2228,
+        "height": 0.0,
+        "right": 0.2682,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.26,
+        "width": 2.97,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2776,
+        "top": 0.568,
+        "width": 0.2228,
+        "height": 0.0,
+        "right": 0.5004,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 3.7,
+        "top": 4.26,
+        "width": 2.97,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5097,
+        "top": 0.568,
+        "width": 0.2228,
+        "height": 0.0,
+        "right": 0.7325,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 6.8,
+        "top": 4.26,
+        "width": 2.97,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.745,
+        "top": 0.568,
+        "width": 0.1733,
+        "height": 0.0,
+        "right": 0.9183,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 9.93,
+        "top": 4.26,
+        "width": 2.31,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2677,
+        "width": 0.678,
+        "height": 0.0,
+        "right": 0.7235,
+        "bottom": 0.2677
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.01,
+        "width": 9.04,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7321,
+        "top": 0.2677,
+        "width": 0.1732,
+        "height": 0.0,
+        "right": 0.9054,
+        "bottom": 0.2677
+      },
+      "position_inches": {
+        "left": 9.76,
+        "top": 2.01,
+        "width": 2.31,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1569,
+        "top": 0.5372,
+        "width": 0.0,
+        "height": 0.0308,
+        "right": 0.1569,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 2.09,
+        "top": 4.03,
+        "width": 0.0,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.389,
+        "top": 0.5372,
+        "width": 0.0,
+        "height": 0.0308,
+        "right": 0.389,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 4.03,
+        "width": 0.0,
+        "height": 0.23
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6211,
+        "top": 0.5372,
+        "width": 0.0,
+        "height": 0.0308,
+        "right": 0.6211,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 8.28,
+        "top": 4.03,
+        "width": 0.0,
+        "height": 0.23
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8316,
+        "top": 0.5372,
+        "width": 0.0,
+        "height": 0.0308,
+        "right": 0.8316,
+        "bottom": 0.568
+      },
+      "position_inches": {
+        "left": 11.09,
+        "top": 4.03,
+        "width": 0.0,
+        "height": 0.23
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7885,
+        "top": 0.3923,
+        "width": 0.0207,
+        "height": 0.0367,
+        "right": 0.8091,
+        "bottom": 0.429
+      },
+      "position_inches": {
+        "left": 10.51,
+        "top": 2.94,
+        "width": 0.28,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8316,
+        "top": 0.435,
+        "width": 0.0207,
+        "height": 0.0367,
+        "right": 0.8523,
+        "bottom": 0.4717
+      },
+      "position_inches": {
+        "left": 11.09,
+        "top": 3.26,
+        "width": 0.28,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8479,
+        "top": 0.3556,
+        "width": 0.0207,
+        "height": 0.0367,
+        "right": 0.8685,
+        "bottom": 0.3923
+      },
+      "position_inches": {
+        "left": 11.3,
+        "top": 2.67,
+        "width": 0.28,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.338,
+        "top": -0.1651,
+        "width": 0.0906,
+        "height": 1.1468,
+        "right": 0.4287,
+        "bottom": 0.9817
+      },
+      "position_inches": {
+        "left": 4.51,
+        "top": -1.24,
+        "width": 1.21,
+        "height": 8.6
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3277,
+        "width": 0.0394,
+        "height": 0.1611,
+        "right": 0.0849,
+        "bottom": 0.4889
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.46,
+        "width": 0.53,
+        "height": 1.21
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6935,
+        "top": 0.3593,
+        "width": 0.0238,
+        "height": 0.0971,
+        "right": 0.7173,
+        "bottom": 0.4564
+      },
+      "position_inches": {
+        "left": 9.25,
+        "top": 2.69,
+        "width": 0.32,
+        "height": 0.73
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2668,
+        "top": 0.3389,
+        "width": 0.034,
+        "height": 0.1391,
+        "right": 0.3009,
+        "bottom": 0.478
+      },
+      "position_inches": {
+        "left": 3.56,
+        "top": 2.54,
+        "width": 0.45,
+        "height": 1.04
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4827,
+        "top": 0.3489,
+        "width": 0.0289,
+        "height": 0.1181,
+        "right": 0.5116,
+        "bottom": 0.467
+      },
+      "position_inches": {
+        "left": 6.44,
+        "top": 2.62,
+        "width": 0.39,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.106,
+        "top": 0.3746,
+        "width": 0.1397,
+        "height": 0.0673,
+        "right": 0.2458,
+        "bottom": 0.442
+      },
+      "position_inches": {
+        "left": 1.41,
+        "top": 2.81,
+        "width": 1.86,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "What can we think of to improve this?"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.322,
+        "top": 0.3746,
+        "width": 0.1395,
+        "height": 0.0673,
+        "right": 0.4615,
+        "bottom": 0.442
+      },
+      "position_inches": {
+        "left": 4.29,
+        "top": 2.81,
+        "width": 1.86,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Which ideas have the highest impact?"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5328,
+        "top": 0.3612,
+        "width": 0.1395,
+        "height": 0.0942,
+        "right": 0.6723,
+        "bottom": 0.4554
+      },
+      "position_inches": {
+        "left": 7.1,
+        "top": 2.71,
+        "width": 1.86,
+        "height": 0.71
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Which ideas can we implement within the next 6-12"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2195,
+        "width": 0.6779,
+        "height": 0.0449,
+        "right": 0.7234,
+        "bottom": 0.2643
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.65,
+        "width": 9.04,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Funnel for evaluation of ideas"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7321,
+        "top": 0.2195,
+        "width": 0.1732,
+        "height": 0.0449,
+        "right": 0.9054,
+        "bottom": 0.2643
+      },
+      "position_inches": {
+        "left": 9.76,
+        "top": 1.65,
+        "width": 2.31,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Recommendation"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3277,
+        "right": 0.3009,
+        "bottom": 0.7934,
+        "width": 0.2554,
+        "height": 0.4657
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": -0.1651,
+        "right": 0.7325,
+        "bottom": 0.9817,
+        "width": 0.687,
+        "height": 1.1468
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6935,
+        "top": 0.2195,
+        "right": 0.926,
+        "bottom": 0.7934,
+        "width": 0.2325,
+        "height": 0.5739
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": -0.1651,
+    "bottom": 0.0183,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": -1.24,
+    "bottom_inches": 0.14
+  },
+  "content_types": {
+    "other": 29
+  },
+  "category": "multi_column"
+}

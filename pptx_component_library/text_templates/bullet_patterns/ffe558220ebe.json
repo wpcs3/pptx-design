@@ -1,0 +1,61 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 271,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 3,
+  "max_level": 0,
+  "has_bullets": true,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 21,
+      "word_count": 3,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 16,
+      "word_count": 2,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": true,
+      "bullet_char": "-",
+      "alignment": "left (1)",
+      "text_length": 23,
+      "word_count": 3,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "++:\t Very experienced\n+: \t Experienced\n-: \t Limited experience",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 3,
+    "max_depth": 0,
+    "items_per_level": {
+      "0": 3
+    },
+    "bullet_chars": [
+      "-"
+    ],
+    "avg_words_per_item": 2.7,
+    "pattern": "short_list"
+  },
+  "id": "ffe558220ebe"
+}

@@ -1,0 +1,549 @@
+{
+  "id": "4b371fa0730d",
+  "template": "template_market_analysis",
+  "slide_num": 211,
+  "layout_name": "Default",
+  "element_count": 21,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3732,
+        "top": 0.3672,
+        "width": 0.2606,
+        "height": 0.51,
+        "right": 0.6338,
+        "bottom": 0.8771
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 2.75,
+        "width": 3.48,
+        "height": 3.82
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Forecasted data"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.0443,
+        "width": 0.9091,
+        "height": 0.1141,
+        "right": 0.9546,
+        "bottom": 0.1583
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.86
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The equipment inspections market estimated to boun"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.4139,
+        "width": 0.588,
+        "height": 0.4632,
+        "right": 0.6338,
+        "bottom": 0.8771
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.1,
+        "width": 7.84,
+        "height": 3.47
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0835,
+        "top": 0.4214,
+        "width": 0.2046,
+        "height": 0.0,
+        "right": 0.2881,
+        "bottom": 0.4214
+      },
+      "position_inches": {
+        "left": 1.11,
+        "top": 3.16,
+        "width": 2.73,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2894,
+        "top": 0.4214,
+        "width": 0.0582,
+        "height": 0.0887,
+        "right": 0.3476,
+        "bottom": 0.5101
+      },
+      "position_inches": {
+        "left": 3.86,
+        "top": 3.16,
+        "width": 0.78,
+        "height": 0.67
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3501,
+        "top": 0.4155,
+        "width": 0.2536,
+        "height": 0.0864,
+        "right": 0.6036,
+        "bottom": 0.5019
+      },
+      "position_inches": {
+        "left": 4.67,
+        "top": 3.12,
+        "width": 3.38,
+        "height": 0.65
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4515,
+        "top": 0.439,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.5022,
+        "bottom": 0.4783
+      },
+      "position_inches": {
+        "left": 6.02,
+        "top": 3.29,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+5%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2913,
+        "top": 0.4422,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.342,
+        "bottom": 0.4816
+      },
+      "position_inches": {
+        "left": 3.88,
+        "top": 3.32,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "-18%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.162,
+        "top": 0.3994,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.2126,
+        "bottom": 0.4387
+      },
+      "position_inches": {
+        "left": 2.16,
+        "top": 3.0,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "0%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized], [sanitized], [sanitized], [sa"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.5879,
+        "height": 0.0624,
+        "right": 0.6334,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 7.84,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Inspections market took a hit during COVID-19 but"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.588,
+        "height": 0.0,
+        "right": 0.6335,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 7.84,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "width": 0.2511,
+        "height": 0.0269,
+        "right": 0.2966,
+        "bottom": 0.3672
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 3.35,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "US equipment inspections market, M USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "width": 0.3047,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 1.91,
+        "width": 4.06,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.3298,
+        "width": 0.3047,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.47,
+        "width": 4.06,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.351,
+        "width": 0.3047,
+        "height": 0.5546,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.63,
+        "width": 4.06,
+        "height": 4.16
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Equipment inspections market has historically been"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6416,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6416,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.55,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "ADD-ON SERVICES"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.9,
+        "width": 0.5984,
+        "height": 0.0404,
+        "right": 0.6443,
+        "bottom": 0.9404
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.75,
+        "width": 7.98,
+        "height": 0.3
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Assumptions: 4.5% growth rate forecast assumed fro"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.6416,
+        "bottom": 0.9056,
+        "width": 0.5961,
+        "height": 0.6568
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.0443,
+        "right": 0.9546,
+        "bottom": 0.1583,
+        "width": 0.9092,
+        "height": 0.114
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "right": 0.3476,
+        "bottom": 0.5101,
+        "width": 0.3021,
+        "height": 0.1699
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9,
+        "right": 0.6443,
+        "bottom": 0.9684,
+        "width": 0.5988,
+        "height": 0.0684
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.3047,
+        "height": 0.6504
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0454,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 21
+  },
+  "category": "multi_column"
+}

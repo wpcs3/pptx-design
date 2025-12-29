@@ -1,0 +1,94 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 20,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 7,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 18,
+      "word_count": 3,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 15,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 15,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 20,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 16,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 16,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 28,
+      "word_count": 4,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Point of departure\nMarket analysis\nMarket dynamics\nCompetitive dynamics\n[Insert section]\n[Insert section]\nRecommendations / next steps",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 7,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 3,
+      "1": 4
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 2.4,
+    "pattern": "two_level"
+  },
+  "id": "d4f342716061"
+}

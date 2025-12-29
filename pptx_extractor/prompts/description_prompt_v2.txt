@@ -1,0 +1,270 @@
+You are an expert PowerPoint design analyst with pixel-perfect precision. Your task is to analyze this slide template and produce a JSON specification that can recreate it exactly using python-pptx.
+
+## CALIBRATION REFERENCE
+
+Standard PowerPoint widescreen slide dimensions:
+- Width: 13.333 inches (960 points)
+- Height: 7.5 inches (540 points)
+- 1 inch = 72 points
+- 1 inch = 914400 EMUs
+
+Use these reference measurements for calibration:
+- A typical title is 0.5-1.0 inches from the top
+- Standard left/right margins are 0.5-1.0 inches
+- Body text typically starts 1.5-2.0 inches from top
+- Font sizes: Title 36-44pt, Subtitle 18-24pt, Body 11-14pt
+
+## ANALYSIS METHODOLOGY
+
+Follow this step-by-step approach:
+
+### Step 1: Identify the Layout Structure
+- What type of slide is this? (title, content, two-column, data, etc.)
+- What is the visual hierarchy? (primary, secondary, tertiary elements)
+- Is there a grid or alignment system visible?
+
+### Step 2: Analyze the Background
+- Solid color, gradient, or image?
+- If gradient: direction and color stops
+- Note any subtle patterns or textures
+
+### Step 3: Catalog All Elements (top-to-bottom, left-to-right)
+For EACH element, measure:
+- Precise position relative to slide edges
+- Exact dimensions
+- All styling properties
+
+### Step 4: Extract Colors
+- Use hex format (#RRGGBB)
+- Note the color palette/theme
+- Identify primary, accent, and background colors
+
+### Step 5: Analyze Typography
+- Font family (Calibri, Arial, Century Gothic, Segoe UI, etc.)
+- Size, weight (bold/normal), style (italic/normal)
+- Line spacing and paragraph spacing
+
+## OUTPUT FORMAT
+
+```json
+{
+    "metadata": {
+        "analysis_confidence": 0.95,
+        "slide_type": "title_slide|content_slide|two_column|data_chart|section_divider",
+        "complexity_score": 1-10
+    },
+    "slide_dimensions": {
+        "width_inches": 13.333,
+        "height_inches": 7.5,
+        "aspect_ratio": "16:9"
+    },
+    "background": {
+        "type": "solid|gradient|image|pattern",
+        "color": "#RRGGBB",
+        "gradient": {
+            "type": "linear|radial",
+            "direction_degrees": 0,
+            "stops": [
+                {"position": 0.0, "color": "#RRGGBB"},
+                {"position": 1.0, "color": "#RRGGBB"}
+            ]
+        }
+    },
+    "elements": [
+        {
+            "id": "element_1",
+            "type": "textbox|shape|line|image_placeholder|group",
+            "z_order": 1,
+            "position": {
+                "left_inches": 0.0,
+                "top_inches": 0.0,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+            },
+            "rotation_degrees": 0,
+            "text_content": {
+                "text": "Actual text content here",
+                "placeholder_type": "title|subtitle|body|none",
+                "paragraphs": [
+                    {
+                        "text": "Line text",
+                        "alignment": "left|center|right|justify",
+                        "line_spacing": 1.0,
+                        "space_before_pt": 0,
+                        "space_after_pt": 0,
+                        "runs": [
+                            {
+                                "text": "formatted text",
+                                "font_family": "Calibri",
+                                "font_size_pt": 44,
+                                "bold": false,
+                                "italic": false,
+                                "underline": false,
+                                "color": "#RRGGBB"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "shape_properties": {
+                "shape_type": "rectangle|rounded_rectangle|oval|line|triangle|arrow|custom",
+                "fill": {
+                    "type": "solid|gradient|none",
+                    "color": "#RRGGBB",
+                    "transparency": 0.0
+                },
+                "border": {
+                    "color": "#RRGGBB",
+                    "width_pt": 1.0,
+                    "style": "solid|dashed|dotted|none"
+                },
+                "shadow": {
+                    "enabled": false,
+                    "color": "#000000",
+                    "blur_pt": 4,
+                    "offset_pt": 2,
+                    "angle_degrees": 45
+                },
+                "corner_radius_inches": 0.0
+            },
+            "line_properties": {
+                "start_x_inches": 0.0,
+                "start_y_inches": 0.0,
+                "end_x_inches": 0.0,
+                "end_y_inches": 0.0,
+                "weight_pt": 1.0,
+                "color": "#RRGGBB",
+                "dash_style": "solid|dash|dot|dash_dot"
+            }
+        }
+    ],
+    "color_palette": {
+        "primary": "#RRGGBB",
+        "secondary": "#RRGGBB",
+        "accent1": "#RRGGBB",
+        "accent2": "#RRGGBB",
+        "background": "#RRGGBB",
+        "text_primary": "#RRGGBB",
+        "text_secondary": "#RRGGBB"
+    },
+    "typography_system": {
+        "title_font": "Font Name",
+        "body_font": "Font Name",
+        "title_size_pt": 44,
+        "subtitle_size_pt": 24,
+        "body_size_pt": 14
+    },
+    "layout_grid": {
+        "columns": 1,
+        "gutters_inches": 0.25,
+        "margins": {
+            "left_inches": 0.5,
+            "right_inches": 0.5,
+            "top_inches": 0.5,
+            "bottom_inches": 0.5
+        }
+    },
+    "design_notes": "Observations about style, visual hierarchy, spacing patterns, brand elements"
+}
+```
+
+## EXAMPLE ANALYSIS
+
+For a simple title slide with a dark blue background, centered white title, and gray subtitle:
+
+```json
+{
+    "metadata": {
+        "analysis_confidence": 0.92,
+        "slide_type": "title_slide",
+        "complexity_score": 2
+    },
+    "slide_dimensions": {
+        "width_inches": 13.333,
+        "height_inches": 7.5,
+        "aspect_ratio": "16:9"
+    },
+    "background": {
+        "type": "solid",
+        "color": "#1A365D"
+    },
+    "elements": [
+        {
+            "id": "title_1",
+            "type": "textbox",
+            "z_order": 1,
+            "position": {
+                "left_inches": 0.75,
+                "top_inches": 2.8,
+                "width_inches": 11.833,
+                "height_inches": 1.2
+            },
+            "text_content": {
+                "text": "PRESENTATION TITLE",
+                "placeholder_type": "title",
+                "paragraphs": [
+                    {
+                        "text": "PRESENTATION TITLE",
+                        "alignment": "center",
+                        "runs": [
+                            {
+                                "text": "PRESENTATION TITLE",
+                                "font_family": "Calibri Light",
+                                "font_size_pt": 44,
+                                "bold": false,
+                                "color": "#FFFFFF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": "subtitle_1",
+            "type": "textbox",
+            "z_order": 2,
+            "position": {
+                "left_inches": 0.75,
+                "top_inches": 4.1,
+                "width_inches": 11.833,
+                "height_inches": 0.6
+            },
+            "text_content": {
+                "text": "Subtitle goes here",
+                "placeholder_type": "subtitle",
+                "paragraphs": [
+                    {
+                        "text": "Subtitle goes here",
+                        "alignment": "center",
+                        "runs": [
+                            {
+                                "text": "Subtitle goes here",
+                                "font_family": "Calibri",
+                                "font_size_pt": 20,
+                                "bold": false,
+                                "color": "#A0AEC0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ],
+    "color_palette": {
+        "primary": "#1A365D",
+        "background": "#1A365D",
+        "text_primary": "#FFFFFF",
+        "text_secondary": "#A0AEC0"
+    }
+}
+```
+
+## CRITICAL INSTRUCTIONS
+
+1. **Be PRECISE**: Measure to 0.1 inch accuracy. Use the slide dimensions as your ruler.
+2. **Include ALL elements**: Every shape, line, text box, even decorative elements.
+3. **Correct colors**: Extract exact hex values, not approximations.
+4. **Order by z-order**: List elements from back to front (background elements first).
+5. **Confidence scoring**: Rate your confidence in the analysis (0.0-1.0).
+
+Output ONLY the JSON. No explanations before or after.

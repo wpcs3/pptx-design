@@ -1,0 +1,634 @@
+{
+  "id": "1167a5657ec7",
+  "template": "template_market_analysis",
+  "slide_num": 297,
+  "layout_name": "Default",
+  "element_count": 25,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "In summary, four key questions have been answered"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3982,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3982
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.99,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.298,
+        "width": 0.1721,
+        "height": 0.0853,
+        "right": 0.2176,
+        "bottom": 0.3833
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.24,
+        "width": 2.3,
+        "height": 0.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201dHow big is our available market?\u201d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4131,
+        "width": 0.1721,
+        "height": 0.0853,
+        "right": 0.2176,
+        "bottom": 0.4984
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.1,
+        "width": 2.3,
+        "height": 0.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201dHow big is our addressable market?\u201d"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6283,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6283
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.71,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5281,
+        "width": 0.1721,
+        "height": 0.0853,
+        "right": 0.2176,
+        "bottom": 0.6134
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.96,
+        "width": 2.3,
+        "height": 0.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201dWhat can we add to the potential?\u201d"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2402,
+        "width": 0.1721,
+        "height": 0.0314,
+        "right": 0.2176,
+        "bottom": 0.2716
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.8,
+        "width": 2.3,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key question"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2791,
+        "width": 0.1721,
+        "height": 0.0,
+        "right": 0.2176,
+        "bottom": 0.2791
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.09,
+        "width": 2.3,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2296,
+        "top": 0.2402,
+        "width": 0.3565,
+        "height": 0.0314,
+        "right": 0.5861,
+        "bottom": 0.2716
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 1.8,
+        "width": 4.75,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "OEM"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2296,
+        "top": 0.2791,
+        "width": 0.3565,
+        "height": 0.0,
+        "right": 0.5861,
+        "bottom": 0.2791
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 2.09,
+        "width": 4.75,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.598,
+        "top": 0.2402,
+        "width": 0.3565,
+        "height": 0.0314,
+        "right": 0.9545,
+        "bottom": 0.2716
+      },
+      "position_inches": {
+        "left": 7.97,
+        "top": 1.8,
+        "width": 4.75,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Distributor"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.598,
+        "top": 0.2791,
+        "width": 0.3565,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2791
+      },
+      "position_inches": {
+        "left": 7.97,
+        "top": 2.09,
+        "width": 4.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6432,
+        "width": 0.1721,
+        "height": 0.2797,
+        "right": 0.2176,
+        "bottom": 0.9229
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.82,
+        "width": 2.3,
+        "height": 2.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201dWhat battles must be won?\u201d"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2296,
+        "top": 0.6432,
+        "width": 0.3565,
+        "height": 0.1167,
+        "right": 0.5861,
+        "bottom": 0.7599
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 4.82,
+        "width": 4.75,
+        "height": 0.88
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Focus on partnerships with top 15 [sanitized] play"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5133,
+        "width": 0.9089,
+        "height": 0.0,
+        "right": 0.9544,
+        "bottom": 0.5133
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.85,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2755,
+        "top": 0.298,
+        "width": 0.2646,
+        "height": 0.0853,
+        "right": 0.5401,
+        "bottom": 0.3833
+      },
+      "position_inches": {
+        "left": 3.67,
+        "top": 2.24,
+        "width": 3.53,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2025: EUR 330 M (2021: EUR 240 M)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2755,
+        "top": 0.4131,
+        "width": 0.2646,
+        "height": 0.0853,
+        "right": 0.5401,
+        "bottom": 0.4984
+      },
+      "position_inches": {
+        "left": 3.67,
+        "top": 3.1,
+        "width": 3.53,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2025: EUR 138 M (2021: EUR 100 M)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3336,
+        "top": 0.5281,
+        "width": 0.1483,
+        "height": 0.0853,
+        "right": 0.482,
+        "bottom": 0.6134
+      },
+      "position_inches": {
+        "left": 4.45,
+        "top": 3.96,
+        "width": 1.98,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "x3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.598,
+        "top": 0.6432,
+        "width": 0.3565,
+        "height": 0.1167,
+        "right": 0.9545,
+        "bottom": 0.7599
+      },
+      "position_inches": {
+        "left": 7.97,
+        "top": 4.82,
+        "width": 4.75,
+        "height": 0.88
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Re-enter North America Consolidate presence in Eur"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6439,
+        "top": 0.298,
+        "width": 0.2646,
+        "height": 0.0853,
+        "right": 0.9085,
+        "bottom": 0.3833
+      },
+      "position_inches": {
+        "left": 8.59,
+        "top": 2.24,
+        "width": 3.53,
+        "height": 0.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2025: EUR 4.35 B (2021: EUR 3.2 B)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6439,
+        "top": 0.4131,
+        "width": 0.2646,
+        "height": 0.0853,
+        "right": 0.9085,
+        "bottom": 0.4984
+      },
+      "position_inches": {
+        "left": 8.59,
+        "top": 3.1,
+        "width": 3.53,
+        "height": 0.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2025: EUR 340+ M (2021: EUR 250+ M)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7021,
+        "top": 0.5281,
+        "width": 0.1483,
+        "height": 0.0853,
+        "right": 0.8504,
+        "bottom": 0.6134
+      },
+      "position_inches": {
+        "left": 9.36,
+        "top": 3.96,
+        "width": 1.98,
+        "height": 0.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "x2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2296,
+        "top": 0.8584,
+        "width": 0.7248,
+        "height": 0.0645,
+        "right": 0.9544,
+        "bottom": 0.9229
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 6.44,
+        "width": 9.66,
+        "height": 0.48
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Invest in building Commercial Excellence"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2402,
+        "right": 0.9545,
+        "bottom": 0.7599,
+        "width": 0.909,
+        "height": 0.5197
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2402,
+        "right": 0.2176,
+        "bottom": 0.9229,
+        "width": 0.1721,
+        "height": 0.6827
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.598,
+        "top": 0.2402,
+        "right": 0.9545,
+        "bottom": 0.7599,
+        "width": 0.3565,
+        "height": 0.5197
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.2296,
+        "top": 0.8584,
+        "right": 0.9544,
+        "bottom": 0.9229,
+        "width": 0.7248,
+        "height": 0.0645
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0771,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.58
+  },
+  "content_types": {
+    "other": 25
+  },
+  "category": "multi_column"
+}

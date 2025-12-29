@@ -1,0 +1,37 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 11,
+  "pattern_type": "text_block",
+  "paragraph_count": 2,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "center (2)",
+      "text_length": 3,
+      "word_count": 1,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "center (2)",
+      "text_length": 106,
+      "word_count": 15,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Tax\nEnsures that target company is in compliance with tax obligations and identifies any potential liabilities",
+  "usage_count": 62,
+  "id": "324fb6da31a5"
+}

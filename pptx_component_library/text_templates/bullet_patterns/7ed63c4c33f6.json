@@ -1,0 +1,35 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 166,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 1,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 101,
+      "word_count": 14,
+      "font_size": 8.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "[Insert description of potential risks/where and why initiative might fail or create adverse effects]",
+  "usage_count": 6,
+  "bullet_style": {
+    "total_items": 1,
+    "max_depth": 1,
+    "items_per_level": {
+      "1": 1
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 14.0,
+    "pattern": "two_level"
+  },
+  "id": "7ed63c4c33f6"
+}

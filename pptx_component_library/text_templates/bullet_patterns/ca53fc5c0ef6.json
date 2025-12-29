@@ -1,0 +1,84 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 156,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 5,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 120,
+      "word_count": 17,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 11,
+      "word_count": 2,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 107,
+      "word_count": 16,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 144,
+      "word_count": 25,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 92,
+      "word_count": 14,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Hypothesis: If there is market failure, [sanitized] government has crucial role to play to boost critical infrastructure\n\u000b\nNext steps:\nIf risk of market failure, enter dialogue with [sanitized] and [s",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 5,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 4,
+      "1": 1
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 14.8,
+    "pattern": "two_level"
+  },
+  "id": "ca53fc5c0ef6"
+}

@@ -1,0 +1,48 @@
+{
+  "template": "template_business_case",
+  "slide_num": 130,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 2,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 28,
+      "word_count": 3,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 40,
+      "word_count": 5,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Assumption for calculations:\n[Insert assumptions e.g., discount rate]",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 2,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 1,
+      "1": 1
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 4.0,
+    "pattern": "two_level"
+  },
+  "id": "f360bba24af1"
+}

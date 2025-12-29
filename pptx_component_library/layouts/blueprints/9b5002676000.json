@@ -1,0 +1,318 @@
+{
+  "id": "9b5002676000",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 205,
+  "layout_name": "Default",
+  "element_count": 11,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Strategy is the combination of objective, scope, a"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3309,
+        "width": 0.1337,
+        "height": 0.1312,
+        "right": 0.1795,
+        "bottom": 0.4621
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.48,
+        "width": 1.78,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Objective"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.5309,
+        "width": 0.1337,
+        "height": 0.1312,
+        "right": 0.1795,
+        "bottom": 0.6622
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.98,
+        "width": 1.78,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Scope"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2253,
+        "top": 0.3309,
+        "width": 0.6352,
+        "height": 0.1312,
+        "right": 0.8605,
+        "bottom": 0.4621
+      },
+      "position_inches": {
+        "left": 3.0,
+        "top": 2.48,
+        "width": 8.47,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "What is our goal/what does winning look like to us"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2253,
+        "top": 0.5309,
+        "width": 0.6344,
+        "height": 0.1312,
+        "right": 0.8597,
+        "bottom": 0.6622
+      },
+      "position_inches": {
+        "left": 3.0,
+        "top": 3.98,
+        "width": 8.46,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Where do we want to play?  Customer segments/offer"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.731,
+        "width": 0.1337,
+        "height": 0.1312,
+        "right": 0.1795,
+        "bottom": 0.8622
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.48,
+        "width": 1.78,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Advantage"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2253,
+        "top": 0.731,
+        "width": 0.6344,
+        "height": 0.1312,
+        "right": 0.8597,
+        "bottom": 0.8622
+      },
+      "position_inches": {
+        "left": 3.0,
+        "top": 5.48,
+        "width": 8.46,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "How do we want to win? \u000bOur unique selling point/v"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.4965,
+        "width": 0.9164,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.4965
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 3.72,
+        "width": 12.22,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.6966,
+        "width": 0.9164,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.6966
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 5.22,
+        "width": 12.22,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0864,
+        "top": 0.8181,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.0864,
+        "bottom": 0.8181
+      },
+      "position_inches": {
+        "left": 1.15,
+        "top": 6.14,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0458,
+        "top": 0.3309,
+        "right": 0.1795,
+        "bottom": 0.8622,
+        "width": 0.1337,
+        "height": 0.5313
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.3309,
+        "right": 0.9548,
+        "bottom": 0.8622,
+        "width": 0.9164,
+        "height": 0.5313
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0864,
+        "top": 0.8181,
+        "right": 0.0864,
+        "bottom": 0.8181,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1378,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 1.03
+  },
+  "content_types": {
+    "other": 11
+  },
+  "category": "mixed_content"
+}

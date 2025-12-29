@@ -1,0 +1,132 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 237,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 9,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 125,
+      "word_count": 17,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 153,
+      "word_count": 21,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 129,
+      "word_count": 17,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 130,
+      "word_count": 17,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 114,
+      "word_count": 15,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 64,
+      "word_count": 9,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 54,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 74,
+      "word_count": 9,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 223,
+      "word_count": 31,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Macroeconomic slow down and uptick in [sanitized] - need to ensure affordability/collections capabilities are fit for purpose\nBusiness response to [sanitized] and other regulations set to be key compe",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 9,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 5,
+      "1": 4
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 15.9,
+    "pattern": "two_level"
+  },
+  "id": "04387a4a3138"
+}

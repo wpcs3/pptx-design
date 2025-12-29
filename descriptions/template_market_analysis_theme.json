@@ -1,0 +1,117 @@
+{
+  "source_file": "template_market_analysis.pptx",
+  "themes": [
+    {
+      "master_index": 0,
+      "master_name": "Theme 1",
+      "source_file": "ppt/theme/theme1.xml",
+      "colors": {
+        "dark1": "#000000",
+        "light1": "#FFFFFF",
+        "dark2": "#000000",
+        "light2": "#FFFFFF",
+        "accent1": "#051C2C",
+        "accent2": "#22A3DF",
+        "accent3": "#2222F6",
+        "accent4": "#1877A2",
+        "accent5": "#A2D5EC",
+        "accent6": "#F8BC3B",
+        "hyperlink": "#3478AB",
+        "followed_hyperlink": "#8B78AB"
+      },
+      "fonts": {
+        "major": {
+          "latin": "Arial"
+        },
+        "minor": {
+          "latin": "Arial"
+        }
+      },
+      "formats": {}
+    },
+    {
+      "master_index": 1,
+      "master_name": "Theme 2",
+      "source_file": "ppt/theme/theme2.xml",
+      "colors": {
+        "dark1": "#000000",
+        "light1": "#FFFFFF",
+        "dark2": "#44546A",
+        "light2": "#E7E6E6",
+        "accent1": "#4472C4",
+        "accent2": "#ED7D31",
+        "accent3": "#A5A5A5",
+        "accent4": "#FFC000",
+        "accent5": "#5B9BD5",
+        "accent6": "#70AD47",
+        "hyperlink": "#0563C1",
+        "followed_hyperlink": "#954F72"
+      },
+      "fonts": {
+        "major": {
+          "latin": "Calibri Light"
+        },
+        "minor": {
+          "latin": "Calibri"
+        }
+      },
+      "formats": {}
+    },
+    {
+      "master_index": 2,
+      "master_name": "Theme 3",
+      "source_file": "ppt/theme/theme3.xml",
+      "colors": {
+        "dark1": "#000000",
+        "light1": "#FFFFFF",
+        "dark2": "#44546A",
+        "light2": "#E7E6E6",
+        "accent1": "#4472C4",
+        "accent2": "#ED7D31",
+        "accent3": "#A5A5A5",
+        "accent4": "#FFC000",
+        "accent5": "#5B9BD5",
+        "accent6": "#70AD47",
+        "hyperlink": "#0563C1",
+        "followed_hyperlink": "#954F72"
+      },
+      "fonts": {
+        "major": {
+          "latin": "Calibri Light"
+        },
+        "minor": {
+          "latin": "Calibri"
+        }
+      },
+      "formats": {}
+    },
+    {
+      "master_index": 3,
+      "master_name": "Theme 4",
+      "source_file": "ppt/theme/themeOverride1.xml",
+      "colors": {
+        "dark1": "#000000",
+        "light1": "#FFFFFF",
+        "dark2": "#FFFFFF",
+        "light2": "#FFFFFF",
+        "accent1": "#1F6FD8",
+        "accent2": "#B7472A",
+        "accent3": "#F5E3DF",
+        "accent4": "#424242",
+        "accent5": "#D9D9D9",
+        "accent6": "#F0F0F0",
+        "hyperlink": "#555555",
+        "followed_hyperlink": "#333333"
+      },
+      "fonts": {
+        "major": {
+          "latin": "Arial"
+        },
+        "minor": {
+          "latin": "Arial"
+        }
+      },
+      "formats": {}
+    }
+  ]
+}

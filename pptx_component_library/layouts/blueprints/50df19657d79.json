@@ -1,0 +1,403 @@
+{
+  "id": "50df19657d79",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 173,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "There is significant variance in population per [T"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.3727,
+        "width": 0.262,
+        "height": 0.4904,
+        "right": 0.3118,
+        "bottom": 0.8631
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 2.79,
+        "width": 3.49,
+        "height": 3.68
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.3738,
+        "top": 0.3726,
+        "width": 0.5702,
+        "height": 0.511,
+        "right": 0.944,
+        "bottom": 0.8837
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 2.79,
+        "width": 7.6,
+        "height": 3.83
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.749,
+        "top": 0.4311,
+        "width": 0.0,
+        "height": 0.4151,
+        "right": 0.749,
+        "bottom": 0.8462
+      },
+      "position_inches": {
+        "left": 9.99,
+        "top": 3.23,
+        "width": 0.0,
+        "height": 3.11
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7124,
+        "top": 0.3552,
+        "width": 0.0732,
+        "height": 0.0759,
+        "right": 0.7856,
+        "bottom": 0.4311
+      },
+      "position_inches": {
+        "left": 9.5,
+        "top": 2.66,
+        "width": 0.98,
+        "height": 0.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Average\u000b18 832"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.2611,
+        "width": 0.262,
+        "height": 0.0808,
+        "right": 0.3118,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 1.96,
+        "width": 3.49,
+        "height": 0.61
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target] stores per German state"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.3419,
+        "width": 0.262,
+        "height": 0.0,
+        "right": 0.3118,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 2.56,
+        "width": 3.49,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3453,
+        "top": 0.2412,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.3453,
+        "bottom": 0.8974
+      },
+      "position_inches": {
+        "left": 4.6,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3733,
+        "top": 0.2611,
+        "width": 0.5812,
+        "height": 0.0808,
+        "right": 0.9545,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 1.96,
+        "width": 7.75,
+        "height": 0.61
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Inhabitants per [Target] store for German states 2"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3733,
+        "top": 0.3419,
+        "width": 0.5812,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 2.56,
+        "width": 7.75,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] homepage; Statistics Germany; [Co"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.9161,
+        "height": 0.0532,
+        "right": 0.9545,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 12.22,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. [ConsultingCo] consider inhabitants p"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0498,
+        "top": 0.2611,
+        "right": 0.3118,
+        "bottom": 0.8631,
+        "width": 0.262,
+        "height": 0.602
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3453,
+        "top": 0.2412,
+        "right": 0.9545,
+        "bottom": 0.8974,
+        "width": 0.6092,
+        "height": 0.6562
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7124,
+        "top": 0.3552,
+        "right": 0.7856,
+        "bottom": 0.8462,
+        "width": 0.0732,
+        "height": 0.491
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.9161,
+        "height": 0.0751
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "multi_column"
+}

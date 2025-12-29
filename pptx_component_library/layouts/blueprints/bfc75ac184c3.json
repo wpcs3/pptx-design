@@ -1,0 +1,447 @@
+{
+  "id": "bfc75ac184c3",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 195,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Example of a franchise business model"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0828,
+        "top": 0.368,
+        "width": 0.1685,
+        "height": 0.1951,
+        "right": 0.2514,
+        "bottom": 0.5631
+      },
+      "position_inches": {
+        "left": 1.1,
+        "top": 2.76,
+        "width": 2.25,
+        "height": 1.46
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Supplier"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4157,
+        "top": 0.368,
+        "width": 0.1685,
+        "height": 0.1951,
+        "right": 0.5843,
+        "bottom": 0.5631
+      },
+      "position_inches": {
+        "left": 5.54,
+        "top": 2.76,
+        "width": 2.25,
+        "height": 1.46
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] Inc. (franchisor)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7486,
+        "top": 0.368,
+        "width": 0.1685,
+        "height": 0.1951,
+        "right": 0.9172,
+        "bottom": 0.5631
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 2.76,
+        "width": 2.25,
+        "height": 1.46
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] store (franchisee)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6078,
+        "top": 0.3521,
+        "width": 0.1206,
+        "height": 0.0628,
+        "right": 0.7283,
+        "bottom": 0.4149
+      },
+      "position_inches": {
+        "left": 8.1,
+        "top": 2.64,
+        "width": 1.61,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Fee/royalty*\u000b(share of turnover)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2626,
+        "top": 0.31,
+        "width": 0.1414,
+        "height": 0.1414,
+        "right": 0.404,
+        "bottom": 0.4514
+      },
+      "position_inches": {
+        "left": 3.5,
+        "top": 2.33,
+        "width": 1.89,
+        "height": 1.06
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Marketing contribution Annual bonus if sales targe"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6333,
+        "top": 0.5124,
+        "width": 0.0696,
+        "height": 0.0314,
+        "right": 0.7028,
+        "bottom": 0.5439
+      },
+      "position_inches": {
+        "left": 8.44,
+        "top": 3.84,
+        "width": 0.93,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Invoicing**"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4347,
+        "top": 0.6374,
+        "width": 0.4635,
+        "height": 0.2704,
+        "right": 0.8982,
+        "bottom": 0.9078
+      },
+      "position_inches": {
+        "left": 5.8,
+        "top": 4.78,
+        "width": 6.18,
+        "height": 2.03
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "*7-Eleven benchmark:  10-15% of turnover 7-Eleven"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.0236,
+        "bottom": 0.042
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "a"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9683
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2514,
+        "top": 0.4655,
+        "width": 0.1644,
+        "height": 0.0,
+        "right": 0.4157,
+        "bottom": 0.4655
+      },
+      "position_inches": {
+        "left": 3.35,
+        "top": 3.49,
+        "width": 2.19,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5843,
+        "top": 0.4307,
+        "width": 0.1644,
+        "height": 0.0,
+        "right": 0.7486,
+        "bottom": 0.4307
+      },
+      "position_inches": {
+        "left": 7.79,
+        "top": 3.23,
+        "width": 2.19,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5843,
+        "top": 0.5,
+        "width": 0.1644,
+        "height": 0.0,
+        "right": 0.7486,
+        "bottom": 0.5
+      },
+      "position_inches": {
+        "left": 7.79,
+        "top": 3.75,
+        "width": 2.19,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6664,
+        "top": 0.5631,
+        "width": 0.0,
+        "height": 0.0744,
+        "right": 0.6664,
+        "bottom": 0.6374
+      },
+      "position_inches": {
+        "left": 8.89,
+        "top": 4.22,
+        "width": 0.0,
+        "height": 0.56
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 0.0236,
+        "bottom": 0.042,
+        "width": 0.0236,
+        "height": 0.042
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0828,
+        "top": 0.368,
+        "right": 0.2514,
+        "bottom": 0.5631,
+        "width": 0.1686,
+        "height": 0.1951
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2514,
+        "top": 0.31,
+        "right": 0.8982,
+        "bottom": 0.9078,
+        "width": 0.6468,
+        "height": 0.5978
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7486,
+        "top": 0.368,
+        "right": 0.9172,
+        "bottom": 0.5631,
+        "width": 0.1686,
+        "height": 0.1951
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "right": 0.9545,
+        "bottom": 0.9683,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": 0.0455,
+    "top": 0.0,
+    "bottom": 0.0317,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "multi_column"
+}

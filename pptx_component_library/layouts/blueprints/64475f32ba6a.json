@@ -1,0 +1,808 @@
+{
+  "id": "64475f32ba6a",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 266,
+  "layout_name": "Default",
+  "element_count": 32,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Overall implementation plan: Focus of Q1 will be o"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2042,
+        "top": 0.2204,
+        "width": 0.1925,
+        "height": 0.679,
+        "right": 0.3967,
+        "bottom": 0.8994
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 1.65,
+        "width": 2.57,
+        "height": 5.09
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "~100-day agenda"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.2751,
+        "width": 0.1245,
+        "height": 0.0458,
+        "right": 0.1727,
+        "bottom": 0.3209
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 2.06,
+        "width": 1.66,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Main focus area"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.2751,
+        "width": 0.179,
+        "height": 0.0458,
+        "right": 0.39,
+        "bottom": 0.3209
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 2.06,
+        "width": 2.39,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Q1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3991,
+        "top": 0.2751,
+        "width": 0.179,
+        "height": 0.0458,
+        "right": 0.5781,
+        "bottom": 0.3209
+      },
+      "position_inches": {
+        "left": 5.32,
+        "top": 2.06,
+        "width": 2.39,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Q2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5873,
+        "top": 0.2751,
+        "width": 0.179,
+        "height": 0.0458,
+        "right": 0.7663,
+        "bottom": 0.3209
+      },
+      "position_inches": {
+        "left": 7.83,
+        "top": 2.06,
+        "width": 2.39,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Q3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7755,
+        "top": 0.2751,
+        "width": 0.179,
+        "height": 0.0458,
+        "right": 0.9545,
+        "bottom": 0.3209
+      },
+      "position_inches": {
+        "left": 10.34,
+        "top": 2.06,
+        "width": 2.39,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Q4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.3544,
+        "width": 0.1245,
+        "height": 0.1008,
+        "right": 0.1727,
+        "bottom": 0.4551
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 2.66,
+        "width": 1.66,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "New management"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.4959,
+        "width": 0.1245,
+        "height": 0.1008,
+        "right": 0.1727,
+        "bottom": 0.5967
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 3.72,
+        "width": 1.66,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Capital chain structure"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.6374,
+        "width": 0.1245,
+        "height": 0.1008,
+        "right": 0.1727,
+        "bottom": 0.7382
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 4.78,
+        "width": 1.66,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "HR"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.779,
+        "width": 0.1245,
+        "height": 0.1008,
+        "right": 0.1727,
+        "bottom": 0.8798
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 5.84,
+        "width": 1.66,
+        "height": 0.76
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Sales"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.3544,
+        "width": 0.179,
+        "height": 0.1008,
+        "right": 0.39,
+        "bottom": 0.4551
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 2.66,
+        "width": 2.39,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "New CEO and CFO recruitment and implementation"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.6374,
+        "width": 0.179,
+        "height": 0.1008,
+        "right": 0.39,
+        "bottom": 0.7382
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 4.78,
+        "width": 2.39,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "HR survey (clarification of motivation, uncertaint"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.4959,
+        "width": 0.7423,
+        "height": 0.1008,
+        "right": 0.9533,
+        "bottom": 0.5967
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 3.72,
+        "width": 9.9,
+        "height": 0.76
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.779,
+        "width": 0.7435,
+        "height": 0.1008,
+        "right": 0.9545,
+        "bottom": 0.8798
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 5.84,
+        "width": 9.91,
+        "height": 0.76
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Keep base sale going Ensure goods in stores Person"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7677,
+        "top": 0.7893,
+        "width": 0.1754,
+        "height": 0.0803,
+        "right": 0.9431,
+        "bottom": 0.8695
+      },
+      "position_inches": {
+        "left": 10.24,
+        "top": 5.92,
+        "width": 2.34,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "First newbuild store trial Prepare for new sales o"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.211,
+        "top": 0.4944,
+        "width": 0.179,
+        "height": 0.1038,
+        "right": 0.39,
+        "bottom": 0.5982
+      },
+      "position_inches": {
+        "left": 2.81,
+        "top": 3.71,
+        "width": 2.39,
+        "height": 0.78
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Roll-out existing IT system in all stores (control"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4114,
+        "top": 0.5292,
+        "width": 0.1677,
+        "height": 0.0342,
+        "right": 0.5791,
+        "bottom": 0.5634
+      },
+      "position_inches": {
+        "left": 5.49,
+        "top": 3.97,
+        "width": 2.24,
+        "height": 0.26
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Start category project"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3991,
+        "top": 0.6374,
+        "width": 0.179,
+        "height": 0.1008,
+        "right": 0.5781,
+        "bottom": 0.7382
+      },
+      "position_inches": {
+        "left": 5.32,
+        "top": 4.78,
+        "width": 2.39,
+        "height": 0.76
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "HR arrangement (company get-together)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5894,
+        "top": 0.5062,
+        "width": 0.1677,
+        "height": 0.0803,
+        "right": 0.7571,
+        "bottom": 0.5864
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 3.8,
+        "width": 2.24,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Start purchasing focus (supplier review) Start wor"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7763,
+        "top": 0.5062,
+        "width": 0.1668,
+        "height": 0.0803,
+        "right": 0.9431,
+        "bottom": 0.5864
+      },
+      "position_inches": {
+        "left": 10.35,
+        "top": 3.8,
+        "width": 2.22,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "End category project Customer satisfaction analysi"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5894,
+        "top": 0.8013,
+        "width": 0.1588,
+        "height": 0.0561,
+        "right": 0.7482,
+        "bottom": 0.8574
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 6.01,
+        "width": 2.12,
+        "height": 0.42
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Prepare first new store opening"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4114,
+        "top": 0.8126,
+        "width": 0.1268,
+        "height": 0.0337,
+        "right": 0.5382,
+        "bottom": 0.8462
+      },
+      "position_inches": {
+        "left": 5.49,
+        "top": 6.09,
+        "width": 1.69,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "New store plans ready"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5873,
+        "top": 0.6374,
+        "width": 0.179,
+        "height": 0.1008,
+        "right": 0.7663,
+        "bottom": 0.7382
+      },
+      "position_inches": {
+        "left": 7.83,
+        "top": 4.78,
+        "width": 2.39,
+        "height": 0.76
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Intranet  implementation (internal communication)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3991,
+        "top": 0.3544,
+        "width": 0.179,
+        "height": 0.1008,
+        "right": 0.5781,
+        "bottom": 0.4551
+      },
+      "position_inches": {
+        "left": 5.32,
+        "top": 2.66,
+        "width": 2.39,
+        "height": 0.76
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Recruit and evaluate \u000binternal store managers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.334,
+        "width": 0.9062,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.334
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 2.5,
+        "width": 12.08,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.4755,
+        "width": 0.9062,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4755
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 3.57,
+        "width": 12.08,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.6171,
+        "width": 0.9062,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6171
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 4.63,
+        "width": 12.08,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0483,
+        "top": 0.7586,
+        "width": 0.9062,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7586
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 5.69,
+        "width": 12.08,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0483,
+        "top": 0.2204,
+        "right": 0.3967,
+        "bottom": 0.8994,
+        "width": 0.3484,
+        "height": 0.679
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0483,
+        "top": 0.2751,
+        "right": 0.9545,
+        "bottom": 0.7586,
+        "width": 0.9062,
+        "height": 0.4835
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5873,
+        "top": 0.2751,
+        "right": 0.9545,
+        "bottom": 0.7382,
+        "width": 0.3672,
+        "height": 0.4631
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0483,
+        "top": 0.779,
+        "right": 0.1727,
+        "bottom": 0.8798,
+        "width": 0.1244,
+        "height": 0.1008
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.779,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.2062
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7677,
+        "top": 0.7893,
+        "right": 0.9431,
+        "bottom": 0.8695,
+        "width": 0.1754,
+        "height": 0.0802
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 32
+  },
+  "category": "multi_column"
+}

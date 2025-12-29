@@ -1,0 +1,217 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "aspect_ratio": "16:9"
+  },
+  "background": {
+    "type": "solid",
+    "color": "#F5F0E8"
+  },
+  "elements": [
+    {
+      "id": "left_section_background",
+      "type": "shape",
+      "position": {
+        "left_inches": 0.0,
+        "top_inches": 0.0,
+        "width_inches": 4.0,
+        "height_inches": 7.5
+      },
+      "shape_properties": {
+        "fill_color": "#FFFFFF",
+        "fill_transparency": 0,
+        "border_color": "none",
+        "border_width_pt": 0,
+        "shape_type": "rectangle"
+      }
+    },
+    {
+      "id": "left_border_accent",
+      "type": "shape",
+      "position": {
+        "left_inches": 0.0,
+        "top_inches": 0.0,
+        "width_inches": 0.05,
+        "height_inches": 7.5
+      },
+      "shape_properties": {
+        "fill_color": "#E8DDD0",
+        "fill_transparency": 0,
+        "border_color": "none",
+        "border_width_pt": 0,
+        "shape_type": "rectangle"
+      }
+    },
+    {
+      "id": "top_horizontal_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.0,
+        "width_inches": 3.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#999999",
+        "border_width_pt": 1.5
+      }
+    },
+    {
+      "id": "bottom_horizontal_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 6.5,
+        "width_inches": 3.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#999999",
+        "border_width_pt": 1.5
+      }
+    },
+    {
+      "id": "content_top_line",
+      "type": "line",
+      "position": {
+        "left_inches": 4.5,
+        "top_inches": 1.0,
+        "width_inches": 8.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#999999",
+        "border_width_pt": 1.5
+      }
+    },
+    {
+      "id": "main_title",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 2.5,
+        "width_inches": 3.0,
+        "height_inches": 2.0
+      },
+      "text_properties": {
+        "placeholder_text": "Executive\nsummary",
+        "font_family": "Calibri",
+        "font_size_pt": 36,
+        "font_color": "#000000",
+        "bold": true,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "subtitle",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 4.8,
+        "width_inches": 3.0,
+        "height_inches": 0.5
+      },
+      "text_properties": {
+        "placeholder_text": "Slideworks guide",
+        "font_family": "Calibri",
+        "font_size_pt": 14,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "what_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 1.5,
+        "width_inches": 8.0,
+        "height_inches": 1.0
+      },
+      "text_properties": {
+        "placeholder_text": "What:\nOne-page summary providing a concise overview of the business case. Highlight the key points, including the problem or opportunity, proposed solution, and expected benefits",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "why_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 2.7,
+        "width_inches": 8.0,
+        "height_inches": 0.8
+      },
+      "text_properties": {
+        "placeholder_text": "Why:\nGrab your audience's attention up front and paint a compelling story so they are predisposed to what your \"answer\" is and what they need to decide on",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "how_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 3.7,
+        "width_inches": 8.0,
+        "height_inches": 2.4
+      },
+      "text_properties": {
+        "placeholder_text": "How:\n• Use situation-complication-resolution framework to draft structure\n• Briefly describe the overall context (situation)\n• State problem / opportunity your business case will address (complication)\n• Describe your intended solution and potential other options you reviewed, if relevant (resolution)\n• Briefly list benefits including financial benefits like ROI or NPV (resolution)\n• Briefly describe next steps (resolution)",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "footer_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 10.5,
+        "top_inches": 6.8,
+        "width_inches": 2.8,
+        "height_inches": 0.3
+      },
+      "text_properties": {
+        "placeholder_text": "Company Name                                        2",
+        "font_family": "Calibri",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "right",
+        "vertical_alignment": "bottom"
+      }
+    }
+  ],
+  "color_palette": [
+    "#F5F0E8",
+    "#FFFFFF",
+    "#000000",
+    "#999999",
+    "#E8DDD0"
+  ],
+  "design_notes": "Clean, professional layout with warm cream/beige background (#F5F0E8). Left sidebar uses pure white (#FFFFFF) background with a subtle cream/beige left border accent (#E8DDD0) that complements the background color. The main content area sits directly on the cream background without any additional background color or panel separation. Uses horizontal lines for visual separation at top and bottom of left section and at top of content area, with slightly thicker lines (1.5pt) to match the original. All text areas have transparent backgrounds to maintain the seamless look. Section headers (What:, Why:, How:) are part of the paragraph text with detailed explanations and standard round bullet points. Footer contains company name and page number on the same line with proper spacing, aligned to bottom right. The design maintains seamless integration with the subtle left border accent providing visual interest without creating harsh divisions."
+}

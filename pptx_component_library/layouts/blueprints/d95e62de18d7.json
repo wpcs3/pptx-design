@@ -1,0 +1,652 @@
+{
+  "id": "d95e62de18d7",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 275,
+  "layout_name": "Default",
+  "element_count": 25,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Due diligence teams and focus areas in due diligen"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2172,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.4769,
+        "bottom": 0.2775
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.63,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Due diligence teams"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.2172,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.9545,
+        "bottom": 0.2775
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 1.63,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Focus areas"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2898,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.2898
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.17,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.2898,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2898
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.17,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3091,
+        "width": 0.1321,
+        "height": 0.08,
+        "right": 0.1776,
+        "bottom": 0.3891
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.32,
+        "width": 1.76,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Financial"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.3091,
+        "width": 0.2911,
+        "height": 0.08,
+        "right": 0.4769,
+        "bottom": 0.3891
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 2.32,
+        "width": 3.88,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Carried out by [ConsultingCo] headed by [Name Name"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3091,
+        "width": 0.4314,
+        "height": 0.08,
+        "right": 0.9545,
+        "bottom": 0.3891
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.32,
+        "width": 5.75,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Understanding sales and gross margin development o"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4075,
+        "width": 0.1321,
+        "height": 0.12,
+        "right": 0.1776,
+        "bottom": 0.5275
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.06,
+        "width": 1.76,
+        "height": 0.9
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Commercial"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.4075,
+        "width": 0.2911,
+        "height": 0.12,
+        "right": 0.4769,
+        "bottom": 0.5275
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 3.06,
+        "width": 3.88,
+        "height": 0.9
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market analysis and business case verification by"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.4075,
+        "width": 0.4314,
+        "height": 0.12,
+        "right": 0.9545,
+        "bottom": 0.5275
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 3.06,
+        "width": 5.75,
+        "height": 0.9
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Understand attractiveness of [Target] and market U"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5459,
+        "width": 0.1321,
+        "height": 0.08,
+        "right": 0.1776,
+        "bottom": 0.6259
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.09,
+        "width": 1.76,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Legal"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.5459,
+        "width": 0.2911,
+        "height": 0.08,
+        "right": 0.4769,
+        "bottom": 0.6259
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 4.09,
+        "width": 3.88,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Carried out by [LegalCo] headed by [Name Namesen]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.5459,
+        "width": 0.4314,
+        "height": 0.08,
+        "right": 0.9545,
+        "bottom": 0.6259
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 4.09,
+        "width": 5.75,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Corporate set up and reps, warranties and guarante"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6443,
+        "width": 0.1321,
+        "height": 0.08,
+        "right": 0.1776,
+        "bottom": 0.7243
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.83,
+        "width": 1.76,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Retail agreement"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.6443,
+        "width": 0.2911,
+        "height": 0.08,
+        "right": 0.4769,
+        "bottom": 0.7243
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 4.83,
+        "width": 3.88,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Carried out by [ConsultingCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.6443,
+        "width": 0.4314,
+        "height": 0.08,
+        "right": 0.9545,
+        "bottom": 0.7243
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 4.83,
+        "width": 5.75,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Verify rental levels with closely related parties"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7428,
+        "width": 0.1321,
+        "height": 0.08,
+        "right": 0.1776,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.57,
+        "width": 1.76,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Environmental"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.7428,
+        "width": 0.2911,
+        "height": 0.08,
+        "right": 0.4769,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 5.57,
+        "width": 3.88,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Carried out by [ConsultingCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.7428,
+        "width": 0.4314,
+        "height": 0.08,
+        "right": 0.9545,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 5.57,
+        "width": 5.75,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Only relevant at [StrollerCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8412,
+        "width": 0.1321,
+        "height": 0.08,
+        "right": 0.1776,
+        "bottom": 0.9212
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.31,
+        "width": 1.76,
+        "height": 0.6
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Management audit"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1858,
+        "top": 0.8412,
+        "width": 0.2911,
+        "height": 0.08,
+        "right": 0.4769,
+        "bottom": 0.9212
+      },
+      "position_inches": {
+        "left": 2.48,
+        "top": 6.31,
+        "width": 3.88,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Carried out by [ConsultingCo] headed by [Name Name"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.8412,
+        "width": 0.4314,
+        "height": 0.08,
+        "right": 0.9545,
+        "bottom": 0.9212
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 6.31,
+        "width": 5.75,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Key criteria and skill requirements for new manage"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2172,
+        "right": 0.4769,
+        "bottom": 0.8228,
+        "width": 0.4314,
+        "height": 0.6056
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.2172,
+        "right": 0.9545,
+        "bottom": 0.8228,
+        "width": 0.4314,
+        "height": 0.6056
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1858,
+        "top": 0.3091,
+        "right": 0.4769,
+        "bottom": 0.8228,
+        "width": 0.2911,
+        "height": 0.5137
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8412,
+        "right": 0.1776,
+        "bottom": 0.9212,
+        "width": 0.1321,
+        "height": 0.08
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8412,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.144
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.8412,
+        "right": 0.9545,
+        "bottom": 0.9212,
+        "width": 0.4314,
+        "height": 0.08
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 25
+  },
+  "category": "multi_column"
+}

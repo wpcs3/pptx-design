@@ -1,0 +1,844 @@
+{
+  "id": "376062a32d85",
+  "template": "template_market_analysis",
+  "slide_num": 206,
+  "layout_name": "Default",
+  "element_count": 34,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3655,
+        "top": 0.3213,
+        "width": 0.2678,
+        "height": 0.2535,
+        "right": 0.6333,
+        "bottom": 0.5749
+      },
+      "position_inches": {
+        "left": 4.87,
+        "top": 2.41,
+        "width": 3.57,
+        "height": 1.9
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Forecasted data"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3655,
+        "top": 0.6638,
+        "width": 0.2677,
+        "height": 0.2533,
+        "right": 0.6332,
+        "bottom": 0.9171
+      },
+      "position_inches": {
+        "left": 4.87,
+        "top": 4.98,
+        "width": 3.57,
+        "height": 1.9
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Forecasted data"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "width": 0.909,
+        "height": 0.1141,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.86
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The leasing market is almost exclusively for new e"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "B2B leasing accounts for ~2/3 of all new equipment"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0685,
+        "top": 0.9125,
+        "width": 0.1982,
+        "height": 0.0184,
+        "right": 0.2667,
+        "bottom": 0.9309
+      },
+      "position_inches": {
+        "left": 0.91,
+        "top": 6.84,
+        "width": 2.64,
+        "height": 0.14
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Source: [sanitized], Motor Trader, Team analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized, Team analysis"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.7422,
+        "width": 0.5985,
+        "height": 0.1738,
+        "right": 0.6443,
+        "bottom": 0.916
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.57,
+        "width": 7.98,
+        "height": 1.3
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.081,
+        "top": 0.7512,
+        "width": 0.1675,
+        "height": 0.0381,
+        "right": 0.2484,
+        "bottom": 0.7893
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 5.63,
+        "width": 2.23,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2484,
+        "top": 0.7521,
+        "width": 0.0526,
+        "height": 0.0315,
+        "right": 0.301,
+        "bottom": 0.7836
+      },
+      "position_inches": {
+        "left": 3.31,
+        "top": 5.64,
+        "width": 0.7,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3026,
+        "top": 0.7215,
+        "width": 0.2995,
+        "height": 0.063,
+        "right": 0.6021,
+        "bottom": 0.7845
+      },
+      "position_inches": {
+        "left": 4.03,
+        "top": 5.41,
+        "width": 3.99,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2545,
+        "top": 0.7508,
+        "width": 0.0379,
+        "height": 0.0294,
+        "right": 0.2923,
+        "bottom": 0.7802
+      },
+      "position_inches": {
+        "left": 3.39,
+        "top": 5.63,
+        "width": 0.5,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "-13%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.134,
+        "top": 0.7528,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.1847,
+        "bottom": 0.7921
+      },
+      "position_inches": {
+        "left": 1.79,
+        "top": 5.65,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "+10%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4366,
+        "top": 0.7252,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.4873,
+        "bottom": 0.7645
+      },
+      "position_inches": {
+        "left": 5.82,
+        "top": 5.44,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+8%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.3994,
+        "width": 0.5985,
+        "height": 0.1738,
+        "right": 0.6439,
+        "bottom": 0.5732
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.0,
+        "width": 7.98,
+        "height": 1.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0794,
+        "top": 0.4131,
+        "width": 0.1687,
+        "height": 0.0,
+        "right": 0.248,
+        "bottom": 0.4131
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 3.1,
+        "width": 2.25,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1378,
+        "top": 0.3934,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.1884,
+        "bottom": 0.4327
+      },
+      "position_inches": {
+        "left": 1.84,
+        "top": 2.95,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "+2%"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2504,
+        "top": 0.4146,
+        "width": 0.0504,
+        "height": 0.0238,
+        "right": 0.3008,
+        "bottom": 0.4384
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 3.11,
+        "width": 0.67,
+        "height": 0.18
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3032,
+        "top": 0.3973,
+        "width": 0.2996,
+        "height": 0.039,
+        "right": 0.6027,
+        "bottom": 0.4363
+      },
+      "position_inches": {
+        "left": 4.04,
+        "top": 2.98,
+        "width": 3.99,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2541,
+        "top": 0.4099,
+        "width": 0.0379,
+        "height": 0.0294,
+        "right": 0.2919,
+        "bottom": 0.4393
+      },
+      "position_inches": {
+        "left": 3.39,
+        "top": 3.07,
+        "width": 0.5,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "-21%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4291,
+        "top": 0.4005,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.4798,
+        "bottom": 0.4399
+      },
+      "position_inches": {
+        "left": 5.72,
+        "top": 3.0,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+8%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.7182,
+        "top": 0.7161,
+        "width": 0.1797,
+        "height": 0.1891,
+        "right": 0.8979,
+        "bottom": 0.9052
+      },
+      "position_inches": {
+        "left": 9.58,
+        "top": 5.37,
+        "width": 2.4,
+        "height": 1.42
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8693,
+        "top": 0.8054,
+        "width": 0.0269,
+        "height": 0.0269,
+        "right": 0.8961,
+        "bottom": 0.8323
+      },
+      "position_inches": {
+        "left": 11.59,
+        "top": 6.04,
+        "width": 0.36,
+        "height": 0.2
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "B2C"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2902,
+        "width": 0.2511,
+        "height": 0.0269,
+        "right": 0.2966,
+        "bottom": 0.3172
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.18,
+        "width": 3.35,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "US new equipment leasing market, B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6626,
+        "top": 0.2902,
+        "width": 0.2747,
+        "height": 0.0269,
+        "right": 0.9373,
+        "bottom": 0.3172
+      },
+      "position_inches": {
+        "left": 8.84,
+        "top": 2.18,
+        "width": 3.66,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "New equipment market share snapshot (2021)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0495,
+        "top": 0.6347,
+        "width": 0.2574,
+        "height": 0.0269,
+        "right": 0.307,
+        "bottom": 0.6616
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 4.76,
+        "width": 3.43,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "US used equipment leasing market, M USD"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6074,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6074
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.56,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "ADD-ON SERVICES"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6626,
+        "top": 0.6379,
+        "width": 0.2795,
+        "height": 0.0269,
+        "right": 0.9422,
+        "bottom": 0.6649
+      },
+      "position_inches": {
+        "left": 8.84,
+        "top": 4.78,
+        "width": 3.73,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Used equipment market share snapshot (2021)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8475,
+        "top": 0.6949,
+        "width": 0.0269,
+        "height": 0.0269,
+        "right": 0.8744,
+        "bottom": 0.7218
+      },
+      "position_inches": {
+        "left": 11.3,
+        "top": 5.21,
+        "width": 0.36,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "B2B"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.7182,
+        "top": 0.3568,
+        "width": 0.1797,
+        "height": 0.1891,
+        "right": 0.8979,
+        "bottom": 0.5459
+      },
+      "position_inches": {
+        "left": 9.58,
+        "top": 2.68,
+        "width": 2.4,
+        "height": 1.42
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8558,
+        "top": 0.356,
+        "width": 0.0269,
+        "height": 0.0269,
+        "right": 0.8827,
+        "bottom": 0.3829
+      },
+      "position_inches": {
+        "left": 11.41,
+        "top": 2.67,
+        "width": 0.36,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "B2B"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7422,
+        "top": 0.3568,
+        "width": 0.0269,
+        "height": 0.0269,
+        "right": 0.769,
+        "bottom": 0.3837
+      },
+      "position_inches": {
+        "left": 9.9,
+        "top": 2.68,
+        "width": 0.36,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "B2C"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.9171,
+        "width": 0.9091,
+        "height": 0.7248
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.114
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0685,
+        "top": 0.9125,
+        "right": 0.2667,
+        "bottom": 0.9309,
+        "width": 0.1982,
+        "height": 0.0184
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7422,
+        "right": 0.6443,
+        "bottom": 0.9684,
+        "width": 0.5988,
+        "height": 0.2262
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2902,
+        "right": 0.307,
+        "bottom": 0.7921,
+        "width": 0.2615,
+        "height": 0.5019
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7182,
+        "top": 0.7161,
+        "right": 0.8979,
+        "bottom": 0.9052,
+        "width": 0.1797,
+        "height": 0.1891
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6626,
+        "top": 0.2902,
+        "right": 0.9422,
+        "bottom": 0.7218,
+        "width": 0.2796,
+        "height": 0.4316
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 34
+  },
+  "category": "multi_column"
+}

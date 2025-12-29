@@ -1,0 +1,1017 @@
+{
+  "id": "739a23f1463d",
+  "template": "template_market_analysis",
+  "slide_num": 141,
+  "layout_name": "Default",
+  "element_count": 42,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0461,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9551,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "But other sources reflect that there are a variety"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2635,
+        "width": 0.3043,
+        "height": 0.0468,
+        "right": 0.3492,
+        "bottom": 0.3103
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.98,
+        "width": 4.06,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Barriers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.3145,
+        "width": 0.3039,
+        "height": 0.0331,
+        "right": 0.3492,
+        "bottom": 0.3476
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.36,
+        "width": 4.05,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "EV Cost and Availability"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.3525,
+        "width": 0.3039,
+        "height": 0.1119,
+        "right": 0.3492,
+        "bottom": 0.4644
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.64,
+        "width": 4.05,
+        "height": 0.84
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "High sticker price (upfront cost) High running cos"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0813,
+        "top": 0.4754,
+        "width": 0.2679,
+        "height": 0.0331,
+        "right": 0.3492,
+        "bottom": 0.5085
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 3.57,
+        "width": 3.57,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "EV Battery Range and Battery Life"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0813,
+        "top": 0.5138,
+        "width": 0.2679,
+        "height": 0.1095,
+        "right": 0.3492,
+        "bottom": 0.6233
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 3.85,
+        "width": 3.57,
+        "height": 0.82
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Current average battery range Short battery life b"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0813,
+        "top": 0.6624,
+        "width": 0.2679,
+        "height": 0.1526,
+        "right": 0.3492,
+        "bottom": 0.815
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 4.97,
+        "width": 3.57,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Interoperable coverage  Lack of consumer visibilit"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0813,
+        "top": 0.6278,
+        "width": 0.2679,
+        "height": 0.0301,
+        "right": 0.3492,
+        "bottom": 0.6579
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 4.71,
+        "width": 3.57,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Charging Infrastructure"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0813,
+        "top": 0.8187,
+        "width": 0.2679,
+        "height": 0.0891,
+        "right": 0.3492,
+        "bottom": 0.9078
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 6.14,
+        "width": 3.57,
+        "height": 0.67
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Charging speed Too much time taken to charge EV"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.4754,
+        "width": 0.0316,
+        "height": 0.4321,
+        "right": 0.0769,
+        "bottom": 0.9074
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.57,
+        "width": 0.42,
+        "height": 3.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Range Anxiety"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3566,
+        "top": 0.3632,
+        "width": 0.0104,
+        "height": 0.0651,
+        "right": 0.367,
+        "bottom": 0.4284
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.72,
+        "width": 0.14,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3566,
+        "top": 0.5168,
+        "width": 0.0104,
+        "height": 0.0651,
+        "right": 0.367,
+        "bottom": 0.5819
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 3.88,
+        "width": 0.14,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3566,
+        "top": 0.6727,
+        "width": 0.0104,
+        "height": 0.0651,
+        "right": 0.367,
+        "bottom": 0.7379
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 5.05,
+        "width": 0.14,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0843,
+        "top": 0.7057,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.0948,
+        "bottom": 0.7243
+      },
+      "position_inches": {
+        "left": 1.12,
+        "top": 5.29,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "a"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0843,
+        "top": 0.7563,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.0948,
+        "bottom": 0.7749
+      },
+      "position_inches": {
+        "left": 1.12,
+        "top": 5.67,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "b"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0843,
+        "top": 0.7832,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.0948,
+        "bottom": 0.8018
+      },
+      "position_inches": {
+        "left": 1.12,
+        "top": 5.87,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "c"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3745,
+        "top": 0.3208,
+        "width": 0.235,
+        "height": 0.1318,
+        "right": 0.6095,
+        "bottom": 0.4526
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 2.41,
+        "width": 3.13,
+        "height": 0.99
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "State / Government intervention:  Fiscal incentive"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3744,
+        "top": 0.4577,
+        "width": 0.2354,
+        "height": 0.1181,
+        "right": 0.6098,
+        "bottom": 0.5758
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 3.43,
+        "width": 3.14,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market development / Private sector: \u2022\tFocus on eq"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6157,
+        "top": 0.3208,
+        "width": 0.099,
+        "height": 0.1318,
+        "right": 0.7147,
+        "bottom": 0.4526
+      },
+      "position_inches": {
+        "left": 8.21,
+        "top": 2.41,
+        "width": 1.32,
+        "height": 0.99
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "High: Short-term need to address"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7208,
+        "top": 0.3208,
+        "width": 0.2344,
+        "height": 0.1318,
+        "right": 0.9552,
+        "bottom": 0.4526
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 2.41,
+        "width": 3.13,
+        "height": 0.99
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Partially: [Sanitized]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7207,
+        "top": 0.4577,
+        "width": 0.2344,
+        "height": 0.1181,
+        "right": 0.9551,
+        "bottom": 0.5758
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 3.43,
+        "width": 3.13,
+        "height": 0.89
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Partially: Most manufacturers have developed batte"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3566,
+        "top": 0.815,
+        "width": 0.0104,
+        "height": 0.0651,
+        "right": 0.367,
+        "bottom": 0.8801
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 6.11,
+        "width": 0.14,
+        "height": 0.49
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6158,
+        "top": 0.4577,
+        "width": 0.0992,
+        "height": 0.1181,
+        "right": 0.715,
+        "bottom": 0.5758
+      },
+      "position_inches": {
+        "left": 8.21,
+        "top": 3.43,
+        "width": 1.32,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Medium: Short to mid-term need to address"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3744,
+        "top": 0.2635,
+        "width": 0.2354,
+        "height": 0.0468,
+        "right": 0.6098,
+        "bottom": 0.3103
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 1.98,
+        "width": 3.14,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Solutions"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7207,
+        "top": 0.2635,
+        "width": 0.2344,
+        "height": 0.0468,
+        "right": 0.9551,
+        "bottom": 0.3103
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 1.98,
+        "width": 3.13,
+        "height": 0.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Addressed?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6157,
+        "top": 0.2635,
+        "width": 0.099,
+        "height": 0.0468,
+        "right": 0.7147,
+        "bottom": 0.3103
+      },
+      "position_inches": {
+        "left": 8.21,
+        "top": 1.98,
+        "width": 1.32,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Urgency"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3744,
+        "top": 0.7463,
+        "width": 0.2354,
+        "height": 0.1615,
+        "right": 0.6098,
+        "bottom": 0.9078
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 5.6,
+        "width": 3.14,
+        "height": 1.21
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Private funding to install CPs with significant co"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7207,
+        "top": 0.7463,
+        "width": 0.2344,
+        "height": 0.1615,
+        "right": 0.9551,
+        "bottom": 0.9078
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 5.6,
+        "width": 3.13,
+        "height": 1.21
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "No: Not enough rapid CPs to meet current demand fo"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6158,
+        "top": 0.7463,
+        "width": 0.0992,
+        "height": 0.1615,
+        "right": 0.715,
+        "bottom": 0.9078
+      },
+      "position_inches": {
+        "left": 8.21,
+        "top": 5.6,
+        "width": 1.32,
+        "height": 1.21
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Medium: No urgency but will improve EV driver expe"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3744,
+        "top": 0.5809,
+        "width": 0.2354,
+        "height": 0.1602,
+        "right": 0.6098,
+        "bottom": 0.7411
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 4.36,
+        "width": 3.14,
+        "height": 1.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Educate public on availability of CPs Install rapi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7207,
+        "top": 0.5809,
+        "width": 0.2344,
+        "height": 0.1602,
+        "right": 0.9551,
+        "bottom": 0.7411
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 4.36,
+        "width": 3.13,
+        "height": 1.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Partially: Building regulation changes increasing"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6158,
+        "top": 0.5809,
+        "width": 0.0992,
+        "height": 0.1602,
+        "right": 0.715,
+        "bottom": 0.7411
+      },
+      "position_inches": {
+        "left": 8.21,
+        "top": 4.36,
+        "width": 1.32,
+        "height": 1.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Medium: High need to educate public now. Need for"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3787,
+        "top": 0.6118,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.3893,
+        "bottom": 0.6304
+      },
+      "position_inches": {
+        "left": 5.05,
+        "top": 4.59,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "a"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3787,
+        "top": 0.6416,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.3893,
+        "bottom": 0.6602
+      },
+      "position_inches": {
+        "left": 5.05,
+        "top": 4.81,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "b"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3787,
+        "top": 0.6713,
+        "width": 0.0105,
+        "height": 0.0186,
+        "right": 0.3893,
+        "bottom": 0.6899
+      },
+      "position_inches": {
+        "left": 5.05,
+        "top": 5.03,
+        "width": 0.14,
+        "height": 0.14
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "c"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2314,
+        "width": 0.3043,
+        "height": 0.0,
+        "right": 0.3492,
+        "bottom": 0.2314
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.74,
+        "width": 4.06,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3744,
+        "top": 0.2314,
+        "width": 0.2354,
+        "height": 0.0,
+        "right": 0.6098,
+        "bottom": 0.2314
+      },
+      "position_inches": {
+        "left": 4.99,
+        "top": 1.74,
+        "width": 3.14,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1578,
+        "top": 0.217,
+        "width": 0.0785,
+        "height": 0.0289,
+        "right": 0.2363,
+        "bottom": 0.2458
+      },
+      "position_inches": {
+        "left": 2.1,
+        "top": 1.63,
+        "width": 1.05,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Hypothesis 1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4529,
+        "top": 0.217,
+        "width": 0.0785,
+        "height": 0.0289,
+        "right": 0.5314,
+        "bottom": 0.2458
+      },
+      "position_inches": {
+        "left": 6.04,
+        "top": 1.63,
+        "width": 1.05,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Hypothesis 2"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0461,
+        "top": 0.0518,
+        "right": 0.9551,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.217,
+        "right": 0.3492,
+        "bottom": 0.9074,
+        "width": 0.3043,
+        "height": 0.6904
+      },
+      "element_count": 13,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0813,
+        "top": 0.8187,
+        "right": 0.3492,
+        "bottom": 0.9078,
+        "width": 0.2679,
+        "height": 0.0891
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3566,
+        "top": 0.217,
+        "right": 0.715,
+        "bottom": 0.7411,
+        "width": 0.3584,
+        "height": 0.5241
+      },
+      "element_count": 16,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7207,
+        "top": 0.2635,
+        "right": 0.9552,
+        "bottom": 0.7411,
+        "width": 0.2345,
+        "height": 0.4776
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7463,
+        "right": 0.715,
+        "bottom": 0.9852,
+        "width": 0.6766,
+        "height": 0.2389
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7207,
+        "top": 0.7463,
+        "right": 0.9551,
+        "bottom": 0.9078,
+        "width": 0.2344,
+        "height": 0.1615
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0448,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 42
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,994 @@
+{
+  "id": "f48f50c267e1",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 129,
+  "layout_name": "Default",
+  "element_count": 41,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "These five pillars offer large product portfolio c"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] company website; [ConsultingCo] a"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1673,
+        "top": 0.2384,
+        "width": 0.7872,
+        "height": 0.0453,
+        "right": 0.9545,
+        "bottom": 0.2838
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 1.79,
+        "width": 10.5,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u201cA total offering within Health and Beauty\u201d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1969,
+        "top": 0.2929,
+        "width": 0.0914,
+        "height": 0.0218,
+        "right": 0.2883,
+        "bottom": 0.3147
+      },
+      "position_inches": {
+        "left": 2.63,
+        "top": 2.2,
+        "width": 1.22,
+        "height": 0.16
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.356,
+        "top": 0.2929,
+        "width": 0.0914,
+        "height": 0.0218,
+        "right": 0.4475,
+        "bottom": 0.3147
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.2,
+        "width": 1.22,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5152,
+        "top": 0.2929,
+        "width": 0.0914,
+        "height": 0.0218,
+        "right": 0.6066,
+        "bottom": 0.3147
+      },
+      "position_inches": {
+        "left": 6.87,
+        "top": 2.2,
+        "width": 1.22,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6743,
+        "top": 0.2929,
+        "width": 0.0914,
+        "height": 0.0218,
+        "right": 0.7658,
+        "bottom": 0.3147
+      },
+      "position_inches": {
+        "left": 8.99,
+        "top": 2.2,
+        "width": 1.22,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8335,
+        "top": 0.2929,
+        "width": 0.0914,
+        "height": 0.0218,
+        "right": 0.9249,
+        "bottom": 0.3147
+      },
+      "position_inches": {
+        "left": 11.11,
+        "top": 2.2,
+        "width": 1.22,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2384,
+        "width": 0.1291,
+        "height": 0.0453,
+        "right": 0.174,
+        "bottom": 0.2838
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.79,
+        "width": 1.72,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Value proposition:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1673,
+        "top": 0.3238,
+        "width": 0.1506,
+        "height": 0.0516,
+        "right": 0.3179,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 2.43,
+        "width": 2.01,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Household"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8039,
+        "top": 0.3238,
+        "width": 0.1506,
+        "height": 0.0516,
+        "right": 0.9545,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 10.72,
+        "top": 2.43,
+        "width": 2.01,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Beauty"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4856,
+        "top": 0.3238,
+        "width": 0.1506,
+        "height": 0.0516,
+        "right": 0.6362,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 2.43,
+        "width": 2.01,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Vitamins"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3238,
+        "width": 0.129,
+        "height": 0.0516,
+        "right": 0.174,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.43,
+        "width": 1.72,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Core element:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6448,
+        "top": 0.3238,
+        "width": 0.1506,
+        "height": 0.0516,
+        "right": 0.7954,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 8.6,
+        "top": 2.43,
+        "width": 2.01,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sports care"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3265,
+        "top": 0.3238,
+        "width": 0.1506,
+        "height": 0.0516,
+        "right": 0.4771,
+        "bottom": 0.3755
+      },
+      "position_inches": {
+        "left": 4.35,
+        "top": 2.43,
+        "width": 2.01,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Pharmacy"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.385,
+        "width": 0.1291,
+        "height": 0.2566,
+        "right": 0.1746,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.89,
+        "width": 1.72,
+        "height": 1.92
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Products:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1673,
+        "top": 0.385,
+        "width": 0.1506,
+        "height": 0.2566,
+        "right": 0.3179,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 2.89,
+        "width": 2.01,
+        "height": 1.92
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Stain removers Domestic cleaning products Furnitur"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8039,
+        "top": 0.385,
+        "width": 0.1506,
+        "height": 0.2566,
+        "right": 0.9545,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 10.72,
+        "top": 2.89,
+        "width": 2.01,
+        "height": 1.92
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Baby care Deodorants Hair/skin care Cosmetics Men'"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4856,
+        "top": 0.385,
+        "width": 0.1506,
+        "height": 0.2566,
+        "right": 0.6362,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 2.89,
+        "width": 2.01,
+        "height": 1.92
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Vitamins and dietary supplements"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6448,
+        "top": 0.385,
+        "width": 0.1506,
+        "height": 0.2566,
+        "right": 0.7954,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 8.6,
+        "top": 2.89,
+        "width": 2.01,
+        "height": 1.92
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sports bandages OTC creams and treatments"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3265,
+        "top": 0.385,
+        "width": 0.1506,
+        "height": 0.2566,
+        "right": 0.4771,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 4.35,
+        "top": 2.89,
+        "width": 2.01,
+        "height": 1.92
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Analgesics\u00a0 Cough Digestive remedies Smoking cessa"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.6511,
+        "width": 0.1291,
+        "height": 0.2088,
+        "right": 0.174,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.88,
+        "width": 1.72,
+        "height": 1.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Price:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1673,
+        "top": 0.6511,
+        "width": 0.1506,
+        "height": 0.2088,
+        "right": 0.3179,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 4.88,
+        "width": 2.01,
+        "height": 1.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Low priced products for mass market Large part of"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8039,
+        "top": 0.6511,
+        "width": 0.1506,
+        "height": 0.2088,
+        "right": 0.9545,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 10.72,
+        "top": 4.88,
+        "width": 2.01,
+        "height": 1.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] has very large product portfolio for midd"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4856,
+        "top": 0.6511,
+        "width": 0.1506,
+        "height": 0.2088,
+        "right": 0.6362,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 4.88,
+        "width": 2.01,
+        "height": 1.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Low and middle priced products Small part of produ"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6448,
+        "top": 0.6511,
+        "width": 0.1506,
+        "height": 0.2088,
+        "right": 0.7954,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 8.6,
+        "top": 4.88,
+        "width": 2.01,
+        "height": 1.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Low priced products Large part of products are [Ta"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3265,
+        "top": 0.6511,
+        "width": 0.1506,
+        "height": 0.2088,
+        "right": 0.4771,
+        "bottom": 0.8599
+      },
+      "position_inches": {
+        "left": 4.35,
+        "top": 4.88,
+        "width": 2.01,
+        "height": 1.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "As a result of industry liberalization in 2011, [T"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.8695,
+        "width": 0.1291,
+        "height": 0.0539,
+        "right": 0.174,
+        "bottom": 0.9233
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 6.52,
+        "width": 1.72,
+        "height": 0.4
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Product group:"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1673,
+        "top": 0.8964,
+        "width": 0.1506,
+        "height": 0.0,
+        "right": 0.3179,
+        "bottom": 0.8964
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 6.72,
+        "width": 2.01,
+        "height": 0.0
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3265,
+        "top": 0.8964,
+        "width": 0.4689,
+        "height": 0.0,
+        "right": 0.7954,
+        "bottom": 0.8964
+      },
+      "position_inches": {
+        "left": 4.35,
+        "top": 6.72,
+        "width": 6.25,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8039,
+        "top": 0.8964,
+        "width": 0.1506,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.8964
+      },
+      "position_inches": {
+        "left": 10.72,
+        "top": 6.72,
+        "width": 2.01,
+        "height": 0.0
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1855,
+        "top": 0.8829,
+        "width": 0.1143,
+        "height": 0.0269,
+        "right": 0.2997,
+        "bottom": 0.9099
+      },
+      "position_inches": {
+        "left": 2.47,
+        "top": 6.62,
+        "width": 1.52,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Domestic products"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5416,
+        "top": 0.8829,
+        "width": 0.0385,
+        "height": 0.0269,
+        "right": 0.5802,
+        "bottom": 0.9099
+      },
+      "position_inches": {
+        "left": 7.22,
+        "top": 6.62,
+        "width": 0.51,
+        "height": 0.2
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Health"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8582,
+        "top": 0.8829,
+        "width": 0.0419,
+        "height": 0.0269,
+        "right": 0.9002,
+        "bottom": 0.9099
+      },
+      "position_inches": {
+        "left": 11.44,
+        "top": 6.62,
+        "width": 0.56,
+        "height": 0.2
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Beauty"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1707,
+        "top": 0.3286,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.1943,
+        "bottom": 0.3706
+      },
+      "position_inches": {
+        "left": 2.28,
+        "top": 2.46,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3299,
+        "top": 0.3286,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.3535,
+        "bottom": 0.3706
+      },
+      "position_inches": {
+        "left": 4.4,
+        "top": 2.46,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4891,
+        "top": 0.3286,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.5127,
+        "bottom": 0.3706
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 2.46,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6483,
+        "top": 0.3286,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.6719,
+        "bottom": 0.3706
+      },
+      "position_inches": {
+        "left": 8.64,
+        "top": 2.46,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8074,
+        "top": 0.3286,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.8311,
+        "bottom": 0.3706
+      },
+      "position_inches": {
+        "left": 10.77,
+        "top": 2.46,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "5"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8829,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.909,
+        "height": 0.0857
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1673,
+        "top": 0.2384,
+        "right": 0.9545,
+        "bottom": 0.8599,
+        "width": 0.7872,
+        "height": 0.6215
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2384,
+        "right": 0.3179,
+        "bottom": 0.8599,
+        "width": 0.273,
+        "height": 0.6215
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6448,
+        "top": 0.2929,
+        "right": 0.9545,
+        "bottom": 0.8599,
+        "width": 0.3097,
+        "height": 0.567
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.8695,
+        "right": 0.3179,
+        "bottom": 0.9233,
+        "width": 0.273,
+        "height": 0.0538
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.8039,
+        "top": 0.8829,
+        "right": 0.9545,
+        "bottom": 0.9099,
+        "width": 0.1506,
+        "height": 0.027
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 41
+  },
+  "category": "multi_column"
+}

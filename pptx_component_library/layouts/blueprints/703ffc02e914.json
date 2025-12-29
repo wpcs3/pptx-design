@@ -1,0 +1,166 @@
+{
+  "id": "703ffc02e914",
+  "template": "template_business_case",
+  "slide_num": 71,
+  "layout_name": "Top left title",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "width": 0.3127,
+        "height": 0.1013,
+        "right": 0.3582,
+        "bottom": 0.3502
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.87,
+        "width": 4.17,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Vision"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.332,
+        "width": 0.3127,
+        "height": 0.4819,
+        "right": 0.3582,
+        "bottom": 0.814
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.49,
+        "width": 4.17,
+        "height": 3.61
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert vision of project/new business]"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1194,
+        "top": 0.0954,
+        "width": 0.8806,
+        "height": 0.9046,
+        "right": 1.0,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 1.59,
+        "top": 0.72,
+        "width": 11.74,
+        "height": 6.78
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.9342,
+        "top": -0.1101,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.9342,
+        "bottom": -0.1101
+      },
+      "position_inches": {
+        "left": 12.46,
+        "top": -0.83,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.3582,
+        "bottom": 0.814,
+        "width": 0.3127,
+        "height": 0.5652
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1194,
+        "top": 0.0954,
+        "right": 1.0,
+        "bottom": 1.0,
+        "width": 0.8806,
+        "height": 0.9046
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": -0.1101,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.1427
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0,
+    "top": -0.1101,
+    "bottom": 0.0,
+    "left_inches": 0.61,
+    "right_inches": 0.0,
+    "top_inches": -0.83,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

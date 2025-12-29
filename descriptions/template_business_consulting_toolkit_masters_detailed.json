@@ -1,0 +1,4675 @@
+{
+  "source_file": "template_business_consulting_toolkit.pptx",
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5
+  },
+  "masters": [
+    {
+      "name": "",
+      "placeholders": [
+        {
+          "idx": 0,
+          "type": "TITLE (1",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 0.388,
+            "width_inches": 12.12,
+            "height_inches": 0.8
+          },
+          "text_frame": {
+            "word_wrap": true
+          }
+        },
+        {
+          "idx": 1,
+          "type": "BODY (2",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 2.375,
+            "width_inches": 12.12,
+            "height_inches": 2.76
+          },
+          "text_frame": {
+            "word_wrap": null
+          }
+        }
+      ],
+      "shapes": [
+        {
+          "shape_type": "TEXT_BOX (17",
+          "position": {
+            "left_inches": 11.422,
+            "top_inches": 7.108,
+            "width_inches": 0.912,
+            "height_inches": 0.151
+          },
+          "name": "SlideLogoText",
+          "fill_type": "BACKGROUND (5",
+          "text": "Company Name"
+        },
+        {
+          "shape_type": "LINE (9",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 7.058,
+            "width_inches": 12.12,
+            "height_inches": 0.0
+          },
+          "name": "BottomLine",
+          "line": {
+            "width_pt": 0.5,
+            "color": "theme:BACKGROUND_2 (16)"
+          }
+        },
+        {
+          "shape_type": "LINE (9",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 1.293,
+            "width_inches": 12.12,
+            "height_inches": 0.0
+          },
+          "name": "TopLine",
+          "line": {
+            "width_pt": 0.5,
+            "color": "theme:BACKGROUND_2 (16)"
+          }
+        },
+        {
+          "shape_type": "TEXT_BOX (17",
+          "position": {
+            "left_inches": 0.606,
+            "top_inches": 6.867,
+            "width_inches": 7.96,
+            "height_inches": 0.135
+          },
+          "name": "4. Footnote",
+          "fill_type": "BACKGROUND (5",
+          "text": "Footnotes"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 0.0,
+            "top_inches": 0.0,
+            "width_inches": 13.332,
+            "height_inches": 7.5
+          },
+          "name": "Grid"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 11.543,
+            "top_inches": 4.727,
+            "width_inches": 1.077,
+            "height_inches": 1.878
+          },
+          "name": "LegendBoxes"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 8.447,
+            "top_inches": 1.862,
+            "width_inches": 1.119,
+            "height_inches": 1.894
+          },
+          "name": "LegendMoons"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 0.61,
+            "top_inches": 1.41,
+            "width_inches": 0.47,
+            "height_inches": 0.172
+          },
+          "name": "Sticker"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 11.339,
+            "top_inches": 3.611,
+            "width_inches": 1.388,
+            "height_inches": 1.048
+          },
+          "name": "LegendLines"
+        },
+        {
+          "shape_type": "LINE (9",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 7.058,
+            "width_inches": 12.12,
+            "height_inches": 0.0
+          },
+          "name": "BottomLine",
+          "line": {
+            "width_pt": 0.5,
+            "color": "theme:TEXT_1 (13)"
+          }
+        },
+        {
+          "shape_type": "LINE (9",
+          "position": {
+            "left_inches": 0.607,
+            "top_inches": 1.293,
+            "width_inches": 12.12,
+            "height_inches": 0.0
+          },
+          "name": "TopLine",
+          "line": {
+            "width_pt": 0.5,
+            "color": "theme:TEXT_1 (13)"
+          }
+        },
+        {
+          "shape_type": "TEXT_BOX (17",
+          "position": {
+            "left_inches": 0.606,
+            "top_inches": 6.867,
+            "width_inches": 7.96,
+            "height_inches": 0.135
+          },
+          "name": "4. Footnote",
+          "fill_type": "BACKGROUND (5",
+          "text": "Footnotes"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 0.0,
+            "top_inches": 0.0,
+            "width_inches": 13.332,
+            "height_inches": 7.5
+          },
+          "name": "Grid"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 11.543,
+            "top_inches": 4.727,
+            "width_inches": 1.077,
+            "height_inches": 1.878
+          },
+          "name": "LegendBoxes"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 8.447,
+            "top_inches": 1.862,
+            "width_inches": 1.119,
+            "height_inches": 1.894
+          },
+          "name": "LegendMoons"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 0.61,
+            "top_inches": 1.41,
+            "width_inches": 0.47,
+            "height_inches": 0.172
+          },
+          "name": "Sticker"
+        },
+        {
+          "shape_type": "GROUP (6",
+          "position": {
+            "left_inches": 11.339,
+            "top_inches": 3.611,
+            "width_inches": 1.388,
+            "height_inches": 1.048
+          },
+          "name": "LegendLines"
+        },
+        {
+          "shape_type": "AUTO_SHAPE (1",
+          "position": {
+            "left_inches": 12.372,
+            "top_inches": 7.107,
+            "width_inches": 0.356,
+            "height_inches": 0.151
+          },
+          "name": "Slide Number",
+          "fill_type": "BACKGROUND (5",
+          "line": {
+            "width_pt": 0.75
+          },
+          "text": "\u2039#\u203a"
+        }
+      ],
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 0.357,
+                "width_inches": 2.185,
+                "height_inches": 1.143
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.932,
+                "width_inches": 6.841,
+                "height_inches": 0.236
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 4.476,
+                "width_inches": 6.841,
+                "height_inches": 0.337
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 2.756,
+                "width_inches": 6.841,
+                "height_inches": 1.588
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": []
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 12.12,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.442,
+                "width_inches": 12.12,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.866,
+                "width_inches": 4.17,
+                "height_inches": 0.76
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.001,
+                "height_inches": 0.002
+              },
+              "name": "Object 4"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.001,
+                "height_inches": 0.002
+              },
+              "name": "Object 1"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 3.329,
+                "width_inches": 5.54,
+                "height_inches": 0.841
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 5.009,
+                "width_inches": 12.12,
+                "height_inches": 0.74
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 2.333,
+                "width_inches": 2.75,
+                "height_inches": 1.509
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.002,
+                "width_inches": 2.75,
+                "height_inches": 0.606
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 3.733,
+                "top_inches": 0.0,
+                "width_inches": 9.6,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 3.001,
+                "width_inches": 3.79,
+                "height_inches": 0.841
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.002,
+                "width_inches": 3.79,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 4.773,
+                "top_inches": 0.0,
+                "width_inches": 8.56,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.408,
+                "width_inches": 5.54,
+                "height_inches": 0.333
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 6.663,
+                "top_inches": 0.0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 15",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 3",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 26",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 0.388,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.408,
+                "width_inches": 5.54,
+                "height_inches": 0.333
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 0.0,
+                "top_inches": 0.0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 15",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 3",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 26",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 7.62,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.412,
+                "width_inches": 7.62,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 8.563,
+                "top_inches": 0.0,
+                "width_inches": 4.77,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 17",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.62,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.62,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.387,
+                "width_inches": 8.66,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.412,
+                "width_inches": 8.66,
+                "height_inches": 0.325
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 9.603,
+                "top_inches": 0.0,
+                "width_inches": 3.73,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:BACKGROUND_1 (14)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18",
+              "position": {
+                "left_inches": 5.574,
+                "top_inches": 3.179,
+                "width_inches": 2.185,
+                "height_inches": 1.143
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.257,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 0.357,
+                "width_inches": 2.185,
+                "height_inches": 1.143
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.932,
+                "width_inches": 6.841,
+                "height_inches": 0.236
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 4.476,
+                "width_inches": 6.841,
+                "height_inches": 0.337
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.604,
+                "top_inches": 2.756,
+                "width_inches": 6.841,
+                "height_inches": 1.588
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 0.0,
+                "top_inches": 0.0,
+                "width_inches": 0.174,
+                "height_inches": 0.174
+              },
+              "name": "Rectangle 7",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 12.12,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.442,
+                "width_inches": 12.12,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "TopLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "BottomLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.866,
+                "width_inches": 4.17,
+                "height_inches": 0.76
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "TopLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "BottomLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 3.329,
+                "width_inches": 5.54,
+                "height_inches": 0.841
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "TopLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "BottomLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 5.009,
+                "width_inches": 12.12,
+                "height_inches": 0.74
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "TopLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 12.12,
+                "height_inches": 0.0
+              },
+              "name": "BottomLine",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 2.333,
+                "width_inches": 2.75,
+                "height_inches": 1.509
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.002,
+                "width_inches": 2.75,
+                "height_inches": 0.606
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 3.733,
+                "top_inches": 0.0,
+                "width_inches": 9.6,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 4.064,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 3.001,
+                "width_inches": 3.79,
+                "height_inches": 0.841
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 4.002,
+                "width_inches": 3.79,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 4.773,
+                "top_inches": 0.0,
+                "width_inches": 8.56,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 5.109,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.408,
+                "width_inches": 5.54,
+                "height_inches": 0.333
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 6.663,
+                "top_inches": 0.0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 15",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 3",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 26",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 0.388,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.408,
+                "width_inches": 5.54,
+                "height_inches": 0.333
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 0.0,
+                "top_inches": 0.0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.422,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 15",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 3",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 7.189,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 5.54,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.367,
+                "top_inches": 1.644,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 26",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.388,
+                "width_inches": 7.62,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.412,
+                "width_inches": 7.62,
+                "height_inches": 0.303
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 8.563,
+                "top_inches": 0.0,
+                "width_inches": 4.77,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 17",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.62,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 7.058,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 8.939,
+                "top_inches": 1.293,
+                "width_inches": 3.79,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 7.62,
+                "height_inches": 0.0
+              },
+              "name": "Straight Connector 24",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.62,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 0.387,
+                "width_inches": 8.66,
+                "height_inches": 0.8
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.412,
+                "width_inches": 8.66,
+                "height_inches": 0.325
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 9.603,
+                "top_inches": 0.0,
+                "width_inches": 3.73,
+                "height_inches": 7.5
+              },
+              "name": "RectangleLight",
+              "fill_type": "SOLID (1",
+              "fill_color": "theme:ACCENT_1 (5)",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 7.058,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.058,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "BottomLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_2 (16)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 9.974,
+                "top_inches": 1.293,
+                "width_inches": 2.75,
+                "height_inches": 0.0
+              },
+              "name": "TopLineRight",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 1.293,
+                "width_inches": 8.66,
+                "height_inches": 0.0
+              },
+              "name": "TopLineLeft",
+              "line": {
+                "width_pt": 0.5,
+                "color": "theme:TEXT_1 (13)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1_End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18",
+              "position": {
+                "left_inches": 5.574,
+                "top_inches": 3.179,
+                "width_inches": 2.185,
+                "height_inches": 1.143
+              },
+              "text_frame": {
+                "word_wrap": null
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.002,
+                "height_inches": 0.002
+              },
+              "name": "Object 3"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.002,
+                "height_inches": 0.002
+              },
+              "name": "Object 2"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "1_Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            }
+          ]
+        },
+        {
+          "name": "Blank dark",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "AUTO_SHAPE (1",
+              "position": {
+                "left_inches": 12.372,
+                "top_inches": 7.107,
+                "width_inches": 0.356,
+                "height_inches": 0.151
+              },
+              "name": "Slide Number",
+              "fill_type": "BACKGROUND (5",
+              "line": {
+                "width_pt": 0.75
+              },
+              "text": "\u2039#\u203a"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 0.607,
+                "top_inches": 7.11,
+                "width_inches": 7.959,
+                "height_inches": 0.135
+              },
+              "name": "5. Source",
+              "text": "Source: \u2026"
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.257,
+                "top_inches": 7.108,
+                "width_inches": 0.912,
+                "height_inches": 0.151
+              },
+              "name": "SlideLogoText",
+              "fill_type": "BACKGROUND (5",
+              "text": "Company Name"
+            }
+          ]
+        },
+        {
+          "name": "Custom Layout",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.001,
+                "height_inches": 0.002
+              },
+              "name": "Object 1"
+            },
+            {
+              "shape_type": "LINE (9",
+              "position": {
+                "left_inches": 0.622,
+                "top_inches": 7.057,
+                "width_inches": 12.089,
+                "height_inches": 0.0
+              },
+              "name": "Google Shape;15;p38",
+              "line": {
+                "width_pt": 0.75,
+                "color": "theme:BACKGROUND_1 (14)"
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 2.015,
+                "top_inches": 1.277,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 2",
+              "line": {
+                "width_pt": 0.5
+              }
+            },
+            {
+              "shape_type": "TEXT_BOX (17",
+              "position": {
+                "left_inches": 11.395,
+                "top_inches": 7.185,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+              },
+              "name": "TextBox 4",
+              "line": {
+                "width_pt": 0.5
+              }
+            }
+          ]
+        },
+        {
+          "name": "Blank",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": [
+            {
+              "shape_type": "EMBEDDED_OLE_OBJECT (7",
+              "position": {
+                "left_inches": 0.002,
+                "top_inches": 0.002,
+                "width_inches": 0.001,
+                "height_inches": 0.002
+              },
+              "name": "Object 2"
+            }
+          ]
+        },
+        {
+          "name": "Agenda",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.514,
+                "top_inches": 1.817,
+                "width_inches": 3.286,
+                "height_inches": 0.887
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 5.459,
+                "top_inches": 1.817,
+                "width_inches": 7.272,
+                "height_inches": 4.863
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2",
+              "position": {
+                "left_inches": 8.344,
+                "top_inches": 0.11,
+                "width_inches": 4.382,
+                "height_inches": 0.135
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": []
+        },
+        {
+          "name": "Title Only",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1",
+              "position": {
+                "left_inches": 0.512,
+                "top_inches": 0.399,
+                "width_inches": 12.219,
+                "height_inches": 0.887
+              },
+              "text_frame": {
+                "word_wrap": true
+              }
+            }
+          ],
+          "shapes": []
+        }
+      ]
+    }
+  ],
+  "layout_index": {
+    "Frontpage": {
+      "master_idx": 0,
+      "layout_idx": 0
+    },
+    "Default": {
+      "master_idx": 0,
+      "layout_idx": 1
+    },
+    "Top left title": {
+      "master_idx": 0,
+      "layout_idx": 2
+    },
+    "Mid left title": {
+      "master_idx": 0,
+      "layout_idx": 3
+    },
+    "Section breaker": {
+      "master_idx": 0,
+      "layout_idx": 4
+    },
+    "1/4 grey": {
+      "master_idx": 0,
+      "layout_idx": 5
+    },
+    "1/3 grey": {
+      "master_idx": 0,
+      "layout_idx": 6
+    },
+    "1/2 grey": {
+      "master_idx": 0,
+      "layout_idx": 7
+    },
+    "1_1/2 grey": {
+      "master_idx": 0,
+      "layout_idx": 8
+    },
+    "2/3 grey": {
+      "master_idx": 0,
+      "layout_idx": 9
+    },
+    "3/4 grey": {
+      "master_idx": 0,
+      "layout_idx": 10
+    },
+    "End": {
+      "master_idx": 0,
+      "layout_idx": 11
+    },
+    "Blank white": {
+      "master_idx": 0,
+      "layout_idx": 12
+    },
+    "Frontpage dark": {
+      "master_idx": 0,
+      "layout_idx": 13
+    },
+    "Default dark": {
+      "master_idx": 0,
+      "layout_idx": 14
+    },
+    "1_Top left title": {
+      "master_idx": 0,
+      "layout_idx": 15
+    },
+    "1_Mid left title": {
+      "master_idx": 0,
+      "layout_idx": 16
+    },
+    "1_Section breaker": {
+      "master_idx": 0,
+      "layout_idx": 17
+    },
+    "1_1/4 grey": {
+      "master_idx": 0,
+      "layout_idx": 18
+    },
+    "1_1/3 grey": {
+      "master_idx": 0,
+      "layout_idx": 19
+    },
+    "2_1/2 grey": {
+      "master_idx": 0,
+      "layout_idx": 20
+    },
+    "3_1/2 grey": {
+      "master_idx": 0,
+      "layout_idx": 21
+    },
+    "1_2/3 grey": {
+      "master_idx": 0,
+      "layout_idx": 22
+    },
+    "1_3/4 grey": {
+      "master_idx": 0,
+      "layout_idx": 23
+    },
+    "1_End": {
+      "master_idx": 0,
+      "layout_idx": 24
+    },
+    "1_Blank white": {
+      "master_idx": 0,
+      "layout_idx": 25
+    },
+    "Blank dark": {
+      "master_idx": 0,
+      "layout_idx": 26
+    },
+    "Custom Layout": {
+      "master_idx": 0,
+      "layout_idx": 27
+    },
+    "Blank": {
+      "master_idx": 0,
+      "layout_idx": 28
+    },
+    "Agenda": {
+      "master_idx": 0,
+      "layout_idx": 29
+    },
+    "Title Only": {
+      "master_idx": 0,
+      "layout_idx": 30
+    }
+  },
+  "slide_layout_mapping": {
+    "1": "Blank dark",
+    "2": "Default",
+    "3": "Top left title",
+    "4": "Custom Layout",
+    "5": "Frontpage dark",
+    "6": "Frontpage",
+    "7": "Blank",
+    "8": "Agenda",
+    "9": "Default",
+    "10": "Default",
+    "11": "Default",
+    "12": "Default",
+    "13": "Default",
+    "14": "Top left title",
+    "15": "Default",
+    "16": "Default",
+    "17": "Default",
+    "18": "Default",
+    "19": "Default",
+    "20": "Default",
+    "21": "Default",
+    "22": "Default",
+    "23": "Default",
+    "24": "Default",
+    "25": "Default",
+    "26": "Default",
+    "27": "Default",
+    "28": "Default",
+    "29": "Default",
+    "30": "Default",
+    "31": "Default",
+    "32": "Default",
+    "33": "Default",
+    "34": "Default",
+    "35": "Default",
+    "36": "Default",
+    "37": "Default",
+    "38": "Default",
+    "39": "Default",
+    "40": "Default",
+    "41": "Default",
+    "42": "Default",
+    "43": "Default",
+    "44": "Default",
+    "45": "Default",
+    "46": "Default",
+    "47": "Default",
+    "48": "Default",
+    "49": "Default",
+    "50": "Default",
+    "51": "Default",
+    "52": "Default",
+    "53": "Default",
+    "54": "Default",
+    "55": "Default",
+    "56": "Default",
+    "57": "Default",
+    "58": "Default",
+    "59": "Default",
+    "60": "Default",
+    "61": "Default",
+    "62": "Default",
+    "63": "Default",
+    "64": "Default",
+    "65": "Default",
+    "66": "Default",
+    "67": "Default",
+    "68": "Default",
+    "69": "Default",
+    "70": "Default",
+    "71": "Default",
+    "72": "Default",
+    "73": "Default",
+    "74": "Default",
+    "75": "Default",
+    "76": "Default",
+    "77": "Default",
+    "78": "Default",
+    "79": "Default",
+    "80": "Default",
+    "81": "Default",
+    "82": "Default",
+    "83": "Default",
+    "84": "Default",
+    "85": "Default",
+    "86": "Default",
+    "87": "Default",
+    "88": "Default",
+    "89": "Default",
+    "90": "Default",
+    "91": "Default",
+    "92": "Default",
+    "93": "Default",
+    "94": "Default",
+    "95": "Default",
+    "96": "Default",
+    "97": "Default",
+    "98": "Default",
+    "99": "Default",
+    "100": "Default",
+    "101": "Default",
+    "102": "Default",
+    "103": "Default",
+    "104": "Default",
+    "105": "Default",
+    "106": "Default",
+    "107": "Default",
+    "108": "Default",
+    "109": "Default",
+    "110": "Default",
+    "111": "Default",
+    "112": "Default",
+    "113": "Default",
+    "114": "Default",
+    "115": "Default",
+    "116": "Default",
+    "117": "Default",
+    "118": "Default",
+    "119": "Default",
+    "120": "Default",
+    "121": "Default",
+    "122": "Default",
+    "123": "Default",
+    "124": "Default",
+    "125": "Default",
+    "126": "Default",
+    "127": "Default",
+    "128": "Default",
+    "129": "Default",
+    "130": "Default",
+    "131": "Default",
+    "132": "Default",
+    "133": "Default",
+    "134": "Default",
+    "135": "Default",
+    "136": "Default",
+    "137": "Default",
+    "138": "Default",
+    "139": "Default",
+    "140": "Default",
+    "141": "Default",
+    "142": "Default",
+    "143": "Default",
+    "144": "Default",
+    "145": "Default",
+    "146": "Default",
+    "147": "Default",
+    "148": "Default",
+    "149": "Default",
+    "150": "Default",
+    "151": "Default",
+    "152": "Default",
+    "153": "Default",
+    "154": "Default",
+    "155": "Default",
+    "156": "Default",
+    "157": "Default",
+    "158": "Default",
+    "159": "Default",
+    "160": "Default",
+    "161": "Default",
+    "162": "Default",
+    "163": "Default",
+    "164": "Default",
+    "165": "Default",
+    "166": "Default",
+    "167": "Default",
+    "168": "Default",
+    "169": "Default",
+    "170": "Default",
+    "171": "Default",
+    "172": "Default",
+    "173": "Default",
+    "174": "Default",
+    "175": "Default",
+    "176": "Default",
+    "177": "Default",
+    "178": "Default",
+    "179": "Default",
+    "180": "Default",
+    "181": "Custom Layout",
+    "182": "Default",
+    "183": "Default",
+    "184": "Default",
+    "185": "Default",
+    "186": "Default",
+    "187": "Default",
+    "188": "Default",
+    "189": "Default",
+    "190": "Default",
+    "191": "Default",
+    "192": "Default",
+    "193": "Default",
+    "194": "Default",
+    "195": "Default",
+    "196": "Default",
+    "197": "Default",
+    "198": "Default",
+    "199": "Default",
+    "200": "Default",
+    "201": "Default",
+    "202": "Default",
+    "203": "Default",
+    "204": "Default",
+    "205": "Default",
+    "206": "Default",
+    "207": "Custom Layout",
+    "208": "Default",
+    "209": "Default",
+    "210": "Default",
+    "211": "Default",
+    "212": "Default",
+    "213": "Default",
+    "214": "Default",
+    "215": "Blank dark"
+  }
+}

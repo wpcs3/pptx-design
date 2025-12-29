@@ -1,0 +1,178 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 19,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 14,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 24,
+      "word_count": 4,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 87,
+      "word_count": 15,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 37,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 61,
+      "word_count": 11,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 18,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 21,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 20,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 22,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 20,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 27,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 1,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 60,
+      "word_count": 8,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 54,
+      "word_count": 8,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 67,
+      "word_count": 7,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Who are key competitors?\nHow have market shares shifted over time and how will they likely evolve going forward?\nIs market concentrated or fragmented?\nHow is target different or similar to competitors",
+  "usage_count": 12,
+  "bullet_style": {
+    "total_items": 14,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 7,
+      "1": 7
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 5.0,
+    "pattern": "two_level"
+  },
+  "id": "304d0af70f32"
+}

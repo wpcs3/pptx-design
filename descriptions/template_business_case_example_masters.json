@@ -1,0 +1,3787 @@
+{
+  "source_file": "template_business_case_example.pptx",
+  "slide_dimensions": {
+    "width_inches": 13.333333333333334,
+    "height_inches": 7.5
+  },
+  "slide_masters": [
+    {
+      "name": "",
+      "placeholders": [
+        {
+          "type": "TITLE (1)",
+          "idx": 0,
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 0.3883333333333333,
+            "width_inches": 12.12,
+            "height_inches": 0.8
+          },
+          "text_properties": {}
+        },
+        {
+          "type": "BODY (2)",
+          "idx": 1,
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 2.375,
+            "width_inches": 12.12,
+            "height_inches": 2.76002624671916
+          },
+          "text_properties": {}
+        }
+      ],
+      "shapes": [
+        {
+          "name": "SlideLogoText",
+          "shape_type": "TEXT_BOX (17)",
+          "position": {
+            "left_inches": 11.421555118110236,
+            "top_inches": 7.10780949256343,
+            "width_inches": 0.9115944881889764,
+            "height_inches": 0.1514643482064742
+          },
+          "fill": {
+            "type": "background (5)"
+          },
+          "text_properties": {},
+          "text": "Company Name"
+        },
+        {
+          "name": "BottomLine",
+          "shape_type": "LINE (9)",
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 7.0579276027996505,
+            "width_inches": 12.12,
+            "height_inches": 0
+          }
+        },
+        {
+          "name": "TopLine",
+          "shape_type": "LINE (9)",
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 1.292548118985127,
+            "width_inches": 12.12,
+            "height_inches": 0
+          }
+        },
+        {
+          "name": "4. Footnote",
+          "shape_type": "TEXT_BOX (17)",
+          "position": {
+            "left_inches": 0.6058311461067366,
+            "top_inches": 6.866828521434821,
+            "width_inches": 7.96,
+            "height_inches": 0.13463582677165353
+          },
+          "fill": {
+            "type": "background (5)"
+          },
+          "text_properties": {},
+          "text": "Footnotes"
+        },
+        {
+          "name": "Grid",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 0,
+            "top_inches": 0,
+            "width_inches": 13.331666666666667,
+            "height_inches": 7.5
+          }
+        },
+        {
+          "name": "LegendBoxes",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 11.542836832895889,
+            "top_inches": 4.727497812773404,
+            "width_inches": 1.0770603674540682,
+            "height_inches": 1.8780424321959754
+          }
+        },
+        {
+          "name": "LegendMoons",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 8.446719160104987,
+            "top_inches": 1.861829615048119,
+            "width_inches": 1.119440069991251,
+            "height_inches": 1.8939840332458442
+          }
+        },
+        {
+          "name": "Sticker",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 0.6104461942257218,
+            "top_inches": 1.4099660979877515,
+            "width_inches": 0.46982174103237095,
+            "height_inches": 0.1716940069991251
+          }
+        },
+        {
+          "name": "LegendLines",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 11.338505030621173,
+            "top_inches": 3.6107556867891515,
+            "width_inches": 1.3881616360454943,
+            "height_inches": 1.0479943132108487
+          }
+        },
+        {
+          "name": "BottomLine",
+          "shape_type": "LINE (9)",
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 7.0579276027996505,
+            "width_inches": 12.12,
+            "height_inches": 0
+          }
+        },
+        {
+          "name": "TopLine",
+          "shape_type": "LINE (9)",
+          "position": {
+            "left_inches": 0.6066666666666667,
+            "top_inches": 1.292548118985127,
+            "width_inches": 12.12,
+            "height_inches": 0
+          }
+        },
+        {
+          "name": "4. Footnote",
+          "shape_type": "TEXT_BOX (17)",
+          "position": {
+            "left_inches": 0.6058311461067366,
+            "top_inches": 6.866828521434821,
+            "width_inches": 7.96,
+            "height_inches": 0.13463582677165353
+          },
+          "fill": {
+            "type": "background (5)"
+          },
+          "text_properties": {},
+          "text": "Footnotes"
+        },
+        {
+          "name": "Grid",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 0,
+            "top_inches": 0,
+            "width_inches": 13.331666666666667,
+            "height_inches": 7.5
+          }
+        },
+        {
+          "name": "LegendBoxes",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 11.542836832895889,
+            "top_inches": 4.727497812773404,
+            "width_inches": 1.0770603674540682,
+            "height_inches": 1.8780424321959754
+          }
+        },
+        {
+          "name": "LegendMoons",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 8.446719160104987,
+            "top_inches": 1.861829615048119,
+            "width_inches": 1.119440069991251,
+            "height_inches": 1.8939840332458442
+          }
+        },
+        {
+          "name": "Sticker",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 0.6104461942257218,
+            "top_inches": 1.4099660979877515,
+            "width_inches": 0.46982174103237095,
+            "height_inches": 0.1716940069991251
+          }
+        },
+        {
+          "name": "LegendLines",
+          "shape_type": "GROUP (6)",
+          "position": {
+            "left_inches": 11.338505030621173,
+            "top_inches": 3.6107556867891515,
+            "width_inches": 1.3881616360454943,
+            "height_inches": 1.0479943132108487
+          }
+        },
+        {
+          "name": "Slide Number",
+          "shape_type": "AUTO_SHAPE (1)",
+          "position": {
+            "left_inches": 12.371527777777779,
+            "top_inches": 7.107123797025372,
+            "width_inches": 0.35597222222222225,
+            "height_inches": 0.1514643482064742
+          },
+          "fill": {
+            "type": "background (5)"
+          },
+          "text_properties": {},
+          "text": "‹#›"
+        }
+      ],
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "type": "PICTURE (18)",
+              "idx": 14,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 0.3571544181977253,
+                "width_inches": 2.185277777777778,
+                "height_inches": 1.1428455818022747
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 13,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 4.932379702537183,
+                "width_inches": 6.840833333333333,
+                "height_inches": 0.23561242344706912
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 4.475676946631671,
+                "width_inches": 6.840833333333333,
+                "height_inches": 0.3365890201224847
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 2.7555555555555555,
+                "width_inches": 6.840833333333333,
+                "height_inches": 1.587742782152231
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": []
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 12.12,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.442438757655293,
+                "width_inches": 12.12,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.8663199912510937,
+                "width_inches": 4.17,
+                "height_inches": 0.76
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 3.329265091863517,
+                "width_inches": 5.54,
+                "height_inches": 0.8414709098862642
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 5.009260717410323,
+                "width_inches": 12.12,
+                "height_inches": 0.7404943132108487
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 2.3333344269466316,
+                "width_inches": 2.75,
+                "height_inches": 1.5094160104986876
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 4.002235345581802,
+                "width_inches": 2.75,
+                "height_inches": 0.6058595800524934
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 3.7333333333333334,
+                "top_inches": 0,
+                "width_inches": 9.6,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 3.0012784339457568,
+                "width_inches": 3.79,
+                "height_inches": 0.8414709098862642
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 4.002235345581802,
+                "width_inches": 3.7899989063867014,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 4.773333333333333,
+                "top_inches": 0,
+                "width_inches": 8.56,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.407956036745407,
+                "width_inches": 5.54,
+                "height_inches": 0.3332228783902012
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 6.663333333333333,
+                "top_inches": 0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 15",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 3",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 26",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.407956036745407,
+                "width_inches": 5.54,
+                "height_inches": 0.3332228783902012
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 0,
+                "top_inches": 0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 15",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 3",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 26",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 7.62,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.411991469816273,
+                "width_inches": 7.62,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 8.563333333333333,
+                "top_inches": 0,
+                "width_inches": 4.77,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 17",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.620001093613299,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.620001093613299,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3873162729658793,
+                "width_inches": 8.66,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.411991469816273,
+                "width_inches": 8.66,
+                "height_inches": 0.3250010936132983
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 9.60347331583552,
+                "top_inches": 0,
+                "width_inches": 3.729860017497813,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:BACKGROUND_1 (14)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "type": "PICTURE (18)",
+              "idx": 14,
+              "position": {
+                "left_inches": 5.574027777777777,
+                "top_inches": 3.1785772090988624,
+                "width_inches": 2.185277777777778,
+                "height_inches": 1.1428455818022747
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "type": "PICTURE (18)",
+              "idx": 14,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 0.3571544181977253,
+                "width_inches": 2.185277777777778,
+                "height_inches": 1.1428455818022747
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 13,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 4.932379702537183,
+                "width_inches": 6.840833333333333,
+                "height_inches": 0.23561242344706912
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 4.475676946631671,
+                "width_inches": 6.840833333333333,
+                "height_inches": 0.3365890201224847
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6036111111111111,
+                "top_inches": 2.7555555555555555,
+                "width_inches": 6.840833333333333,
+                "height_inches": 1.587742782152231
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": []
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 12.12,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.442438757655293,
+                "width_inches": 12.12,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TopLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.8663199912510937,
+                "width_inches": 4.17,
+                "height_inches": 0.76
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "TopLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 3.329265091863517,
+                "width_inches": 5.54,
+                "height_inches": 0.8414709098862642
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TopLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 5.009260717410323,
+                "width_inches": 12.12,
+                "height_inches": 0.7404943132108487
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TopLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLine",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 12.12,
+                "height_inches": 0
+              }
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 2.3333344269466316,
+                "width_inches": 2.75,
+                "height_inches": 1.5094160104986876
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 4.002235345581802,
+                "width_inches": 2.75,
+                "height_inches": 0.6058595800524934
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 3.7333333333333334,
+                "top_inches": 0,
+                "width_inches": 9.6,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 3.0012784339457568,
+                "width_inches": 3.79,
+                "height_inches": 0.8414709098862642
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 4.002235345581802,
+                "width_inches": 3.7899989063867014,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 4.773333333333333,
+                "top_inches": 0,
+                "width_inches": 8.56,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 5.108507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.407956036745407,
+                "width_inches": 5.54,
+                "height_inches": 0.3332228783902012
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 6.663333333333333,
+                "top_inches": 0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 15",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 3",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 26",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 5.54,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.407956036745407,
+                "width_inches": 5.54,
+                "height_inches": 0.3332228783902012
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 0,
+                "top_inches": 0,
+                "width_inches": 6.67,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 15",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 3",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 7.188507217847769,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 5.54,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TextBox 26",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.36666666666666664,
+                "top_inches": 1.6444444444444444,
+                "width_inches": 0,
+                "height_inches": 0
+              },
+              "text_properties": {}
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3883333333333333,
+                "width_inches": 7.62,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.411991469816273,
+                "width_inches": 7.62,
+                "height_inches": 0.3029297900262467
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 8.563333333333333,
+                "top_inches": 0,
+                "width_inches": 4.77,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 17",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.620001093613299,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 8.93850721784777,
+                "top_inches": 1.292548118985127,
+                "width_inches": 3.79,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "Straight Connector 24",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 7.62,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.620001093613299,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 0.3873162729658793,
+                "width_inches": 8.66,
+                "height_inches": 0.8
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.411991469816273,
+                "width_inches": 8.66,
+                "height_inches": 0.3250010936132983
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 9.60347331583552,
+                "top_inches": 0,
+                "width_inches": 3.729860017497813,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_1 (5)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 9.973601268591427,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1_End",
+          "placeholders": [
+            {
+              "type": "PICTURE (18)",
+              "idx": 14,
+              "position": {
+                "left_inches": 5.574027777777777,
+                "top_inches": 3.1785772090988624,
+                "width_inches": 2.185277777777778,
+                "height_inches": 1.1428455818022747
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "1_Blank white",
+          "placeholders": [
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        },
+        {
+          "name": "2_1/4 grey",
+          "placeholders": [
+            {
+              "type": "TITLE (1)",
+              "idx": 0,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 2.3333344269466316,
+                "width_inches": 2.75,
+                "height_inches": 1.5094160104986876
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "SUBTITLE (4)",
+              "idx": 1,
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 4.002235345581802,
+                "width_inches": 2.75,
+                "height_inches": 0.6058595800524934
+              },
+              "text_properties": {}
+            },
+            {
+              "type": "BODY (2)",
+              "idx": 17,
+              "position": {
+                "left_inches": 8.344444444444445,
+                "top_inches": 0.10995188101487315,
+                "width_inches": 4.3822222222222225,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {}
+            }
+          ],
+          "shapes": [
+            {
+              "name": "RectangleLight",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 3.7333333333333334,
+                "top_inches": 0,
+                "width_inches": 9.6,
+                "height_inches": 7.5
+              },
+              "fill": {
+                "type": "solid (1)",
+                "color": "theme:ACCENT_6 (10)"
+              },
+              "text_properties": {}
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "Slide Number",
+              "shape_type": "AUTO_SHAPE (1)",
+              "position": {
+                "left_inches": 12.371527777777779,
+                "top_inches": 7.107123797025372,
+                "width_inches": 0.35597222222222225,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "‹#›"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            },
+            {
+              "name": "SlideLogoText",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 11.421555118110236,
+                "top_inches": 7.10780949256343,
+                "width_inches": 0.9115944881889764,
+                "height_inches": 0.1514643482064742
+              },
+              "fill": {
+                "type": "background (5)"
+              },
+              "text_properties": {},
+              "text": "Company Name"
+            },
+            {
+              "name": "BottomLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "BottomLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 7.0579276027996505,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineRight",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 4.063601268591426,
+                "top_inches": 1.292548118985127,
+                "width_inches": 8.66,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "TopLineLeft",
+              "shape_type": "LINE (9)",
+              "position": {
+                "left_inches": 0.6066666666666667,
+                "top_inches": 1.292548118985127,
+                "width_inches": 2.75,
+                "height_inches": 0
+              }
+            },
+            {
+              "name": "5. Source",
+              "shape_type": "TEXT_BOX (17)",
+              "position": {
+                "left_inches": 0.6066655730533683,
+                "top_inches": 7.110311679790026,
+                "width_inches": 7.959165573053368,
+                "height_inches": 0.13463582677165353
+              },
+              "text_properties": {},
+              "text": "Source: …"
+            }
+          ]
+        }
+      ],
+      "background": {
+        "type": "background (5)"
+      }
+    }
+  ]
+}

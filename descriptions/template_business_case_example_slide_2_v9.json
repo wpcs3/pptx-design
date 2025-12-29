@@ -1,0 +1,199 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "aspect_ratio": "16:9"
+  },
+  "background": {
+    "type": "solid",
+    "color": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "left_section_background",
+      "type": "shape",
+      "position": {
+        "left_inches": 0.0,
+        "top_inches": 0.0,
+        "width_inches": 4.0,
+        "height_inches": 7.5
+      },
+      "shape_properties": {
+        "fill_color": "#FFFFFF",
+        "fill_transparency": 0,
+        "border_color": "none",
+        "border_width_pt": 0,
+        "shape_type": "rectangle"
+      }
+    },
+    {
+      "id": "top_horizontal_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.0,
+        "width_inches": 3.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#333333",
+        "border_width_pt": 2.5
+      }
+    },
+    {
+      "id": "bottom_horizontal_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 6.5,
+        "width_inches": 3.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#333333",
+        "border_width_pt": 2.5
+      }
+    },
+    {
+      "id": "content_top_line",
+      "type": "line",
+      "position": {
+        "left_inches": 4.5,
+        "top_inches": 1.0,
+        "width_inches": 8.0,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "border_color": "#333333",
+        "border_width_pt": 2.5
+      }
+    },
+    {
+      "id": "main_title",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 2.5,
+        "width_inches": 3.0,
+        "height_inches": 2.0
+      },
+      "text_properties": {
+        "placeholder_text": "Executive\nsummary",
+        "font_family": "Calibri",
+        "font_size_pt": 36,
+        "font_color": "#000000",
+        "bold": true,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "subtitle",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 4.8,
+        "width_inches": 3.0,
+        "height_inches": 0.5
+      },
+      "text_properties": {
+        "placeholder_text": "Slideworks guide",
+        "font_family": "Calibri",
+        "font_size_pt": 14,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "what_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 1.5,
+        "width_inches": 8.0,
+        "height_inches": 1.0
+      },
+      "text_properties": {
+        "placeholder_text": "What:\nOne-page summary providing a concise overview of the business case. Highlight the key points, including the problem or opportunity, proposed solution, and expected benefits",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "why_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 2.7,
+        "width_inches": 8.0,
+        "height_inches": 0.8
+      },
+      "text_properties": {
+        "placeholder_text": "Why:\nGrab your audience's attention up front and paint a compelling story so they are predisposed to what your \"answer\" is and what they need to decide on",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "how_section",
+      "type": "textbox",
+      "position": {
+        "left_inches": 4.8,
+        "top_inches": 3.7,
+        "width_inches": 8.0,
+        "height_inches": 2.4
+      },
+      "text_properties": {
+        "placeholder_text": "How:\n• Use situation-complication-resolution framework to draft structure\n• Briefly describe the overall context (situation)\n• State problem / opportunity your business case will address (complication)\n• Describe your intended solution and potential other options you reviewed, if relevant (resolution)\n• Briefly list benefits including financial benefits like ROI or NPV (resolution)\n• Briefly describe next steps (resolution)",
+        "font_family": "Calibri",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top",
+        "line_spacing": 1.0
+      }
+    },
+    {
+      "id": "footer_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 10.5,
+        "top_inches": 6.65,
+        "width_inches": 2.8,
+        "height_inches": 0.4
+      },
+      "text_properties": {
+        "placeholder_text": "Company Name                                        2",
+        "font_family": "Calibri",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "right",
+        "vertical_alignment": "bottom"
+      }
+    }
+  ],
+  "color_palette": [
+    "#FFFFFF",
+    "#000000",
+    "#333333"
+  ],
+  "design_notes": "Clean, professional layout with pure white background (#FFFFFF). Left sidebar uses white background with no border or accent elements - completely seamless with the main background. The main content area sits directly on the white background without any additional background color or panel separation. Uses horizontal lines for visual separation at top and bottom of left section and at top of content area, with darker gray lines (#333333) at 2.5pt width to provide prominent visual separation. All text areas have transparent backgrounds to maintain the seamless look. Section headers (What:, Why:, How:) are part of the paragraph text with detailed explanations and standard round bullet points. In the How section, key framework terms (situation), (complication), and (resolution) appear in parentheses within the bullet points for emphasis - no bold formatting or asterisks. Footer contains company name and page number on the same line with proper spacing, aligned to bottom right. Bullet points use tighter line spacing (1.0) for compact presentation. The design maintains complete visual unity with no borders, accents, or color variations - just clean typography and horizontal line elements for structure."
+}

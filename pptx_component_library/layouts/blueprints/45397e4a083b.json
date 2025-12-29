@@ -1,0 +1,1091 @@
+{
+  "id": "45397e4a083b",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 233,
+  "layout_name": "Default",
+  "element_count": 47,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Spending trend is expected to drive future growth"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8369,
+        "top": 0.1847,
+        "width": 0.0236,
+        "height": 0.0418,
+        "right": 0.8606,
+        "bottom": 0.2264
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 1.39,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4562,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.158,
+        "bottom": 0.6005
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.42,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Market size of baby products"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1838,
+        "top": 0.3037,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.2963,
+        "bottom": 0.4479
+      },
+      "position_inches": {
+        "left": 2.45,
+        "top": 2.28,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Babies born per year"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3221,
+        "top": 0.3037,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.4346,
+        "bottom": 0.4479
+      },
+      "position_inches": {
+        "left": 4.3,
+        "top": 2.28,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Stagnating \u000bbirth rate"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.3037,
+        "width": 0.2107,
+        "height": 0.1442,
+        "right": 0.6709,
+        "bottom": 0.4479
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 2.28,
+        "width": 2.81,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Long-term stable or slightly decreasing demand for"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1838,
+        "top": 0.6088,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.2963,
+        "bottom": 0.753
+      },
+      "position_inches": {
+        "left": 2.45,
+        "top": 4.57,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Spending per baby"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3221,
+        "top": 0.6088,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.4346,
+        "bottom": 0.753
+      },
+      "position_inches": {
+        "left": 4.3,
+        "top": 4.57,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Trend of \u000btrading up \u000band down"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3221,
+        "top": 0.7614,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.4346,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 4.3,
+        "top": 5.71,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Increasing average age \u000bof mother \u000band father"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.158,
+        "top": 0.3758,
+        "width": 0.0258,
+        "height": 0.1526,
+        "right": 0.1838,
+        "bottom": 0.5283
+      },
+      "position_inches": {
+        "left": 2.11,
+        "top": 2.82,
+        "width": 0.34,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.158,
+        "top": 0.5283,
+        "width": 0.0258,
+        "height": 0.1526,
+        "right": 0.1838,
+        "bottom": 0.6809
+      },
+      "position_inches": {
+        "left": 2.11,
+        "top": 3.96,
+        "width": 0.34,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4231,
+        "top": 0.4029,
+        "width": 0.2532,
+        "height": 0.1115,
+        "right": 0.6763,
+        "bottom": 0.5144
+      },
+      "position_inches": {
+        "left": 5.64,
+        "top": 3.02,
+        "width": 3.38,
+        "height": 0.84
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.4562,
+        "width": 0.2107,
+        "height": 0.1442,
+        "right": 0.6709,
+        "bottom": 0.6005
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 3.42,
+        "width": 2.81,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increasing disposable income puts focus on new pro"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.6088,
+        "width": 0.2107,
+        "height": 0.1442,
+        "right": 0.6709,
+        "bottom": 0.753
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 4.57,
+        "width": 2.81,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increasing focus on high-priced, high quality Lowe"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.7614,
+        "width": 0.2107,
+        "height": 0.1442,
+        "right": 0.6709,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 5.71,
+        "width": 2.81,
+        "height": 1.08
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Delayed childbearing resulting in higher disposabl"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2963,
+        "top": 0.5283,
+        "width": 0.0258,
+        "height": 0.1526,
+        "right": 0.3221,
+        "bottom": 0.6809
+      },
+      "position_inches": {
+        "left": 3.95,
+        "top": 3.96,
+        "width": 0.34,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2963,
+        "top": 0.6809,
+        "width": 0.0258,
+        "height": 0.1526,
+        "right": 0.3221,
+        "bottom": 0.8335
+      },
+      "position_inches": {
+        "left": 3.95,
+        "top": 5.11,
+        "width": 0.34,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.3037,
+        "width": 0.2518,
+        "height": 0.1442,
+        "right": 0.9545,
+        "bottom": 0.4479
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 2.28,
+        "width": 3.36,
+        "height": 1.08
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Expected CAGR birth rate \u000b(2020\u20132030): -0.9%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.7614,
+        "width": 0.2518,
+        "height": 0.1442,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 5.71,
+        "width": 3.36,
+        "height": 1.08
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Average age of mother in BE 1995: 25.2 yrs 2020: 2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.4562,
+        "width": 0.2518,
+        "height": 0.1442,
+        "right": 0.9545,
+        "bottom": 0.6005
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 3.42,
+        "width": 3.36,
+        "height": 1.08
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Historical CAGR in real disposable income (2010\u201320"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.6088,
+        "width": 0.2518,
+        "height": 0.1442,
+        "right": 0.9545,
+        "bottom": 0.753
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 4.57,
+        "width": 3.36,
+        "height": 1.08
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Historical CAGR 2010\u20132018 in relative share of bab"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2963,
+        "top": 0.6809,
+        "width": 0.0258,
+        "height": 0.0,
+        "right": 0.3221,
+        "bottom": 0.6809
+      },
+      "position_inches": {
+        "left": 3.95,
+        "top": 5.11,
+        "width": 0.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2506,
+        "width": 0.3891,
+        "height": 0.0269,
+        "right": 0.4346,
+        "bottom": 0.2775
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.88,
+        "width": 5.19,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Growth drivers"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2889,
+        "width": 0.3891,
+        "height": 0.0,
+        "right": 0.4346,
+        "bottom": 0.2889
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.17,
+        "width": 5.19,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.2506,
+        "width": 0.2107,
+        "height": 0.0269,
+        "right": 0.6709,
+        "bottom": 0.2775
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 1.88,
+        "width": 2.81,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Effects"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4602,
+        "top": 0.2889,
+        "width": 0.2107,
+        "height": 0.0,
+        "right": 0.6709,
+        "bottom": 0.2889
+      },
+      "position_inches": {
+        "left": 6.14,
+        "top": 2.17,
+        "width": 2.81,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.2506,
+        "width": 0.2518,
+        "height": 0.0269,
+        "right": 0.9545,
+        "bottom": 0.2775
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 1.88,
+        "width": 3.36,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7027,
+        "top": 0.2889,
+        "width": 0.2518,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2889
+      },
+      "position_inches": {
+        "left": 9.37,
+        "top": 2.17,
+        "width": 3.36,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8652,
+        "top": 0.1947,
+        "width": 0.0893,
+        "height": 0.0224,
+        "right": 0.9545,
+        "bottom": 0.2171
+      },
+      "position_inches": {
+        "left": 11.54,
+        "top": 1.46,
+        "width": 1.19,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "= Impact on growth"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3221,
+        "top": 0.4562,
+        "width": 0.1125,
+        "height": 0.1442,
+        "right": 0.4346,
+        "bottom": 0.6005
+      },
+      "position_inches": {
+        "left": 4.3,
+        "top": 3.42,
+        "width": 1.5,
+        "height": 1.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increasing disposable income"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6798,
+        "top": 0.3561,
+        "width": 0.014,
+        "height": 0.0394,
+        "right": 0.6938,
+        "bottom": 0.3955
+      },
+      "position_inches": {
+        "left": 9.06,
+        "top": 2.67,
+        "width": 0.19,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4196,
+        "top": 0.5017,
+        "width": 0.03,
+        "height": 0.0533,
+        "right": 0.4496,
+        "bottom": 0.555
+      },
+      "position_inches": {
+        "left": 5.59,
+        "top": 3.76,
+        "width": 0.4,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4196,
+        "top": 0.3491,
+        "width": 0.03,
+        "height": 0.0533,
+        "right": 0.4496,
+        "bottom": 0.4025
+      },
+      "position_inches": {
+        "left": 5.59,
+        "top": 2.62,
+        "width": 0.4,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4196,
+        "top": 0.6542,
+        "width": 0.03,
+        "height": 0.0533,
+        "right": 0.4496,
+        "bottom": 0.7076
+      },
+      "position_inches": {
+        "left": 5.59,
+        "top": 4.91,
+        "width": 0.4,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4195,
+        "top": 0.8068,
+        "width": 0.03,
+        "height": 0.0533,
+        "right": 0.4495,
+        "bottom": 0.8601
+      },
+      "position_inches": {
+        "left": 5.59,
+        "top": 6.05,
+        "width": 0.4,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2963,
+        "top": 0.3758,
+        "width": 0.0258,
+        "height": 0.0,
+        "right": 0.3221,
+        "bottom": 0.3758
+      },
+      "position_inches": {
+        "left": 3.95,
+        "top": 2.82,
+        "width": 0.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4289,
+        "top": 0.8172,
+        "width": 0.0111,
+        "height": 0.0325,
+        "right": 0.44,
+        "bottom": 0.8497
+      },
+      "position_inches": {
+        "left": 5.72,
+        "top": 6.13,
+        "width": 0.15,
+        "height": 0.24
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4291,
+        "top": 0.6646,
+        "width": 0.0111,
+        "height": 0.0325,
+        "right": 0.4401,
+        "bottom": 0.6972
+      },
+      "position_inches": {
+        "left": 5.72,
+        "top": 4.98,
+        "width": 0.15,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4291,
+        "top": 0.5121,
+        "width": 0.0111,
+        "height": 0.0325,
+        "right": 0.4401,
+        "bottom": 0.5446
+      },
+      "position_inches": {
+        "left": 5.72,
+        "top": 3.84,
+        "width": 0.15,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4291,
+        "top": 0.3595,
+        "width": 0.0111,
+        "height": 0.0325,
+        "right": 0.4401,
+        "bottom": 0.3921
+      },
+      "position_inches": {
+        "left": 5.72,
+        "top": 2.7,
+        "width": 0.15,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8449,
+        "top": 0.1955,
+        "width": 0.0078,
+        "height": 0.0209,
+        "right": 0.8526,
+        "bottom": 0.2163
+      },
+      "position_inches": {
+        "left": 11.26,
+        "top": 1.47,
+        "width": 0.1,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6798,
+        "top": 0.5087,
+        "width": 0.014,
+        "height": 0.0394,
+        "right": 0.6938,
+        "bottom": 0.548
+      },
+      "position_inches": {
+        "left": 9.06,
+        "top": 3.81,
+        "width": 0.19,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6798,
+        "top": 0.6612,
+        "width": 0.014,
+        "height": 0.0394,
+        "right": 0.6938,
+        "bottom": 0.7006
+      },
+      "position_inches": {
+        "left": 9.06,
+        "top": 4.96,
+        "width": 0.19,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6798,
+        "top": 0.8138,
+        "width": 0.014,
+        "height": 0.0394,
+        "right": 0.6938,
+        "bottom": 0.8531
+      },
+      "position_inches": {
+        "left": 9.06,
+        "top": 6.1,
+        "width": 0.19,
+        "height": 0.3
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: National statistics bank; Euromonitor"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6798,
+        "top": 0.1847,
+        "right": 0.9545,
+        "bottom": 0.753,
+        "width": 0.2747,
+        "height": 0.5683
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2506,
+        "right": 0.4346,
+        "bottom": 0.8335,
+        "width": 0.3891,
+        "height": 0.5829
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3221,
+        "top": 0.2506,
+        "right": 0.6763,
+        "bottom": 0.753,
+        "width": 0.3542,
+        "height": 0.5024
+      },
+      "element_count": 15,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7614,
+        "right": 0.6709,
+        "bottom": 0.9852,
+        "width": 0.6325,
+        "height": 0.2238
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6798,
+        "top": 0.7614,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.2747,
+        "height": 0.1442
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 47
+  },
+  "category": "multi_column"
+}

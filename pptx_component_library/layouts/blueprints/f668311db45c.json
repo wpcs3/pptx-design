@@ -1,0 +1,277 @@
+{
+  "id": "f668311db45c",
+  "template": "template_business_case",
+  "slide_num": 243,
+  "layout_name": "Default",
+  "element_count": 9,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Some key milestones will make 10-year plan a reali"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1664,
+        "top": 0.3472,
+        "width": 0.0733,
+        "height": 0.0333,
+        "right": 0.2397,
+        "bottom": 0.3804
+      },
+      "position_inches": {
+        "left": 2.22,
+        "top": 2.6,
+        "width": 0.98,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2025-2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7498,
+        "top": 0.3472,
+        "width": 0.0733,
+        "height": 0.0333,
+        "right": 0.8231,
+        "bottom": 0.3804
+      },
+      "position_inches": {
+        "left": 10.0,
+        "top": 2.6,
+        "width": 0.98,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2029-2034"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0443,
+        "top": 0.2705,
+        "width": 0.3174,
+        "height": 0.0706,
+        "right": 0.3617,
+        "bottom": 0.3411
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 2.03,
+        "width": 4.23,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Lay foundation"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.353,
+        "top": 0.2705,
+        "width": 0.3071,
+        "height": 0.0706,
+        "right": 0.6601,
+        "bottom": 0.3411
+      },
+      "position_inches": {
+        "left": 4.71,
+        "top": 2.03,
+        "width": 4.09,
+        "height": 0.53
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Expansion"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6508,
+        "top": 0.2705,
+        "width": 0.3071,
+        "height": 0.0706,
+        "right": 0.9579,
+        "bottom": 0.3411
+      },
+      "position_inches": {
+        "left": 8.68,
+        "top": 2.03,
+        "width": 4.09,
+        "height": 0.53
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Full value capture"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4699,
+        "top": 0.3472,
+        "width": 0.0733,
+        "height": 0.0333,
+        "right": 0.5432,
+        "bottom": 0.3804
+      },
+      "position_inches": {
+        "left": 6.27,
+        "top": 2.6,
+        "width": 0.98,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2027-2028"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.436,
+        "width": 0.9088,
+        "height": 0.4541,
+        "right": 0.9543,
+        "bottom": 0.8901
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.27,
+        "width": 12.12,
+        "height": 3.41
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0443,
+        "top": 0.2705,
+        "right": 0.3617,
+        "bottom": 0.3804,
+        "width": 0.3174,
+        "height": 0.1099
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6508,
+        "top": 0.2705,
+        "right": 0.9579,
+        "bottom": 0.3804,
+        "width": 0.3071,
+        "height": 0.1099
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2705,
+        "right": 0.9543,
+        "bottom": 0.8901,
+        "width": 0.9088,
+        "height": 0.6196
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0443,
+    "right": 0.0421,
+    "top": 0.0147,
+    "bottom": 0.1099,
+    "left_inches": 0.59,
+    "right_inches": 0.56,
+    "top_inches": 0.11,
+    "bottom_inches": 0.82
+  },
+  "content_types": {
+    "other": 9
+  },
+  "category": "multi_column"
+}

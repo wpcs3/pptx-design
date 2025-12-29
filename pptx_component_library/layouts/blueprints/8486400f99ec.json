@@ -1,0 +1,403 @@
+{
+  "id": "8486400f99ec",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 272,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Ownership and Management\u2019s incentive and investmen"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.2682,
+        "width": 0.4314,
+        "height": 0.6208,
+        "right": 0.4766,
+        "bottom": 0.889
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.01,
+        "width": 5.75,
+        "height": 4.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Buyer] and [PE Firm 2] will each contribute same"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2682,
+        "width": 0.4321,
+        "height": 0.4143,
+        "right": 0.9555,
+        "bottom": 0.6825
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.01,
+        "width": 5.76,
+        "height": 3.11
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1992,
+        "width": 0.4314,
+        "height": 0.0484,
+        "right": 0.4769,
+        "bottom": 0.2476
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.49,
+        "width": 5.75,
+        "height": 0.36
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Ownership dynamics"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.1992,
+        "width": 0.4314,
+        "height": 0.0484,
+        "right": 0.9548,
+        "bottom": 0.2476
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.49,
+        "width": 5.75,
+        "height": 0.36
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Ownership structure at closing"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2529,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.2529
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.9,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2529,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.2529
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.9,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.7048,
+        "width": 0.4314,
+        "height": 0.0484,
+        "right": 0.9548,
+        "bottom": 0.7531
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 5.29,
+        "width": 5.75,
+        "height": 0.36
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Incentive package (shares and warrants)"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.7584,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.7584
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 5.69,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.7651,
+        "width": 0.4321,
+        "height": 0.1556,
+        "right": 0.9555,
+        "bottom": 0.9206
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 5.74,
+        "width": 5.76,
+        "height": 1.17
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 1.0387,
+        "top": 0.7489,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 1.0387,
+        "bottom": 0.7489
+      },
+      "position_inches": {
+        "left": 13.85,
+        "top": 5.62,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0452,
+        "top": 0.1992,
+        "right": 0.4769,
+        "bottom": 0.889,
+        "width": 0.4317,
+        "height": 0.6898
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.1992,
+        "right": 1.0387,
+        "bottom": 0.7584,
+        "width": 0.5153,
+        "height": 0.5592
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.7651,
+        "right": 0.9555,
+        "bottom": 0.9206,
+        "width": 0.4321,
+        "height": 0.1555
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": -0.0387,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": -0.52,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "mixed_content"
+}

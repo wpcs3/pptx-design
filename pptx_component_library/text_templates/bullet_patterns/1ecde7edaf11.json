@@ -1,0 +1,84 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 315,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 5,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 116,
+      "word_count": 15,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 85,
+      "word_count": 13,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 88,
+      "word_count": 10,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 159,
+      "word_count": 27,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 249,
+      "word_count": 36,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "sample_text": "Motorway gas stations are focusing on developing fast food and convenience concepts, creating multi-service stations\n[Target] is not tied to major gas stations and will experience increasing competiti",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 5,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 4,
+      "1": 1
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 20.2,
+    "pattern": "two_level"
+  },
+  "id": "1ecde7edaf11"
+}

@@ -1,0 +1,63 @@
+{
+  "template": "template_business_case",
+  "slide_num": 25,
+  "pattern_type": "text_block",
+  "paragraph_count": 5,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 18,
+      "word_count": 2,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 23,
+      "word_count": 5,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 24,
+      "word_count": 5,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 23,
+      "word_count": 5,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 30,
+      "word_count": 4,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Executive summary\u000b\nWhy should we do this?\u000b\nWhat does it look like?\u000b\nHow will we get there?\u000b\nRecommendations and next steps",
+  "usage_count": 22,
+  "id": "3d93994e4e27"
+}

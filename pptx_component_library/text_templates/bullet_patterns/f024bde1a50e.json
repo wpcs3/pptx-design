@@ -1,0 +1,120 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 129,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 8,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 92,
+      "word_count": 14,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 72,
+      "word_count": 10,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 6,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 17,
+      "word_count": 2,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 5,
+      "word_count": 1,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 70,
+      "word_count": 9,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 60,
+      "word_count": 6,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 15,
+      "word_count": 2,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "We sought to distinguish between the experience of the equipment and the charging experience\nEV equipment experience: Extent to which buying decisions influenced by \nDrivers\u2019 access to journey managem",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 8,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 3,
+      "1": 5
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 6.2,
+    "pattern": "two_level"
+  },
+  "id": "f024bde1a50e"
+}

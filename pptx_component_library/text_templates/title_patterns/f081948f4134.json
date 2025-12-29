@@ -1,0 +1,31 @@
+{
+  "template": "template_business_case",
+  "slide_num": 187,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 8,
+      "word_count": 1,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Appendix",
+  "usage_count": 2,
+  "title_style": {
+    "format": "statement",
+    "case": "title",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "f081948f4134"
+}

@@ -1,0 +1,481 @@
+{
+  "id": "8b11d50c8dff",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 188,
+  "layout_name": "Default",
+  "element_count": 18,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Strategy House"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.2028,
+        "width": 0.8315,
+        "height": 0.1183,
+        "right": 0.9123,
+        "bottom": 0.3211
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 1.52,
+        "width": 11.09,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert purpose and/or vision]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.3396,
+        "width": 0.2717,
+        "height": 0.1076,
+        "right": 0.3525,
+        "bottom": 0.4472
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 2.55,
+        "width": 3.62,
+        "height": 0.81
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert strategic objective #1]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.1631,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1755,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.2578,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 2.34,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2702,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.3525,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 3.6,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.668,
+        "width": 0.8315,
+        "height": 0.0572,
+        "right": 0.9123,
+        "bottom": 0.7252
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 5.01,
+        "width": 11.09,
+        "height": 0.43
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key enabler(s)]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.7344,
+        "width": 0.8315,
+        "height": 0.0572,
+        "right": 0.9123,
+        "bottom": 0.7916
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 5.51,
+        "width": 11.09,
+        "height": 0.43
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key enabler(s)]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0808,
+        "top": 0.8101,
+        "width": 0.8315,
+        "height": 0.1077,
+        "right": 0.9123,
+        "bottom": 0.9178
+      },
+      "position_inches": {
+        "left": 1.08,
+        "top": 6.08,
+        "width": 11.09,
+        "height": 0.81
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert description of other foundational elements"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3608,
+        "top": 0.3396,
+        "width": 0.2717,
+        "height": 0.1076,
+        "right": 0.6324,
+        "bottom": 0.4472
+      },
+      "position_inches": {
+        "left": 4.81,
+        "top": 2.55,
+        "width": 3.62,
+        "height": 0.81
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic objective #2]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6407,
+        "top": 0.3396,
+        "width": 0.2717,
+        "height": 0.1076,
+        "right": 0.9123,
+        "bottom": 0.4472
+      },
+      "position_inches": {
+        "left": 8.54,
+        "top": 2.55,
+        "width": 3.62,
+        "height": 0.81
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert strategic objective #3]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3612,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.4435,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4559,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.5382,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 6.08,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5505,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.6329,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 7.34,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6407,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.723,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 8.54,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7354,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.8177,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 9.8,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.83,
+        "top": 0.4657,
+        "width": 0.0823,
+        "height": 0.1837,
+        "right": 0.9123,
+        "bottom": 0.6495
+      },
+      "position_inches": {
+        "left": 11.07,
+        "top": 3.49,
+        "width": 1.1,
+        "height": 1.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert strategic initiative]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0808,
+        "top": 0.2028,
+        "right": 0.9123,
+        "bottom": 0.7916,
+        "width": 0.8315,
+        "height": 0.5888
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0808,
+        "top": 0.3396,
+        "right": 0.3525,
+        "bottom": 0.6495,
+        "width": 0.2717,
+        "height": 0.3099
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0808,
+        "top": 0.8101,
+        "right": 0.9123,
+        "bottom": 0.9178,
+        "width": 0.8315,
+        "height": 0.1077
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6407,
+        "top": 0.3396,
+        "right": 0.9123,
+        "bottom": 0.6495,
+        "width": 0.2716,
+        "height": 0.3099
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0822,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.62
+  },
+  "content_types": {
+    "other": 18
+  },
+  "category": "multi_column"
+}

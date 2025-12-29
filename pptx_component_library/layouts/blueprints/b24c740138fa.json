@@ -1,0 +1,366 @@
+{
+  "id": "b24c740138fa",
+  "template": "template_market_analysis",
+  "slide_num": 252,
+  "layout_name": "Default",
+  "element_count": 12,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Used car market has been flat since 2017 at ~25 B"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #4"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized]"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.309,
+        "width": 0.9094,
+        "height": 0.5689,
+        "right": 0.9543,
+        "bottom": 0.8779
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.32,
+        "width": 12.12,
+        "height": 4.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5577,
+        "top": 0.422,
+        "width": 0.0785,
+        "height": 0.0333,
+        "right": 0.6362,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 7.44,
+        "top": 3.17,
+        "width": 1.05,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "24.2 B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1291,
+        "top": 0.422,
+        "width": 0.0785,
+        "height": 0.0333,
+        "right": 0.2076,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 1.72,
+        "top": 3.17,
+        "width": 1.05,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "20.0 B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2671,
+        "top": 0.422,
+        "width": 0.0882,
+        "height": 0.0333,
+        "right": 0.3553,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 3.56,
+        "top": 3.17,
+        "width": 1.18,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "21.1 B USED"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4099,
+        "top": 0.422,
+        "width": 0.0882,
+        "height": 0.0333,
+        "right": 0.4982,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 5.47,
+        "top": 3.17,
+        "width": 1.18,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "25.5 B USED"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7005,
+        "top": 0.422,
+        "width": 0.0785,
+        "height": 0.0333,
+        "right": 0.779,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 9.34,
+        "top": 3.17,
+        "width": 1.05,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "25.3 B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8434,
+        "top": 0.422,
+        "width": 0.0785,
+        "height": 0.0333,
+        "right": 0.9219,
+        "bottom": 0.4553
+      },
+      "position_inches": {
+        "left": 11.24,
+        "top": 3.17,
+        "width": 1.05,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "24.8 B USD"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2472,
+        "width": 0.5875,
+        "height": 0.0449,
+        "right": 0.6258,
+        "bottom": 0.2921
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.85,
+        "width": 7.83,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Household annual expenditure on used cars, share o"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "right": 0.6439,
+        "bottom": 0.9684,
+        "width": 0.5984,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2472,
+        "right": 0.9543,
+        "bottom": 0.8779,
+        "width": 0.9159,
+        "height": 0.6307
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1291,
+        "top": 0.422,
+        "right": 0.3553,
+        "bottom": 0.4553,
+        "width": 0.2262,
+        "height": 0.0333
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7005,
+        "top": 0.422,
+        "right": 0.9219,
+        "bottom": 0.4553,
+        "width": 0.2214,
+        "height": 0.0333
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 12
+  },
+  "category": "multi_column"
+}

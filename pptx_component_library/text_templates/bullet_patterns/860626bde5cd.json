@@ -1,0 +1,96 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 113,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 6,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 28,
+      "word_count": 3,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 28,
+      "word_count": 3,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 28,
+      "word_count": 3,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 31,
+      "word_count": 4,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 31,
+      "word_count": 4,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 1,
+      "word_count": 1,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "[Insert main recommendation]\n[Insert main recommendation]\n[Insert main recommendation]\n[Insert sub-steps, if relevant]\n[Insert sub-steps, if relevant]\n\u2026",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 6,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 3,
+      "1": 3
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 3.0,
+    "pattern": "two_level"
+  },
+  "id": "860626bde5cd"
+}

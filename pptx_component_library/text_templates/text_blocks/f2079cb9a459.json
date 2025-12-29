@@ -1,0 +1,57 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 12,
+  "pattern_type": "text_block",
+  "paragraph_count": 4,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 49,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 49,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 49,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 1,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "[Insert background/reasons for starting project] \n[Insert background/reasons for starting project] \n[Insert background/reasons for starting project] \n\u2026",
+  "usage_count": 82,
+  "id": "f2079cb9a459"
+}

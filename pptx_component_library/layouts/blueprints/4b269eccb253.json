@@ -1,0 +1,554 @@
+{
+  "id": "4b269eccb253",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 45,
+  "layout_name": "Default",
+  "element_count": 22,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Multiple line charts / Insert action title]"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.055,
+        "top": 0.2857,
+        "width": 0.4329,
+        "height": 0.2655,
+        "right": 0.488,
+        "bottom": 0.5513
+      },
+      "position_inches": {
+        "left": 0.73,
+        "top": 2.14,
+        "width": 5.77,
+        "height": 1.99
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.2196,
+        "width": 0.2503,
+        "height": 0.0449,
+        "right": 0.2955,
+        "bottom": 0.2645
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.65,
+        "width": 3.34,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Data], [Unit]"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.512,
+        "top": 0.2857,
+        "width": 0.4329,
+        "height": 0.2655,
+        "right": 0.945,
+        "bottom": 0.5513
+      },
+      "position_inches": {
+        "left": 6.83,
+        "top": 2.14,
+        "width": 5.77,
+        "height": 1.99
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.055,
+        "top": 0.6523,
+        "width": 0.4329,
+        "height": 0.2655,
+        "right": 0.488,
+        "bottom": 0.9179
+      },
+      "position_inches": {
+        "left": 0.73,
+        "top": 4.89,
+        "width": 5.77,
+        "height": 1.99
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.512,
+        "top": 0.6523,
+        "width": 0.4329,
+        "height": 0.2655,
+        "right": 0.945,
+        "bottom": 0.9179
+      },
+      "position_inches": {
+        "left": 6.83,
+        "top": 4.89,
+        "width": 5.77,
+        "height": 1.99
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.5883,
+        "width": 0.2503,
+        "height": 0.0449,
+        "right": 0.2955,
+        "bottom": 0.6332
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.41,
+        "width": 3.34,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Data], [Unit]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.512,
+        "top": 0.2196,
+        "width": 0.2535,
+        "height": 0.0449,
+        "right": 0.7656,
+        "bottom": 0.2645
+      },
+      "position_inches": {
+        "left": 6.83,
+        "top": 1.65,
+        "width": 3.38,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Data], [Unit]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.512,
+        "top": 0.5883,
+        "width": 0.2535,
+        "height": 0.0449,
+        "right": 0.7656,
+        "bottom": 0.6332
+      },
+      "position_inches": {
+        "left": 6.83,
+        "top": 4.41,
+        "width": 3.38,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Data], [Unit]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3616,
+        "top": 0.2251,
+        "width": 0.0753,
+        "height": 0.0673,
+        "right": 0.4368,
+        "bottom": 0.2924
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 1.69,
+        "width": 1.0,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "xx% of all [insert]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3616,
+        "top": 0.6021,
+        "width": 0.0753,
+        "height": 0.0673,
+        "right": 0.4368,
+        "bottom": 0.6694
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 4.52,
+        "width": 1.0,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "xx% of all [insert]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8176,
+        "top": 0.2251,
+        "width": 0.0753,
+        "height": 0.0673,
+        "right": 0.8929,
+        "bottom": 0.2924
+      },
+      "position_inches": {
+        "left": 10.9,
+        "top": 1.69,
+        "width": 1.0,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "xx% of all [insert]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8176,
+        "top": 0.6021,
+        "width": 0.0753,
+        "height": 0.0673,
+        "right": 0.8929,
+        "bottom": 0.6694
+      },
+      "position_inches": {
+        "left": 10.9,
+        "top": 4.52,
+        "width": 1.0,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "xx% of all [insert]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.2196,
+        "width": 0.0,
+        "height": 0.6982,
+        "right": 0.5,
+        "bottom": 0.9179
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 1.65,
+        "width": 0.0,
+        "height": 5.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.055,
+        "top": 0.5687,
+        "width": 0.8899,
+        "height": 0.0,
+        "right": 0.945,
+        "bottom": 0.5687
+      },
+      "position_inches": {
+        "left": 0.73,
+        "top": 4.27,
+        "width": 11.87,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.4238,
+        "top": 0.2085,
+        "width": 0.0641,
+        "height": 0.1005,
+        "right": 0.488,
+        "bottom": 0.309
+      },
+      "position_inches": {
+        "left": 5.65,
+        "top": 1.56,
+        "width": 0.85,
+        "height": 0.75
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.8808,
+        "top": 0.5855,
+        "width": 0.0641,
+        "height": 0.1005,
+        "right": 0.945,
+        "bottom": 0.686
+      },
+      "position_inches": {
+        "left": 11.74,
+        "top": 4.39,
+        "width": 0.85,
+        "height": 0.75
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.4238,
+        "top": 0.5855,
+        "width": 0.0641,
+        "height": 0.1005,
+        "right": 0.488,
+        "bottom": 0.686
+      },
+      "position_inches": {
+        "left": 5.65,
+        "top": 4.39,
+        "width": 0.85,
+        "height": 0.75
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.8808,
+        "top": 0.2085,
+        "width": 0.0641,
+        "height": 0.1005,
+        "right": 0.945,
+        "bottom": 0.309
+      },
+      "position_inches": {
+        "left": 11.74,
+        "top": 1.56,
+        "width": 0.85,
+        "height": 0.75
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0452,
+        "top": 0.2196,
+        "right": 0.488,
+        "bottom": 0.9179,
+        "width": 0.4428,
+        "height": 0.6983
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.512,
+        "top": 0.2085,
+        "right": 0.945,
+        "bottom": 0.9179,
+        "width": 0.433,
+        "height": 0.7094
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.055,
+        "top": 0.2085,
+        "right": 0.945,
+        "bottom": 0.9179,
+        "width": 0.89,
+        "height": 0.7094
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 22
+  },
+  "category": "multi_column"
+}

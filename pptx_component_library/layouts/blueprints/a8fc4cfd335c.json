@@ -1,0 +1,843 @@
+{
+  "id": "a8fc4cfd335c",
+  "template": "template_business_case",
+  "slide_num": 172,
+  "layout_name": "Default",
+  "element_count": 35,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "We suggest two sounding board meetings, as well as"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.2629,
+        "width": 0.909,
+        "height": 0.4268,
+        "right": 0.9566,
+        "bottom": 0.6897
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 1.97,
+        "width": 12.12,
+        "height": 3.2
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.308,
+        "width": 0.1366,
+        "height": 0.0709,
+        "right": 0.1842,
+        "bottom": 0.3789
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 2.31,
+        "width": 1.82,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Preparation and planning"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1875,
+        "top": 0.385,
+        "width": 0.1364,
+        "height": 0.0709,
+        "right": 0.3239,
+        "bottom": 0.4559
+      },
+      "position_inches": {
+        "left": 2.5,
+        "top": 2.89,
+        "width": 1.82,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Solution design"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3271,
+        "top": 0.462,
+        "width": 0.4193,
+        "height": 0.0709,
+        "right": 0.7464,
+        "bottom": 0.5328
+      },
+      "position_inches": {
+        "left": 4.36,
+        "top": 3.46,
+        "width": 5.59,
+        "height": 0.53
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Solution iteration"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7496,
+        "top": 0.5389,
+        "width": 0.1364,
+        "height": 0.0709,
+        "right": 0.8861,
+        "bottom": 0.6098
+      },
+      "position_inches": {
+        "left": 10.0,
+        "top": 4.04,
+        "width": 1.82,
+        "height": 0.53
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Prepare roll-out plan"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8893,
+        "top": 0.6159,
+        "width": 0.07,
+        "height": 0.0709,
+        "right": 0.9593,
+        "bottom": 0.6868
+      },
+      "position_inches": {
+        "left": 11.86,
+        "top": 4.62,
+        "width": 0.93,
+        "height": 0.53
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Present"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7006,
+        "top": 0.1327,
+        "width": 0.2994,
+        "height": 0.1187,
+        "right": 1.0,
+        "bottom": 0.2514
+      },
+      "position_inches": {
+        "left": 9.34,
+        "top": 1.0,
+        "width": 3.99,
+        "height": 0.89
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Slideworks note: This slide is connected in a cont"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0985,
+        "top": 0.3826,
+        "width": 0.0,
+        "height": 0.3412,
+        "right": 0.0985,
+        "bottom": 0.7238
+      },
+      "position_inches": {
+        "left": 1.31,
+        "top": 2.87,
+        "width": 0.0,
+        "height": 2.56
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.7647,
+        "width": 0.1425,
+        "height": 0.111,
+        "right": 0.3897,
+        "bottom": 0.8757
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 5.74,
+        "width": 1.9,
+        "height": 0.83
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Sounding board \u000bto discuss solution proof-of-conce"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3181,
+        "top": 0.4559,
+        "width": 0.0,
+        "height": 0.2645,
+        "right": 0.3181,
+        "bottom": 0.7203
+      },
+      "position_inches": {
+        "left": 4.24,
+        "top": 3.42,
+        "width": 0.0,
+        "height": 1.98
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6697,
+        "top": 0.7647,
+        "width": 0.1425,
+        "height": 0.111,
+        "right": 0.8122,
+        "bottom": 0.8757
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 5.74,
+        "width": 1.9,
+        "height": 0.83
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Sounding board \u000bto discuss final solution"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0889,
+        "top": 0.7238,
+        "width": 0.0192,
+        "height": 0.0353,
+        "right": 0.1082,
+        "bottom": 0.7591
+      },
+      "position_inches": {
+        "left": 1.19,
+        "top": 5.43,
+        "width": 0.26,
+        "height": 0.26
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3088,
+        "top": 0.7238,
+        "width": 0.0192,
+        "height": 0.0353,
+        "right": 0.328,
+        "bottom": 0.7591
+      },
+      "position_inches": {
+        "left": 4.12,
+        "top": 5.43,
+        "width": 0.26,
+        "height": 0.26
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7313,
+        "top": 0.7238,
+        "width": 0.0192,
+        "height": 0.0353,
+        "right": 0.7506,
+        "bottom": 0.7591
+      },
+      "position_inches": {
+        "left": 9.75,
+        "top": 5.43,
+        "width": 0.26,
+        "height": 0.26
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.145,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.1568,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2848,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.2966,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 3.8,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3547,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.3665,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 4.73,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4945,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.5063,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 6.59,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6342,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.646,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 8.46,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8439,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.8557,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 11.25,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0346,
+        "top": 0.7647,
+        "width": 0.1266,
+        "height": 0.111,
+        "right": 0.1612,
+        "bottom": 0.8757
+      },
+      "position_inches": {
+        "left": 0.46,
+        "top": 5.74,
+        "width": 1.69,
+        "height": 0.83
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Kickoff workshop with project team to align on ove"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.774,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.7858,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 10.32,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7041,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.7159,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 9.39,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8534,
+        "top": 0.7647,
+        "width": 0.1425,
+        "height": 0.111,
+        "right": 0.996,
+        "bottom": 0.8757
+      },
+      "position_inches": {
+        "left": 11.38,
+        "top": 5.74,
+        "width": 1.9,
+        "height": 0.83
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Steering Group \u000bto get approval for roll-out"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.9151,
+        "top": 0.7238,
+        "width": 0.0192,
+        "height": 0.0353,
+        "right": 0.9343,
+        "bottom": 0.7591
+      },
+      "position_inches": {
+        "left": 12.2,
+        "top": 5.43,
+        "width": 0.26,
+        "height": 0.26
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.741,
+        "top": 0.5328,
+        "width": 0.0,
+        "height": 0.191,
+        "right": 0.741,
+        "bottom": 0.7238
+      },
+      "position_inches": {
+        "left": 9.88,
+        "top": 4.0,
+        "width": 0.0,
+        "height": 1.43
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.9243,
+        "top": 0.6868,
+        "width": 0.0004,
+        "height": 0.037,
+        "right": 0.9247,
+        "bottom": 0.7238
+      },
+      "position_inches": {
+        "left": 12.32,
+        "top": 5.15,
+        "width": 0.01,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2149,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.2267,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 2.87,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4246,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.4364,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 5.66,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5643,
+        "top": 0.7309,
+        "width": 0.0118,
+        "height": 0.021,
+        "right": 0.5762,
+        "bottom": 0.7519
+      },
+      "position_inches": {
+        "left": 7.52,
+        "top": 5.48,
+        "width": 0.16,
+        "height": 0.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.2063,
+        "width": 0.2909,
+        "height": 0.0378,
+        "right": 0.3385,
+        "bottom": 0.2442
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 1.55,
+        "width": 3.88,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "High-level project plan:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 1.0,
+        "bottom": 0.2514,
+        "width": 0.3742,
+        "height": 0.2367
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.2629,
+        "right": 0.9566,
+        "bottom": 0.7519,
+        "width": 0.909,
+        "height": 0.489
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.2063,
+        "right": 0.3385,
+        "bottom": 0.7591,
+        "width": 0.2909,
+        "height": 0.5528
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7041,
+        "top": 0.5328,
+        "right": 0.9593,
+        "bottom": 0.7591,
+        "width": 0.2552,
+        "height": 0.2263
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0346,
+        "top": 0.7647,
+        "right": 0.3897,
+        "bottom": 0.8757,
+        "width": 0.3551,
+        "height": 0.111
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6697,
+        "top": 0.7647,
+        "right": 0.996,
+        "bottom": 0.8757,
+        "width": 0.3263,
+        "height": 0.111
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0346,
+    "right": 0.0,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.46,
+    "right_inches": 0.0,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 35
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,357 @@
+{
+  "colors": {
+    "primary": "#3C96B4",
+    "secondary": "#E5546C",
+    "accent": [
+      "#E6E6E6",
+      "#FFFFFF",
+      "#F2F2F2"
+    ],
+    "text": {
+      "title": "#061F32",
+      "body": "#000000",
+      "subtle": "#FFFFFF"
+    },
+    "backgrounds": [
+      "#E6E6E6",
+      "#FFFFFF",
+      "#F2F2F2"
+    ],
+    "all_colors": [
+      "#000000",
+      "#3C96B4",
+      "#E5546C",
+      "#E6E6E6",
+      "#FFFFFF",
+      "#F2F2F2",
+      "#00B050",
+      "#D8EED2",
+      "#051C2C",
+      "#FAD3D3"
+    ]
+  },
+  "fonts": {
+    "title": {
+      "name": "Arial",
+      "size_pt": 13,
+      "bold": true
+    },
+    "subtitle": {
+      "name": "Arial",
+      "size_pt": 9,
+      "bold": false
+    },
+    "body": {
+      "name": "Arial",
+      "size_pt": 13
+    },
+    "caption": {
+      "name": "Arial",
+      "size_pt": 9
+    },
+    "all_fonts": [
+      "Arial",
+      "Arial ",
+      "Helvetica Neue",
+      "+mn-lt",
+      "Helvetica",
+      "Arial (Body)",
+      "arial",
+      "Playfair Display"
+    ]
+  },
+  "spacing": {
+    "margins": {
+      "left": 0.5,
+      "right": 0.5,
+      "top": 0.5,
+      "bottom": 0.5
+    },
+    "line_spacing": 1.15,
+    "paragraph_spacing_pt": 12
+  },
+  "master_slides": {
+    "Frontpage": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Default": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Top left title": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Mid left title": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Section breaker": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1/4 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1/3 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1/2 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_1/2 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "2/3 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "3/4 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "End": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Frontpage dark": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Default dark": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_Top left title": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_Mid left title": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_Section breaker": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_1/4 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_1/3 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "2_1/2 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "3_1/2 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_2/3 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_3/4 grey": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "1_End": {
+      "usage_count": 3,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx"
+      ]
+    },
+    "1_Blank white": {
+      "usage_count": 3,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx"
+      ]
+    },
+    "Custom Layout": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Blank": {
+      "usage_count": 3,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Agenda": {
+      "usage_count": 4,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "Blank dark": {
+      "usage_count": 3,
+      "templates": [
+        "template_business_case.pptx",
+        "template_business_consulting_toolkit.pptx",
+        "template_market_analysis.pptx"
+      ]
+    },
+    "2_1/4 grey": {
+      "usage_count": 1,
+      "templates": [
+        "template_business_case.pptx"
+      ]
+    },
+    "Blank white": {
+      "usage_count": 2,
+      "templates": [
+        "template_business_consulting_toolkit.pptx",
+        "pptx_template_due_diligence.pptx"
+      ]
+    },
+    "Title Only": {
+      "usage_count": 1,
+      "templates": [
+        "template_business_consulting_toolkit.pptx"
+      ]
+    },
+    "Section slide": {
+      "usage_count": 1,
+      "templates": [
+        "pptx_template_due_diligence.pptx"
+      ]
+    }
+  }
+}

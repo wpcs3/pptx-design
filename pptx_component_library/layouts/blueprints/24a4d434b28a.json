@@ -1,0 +1,358 @@
+{
+  "id": "24a4d434b28a",
+  "template": "template_market_analysis",
+  "slide_num": 2,
+  "layout_name": "Default",
+  "element_count": 13,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Objectives of this template"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "width": 0.9164,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.2911
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.61,
+        "width": 12.22,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The Competitive Market Analysis (single market) te"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.07,
+        "top": 0.3475,
+        "width": 0.3925,
+        "height": 0.1077,
+        "right": 0.4625,
+        "bottom": 0.4552
+      },
+      "position_inches": {
+        "left": 0.93,
+        "top": 2.61,
+        "width": 5.23,
+        "height": 0.81
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Create a complete, best-practice, well-structured"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.07,
+        "top": 0.4925,
+        "width": 0.3925,
+        "height": 0.1391,
+        "right": 0.4625,
+        "bottom": 0.6317
+      },
+      "position_inches": {
+        "left": 0.93,
+        "top": 3.69,
+        "width": 5.23,
+        "height": 1.04
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Find ready-to-use slide layouts and designs for al"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.07,
+        "top": 0.67,
+        "width": 0.3925,
+        "height": 0.1391,
+        "right": 0.4625,
+        "bottom": 0.8091
+      },
+      "position_inches": {
+        "left": 0.93,
+        "top": 5.03,
+        "width": 5.23,
+        "height": 1.04
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Find inspiration for how market analyses can be st"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5187,
+        "top": 0.3475,
+        "width": 0.4113,
+        "height": 0.0763,
+        "right": 0.93,
+        "bottom": 0.4238
+      },
+      "position_inches": {
+        "left": 6.92,
+        "top": 2.61,
+        "width": 5.48,
+        "height": 0.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Get practical and hands-on tips and tricks for str"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5187,
+        "top": 0.4681,
+        "width": 0.3925,
+        "height": 0.1077,
+        "right": 0.9112,
+        "bottom": 0.5758
+      },
+      "position_inches": {
+        "left": 6.92,
+        "top": 3.51,
+        "width": 5.23,
+        "height": 0.81
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Get a helpful checklist developed and used by top"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.3702,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.3964
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 2.78,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.5153,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.5415
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 3.86,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.6927,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.719
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 5.2,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4963,
+        "top": 0.373,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.5184,
+        "bottom": 0.3993
+      },
+      "position_inches": {
+        "left": 6.62,
+        "top": 2.8,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4963,
+        "top": 0.4909,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.5184,
+        "bottom": 0.5171
+      },
+      "position_inches": {
+        "left": 6.62,
+        "top": 3.68,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "right": 0.9548,
+        "bottom": 0.5171,
+        "width": 0.9164,
+        "height": 0.3023
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.3475,
+        "right": 0.4625,
+        "bottom": 0.8091,
+        "width": 0.4149,
+        "height": 0.4616
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5187,
+        "top": 0.3475,
+        "right": 0.93,
+        "bottom": 0.5758,
+        "width": 0.4113,
+        "height": 0.2283
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1909,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 1.43
+  },
+  "content_types": {
+    "other": 13
+  },
+  "category": "multi_column"
+}

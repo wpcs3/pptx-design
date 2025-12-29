@@ -1,0 +1,93 @@
+{
+  "id": "fa6fbc2317c5",
+  "template": "template_market_analysis",
+  "slide_num": 126,
+  "layout_name": "Default",
+  "element_count": 2,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Disclaimer"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "width": 0.9164,
+        "height": 0.3725,
+        "right": 0.9548,
+        "bottom": 0.5873
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.61,
+        "width": 12.22,
+        "height": 2.79
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The details presented in this case example have be"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "right": 0.9548,
+        "bottom": 0.5873,
+        "width": 0.9164,
+        "height": 0.3725
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0518,
+    "bottom": 0.4127,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.39,
+    "bottom_inches": 3.1
+  },
+  "content_types": {
+    "other": 2
+  },
+  "category": "minimal"
+}

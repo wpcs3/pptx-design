@@ -1,0 +1,287 @@
+{
+  "id": "c0b039bb92ec",
+  "template": "template_market_analysis",
+  "slide_num": 3,
+  "layout_name": "Top left title",
+  "element_count": 10,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "width": 0.3127,
+        "height": 0.1013,
+        "right": 0.3582,
+        "bottom": 0.3502
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.87,
+        "width": 4.17,
+        "height": 0.76
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Content of this template"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "width": 0.5454,
+        "height": 0.6484,
+        "right": 0.9548,
+        "bottom": 0.8906
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.82,
+        "width": 7.27,
+        "height": 4.86
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide Competitive Market Analysis te"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2401,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.2874
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.8,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "i"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3034,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.3507
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.28,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "ii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3667,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.4139
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.75,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.4684,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.5156
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 3.51,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iv"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.5612,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.6085
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 4.21,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "v"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.6288,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.676
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 4.72,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "vi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.7234,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.7706
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 5.43,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "vii"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.3582,
+        "bottom": 0.3502,
+        "width": 0.3127,
+        "height": 0.1014
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "right": 0.9548,
+        "bottom": 0.8906,
+        "width": 0.5454,
+        "height": 0.6483
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2401,
+        "right": 0.436,
+        "bottom": 0.7706,
+        "width": 0.0266,
+        "height": 0.5305
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1094,
+    "left_inches": 0.61,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.82
+  },
+  "content_types": {
+    "other": 10
+  },
+  "category": "multi_column"
+}

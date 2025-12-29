@@ -1,0 +1,794 @@
+{
+  "id": "c3733b9238fa",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 148,
+  "layout_name": "Default",
+  "element_count": 33,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "However, five players have initiated a consolidati"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2829,
+        "width": 0.1752,
+        "height": 0.059,
+        "right": 0.2207,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.12,
+        "width": 2.34,
+        "height": 0.44
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Player1]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.3419,
+        "width": 0.1752,
+        "height": 0.0,
+        "right": 0.2213,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.56,
+        "width": 2.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2289,
+        "top": 0.2829,
+        "width": 0.1752,
+        "height": 0.059,
+        "right": 0.4042,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 3.05,
+        "top": 2.12,
+        "width": 2.34,
+        "height": 0.44
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Player2]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2292,
+        "top": 0.3419,
+        "width": 0.1752,
+        "height": 0.0,
+        "right": 0.4044,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 2.56,
+        "width": 2.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4124,
+        "top": 0.2829,
+        "width": 0.1752,
+        "height": 0.059,
+        "right": 0.5876,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 5.5,
+        "top": 2.12,
+        "width": 2.34,
+        "height": 0.44
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Player3]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4124,
+        "top": 0.3419,
+        "width": 0.1752,
+        "height": 0.0,
+        "right": 0.5876,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 5.5,
+        "top": 2.56,
+        "width": 2.34,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5958,
+        "top": 0.2829,
+        "width": 0.1752,
+        "height": 0.059,
+        "right": 0.7711,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 7.94,
+        "top": 2.12,
+        "width": 2.34,
+        "height": 0.44
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Player4]*"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5956,
+        "top": 0.3419,
+        "width": 0.1752,
+        "height": 0.0,
+        "right": 0.7708,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 7.94,
+        "top": 2.56,
+        "width": 2.34,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7793,
+        "top": 0.2829,
+        "width": 0.1752,
+        "height": 0.059,
+        "right": 0.9545,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 10.39,
+        "top": 2.12,
+        "width": 2.34,
+        "height": 0.44
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Player5]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7787,
+        "top": 0.3419,
+        "width": 0.1752,
+        "height": 0.0,
+        "right": 0.954,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 10.38,
+        "top": 2.56,
+        "width": 2.34,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Market reports; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: *Is member of Hong Kong-based conglomera"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0514,
+        "top": 0.6194,
+        "width": 0.1644,
+        "height": 0.0197,
+        "right": 0.2158,
+        "bottom": 0.6391
+      },
+      "position_inches": {
+        "left": 0.69,
+        "top": 4.65,
+        "width": 2.19,
+        "height": 0.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6645,
+        "width": 0.1763,
+        "height": 0.2405,
+        "right": 0.2218,
+        "bottom": 0.905
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.98,
+        "width": 2.35,
+        "height": 1.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Player1] represented in 13 countries across Europ"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2287,
+        "top": 0.6645,
+        "width": 0.1763,
+        "height": 0.2405,
+        "right": 0.4049,
+        "bottom": 0.905
+      },
+      "position_inches": {
+        "left": 3.05,
+        "top": 4.98,
+        "width": 2.35,
+        "height": 1.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Player2]\u00a0today operates ~1500 stores across Europ"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4119,
+        "top": 0.6645,
+        "width": 0.1763,
+        "height": 0.2405,
+        "right": 0.5881,
+        "bottom": 0.905
+      },
+      "position_inches": {
+        "left": 5.49,
+        "top": 4.98,
+        "width": 2.35,
+        "height": 1.8
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Player3]\u00a0is represented in nearly all European co"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2346,
+        "top": 0.6194,
+        "width": 0.1644,
+        "height": 0.0197,
+        "right": 0.399,
+        "bottom": 0.6391
+      },
+      "position_inches": {
+        "left": 3.13,
+        "top": 4.65,
+        "width": 2.19,
+        "height": 0.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4177,
+        "top": 0.6194,
+        "width": 0.1646,
+        "height": 0.0197,
+        "right": 0.5823,
+        "bottom": 0.6391
+      },
+      "position_inches": {
+        "left": 5.57,
+        "top": 4.65,
+        "width": 2.19,
+        "height": 0.15
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5951,
+        "top": 0.6645,
+        "width": 0.1763,
+        "height": 0.2405,
+        "right": 0.7713,
+        "bottom": 0.905
+      },
+      "position_inches": {
+        "left": 7.93,
+        "top": 4.98,
+        "width": 2.35,
+        "height": 1.8
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Player4]\u00a0owns 10 health and beauty chains across"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.601,
+        "top": 0.6194,
+        "width": 0.1644,
+        "height": 0.0197,
+        "right": 0.7654,
+        "bottom": 0.6391
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 4.65,
+        "width": 2.19,
+        "height": 0.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7843,
+        "top": 0.6194,
+        "width": 0.1641,
+        "height": 0.0197,
+        "right": 0.9484,
+        "bottom": 0.6391
+      },
+      "position_inches": {
+        "left": 10.46,
+        "top": 4.65,
+        "width": 2.19,
+        "height": 0.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7782,
+        "top": 0.6645,
+        "width": 0.1763,
+        "height": 0.2405,
+        "right": 0.9545,
+        "bottom": 0.905
+      },
+      "position_inches": {
+        "left": 10.38,
+        "top": 4.98,
+        "width": 2.35,
+        "height": 1.8
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Player5] represented in 7 countries across Europe"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.9897,
+        "top": 0.5499,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.9897,
+        "bottom": 0.5499
+      },
+      "position_inches": {
+        "left": 13.2,
+        "top": 4.12,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8975,
+        "top": 0.189,
+        "width": 0.0574,
+        "height": 0.0319,
+        "right": 0.9549,
+        "bottom": 0.2209
+      },
+      "position_inches": {
+        "left": 11.97,
+        "top": 1.42,
+        "width": 0.77,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Estimate"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.1886,
+        "width": 0.0116,
+        "height": 0.0162,
+        "right": 0.0576,
+        "bottom": 0.2048
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.41,
+        "width": 0.15,
+        "height": 0.12
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.2203,
+        "width": 0.0116,
+        "height": 0.0162,
+        "right": 0.0576,
+        "bottom": 0.2365
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.65,
+        "width": 0.15,
+        "height": 0.12
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0576,
+        "top": 0.1787,
+        "width": 0.2217,
+        "height": 0.0359,
+        "right": 0.2793,
+        "bottom": 0.2147
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 1.34,
+        "width": 2.96,
+        "height": 0.27
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "Countries where company has stores"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.2519,
+        "width": 0.0116,
+        "height": 0.0162,
+        "right": 0.0576,
+        "bottom": 0.2681
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.89,
+        "width": 0.15,
+        "height": 0.12
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0576,
+        "top": 0.2421,
+        "width": 0.2134,
+        "height": 0.0359,
+        "right": 0.271,
+        "bottom": 0.278
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 1.82,
+        "width": 2.85,
+        "height": 0.27
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Home market"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0576,
+        "top": 0.2104,
+        "width": 0.263,
+        "height": 0.0359,
+        "right": 0.3206,
+        "bottom": 0.2463
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 1.58,
+        "width": 3.51,
+        "height": 0.27
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Countries where company plans to have stores"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.2793,
+        "bottom": 0.2147,
+        "width": 0.2792,
+        "height": 0.2145
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2104,
+        "right": 0.4049,
+        "bottom": 0.905,
+        "width": 0.3594,
+        "height": 0.6946
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4119,
+        "top": 0.2829,
+        "right": 0.5881,
+        "bottom": 0.905,
+        "width": 0.1762,
+        "height": 0.6221
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5951,
+        "top": 0.189,
+        "right": 0.9897,
+        "bottom": 0.905,
+        "width": 0.3946,
+        "height": 0.716
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0103,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.14,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 33
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,32 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 146,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 42,
+      "word_count": 5,
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Customer segments and key characteristics:",
+  "usage_count": 2,
+  "title_style": {
+    "format": "header",
+    "case": "mixed",
+    "font_size": 18.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "2a6337421b2f"
+}

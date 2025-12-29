@@ -1,0 +1,392 @@
+{
+  "id": "98ad29ec6940",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 159,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Supplier market concentration for [Target]\u2019 two la"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2648,
+        "top": 0.2582,
+        "width": 0.0141,
+        "height": 0.1785,
+        "right": 0.2789,
+        "bottom": 0.4366
+      },
+      "position_inches": {
+        "left": 3.53,
+        "top": 1.94,
+        "width": 0.19,
+        "height": 1.34
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7211,
+        "top": 0.2582,
+        "width": 0.0141,
+        "height": 0.1785,
+        "right": 0.7352,
+        "bottom": 0.4366
+      },
+      "position_inches": {
+        "left": 9.62,
+        "top": 1.94,
+        "width": 0.19,
+        "height": 1.34
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0681,
+        "top": 0.3889,
+        "width": 0.4073,
+        "height": 0.5167,
+        "right": 0.4755,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 0.91,
+        "top": 2.92,
+        "width": 5.43,
+        "height": 3.88
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": ""
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0681,
+        "top": 0.3889,
+        "width": 0.4073,
+        "height": 0.0525,
+        "right": 0.4755,
+        "bottom": 0.4414
+      },
+      "position_inches": {
+        "left": 0.91,
+        "top": 2.92,
+        "width": 5.43,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Suppliers\u2019 market share of total DE retail market"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5245,
+        "top": 0.3889,
+        "width": 0.4073,
+        "height": 0.5167,
+        "right": 0.9319,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 6.99,
+        "top": 2.92,
+        "width": 5.43,
+        "height": 3.88
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": ""
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5245,
+        "top": 0.3889,
+        "width": 0.4073,
+        "height": 0.0525,
+        "right": 0.9319,
+        "bottom": 0.4414
+      },
+      "position_inches": {
+        "left": 6.99,
+        "top": 2.92,
+        "width": 5.43,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Suppliers\u2019 market share of total DE retail market"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0771,
+        "top": 0.45,
+        "width": 0.3894,
+        "height": 0.4501,
+        "right": 0.4665,
+        "bottom": 0.9001
+      },
+      "position_inches": {
+        "left": 1.03,
+        "top": 3.38,
+        "width": 5.19,
+        "height": 3.38
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.5335,
+        "top": 0.45,
+        "width": 0.3894,
+        "height": 0.4501,
+        "right": 0.9229,
+        "bottom": 0.9001
+      },
+      "position_inches": {
+        "left": 7.11,
+        "top": 3.38,
+        "width": 5.19,
+        "height": 3.38
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1674,
+        "top": 0.232,
+        "width": 0.2088,
+        "height": 0.0739,
+        "right": 0.3762,
+        "bottom": 0.3059
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 1.74,
+        "width": 2.78,
+        "height": 0.55
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Beauty [logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6238,
+        "top": 0.232,
+        "width": 0.2088,
+        "height": 0.0739,
+        "right": 0.8326,
+        "bottom": 0.3059
+      },
+      "position_inches": {
+        "left": 8.32,
+        "top": 1.74,
+        "width": 2.78,
+        "height": 0.55
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Health [logo]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0681,
+        "top": 0.232,
+        "right": 0.4755,
+        "bottom": 0.9056,
+        "width": 0.4074,
+        "height": 0.6736
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5245,
+        "top": 0.232,
+        "right": 0.9319,
+        "bottom": 0.9056,
+        "width": 0.4074,
+        "height": 0.6736
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "mixed_content"
+}

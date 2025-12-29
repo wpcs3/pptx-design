@@ -1,0 +1,68 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 3,
+  "pattern_type": "text_block",
+  "paragraph_count": 5,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 40,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 15,
+      "word_count": 3,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 12,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 50,
+      "word_count": 6,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 29,
+      "word_count": 3,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Post-merger strategy and high-level plan\nDay 1 readiness\n100-day plan\nSynergy realization and detailed integration plans\nImplementation and monitoring",
+  "usage_count": 22,
+  "id": "12ea4c94e257"
+}

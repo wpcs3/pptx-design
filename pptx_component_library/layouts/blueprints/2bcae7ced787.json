@@ -1,0 +1,644 @@
+{
+  "id": "2bcae7ced787",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 145,
+  "layout_name": "Default",
+  "element_count": 25,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Challenges and solutions summary / Insert action"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.2497,
+        "width": 0.4151,
+        "height": 0.0566,
+        "right": 0.473,
+        "bottom": 0.3062
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 1.87,
+        "width": 5.54,
+        "height": 0.42
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Challenges"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.2497,
+        "width": 0.4152,
+        "height": 0.0566,
+        "right": 0.9354,
+        "bottom": 0.3062
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 1.87,
+        "width": 5.54,
+        "height": 0.42
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Solutions"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.4166,
+        "width": 0.8844,
+        "height": 0.0,
+        "right": 0.9422,
+        "bottom": 0.4166
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 3.12,
+        "width": 11.79,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.3094,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.473,
+        "bottom": 0.4027
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 2.32,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert description of key challenge]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.4305,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.473,
+        "bottom": 0.5238
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 3.23,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert description of key challenge]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.5516,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.473,
+        "bottom": 0.645
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 4.14,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert description of key challenge]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.6728,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.473,
+        "bottom": 0.7661
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 5.05,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert description of key challenge]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.7939,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.473,
+        "bottom": 0.8872
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 5.95,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Insert description of key challenge]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.3094,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.9354,
+        "bottom": 0.4027
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 2.32,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert description of main solution points]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.4305,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.9354,
+        "bottom": 0.5238
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 3.23,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert description of main solution points]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.5516,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.9354,
+        "bottom": 0.645
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 4.14,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert description of main solution points]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.6728,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.9354,
+        "bottom": 0.7661
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 5.05,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert description of main solution points]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5202,
+        "top": 0.7939,
+        "width": 0.4151,
+        "height": 0.0933,
+        "right": 0.9354,
+        "bottom": 0.8872
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 5.95,
+        "width": 5.54,
+        "height": 0.7
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Insert description of main solution points]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.5377,
+        "width": 0.8844,
+        "height": 0.0,
+        "right": 0.9422,
+        "bottom": 0.5377
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 4.03,
+        "width": 11.79,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.6589,
+        "width": 0.8844,
+        "height": 0.0,
+        "right": 0.9422,
+        "bottom": 0.6589
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 4.94,
+        "width": 11.79,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0578,
+        "top": 0.78,
+        "width": 0.8844,
+        "height": 0.0,
+        "right": 0.9422,
+        "bottom": 0.78
+      },
+      "position_inches": {
+        "left": 0.77,
+        "top": 5.85,
+        "width": 11.79,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4811,
+        "top": 0.3359,
+        "width": 0.0309,
+        "height": 0.0402,
+        "right": 0.5121,
+        "bottom": 0.3761
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 2.52,
+        "width": 0.41,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4811,
+        "top": 0.4571,
+        "width": 0.0309,
+        "height": 0.0402,
+        "right": 0.5121,
+        "bottom": 0.4973
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 3.43,
+        "width": 0.41,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4811,
+        "top": 0.5782,
+        "width": 0.0309,
+        "height": 0.0402,
+        "right": 0.5121,
+        "bottom": 0.6184
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 4.34,
+        "width": 0.41,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4811,
+        "top": 0.6993,
+        "width": 0.0309,
+        "height": 0.0402,
+        "right": 0.5121,
+        "bottom": 0.7395
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 5.25,
+        "width": 0.41,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4811,
+        "top": 0.8205,
+        "width": 0.0309,
+        "height": 0.0402,
+        "right": 0.5121,
+        "bottom": 0.8607
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 6.15,
+        "width": 0.41,
+        "height": 0.3
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0578,
+        "top": 0.2497,
+        "right": 0.473,
+        "bottom": 0.7661,
+        "width": 0.4152,
+        "height": 0.5164
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5202,
+        "top": 0.2497,
+        "right": 0.9354,
+        "bottom": 0.7661,
+        "width": 0.4152,
+        "height": 0.5164
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0578,
+        "top": 0.3359,
+        "right": 0.9422,
+        "bottom": 0.78,
+        "width": 0.8844,
+        "height": 0.4441
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8205,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.1647
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0578,
+        "top": 0.7939,
+        "right": 0.473,
+        "bottom": 0.8872,
+        "width": 0.4152,
+        "height": 0.0933
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5202,
+        "top": 0.7939,
+        "right": 0.9354,
+        "bottom": 0.8872,
+        "width": 0.4152,
+        "height": 0.0933
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 25
+  },
+  "category": "multi_column"
+}

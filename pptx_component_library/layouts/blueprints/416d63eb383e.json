@@ -1,0 +1,180 @@
+{
+  "id": "416d63eb383e",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 28,
+  "layout_name": "Frontpage dark",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0994,
+        "top": 0.0,
+        "width": 0.7976,
+        "height": 0.8186,
+        "right": 0.8971,
+        "bottom": 0.8186
+      },
+      "position_inches": {
+        "left": 1.33,
+        "top": 0.0,
+        "width": 10.64,
+        "height": 6.14
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.3049,
+        "width": 0.5131,
+        "height": 0.0449,
+        "right": 0.6538,
+        "bottom": 0.3498
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 2.29,
+        "width": 6.84,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert type of report e.g. commercial due diligen"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.0756,
+        "width": 0.5617,
+        "height": 0.2117,
+        "right": 0.7024,
+        "bottom": 0.2873
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 0.57,
+        "width": 7.49,
+        "height": 1.59
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Insert project title]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.6227,
+        "width": 0.1639,
+        "height": 0.1524,
+        "right": 0.3046,
+        "bottom": 0.7751
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 4.67,
+        "width": 2.19,
+        "height": 1.14
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Company logo, if relevant]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0994,
+        "top": 0.0,
+        "right": 0.8971,
+        "bottom": 0.8186,
+        "width": 0.7977,
+        "height": 0.8186
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.1407,
+        "top": 0.0756,
+        "right": 0.7024,
+        "bottom": 0.2873,
+        "width": 0.5617,
+        "height": 0.2117
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1407,
+        "top": 0.6227,
+        "right": 0.3046,
+        "bottom": 0.7751,
+        "width": 0.1639,
+        "height": 0.1524
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.1029,
+    "top": 0.0,
+    "bottom": 0.1814,
+    "left_inches": 0.0,
+    "right_inches": 1.37,
+    "top_inches": 0.0,
+    "bottom_inches": 1.36
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

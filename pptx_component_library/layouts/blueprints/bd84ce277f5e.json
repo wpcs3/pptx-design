@@ -1,0 +1,444 @@
+{
+  "id": "bd84ce277f5e",
+  "template": "template_business_case",
+  "slide_num": 200,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The process included a broad group of stakeholders"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1027,
+        "top": 0.3767,
+        "width": 0.2987,
+        "height": 0.3661,
+        "right": 0.4013,
+        "bottom": 0.7428
+      },
+      "position_inches": {
+        "left": 1.37,
+        "top": 2.83,
+        "width": 3.98,
+        "height": 2.75
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2323,
+        "top": 0.1084,
+        "width": 0.0394,
+        "height": 0.531,
+        "right": 0.2717,
+        "bottom": 0.6394
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 0.81,
+        "width": 0.53,
+        "height": 3.98
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2396,
+        "top": 0.5805,
+        "width": 0.0238,
+        "height": 0.323,
+        "right": 0.2634,
+        "bottom": 0.9035
+      },
+      "position_inches": {
+        "left": 3.19,
+        "top": 4.35,
+        "width": 0.32,
+        "height": 2.42
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.5143,
+        "width": 0.215,
+        "height": 0.0908,
+        "right": 0.3595,
+        "bottom": 0.6051
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 3.86,
+        "width": 2.87,
+        "height": 0.68
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Advisory committee sounding board"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1279,
+        "top": 0.2054,
+        "width": 0.2482,
+        "height": 0.0908,
+        "right": 0.3761,
+        "bottom": 0.2962
+      },
+      "position_inches": {
+        "left": 1.71,
+        "top": 1.54,
+        "width": 3.31,
+        "height": 0.68
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Idea generation / brainstorming in project group"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.8375,
+        "width": 0.215,
+        "height": 0.0908,
+        "right": 0.3595,
+        "bottom": 0.9283
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 6.28,
+        "width": 2.87,
+        "height": 0.68
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Final ideas for consideration"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2272,
+        "top": 0.2943,
+        "width": 0.0485,
+        "height": 0.0701,
+        "right": 0.2757,
+        "bottom": 0.3644
+      },
+      "position_inches": {
+        "left": 3.03,
+        "top": 2.21,
+        "width": 0.65,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2272,
+        "top": 0.7667,
+        "width": 0.0485,
+        "height": 0.0701,
+        "right": 0.2757,
+        "bottom": 0.8368
+      },
+      "position_inches": {
+        "left": 3.03,
+        "top": 5.75,
+        "width": 0.65,
+        "height": 0.53
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3016,
+        "top": 0.2929,
+        "width": 0.0485,
+        "height": 0.0701,
+        "right": 0.3502,
+        "bottom": 0.363
+      },
+      "position_inches": {
+        "left": 4.02,
+        "top": 2.2,
+        "width": 0.65,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1533,
+        "top": 0.2924,
+        "width": 0.0485,
+        "height": 0.0701,
+        "right": 0.2018,
+        "bottom": 0.3625
+      },
+      "position_inches": {
+        "left": 2.04,
+        "top": 2.19,
+        "width": 0.65,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4712,
+        "top": 0.4902,
+        "width": 0.4958,
+        "height": 0.1713,
+        "right": 0.967,
+        "bottom": 0.6615
+      },
+      "position_inches": {
+        "left": 6.28,
+        "top": 3.68,
+        "width": 6.61,
+        "height": 1.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Synthesized opportunities Applied prioritization f"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4712,
+        "top": 0.238,
+        "width": 0.4958,
+        "height": 0.1713,
+        "right": 0.967,
+        "bottom": 0.4093
+      },
+      "position_inches": {
+        "left": 6.28,
+        "top": 1.78,
+        "width": 6.61,
+        "height": 1.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Initiated data request to all teams and division h"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4712,
+        "top": 0.7424,
+        "width": 0.4958,
+        "height": 0.1713,
+        "right": 0.967,
+        "bottom": 0.9138
+      },
+      "position_inches": {
+        "left": 6.28,
+        "top": 5.57,
+        "width": 6.61,
+        "height": 1.28
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Finalized opportunities presented to Executive Lea"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1027,
+        "top": 0.1084,
+        "right": 0.4013,
+        "bottom": 0.9035,
+        "width": 0.2986,
+        "height": 0.7951
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.1445,
+        "top": 0.7667,
+        "right": 0.3595,
+        "bottom": 0.9283,
+        "width": 0.215,
+        "height": 0.1616
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4712,
+        "top": 0.238,
+        "right": 0.967,
+        "bottom": 0.6615,
+        "width": 0.4958,
+        "height": 0.4235
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.4712,
+        "top": 0.7424,
+        "right": 0.967,
+        "bottom": 0.9138,
+        "width": 0.4958,
+        "height": 0.1714
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.033,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.44,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "mixed_content"
+}

@@ -1,0 +1,832 @@
+{
+  "id": "e1dc4b9dd8af",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 242,
+  "layout_name": "Default",
+  "element_count": 34,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target] is set up as voluntary chain with jointly"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Potential from improved centralized sourcing and l"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5002,
+        "top": 0.2994,
+        "width": 0.0,
+        "height": 0.5984,
+        "right": 0.5002,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.25,
+        "width": 0.0,
+        "height": 4.49
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3138,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.4769,
+        "bottom": 0.3742
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.35,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Illustration of [Target] sourcing channels in curr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3138,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.9548,
+        "bottom": 0.3742
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.35,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2018Value propositions\u2019 for different entities"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3864,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3864
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.9,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3864,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3864
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.9,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1998,
+        "top": 0.4437,
+        "width": 0.1228,
+        "height": 0.0965,
+        "right": 0.3226,
+        "bottom": 0.5402
+      },
+      "position_inches": {
+        "left": 2.66,
+        "top": 3.33,
+        "width": 1.64,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Group"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6225,
+        "width": 0.1228,
+        "height": 0.0965,
+        "right": 0.1683,
+        "bottom": 0.719
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.67,
+        "width": 1.64,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[StrollerCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1998,
+        "top": 0.6225,
+        "width": 0.1228,
+        "height": 0.0965,
+        "right": 0.3226,
+        "bottom": 0.719
+      },
+      "position_inches": {
+        "left": 2.66,
+        "top": 4.67,
+        "width": 1.64,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "25 individual shops"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3541,
+        "top": 0.6225,
+        "width": 0.1228,
+        "height": 0.0965,
+        "right": 0.4769,
+        "bottom": 0.719
+      },
+      "position_inches": {
+        "left": 4.72,
+        "top": 4.67,
+        "width": 1.64,
+        "height": 0.72
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "External suppliers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1998,
+        "top": 0.8013,
+        "width": 0.1228,
+        "height": 0.0965,
+        "right": 0.3226,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 2.66,
+        "top": 6.01,
+        "width": 1.64,
+        "height": 0.72
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Benelux BabyCo]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3323,
+        "top": 0.4747,
+        "width": 0.0734,
+        "height": 0.1652,
+        "right": 0.4058,
+        "bottom": 0.6398
+      },
+      "position_inches": {
+        "left": 4.43,
+        "top": 3.56,
+        "width": 0.98,
+        "height": 1.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3323,
+        "top": 0.7017,
+        "width": 0.0734,
+        "height": 0.1652,
+        "right": 0.4058,
+        "bottom": 0.8669
+      },
+      "position_inches": {
+        "left": 4.43,
+        "top": 5.26,
+        "width": 0.98,
+        "height": 1.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1998,
+        "top": 0.492,
+        "width": 0.001,
+        "height": 0.3576,
+        "right": 0.2008,
+        "bottom": 0.8496
+      },
+      "position_inches": {
+        "left": 2.66,
+        "top": 3.69,
+        "width": 0.01,
+        "height": 2.68
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1166,
+        "top": 0.4747,
+        "width": 0.0734,
+        "height": 0.1652,
+        "right": 0.1901,
+        "bottom": 0.6398
+      },
+      "position_inches": {
+        "left": 1.56,
+        "top": 3.56,
+        "width": 0.98,
+        "height": 1.24
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3384,
+        "top": 0.5819,
+        "width": 0.001,
+        "height": 0.2743,
+        "right": 0.3394,
+        "bottom": 0.8562
+      },
+      "position_inches": {
+        "left": 4.51,
+        "top": 4.36,
+        "width": 0.01,
+        "height": 2.06
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2612,
+        "top": 0.5402,
+        "width": 0.0,
+        "height": 0.0823,
+        "right": 0.2612,
+        "bottom": 0.6225
+      },
+      "position_inches": {
+        "left": 3.48,
+        "top": 4.05,
+        "width": 0.0,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2644,
+        "top": 0.5626,
+        "width": 0.0311,
+        "height": 0.0375,
+        "right": 0.2954,
+        "bottom": 0.6001
+      },
+      "position_inches": {
+        "left": 3.52,
+        "top": 4.22,
+        "width": 0.41,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "50%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3233,
+        "top": 0.7605,
+        "width": 0.0311,
+        "height": 0.0375,
+        "right": 0.3544,
+        "bottom": 0.798
+      },
+      "position_inches": {
+        "left": 4.31,
+        "top": 5.7,
+        "width": 0.41,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "50%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6275,
+        "top": 0.4025,
+        "width": 0.1628,
+        "height": 0.0404,
+        "right": 0.7903,
+        "bottom": 0.4429
+      },
+      "position_inches": {
+        "left": 8.37,
+        "top": 3.02,
+        "width": 2.17,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Group"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.792,
+        "top": 0.4025,
+        "width": 0.1628,
+        "height": 0.0404,
+        "right": 0.9548,
+        "bottom": 0.4429
+      },
+      "position_inches": {
+        "left": 10.56,
+        "top": 3.02,
+        "width": 2.17,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "25 individual shops"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.4552,
+        "width": 0.1024,
+        "height": 0.1359,
+        "right": 0.6258,
+        "bottom": 0.5911
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 3.41,
+        "width": 1.37,
+        "height": 1.02
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Key  proposition"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.6086,
+        "width": 0.1024,
+        "height": 0.1359,
+        "right": 0.6258,
+        "bottom": 0.7445
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 4.56,
+        "width": 1.37,
+        "height": 1.02
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Details"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.7619,
+        "width": 0.1024,
+        "height": 0.1359,
+        "right": 0.6258,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 5.71,
+        "width": 1.37,
+        "height": 1.02
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Improvement opportunities through capital chain"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6275,
+        "top": 0.4552,
+        "width": 0.1628,
+        "height": 0.1359,
+        "right": 0.7903,
+        "bottom": 0.5911
+      },
+      "position_inches": {
+        "left": 8.37,
+        "top": 3.41,
+        "width": 2.17,
+        "height": 1.02
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Chain concept, development, branding and marketing"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6275,
+        "top": 0.6086,
+        "width": 0.1628,
+        "height": 0.1359,
+        "right": 0.7903,
+        "bottom": 0.7445
+      },
+      "position_inches": {
+        "left": 8.37,
+        "top": 4.56,
+        "width": 2.17,
+        "height": 1.02
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "~50% of total group sourcing Sourcing of more than"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6275,
+        "top": 0.7619,
+        "width": 0.3268,
+        "height": 0.1359,
+        "right": 0.9543,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 8.37,
+        "top": 5.71,
+        "width": 4.36,
+        "height": 1.02
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Rationalize and streamline product assortment acro"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.792,
+        "top": 0.4552,
+        "width": 0.1623,
+        "height": 0.0808,
+        "right": 0.9543,
+        "bottom": 0.536
+      },
+      "position_inches": {
+        "left": 10.56,
+        "top": 3.41,
+        "width": 2.16,
+        "height": 0.61
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Retail sales channel Domestic sourcing Local wareh"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.792,
+        "top": 0.6086,
+        "width": 0.1622,
+        "height": 0.1359,
+        "right": 0.9543,
+        "bottom": 0.7445
+      },
+      "position_inches": {
+        "left": 10.56,
+        "top": 4.56,
+        "width": 2.16,
+        "height": 1.02
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "~50% of total group sourcing Sources from 140-150"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.7532,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.7532
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 5.65,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.5998,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.5998
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 4.5,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Interviews; [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8978,
+        "width": 0.909,
+        "height": 0.7055
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3138,
+        "right": 0.4769,
+        "bottom": 0.8496,
+        "width": 0.4314,
+        "height": 0.5358
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.3138,
+        "right": 0.9548,
+        "bottom": 0.7532,
+        "width": 0.4314,
+        "height": 0.4394
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.1998,
+        "top": 0.8013,
+        "right": 0.3226,
+        "bottom": 0.8978,
+        "width": 0.1228,
+        "height": 0.0965
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7619,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.2233
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6275,
+        "top": 0.7619,
+        "right": 0.9543,
+        "bottom": 0.8978,
+        "width": 0.3268,
+        "height": 0.1359
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 34
+  },
+  "category": "multi_column"
+}

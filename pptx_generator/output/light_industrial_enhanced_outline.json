@@ -1,0 +1,361 @@
+{
+  "presentation_type": "investment_pitch",
+  "title": "Sun Belt Light Industrial Fund I",
+  "subtitle": "$150M Value-Add Investment Strategy",
+  "context": {
+    "fund_size": "$150M",
+    "strategy": "Light Industrial / Small-Bay Warehouse",
+    "geography": "US Sun Belt Secondary Markets",
+    "sector": "industrial",
+    "target_irr": "15-18%"
+  },
+  "sections": [
+    {
+      "name": "Title",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Sun Belt Light Industrial Fund I",
+            "subtitle": "$150M Value-Add Investment Strategy | Q1 2025"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Executive Summary",
+      "slides": [
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Investment Opportunity",
+            "bullets": [
+              "Target: $150M equity fund focused on light industrial assets in high-growth Sun Belt markets",
+              "Strategy: Acquire small-bay warehouse and flex industrial properties with value-add potential",
+              "Target Returns: 15-18% Net IRR with 1.7-2.0x equity multiple over 5-year hold period",
+              "Markets: Dallas-Fort Worth, Phoenix, Nashville, Charlotte, Tampa, and Austin",
+              "Thesis: E-commerce growth and supply chain reshoring driving unprecedented demand for last-mile facilities"
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Fund Overview",
+            "metrics": [
+              {"label": "Target Fund Size", "value": "$150M"},
+              {"label": "Target IRR", "value": "15-18%"},
+              {"label": "Equity Multiple", "value": "1.7-2.0x"},
+              {"label": "Hold Period", "value": "5 Years"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Market Opportunity",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Market Opportunity"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Light Industrial: The Strongest CRE Sector",
+            "bullets": [
+              "US industrial vacancy at historic low of 4.1% nationally, sub-3% in target markets",
+              "E-commerce penetration grew from 14% to 22% post-pandemic, driving 3x demand for warehouse space",
+              "Small-bay segment (<100K SF) outperforming with 8.2% rent growth YoY vs 5.1% for big-box",
+              "Supply chain reshoring adding 350,000+ manufacturing jobs since 2021",
+              "Sun Belt population growth 2x national average, driving tenant demand"
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Industrial Rent Growth by Segment",
+            "chart_data": {
+              "type": "column",
+              "categories": ["Big Box >500K SF", "Mid-Bay 100-500K SF", "Small-Bay <100K SF", "Flex Industrial"],
+              "series": [
+                {"name": "YoY Rent Growth %", "values": [5.1, 6.8, 8.2, 7.4]}
+              ]
+            },
+            "narrative": "Source: CoStar, CBRE Research Q3 2024. Small-bay industrial leads all segments."
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Target Market Fundamentals",
+            "headers": ["Market", "Vacancy %", "Rent Growth", "Population Growth", "Job Growth"],
+            "data": [
+              ["Dallas-Fort Worth", "3.8%", "9.2%", "2.1%", "3.4%"],
+              ["Phoenix", "3.2%", "11.4%", "2.8%", "4.1%"],
+              ["Nashville", "2.9%", "8.7%", "2.3%", "3.8%"],
+              ["Charlotte", "3.5%", "7.9%", "2.0%", "3.2%"],
+              ["Tampa", "3.1%", "10.2%", "2.4%", "3.5%"],
+              ["Austin", "4.2%", "8.1%", "3.1%", "4.5%"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Investment Strategy",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Investment Strategy"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Value-Add Approach",
+            "bullets": [
+              "Target: Small-bay warehouse (20K-100K SF) and flex industrial properties",
+              "Acquisition criteria: 70-85% occupied, below-market rents, deferred maintenance",
+              "Value creation: Lease-up to 95%+, mark-to-market rents, light capex improvements",
+              "Hold period: 3-5 years with exit to institutional buyers or 1031 exchange buyers",
+              "Leverage: 55-65% LTV with fixed-rate debt to protect against rate volatility"
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Investment Criteria",
+            "left_column": {
+              "header": "Target Profile",
+              "bullets": [
+                "Asset size: 20,000 - 100,000 SF",
+                "Multi-tenant small-bay format",
+                "1990+ construction or renovated",
+                "Clear height: 18-24 feet",
+                "Truck court and loading"
+              ]
+            },
+            "right_column": {
+              "header": "Value-Add Drivers",
+              "bullets": [
+                "Below-market in-place rents",
+                "Lease-up from 70% to 95%+",
+                "Deferred maintenance cure",
+                "Tenant improvement allowances",
+                "Energy efficiency upgrades"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Target Acquisition Metrics",
+            "metrics": [
+              {"label": "Going-In Cap Rate", "value": "6.0-6.5%"},
+              {"label": "Stabilized Yield", "value": "7.5-8.0%"},
+              {"label": "Exit Cap Rate", "value": "5.75-6.25%"},
+              {"label": "Avg Deal Size", "value": "$8-15M"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Track Record",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Track Record"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Proven Industrial Investment Experience",
+            "bullets": [
+              "Management team has deployed $420M+ across 45 industrial transactions since 2015",
+              "Realized gross IRR of 22.4% and 2.1x equity multiple on exited deals",
+              "Zero principal losses across all investments",
+              "Deep relationships with regional brokers, lenders, and tenants",
+              "Vertically integrated platform with in-house property management"
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Representative Realized Investments",
+            "headers": ["Property", "Market", "Size (SF)", "Hold Period", "Equity Multiple", "IRR"],
+            "data": [
+              ["Southport Business Park", "Nashville", "68,000", "3.2 years", "2.4x", "28.5%"],
+              ["Mesa Industrial Center", "Phoenix", "92,000", "4.1 years", "2.1x", "21.2%"],
+              ["DFW Flex Portfolio", "Dallas", "145,000", "3.8 years", "1.9x", "19.8%"],
+              ["Charlotte Commerce", "Charlotte", "54,000", "2.9 years", "2.2x", "26.1%"],
+              ["Tampa Bay Logistics", "Tampa", "78,000", "4.5 years", "1.8x", "17.4%"]
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Firm-Wide Performance Summary",
+            "metrics": [
+              {"label": "Total Deployed", "value": "$420M+"},
+              {"label": "Transactions", "value": "45"},
+              {"label": "Avg Gross IRR", "value": "22.4%"},
+              {"label": "Loss Ratio", "value": "0%"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pipeline",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Current Pipeline"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Identified Investment Opportunities",
+            "headers": ["Property", "Market", "Size (SF)", "Price", "Cap Rate", "Status"],
+            "data": [
+              ["Metroplex Industrial Park", "Dallas-Fort Worth", "85,000", "$12.8M", "6.2%", "LOI Submitted"],
+              ["Camelback Flex Center", "Phoenix", "62,000", "$9.4M", "6.4%", "Due Diligence"],
+              ["Music City Warehouse", "Nashville", "48,000", "$7.2M", "6.1%", "Under Contract"],
+              ["I-485 Business Center", "Charlotte", "71,000", "$10.5M", "6.3%", "LOI Submitted"],
+              ["Tampa Gateway", "Tampa", "55,000", "$8.1M", "6.5%", "Preliminary Review"]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Pipeline Summary",
+            "bullets": [
+              "5 properties totaling 321,000 SF and $48M in potential acquisitions",
+              "Weighted average going-in cap rate of 6.3%",
+              "All properties meet core investment criteria with clear value-add path",
+              "Expect to deploy 30-40% of fund within first 12 months",
+              "Robust deal flow from established broker relationships in target markets"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Risk Factors",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Risk Factors & Mitigants"
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Key Risks and Mitigants",
+            "left_column": {
+              "header": "Risk Factors",
+              "bullets": [
+                "Interest rate volatility",
+                "Economic recession impact",
+                "New supply in target markets",
+                "Tenant credit risk",
+                "Execution risk on renovations"
+              ]
+            },
+            "right_column": {
+              "header": "Mitigating Strategies",
+              "bullets": [
+                "Fixed-rate debt, conservative LTV",
+                "Essential-use tenants, diverse base",
+                "Focus on infill locations",
+                "Credit underwriting, security deposits",
+                "Experienced in-house team"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Fund Terms",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Fund Terms & Structure"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Summary of Terms",
+            "headers": ["Term", "Details"],
+            "data": [
+              ["Fund Size", "$150 million target ($175M hard cap)"],
+              ["Minimum Commitment", "$1 million"],
+              ["Management Fee", "1.5% on committed capital (investment period), 1.25% on invested capital (thereafter)"],
+              ["Carried Interest", "20% over 8% preferred return"],
+              ["Preferred Return", "8% compounded annually"],
+              ["Investment Period", "3 years"],
+              ["Fund Term", "7 years (2 one-year extensions)"],
+              ["GP Commitment", "2% of fund size ($3M)"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Team",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Investment Team"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Experienced Leadership",
+            "bullets": [
+              "John Smith, Managing Partner - 20+ years industrial RE experience, former CBRE Industrial",
+              "Sarah Johnson, Partner - 15 years acquisitions, $2B+ transaction experience",
+              "Michael Chen, VP Acquisitions - 10 years underwriting and deal execution",
+              "Lisa Rodriguez, VP Asset Management - 12 years property management and leasing",
+              "David Park, CFO - 18 years fund administration and investor relations"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Thank You",
+            "subtitle": "Investor Relations: ir@sunbeltindustrial.com | (555) 123-4567"
+          }
+        }
+      ]
+    }
+  ],
+  "estimated_slide_count": 24
+}

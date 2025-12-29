@@ -1,0 +1,543 @@
+{
+  "id": "a0c1d9c7d965",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 164,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target] delivers continuing high retail sales gro"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.044,
+        "top": 0.4204,
+        "width": 0.5966,
+        "height": 0.4373,
+        "right": 0.6406,
+        "bottom": 0.8576
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 3.15,
+        "width": 7.96,
+        "height": 3.28
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1279,
+        "top": 0.4297,
+        "width": 0.4649,
+        "height": 0.1167,
+        "right": 0.5929,
+        "bottom": 0.5464
+      },
+      "position_inches": {
+        "left": 1.71,
+        "top": 3.22,
+        "width": 6.2,
+        "height": 0.88
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3237,
+        "top": 0.4649,
+        "width": 0.0735,
+        "height": 0.0482,
+        "right": 0.3972,
+        "bottom": 0.513
+      },
+      "position_inches": {
+        "left": 4.32,
+        "top": 3.49,
+        "width": 0.98,
+        "height": 0.36
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "7.8%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.2596,
+        "width": 0.5984,
+        "height": 0.0624,
+        "right": 0.6443,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.95,
+        "width": 7.98,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] has shown consistent growth across last 5"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3343,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.6443,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3506,
+        "width": 0.1689,
+        "height": 0.0404,
+        "right": 0.2147,
+        "bottom": 0.391
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.63,
+        "width": 2.25,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target] retail sales, EUR B"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.2596,
+        "width": 0.29,
+        "height": 0.0624,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 1.95,
+        "width": 3.87,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comment"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6546,
+        "top": 0.2417,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.6546,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 8.73,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.3343,
+        "width": 0.29,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 2.51,
+        "width": 3.87,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.372,
+        "width": 0.29,
+        "height": 0.2199,
+        "right": 0.9548,
+        "bottom": 0.5919
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 2.79,
+        "width": 3.87,
+        "height": 1.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target]\u2019s retail sales have delivered high and st"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] data; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.8672,
+        "width": 0.0683,
+        "height": 0.0539,
+        "right": 0.1141,
+        "bottom": 0.9211
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.5,
+        "width": 0.91,
+        "height": 0.4
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "YoY growth:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2828,
+        "top": 0.8775,
+        "width": 0.0599,
+        "height": 0.0333,
+        "right": 0.3427,
+        "bottom": 0.9108
+      },
+      "position_inches": {
+        "left": 3.77,
+        "top": 6.58,
+        "width": 0.8,
+        "height": 0.25
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "7.2%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3735,
+        "top": 0.8775,
+        "width": 0.0599,
+        "height": 0.0333,
+        "right": 0.4334,
+        "bottom": 0.9108
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 6.58,
+        "width": 0.8,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "6.1%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4643,
+        "top": 0.8775,
+        "width": 0.0599,
+        "height": 0.0333,
+        "right": 0.5242,
+        "bottom": 0.9108
+      },
+      "position_inches": {
+        "left": 6.19,
+        "top": 6.58,
+        "width": 0.8,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "9.1%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5551,
+        "top": 0.8775,
+        "width": 0.0599,
+        "height": 0.0333,
+        "right": 0.615,
+        "bottom": 0.9108
+      },
+      "position_inches": {
+        "left": 7.4,
+        "top": 6.58,
+        "width": 0.8,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "8.8%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.192,
+        "top": 0.8775,
+        "width": 0.0599,
+        "height": 0.0333,
+        "right": 0.2519,
+        "bottom": 0.9108
+      },
+      "position_inches": {
+        "left": 2.56,
+        "top": 6.58,
+        "width": 0.8,
+        "height": 0.25
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "8.0%"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.044,
+        "top": 0.2417,
+        "right": 0.6546,
+        "bottom": 0.8978,
+        "width": 0.6106,
+        "height": 0.6561
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0458,
+        "top": 0.3506,
+        "right": 0.2147,
+        "bottom": 0.391,
+        "width": 0.1689,
+        "height": 0.0404
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6649,
+        "top": 0.2596,
+        "right": 0.9548,
+        "bottom": 0.5919,
+        "width": 0.2899,
+        "height": 0.3323
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8775,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.1077
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0458,
+        "top": 0.8672,
+        "right": 0.3427,
+        "bottom": 0.9211,
+        "width": 0.2969,
+        "height": 0.0539
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0452,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "multi_column"
+}

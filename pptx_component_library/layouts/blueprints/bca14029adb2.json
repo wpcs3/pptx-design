@@ -1,0 +1,677 @@
+{
+  "id": "bca14029adb2",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 199,
+  "layout_name": "Default",
+  "element_count": 27,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Buyer] will need to develop a clear strategy if ["
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Possible roadmap"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3862,
+        "top": 0.2878,
+        "width": 0.024,
+        "height": 0.0427,
+        "right": 0.4102,
+        "bottom": 0.3306
+      },
+      "position_inches": {
+        "left": 5.15,
+        "top": 2.16,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5497,
+        "top": 0.2878,
+        "width": 0.024,
+        "height": 0.0427,
+        "right": 0.5737,
+        "bottom": 0.3306
+      },
+      "position_inches": {
+        "left": 7.33,
+        "top": 2.16,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7132,
+        "top": 0.2878,
+        "width": 0.024,
+        "height": 0.0427,
+        "right": 0.7372,
+        "bottom": 0.3306
+      },
+      "position_inches": {
+        "left": 9.51,
+        "top": 2.16,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8767,
+        "top": 0.2878,
+        "width": 0.024,
+        "height": 0.0427,
+        "right": 0.9007,
+        "bottom": 0.3306
+      },
+      "position_inches": {
+        "left": 11.69,
+        "top": 2.16,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "5"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3556,
+        "width": 0.0919,
+        "height": 0.2199,
+        "right": 0.1368,
+        "bottom": 0.5756
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.67,
+        "width": 1.23,
+        "height": 1.65
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Strategic objectives"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.65,
+        "width": 0.0919,
+        "height": 0.2205,
+        "right": 0.1368,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.87,
+        "width": 1.23,
+        "height": 1.65
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Actions"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6595,
+        "top": 0.3556,
+        "width": 0.1314,
+        "height": 0.2205,
+        "right": 0.7908,
+        "bottom": 0.5761
+      },
+      "position_inches": {
+        "left": 8.79,
+        "top": 2.67,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Improve German growth model and implement in new m"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.496,
+        "top": 0.3556,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.6272,
+        "bottom": 0.5761
+      },
+      "position_inches": {
+        "left": 6.61,
+        "top": 2.67,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Drive revenue synergies by improve the operating p"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8231,
+        "top": 0.3556,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.9543,
+        "bottom": 0.5761
+      },
+      "position_inches": {
+        "left": 10.98,
+        "top": 2.67,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Exit strategy"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6595,
+        "top": 0.65,
+        "width": 0.1314,
+        "height": 0.2205,
+        "right": 0.7908,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 8.79,
+        "top": 4.87,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.496,
+        "top": 0.65,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.6272,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 6.61,
+        "top": 4.87,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8231,
+        "top": 0.65,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.9543,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 10.98,
+        "top": 4.87,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5616,
+        "top": 0.5761,
+        "width": 0.0,
+        "height": 0.0739,
+        "right": 0.5616,
+        "bottom": 0.65
+      },
+      "position_inches": {
+        "left": 7.49,
+        "top": 4.32,
+        "width": 0.0,
+        "height": 0.55
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7252,
+        "top": 0.5761,
+        "width": 0.0,
+        "height": 0.0739,
+        "right": 0.7252,
+        "bottom": 0.65
+      },
+      "position_inches": {
+        "left": 9.67,
+        "top": 4.32,
+        "width": 0.0,
+        "height": 0.55
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8887,
+        "top": 0.5761,
+        "width": 0.0,
+        "height": 0.0739,
+        "right": 0.8887,
+        "bottom": 0.65
+      },
+      "position_inches": {
+        "left": 11.85,
+        "top": 4.32,
+        "width": 0.0,
+        "height": 0.55
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3326,
+        "top": 0.3556,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.4638,
+        "bottom": 0.5761
+      },
+      "position_inches": {
+        "left": 4.43,
+        "top": 2.67,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Implement cost synergies \u000b(purchasing etc.)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3326,
+        "top": 0.65,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.4638,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 4.43,
+        "top": 4.87,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3982,
+        "top": 0.5761,
+        "width": 0.0,
+        "height": 0.0739,
+        "right": 0.3982,
+        "bottom": 0.65
+      },
+      "position_inches": {
+        "left": 5.31,
+        "top": 4.32,
+        "width": 0.0,
+        "height": 0.55
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1691,
+        "top": 0.3556,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.3003,
+        "bottom": 0.5761
+      },
+      "position_inches": {
+        "left": 2.26,
+        "top": 2.67,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Develop chain office and vertical chain"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1691,
+        "top": 0.65,
+        "width": 0.1312,
+        "height": 0.2205,
+        "right": 0.3003,
+        "bottom": 0.8704
+      },
+      "position_inches": {
+        "left": 2.26,
+        "top": 4.87,
+        "width": 1.75,
+        "height": 1.65
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2347,
+        "top": 0.5761,
+        "width": 0.0,
+        "height": 0.0739,
+        "right": 0.2347,
+        "bottom": 0.65
+      },
+      "position_inches": {
+        "left": 3.13,
+        "top": 4.32,
+        "width": 0.0,
+        "height": 0.55
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2227,
+        "top": 0.2878,
+        "width": 0.024,
+        "height": 0.0427,
+        "right": 0.2467,
+        "bottom": 0.3306
+      },
+      "position_inches": {
+        "left": 2.97,
+        "top": 2.16,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9683
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8704,
+        "width": 0.909,
+        "height": 0.6781
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6595,
+        "top": 0.2878,
+        "right": 0.9543,
+        "bottom": 0.8704,
+        "width": 0.2948,
+        "height": 0.5826
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2878,
+        "right": 0.3003,
+        "bottom": 0.8704,
+        "width": 0.2554,
+        "height": 0.5826
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "right": 0.9545,
+        "bottom": 0.9683,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0317,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 27
+  },
+  "category": "multi_column"
+}

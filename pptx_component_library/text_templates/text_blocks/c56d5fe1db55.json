@@ -1,0 +1,145 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 310,
+  "pattern_type": "text_block",
+  "paragraph_count": 12,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 88,
+      "word_count": 15,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 47,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 10,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 238,
+      "word_count": 47,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 42,
+      "word_count": 7,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 34,
+      "word_count": 6,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 109,
+      "word_count": 19,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 64,
+      "word_count": 10,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 54,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 79,
+      "word_count": 15,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 28,
+      "word_count": 6,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Are all small section headers (the top left corner) correct and aligned to each section?\nAre there consistent page numbers on each page?\nIs the font type the same all the way through?\nIs the font size",
+  "usage_count": 1,
+  "id": "c56d5fe1db55"
+}

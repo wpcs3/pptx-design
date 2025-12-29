@@ -1,0 +1,96 @@
+{
+  "template": "template_business_case",
+  "slide_num": 70,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 6,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 4,
+      "word_count": 1,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 51,
+      "word_count": 8,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 93,
+      "word_count": 16,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 150,
+      "word_count": 25,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 76,
+      "word_count": 11,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 69,
+      "word_count": 9,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "How:\nStart with a high-level description of the solution\nFor new products: lay out the general concept and explain how it fits with existing offerings\nFor efficiency projects: specify which business p",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 6,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 4,
+      "1": 2
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 11.7,
+    "pattern": "two_level"
+  },
+  "id": "9151e27ce4d5"
+}

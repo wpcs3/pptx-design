@@ -1,0 +1,31 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 131,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 7,
+      "word_count": 1,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Purpose",
+  "usage_count": 6,
+  "title_style": {
+    "format": "statement",
+    "case": "title",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "9e9a9fca3801"
+}

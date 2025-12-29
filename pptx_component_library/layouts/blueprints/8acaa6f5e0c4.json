@@ -1,0 +1,408 @@
+{
+  "id": "8acaa6f5e0c4",
+  "template": "template_business_case",
+  "slide_num": 226,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.065,
+        "width": 0.909,
+        "height": 0.0935,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.49,
+        "width": 12.12,
+        "height": 0.7
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Our analysis shows absenteeism is driven by five m"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2039,
+        "width": 0.1239,
+        "height": 0.1312,
+        "right": 0.1694,
+        "bottom": 0.3351
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.53,
+        "width": 1.65,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Lower job satisfaction"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.2039,
+        "width": 0.7698,
+        "height": 0.1312,
+        "right": 0.9545,
+        "bottom": 0.3351
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 1.53,
+        "width": 10.26,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Job satisfaction has been steadily declining since"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3487,
+        "width": 0.1239,
+        "height": 0.1312,
+        "right": 0.1694,
+        "bottom": 0.4799
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.61,
+        "width": 1.65,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Higher rates of burnout /stress"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.3487,
+        "width": 0.7698,
+        "height": 0.1312,
+        "right": 0.9545,
+        "bottom": 0.4799
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 2.61,
+        "width": 10.26,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increase in stress-related sick days from 5% pre-C"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4934,
+        "width": 0.1239,
+        "height": 0.1312,
+        "right": 0.1694,
+        "bottom": 0.6247
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.7,
+        "width": 1.65,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Lack of team spirit"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.4934,
+        "width": 0.7698,
+        "height": 0.1312,
+        "right": 0.9545,
+        "bottom": 0.6247
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 3.7,
+        "width": 10.26,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "67% of employees report not feeling connection to"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6382,
+        "width": 0.1239,
+        "height": 0.1312,
+        "right": 0.1694,
+        "bottom": 0.7694
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.79,
+        "width": 1.65,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Inefficient WoW"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.6382,
+        "width": 0.7698,
+        "height": 0.1312,
+        "right": 0.9545,
+        "bottom": 0.7694
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 4.79,
+        "width": 10.26,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increase in mistakes and communications both withi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.783,
+        "width": 0.1239,
+        "height": 0.1312,
+        "right": 0.1694,
+        "bottom": 0.9142
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.87,
+        "width": 1.65,
+        "height": 0.98
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Mismatch between skill and role"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.783,
+        "width": 0.7698,
+        "height": 0.1312,
+        "right": 0.9545,
+        "bottom": 0.9142
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 5.87,
+        "width": 10.26,
+        "height": 0.98
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "35% of employees report feeling that their skill s"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Survey data; Interviews"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.065,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.0934
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2039,
+        "right": 0.1694,
+        "bottom": 0.7694,
+        "width": 0.1239,
+        "height": 0.5655
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1847,
+        "top": 0.2039,
+        "right": 0.9545,
+        "bottom": 0.7694,
+        "width": 0.7698,
+        "height": 0.5655
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.783,
+        "right": 0.1694,
+        "bottom": 0.9142,
+        "width": 0.1239,
+        "height": 0.1312
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.783,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.2022
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "mixed_content"
+}

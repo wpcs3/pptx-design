@@ -1,0 +1,32 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 16,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "center (2)",
+      "text_length": 58,
+      "word_count": 7,
+      "font_size": 18.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Change picture to match company pictures/ industry/project",
+  "usage_count": 65,
+  "title_style": {
+    "format": "statement",
+    "case": "mixed",
+    "font_size": 18.0,
+    "bold": false,
+    "alignment": "center (2)"
+  },
+  "id": "106100f3f621"
+}

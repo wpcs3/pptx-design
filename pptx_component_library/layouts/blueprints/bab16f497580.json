@@ -1,0 +1,333 @@
+{
+  "id": "bab16f497580",
+  "template": "template_business_case",
+  "slide_num": 201,
+  "layout_name": "Default",
+  "element_count": 11,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Several considerations were identified through wor"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2493,
+        "width": 0.909,
+        "height": 0.5074,
+        "right": 0.9545,
+        "bottom": 0.7566
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.87,
+        "width": 12.12,
+        "height": 3.81
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Considerations:\u000b Culture: Divisions have high degr"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.3255,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.3728
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 2.44,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.4079,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.4551
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 3.06,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.464,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.5113
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 3.48,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.5464,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.5937
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 4.1,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.6288,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.676
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 4.72,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.7177,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.7649
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 5.38,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "6"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.065,
+        "top": 0.7978,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.0916,
+        "bottom": 0.8451
+      },
+      "position_inches": {
+        "left": 0.87,
+        "top": 5.98,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "7"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2493,
+        "right": 0.9545,
+        "bottom": 0.7566,
+        "width": 0.909,
+        "height": 0.5073
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.065,
+        "top": 0.3255,
+        "right": 0.0916,
+        "bottom": 0.7649,
+        "width": 0.0266,
+        "height": 0.4394
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.065,
+        "top": 0.7978,
+        "right": 0.0916,
+        "bottom": 0.8451,
+        "width": 0.0266,
+        "height": 0.0473
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 11
+  },
+  "category": "mixed_content"
+}

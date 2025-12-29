@@ -1,0 +1,40 @@
+{
+  "type": "data_analysis",
+  "slides": [
+    {
+      "type": "data",
+      "purpose": "data_point"
+    },
+    {
+      "type": "content",
+      "purpose": "analysis"
+    },
+    {
+      "type": "data",
+      "purpose": "data_point"
+    },
+    {
+      "type": "content",
+      "purpose": "analysis"
+    },
+    {
+      "type": "data",
+      "purpose": "data_point"
+    },
+    {
+      "type": "data",
+      "purpose": "data_point"
+    },
+    {
+      "type": "content",
+      "purpose": "analysis"
+    },
+    {
+      "type": "content",
+      "purpose": "analysis"
+    }
+  ],
+  "length": 8,
+  "template": "template_market_analysis",
+  "id": "3c5d6aa3b2ef"
+}

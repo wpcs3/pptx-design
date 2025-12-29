@@ -1,0 +1,753 @@
+{
+  "id": "5bc77dd730b7",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 185,
+  "layout_name": "Default",
+  "element_count": 31,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Issue tree"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0561,
+        "top": 0.4329,
+        "width": 0.1105,
+        "height": 0.2386,
+        "right": 0.1665,
+        "bottom": 0.6715
+      },
+      "position_inches": {
+        "left": 0.75,
+        "top": 3.25,
+        "width": 1.47,
+        "height": 1.79
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Main issue]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2277,
+        "top": 0.2639,
+        "width": 0.0934,
+        "height": 0.2263,
+        "right": 0.3211,
+        "bottom": 0.4901
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 1.98,
+        "width": 1.25,
+        "height": 1.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Main drivers of issue]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2277,
+        "top": 0.6142,
+        "width": 0.0934,
+        "height": 0.2262,
+        "right": 0.3211,
+        "bottom": 0.8405
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 4.61,
+        "width": 1.25,
+        "height": 1.7
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Main drivers of issue]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1665,
+        "top": 0.377,
+        "width": 0.0611,
+        "height": 0.1752,
+        "right": 0.2277,
+        "bottom": 0.5522
+      },
+      "position_inches": {
+        "left": 2.22,
+        "top": 2.83,
+        "width": 0.82,
+        "height": 1.31
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1665,
+        "top": 0.5522,
+        "width": 0.0611,
+        "height": 0.1752,
+        "right": 0.2277,
+        "bottom": 0.7274
+      },
+      "position_inches": {
+        "left": 2.22,
+        "top": 4.14,
+        "width": 0.82,
+        "height": 1.31
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3211,
+        "top": 0.6456,
+        "width": 0.0407,
+        "height": 0.0818,
+        "right": 0.3618,
+        "bottom": 0.7274
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 4.84,
+        "width": 0.54,
+        "height": 0.61
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3618,
+        "top": 0.2639,
+        "width": 0.2209,
+        "height": 0.0629,
+        "right": 0.5827,
+        "bottom": 0.3267
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 1.98,
+        "width": 2.95,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Secondary drivers of issue]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3211,
+        "top": 0.2953,
+        "width": 0.0407,
+        "height": 0.0817,
+        "right": 0.3618,
+        "bottom": 0.377
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 2.21,
+        "width": 0.54,
+        "height": 0.61
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3211,
+        "top": 0.377,
+        "width": 0.0407,
+        "height": 0.0795,
+        "right": 0.3618,
+        "bottom": 0.4565
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 2.83,
+        "width": 0.54,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3618,
+        "top": 0.7755,
+        "width": 0.2209,
+        "height": 0.0627,
+        "right": 0.5827,
+        "bottom": 0.8381
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 5.82,
+        "width": 2.95,
+        "height": 0.47
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Secondary drivers of issue]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3211,
+        "top": 0.7274,
+        "width": 0.0407,
+        "height": 0.0794,
+        "right": 0.3618,
+        "bottom": 0.8068
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 5.46,
+        "width": 0.54,
+        "height": 0.6
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.2328,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.2905
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 1.75,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.3001,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.3578
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 2.25,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.2617,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.2953
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 1.96,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.2953,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.3289
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 2.21,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.7443,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.802
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 5.58,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.8116,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 6.09,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3618,
+        "top": 0.4252,
+        "width": 0.2209,
+        "height": 0.0627,
+        "right": 0.5827,
+        "bottom": 0.4878
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 3.19,
+        "width": 2.95,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Secondary drivers of issue]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.394,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.4517
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 2.96,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.4613,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.519
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 3.46,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.4229,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.4565
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 3.17,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.4565,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.4901
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 3.42,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3618,
+        "top": 0.6142,
+        "width": 0.2209,
+        "height": 0.0627,
+        "right": 0.5827,
+        "bottom": 0.6769
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 4.61,
+        "width": 2.95,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Secondary drivers of issue]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.5831,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.6408
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 4.37,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.619,
+        "top": 0.6504,
+        "width": 0.3314,
+        "height": 0.0577,
+        "right": 0.9504,
+        "bottom": 0.7081
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 4.88,
+        "width": 4.42,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Underlying drivers]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.6119,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.6456
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 4.59,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.6456,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.6792
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 4.84,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.7731,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.8068
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 5.8,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5827,
+        "top": 0.8068,
+        "width": 0.0363,
+        "height": 0.0336,
+        "right": 0.619,
+        "bottom": 0.8404
+      },
+      "position_inches": {
+        "left": 7.77,
+        "top": 6.05,
+        "width": 0.48,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0561,
+        "top": 0.2639,
+        "right": 0.3211,
+        "bottom": 0.8405,
+        "width": 0.265,
+        "height": 0.5766
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3211,
+        "top": 0.2617,
+        "right": 0.619,
+        "bottom": 0.8068,
+        "width": 0.2979,
+        "height": 0.5451
+      },
+      "element_count": 14,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3618,
+        "top": 0.7755,
+        "right": 0.619,
+        "bottom": 0.8404,
+        "width": 0.2572,
+        "height": 0.0649
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.619,
+        "top": 0.2328,
+        "right": 0.9504,
+        "bottom": 0.802,
+        "width": 0.3314,
+        "height": 0.5692
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.619,
+        "top": 0.8116,
+        "right": 0.9504,
+        "bottom": 0.8693,
+        "width": 0.3314,
+        "height": 0.0577
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.1307,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.98
+  },
+  "content_types": {
+    "other": 31
+  },
+  "category": "multi_column"
+}

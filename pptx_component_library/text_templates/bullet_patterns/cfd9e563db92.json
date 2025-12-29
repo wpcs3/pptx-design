@@ -1,0 +1,112 @@
+{
+  "template": "template_business_case",
+  "slide_num": 201,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 8,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 16,
+      "word_count": 1,
+      "font_size": 16.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 197,
+      "word_count": 27,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 123,
+      "word_count": 17,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 242,
+      "word_count": 34,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 238,
+      "word_count": 31,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 225,
+      "word_count": 32,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 143,
+      "word_count": 18,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 123,
+      "word_count": 20,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "sample_text": "Considerations:\u000b\nCulture: Divisions have high degree of autonomy, ingrained in culture. Feedback received from stakeholders indicates that this may be very difficult to overcome for certain opportunit",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 8,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 1,
+      "1": 7
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 22.5,
+    "pattern": "two_level"
+  },
+  "id": "cfd9e563db92"
+}

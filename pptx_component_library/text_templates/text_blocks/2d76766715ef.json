@@ -1,0 +1,35 @@
+{
+  "template": "template_business_case",
+  "slide_num": 4,
+  "pattern_type": "text_block",
+  "paragraph_count": 2,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 22,
+      "word_count": 5,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 72,
+      "word_count": 11,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Why should we do this?\nCreate the burning platform that highlights the business need for change",
+  "usage_count": 37,
+  "id": "2d76766715ef"
+}

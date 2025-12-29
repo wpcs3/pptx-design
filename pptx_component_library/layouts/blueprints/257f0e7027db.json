@@ -1,0 +1,536 @@
+{
+  "id": "257f0e7027db",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 182,
+  "layout_name": "Default",
+  "element_count": 21,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Profitability framework version 1"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0549,
+        "top": 0.4896,
+        "width": 0.1261,
+        "height": 0.1187,
+        "right": 0.181,
+        "bottom": 0.6082
+      },
+      "position_inches": {
+        "left": 0.73,
+        "top": 3.67,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Profits"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2277,
+        "top": 0.3052,
+        "width": 0.1261,
+        "height": 0.1187,
+        "right": 0.3538,
+        "bottom": 0.4239
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 2.29,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Revenues"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2277,
+        "top": 0.6739,
+        "width": 0.1261,
+        "height": 0.1187,
+        "right": 0.3538,
+        "bottom": 0.7926
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 5.05,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Costs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4005,
+        "top": 0.2132,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.5266,
+        "bottom": 0.3315
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 1.6,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Volume"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4005,
+        "top": 0.3976,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.5266,
+        "bottom": 0.5159
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 2.98,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Price per unit"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4005,
+        "top": 0.5819,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.5266,
+        "bottom": 0.7002
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 4.36,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Variable costs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4005,
+        "top": 0.7663,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.5266,
+        "bottom": 0.8846
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 5.75,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Fixed costs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5734,
+        "top": 0.4916,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.6995,
+        "bottom": 0.6099
+      },
+      "position_inches": {
+        "left": 7.64,
+        "top": 3.69,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Volume"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5734,
+        "top": 0.6691,
+        "width": 0.1261,
+        "height": 0.1183,
+        "right": 0.6995,
+        "bottom": 0.7874
+      },
+      "position_inches": {
+        "left": 7.64,
+        "top": 5.02,
+        "width": 1.68,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Cost per unit"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.181,
+        "top": 0.3645,
+        "width": 0.0467,
+        "height": 0.1844,
+        "right": 0.2277,
+        "bottom": 0.5489
+      },
+      "position_inches": {
+        "left": 2.41,
+        "top": 2.73,
+        "width": 0.62,
+        "height": 1.38
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.181,
+        "top": 0.5489,
+        "width": 0.0467,
+        "height": 0.1844,
+        "right": 0.2277,
+        "bottom": 0.7332
+      },
+      "position_inches": {
+        "left": 2.41,
+        "top": 4.12,
+        "width": 0.62,
+        "height": 1.38
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3538,
+        "top": 0.3645,
+        "width": 0.0467,
+        "height": 0.0922,
+        "right": 0.4005,
+        "bottom": 0.4567
+      },
+      "position_inches": {
+        "left": 4.72,
+        "top": 2.73,
+        "width": 0.62,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3538,
+        "top": 0.2724,
+        "width": 0.0467,
+        "height": 0.0922,
+        "right": 0.4005,
+        "bottom": 0.3645
+      },
+      "position_inches": {
+        "left": 4.72,
+        "top": 2.04,
+        "width": 0.62,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3538,
+        "top": 0.6411,
+        "width": 0.0467,
+        "height": 0.0922,
+        "right": 0.4005,
+        "bottom": 0.7332
+      },
+      "position_inches": {
+        "left": 4.72,
+        "top": 4.81,
+        "width": 0.62,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3538,
+        "top": 0.7332,
+        "width": 0.0467,
+        "height": 0.0922,
+        "right": 0.4005,
+        "bottom": 0.8254
+      },
+      "position_inches": {
+        "left": 4.72,
+        "top": 5.5,
+        "width": 0.62,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5266,
+        "top": 0.6411,
+        "width": 0.0467,
+        "height": 0.0872,
+        "right": 0.5734,
+        "bottom": 0.7283
+      },
+      "position_inches": {
+        "left": 7.02,
+        "top": 4.81,
+        "width": 0.62,
+        "height": 0.65
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5266,
+        "top": 0.5508,
+        "width": 0.0467,
+        "height": 0.0903,
+        "right": 0.5734,
+        "bottom": 0.6411
+      },
+      "position_inches": {
+        "left": 7.02,
+        "top": 4.13,
+        "width": 0.62,
+        "height": 0.68
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7462,
+        "top": 0.2132,
+        "width": 0.2055,
+        "height": 0.2317,
+        "right": 0.9517,
+        "bottom": 0.4449
+      },
+      "position_inches": {
+        "left": 9.95,
+        "top": 1.6,
+        "width": 2.74,
+        "height": 1.74
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Useful revenue segmentation: By product type By di"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7462,
+        "top": 0.4947,
+        "width": 0.2055,
+        "height": 0.3899,
+        "right": 0.9517,
+        "bottom": 0.8846
+      },
+      "position_inches": {
+        "left": 9.95,
+        "top": 3.71,
+        "width": 2.74,
+        "height": 2.92
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Variable cost examples: Raw materials Delivery Com"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0549,
+        "top": 0.3052,
+        "right": 0.3538,
+        "bottom": 0.7926,
+        "width": 0.2989,
+        "height": 0.4874
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3538,
+        "top": 0.2132,
+        "right": 0.6995,
+        "bottom": 0.8254,
+        "width": 0.3457,
+        "height": 0.6122
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.4005,
+        "top": 0.7663,
+        "right": 0.5266,
+        "bottom": 0.8846,
+        "width": 0.1261,
+        "height": 0.1183
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7462,
+        "top": 0.2132,
+        "right": 0.9517,
+        "bottom": 0.8846,
+        "width": 0.2055,
+        "height": 0.6714
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.1154,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.87
+  },
+  "content_types": {
+    "other": 21
+  },
+  "category": "multi_column"
+}

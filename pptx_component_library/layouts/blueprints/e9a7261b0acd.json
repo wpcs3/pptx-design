@@ -1,0 +1,785 @@
+{
+  "id": "e9a7261b0acd",
+  "template": "template_market_analysis",
+  "slide_num": 80,
+  "layout_name": "Default",
+  "element_count": 32,
+  "elements": [
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.1774,
+        "top": 0.295,
+        "width": 0.7771,
+        "height": 0.6304,
+        "right": 0.9545,
+        "bottom": 0.9254
+      },
+      "position_inches": {
+        "left": 2.37,
+        "top": 2.21,
+        "width": 10.36,
+        "height": 4.73
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "XX players account for xx% of market share"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3817,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3817
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.86,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4731,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4731
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.55,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5645,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5645
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.23,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7472,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7472
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.6,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8386,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.8386
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.29,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6559,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6559
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.92,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.1628,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Competitor"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2759,
+        "width": 0.1173,
+        "height": 0.0,
+        "right": 0.1628,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1775,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.2948,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 2.37,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Revenue"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.237,
+        "width": 0.117,
+        "height": 0.0314,
+        "right": 0.9545,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "CAGR 20xx-20xx"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3095,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.4268,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 4.13,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "EBIT"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4415,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.5588,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 5.89,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Profit"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5735,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.6908,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 7.65,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market share"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7055,
+        "top": 0.237,
+        "width": 0.1173,
+        "height": 0.0314,
+        "right": 0.8228,
+        "bottom": 0.2684
+      },
+      "position_inches": {
+        "left": 9.41,
+        "top": 1.78,
+        "width": 1.56,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "NPS"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7056,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.8226,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 9.41,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5736,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.6906,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 7.65,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4417,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.5587,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 5.89,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3097,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.4267,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 4.13,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1778,
+        "top": 0.2759,
+        "width": 0.117,
+        "height": 0.0,
+        "right": 0.2948,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 2.37,
+        "top": 2.07,
+        "width": 1.56,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.295,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.3771
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.21,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3863,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.4685
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.9,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4777,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.5599
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.58,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5691,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.6513
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.27,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6605,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.7426
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.95,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7518,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.834
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.64,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8432,
+        "width": 0.1173,
+        "height": 0.0822,
+        "right": 0.1628,
+        "bottom": 0.9254
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.32,
+        "width": 1.56,
+        "height": 0.62
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Competitor logo]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.237,
+        "right": 0.9545,
+        "bottom": 0.9254,
+        "width": 0.909,
+        "height": 0.6884
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8386,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.1466
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.237,
+        "right": 0.2948,
+        "bottom": 0.834,
+        "width": 0.2493,
+        "height": 0.597
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7055,
+        "top": 0.237,
+        "right": 0.9545,
+        "bottom": 0.2759,
+        "width": 0.249,
+        "height": 0.0389
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8432,
+        "right": 0.1628,
+        "bottom": 0.9254,
+        "width": 0.1173,
+        "height": 0.0822
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 32
+  },
+  "category": "multi_column"
+}

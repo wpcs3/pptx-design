@@ -1,0 +1,41 @@
+{
+  "id": "5be31d069fb9",
+  "name": "pptx_template_due_diligence_palette",
+  "template": "pptx_template_due_diligence",
+  "theme_colors": {
+    "dk1": "#000000",
+    "lt1": "#FFFFFF",
+    "dk2": "#000000",
+    "lt2": "#FFFFFF",
+    "accent1": "#051C2C",
+    "accent2": "#22A3DF",
+    "accent3": "#2222F6",
+    "accent4": "#1877A2",
+    "accent5": "#A2D5EC",
+    "accent6": "#F8BC3B",
+    "hlink": "#3478AB",
+    "folHlink": "#8B78AB"
+  },
+  "custom_colors": [
+    "#3C96B4",
+    "#C00000",
+    "#FFFFFF",
+    "#000000",
+    "#E5546C",
+    "#00B050",
+    "#E6E6E6",
+    "#F2F2F2",
+    "#000080",
+    "#061F32"
+  ],
+  "primary": "#000000",
+  "secondary": "#000000",
+  "accent1": "#051C2C",
+  "accent2": "#22A3DF",
+  "accent3": "#2222F6",
+  "accent4": "#1877A2",
+  "accent5": "#A2D5EC",
+  "accent6": "#F8BC3B",
+  "background": "#FFFFFF",
+  "background_alt": "#FFFFFF"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "bc11f9ab1a63",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 49,
+  "layout_name": "1/2 grey",
+  "element_count": 11,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.4155,
+        "height": 0.1067,
+        "right": 0.461,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 5.54,
+        "height": 0.8
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "Background"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2038,
+        "width": 0.4183,
+        "height": 0.6615,
+        "right": 0.4632,
+        "bottom": 0.8652
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.53,
+        "width": 5.58,
+        "height": 4.96
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Founded in 20xx by [Founder 1] and [Founder 2] wit"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.458,
+        "top": 0.2736,
+        "width": 0.0053,
+        "height": 0.0201,
+        "right": 0.4632,
+        "bottom": 0.2937
+      },
+      "position_inches": {
+        "left": 6.11,
+        "top": 2.05,
+        "width": 0.07,
+        "height": 0.15
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5987,
+        "top": 0.4389,
+        "width": 0.093,
+        "height": 0.1653,
+        "right": 0.6917,
+        "bottom": 0.6042
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 3.29,
+        "width": 1.24,
+        "height": 1.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.4389,
+        "width": 0.093,
+        "height": 0.1653,
+        "right": 0.9056,
+        "bottom": 0.6042
+      },
+      "position_inches": {
+        "left": 10.84,
+        "top": 3.29,
+        "width": 1.24,
+        "height": 1.24
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.662,
+        "top": 0.2576,
+        "width": 0.1804,
+        "height": 0.0792,
+        "right": 0.8424,
+        "bottom": 0.3367
+      },
+      "position_inches": {
+        "left": 8.83,
+        "top": 1.93,
+        "width": 2.41,
+        "height": 0.59
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.555,
+        "top": 0.6416,
+        "width": 0.1804,
+        "height": 0.0763,
+        "right": 0.7354,
+        "bottom": 0.7179
+      },
+      "position_inches": {
+        "left": 7.4,
+        "top": 4.81,
+        "width": 2.41,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Founder 1] CEO [LinkedIn profile]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7689,
+        "top": 0.6416,
+        "width": 0.1804,
+        "height": 0.0763,
+        "right": 0.9493,
+        "bottom": 0.7179
+      },
+      "position_inches": {
+        "left": 10.25,
+        "top": 4.81,
+        "width": 2.41,
+        "height": 0.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Founder 2] CTO [LinkedIn profile]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.461,
+        "bottom": 0.1584,
+        "width": 0.4155,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2038,
+        "right": 0.4632,
+        "bottom": 0.8652,
+        "width": 0.4183,
+        "height": 0.6614
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.458,
+        "top": 0.2736,
+        "right": 0.7354,
+        "bottom": 0.7179,
+        "width": 0.2774,
+        "height": 0.4443
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.662,
+        "top": 0.2576,
+        "right": 0.9493,
+        "bottom": 0.7179,
+        "width": 0.2873,
+        "height": 0.4603
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 11
+  },
+  "category": "multi_column"
+}

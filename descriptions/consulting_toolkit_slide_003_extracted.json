@@ -1,0 +1,298 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5
+  },
+  "background": {
+    "type": "solid",
+    "color": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "title",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.667,
+        "top_inches": 2.167,
+        "width_inches": 5.0,
+        "height_inches": 0.75
+      },
+      "text_content": {
+        "text": "Content of this template",
+        "font_name": "Arial",
+        "font_size_pt": 32,
+        "font_color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "line_top",
+      "type": "line",
+      "position": {
+        "left_inches": 0.667,
+        "top_inches": 1.0,
+        "width_inches": 12,
+        "height_inches": 0.01
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#000000"
+        },
+        "border": {
+          "color": "#000000",
+          "width_pt": 1
+        }
+      }
+    },
+    {
+      "id": "list_item_1_circle",
+      "type": "shape",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 3.167,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#00213F"
+        },
+        "border": {
+          "color": "#00213F",
+          "width_pt": 0
+        }
+      }
+    },
+    {
+      "id": "list_item_1_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.75,
+        "top_inches": 3.167,
+        "width_inches": 7.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "Business & Consulting Toolkit",
+        "font_name": "Arial",
+        "font_size_pt": 18,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "list_item_1_number",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 3.167,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "i",
+        "font_name": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#FFFFFF",
+        "bold": false,
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "list_item_2_circle",
+      "type": "shape",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 3.667,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#00213F"
+        },
+        "border": {
+          "color": "#00213F",
+          "width_pt": 0
+        }
+      }
+    },
+    {
+      "id": "list_item_2_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.75,
+        "top_inches": 3.667,
+        "width_inches": 9.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "Appendix A: Common frameworks and tools used in mgmt consulting",
+        "font_name": "Arial",
+        "font_size_pt": 18,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "list_item_2_number",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 3.667,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "ii",
+        "font_name": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#FFFFFF",
+        "bold": false,
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "list_item_3_circle",
+      "type": "shape",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 4.167,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#00213F"
+        },
+        "border": {
+          "color": "#00213F",
+          "width_pt": 0
+        }
+      }
+    },
+    {
+      "id": "list_item_3_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.75,
+        "top_inches": 4.167,
+        "width_inches": 7.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "Appendix B: Checklist and best practices for presentations",
+        "font_name": "Arial",
+        "font_size_pt": 18,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "list_item_3_number",
+      "type": "textbox",
+      "position": {
+        "left_inches": 3.333,
+        "top_inches": 4.167,
+        "width_inches": 0.333,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "iii",
+        "font_name": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#FFFFFF",
+        "bold": false,
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "template_overview_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 11.5,
+        "top_inches": 0.083,
+        "width_inches": 1.333,
+        "height_inches": 0.25
+      },
+      "text_content": {
+        "text": "Template overview",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "right"
+      }
+    },
+    {
+      "id": "company_name_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 8.667,
+        "top_inches": 6.833,
+        "width_inches": 3.333,
+        "height_inches": 0.25
+      },
+      "text_content": {
+        "text": "Company Name",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "right"
+      }
+    },
+    {
+      "id": "slide_number_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 12.333,
+        "top_inches": 6.833,
+        "width_inches": 0.333,
+        "height_inches": 0.25
+      },
+      "text_content": {
+        "text": "3",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "right"
+      }
+    },
+    {
+      "id": "line_bottom",
+      "type": "line",
+      "position": {
+        "left_inches": 0.667,
+        "top_inches": 6.667,
+        "width_inches": 12,
+        "height_inches": 0.01
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#000000"
+        },
+        "border": {
+          "color": "#000000",
+          "width_pt": 1
+        }
+      }
+    }
+  ],
+  "color_palette": [
+    "#FFFFFF",
+    "#000000",
+    "#00213F"
+  ],
+  "design_notes": "Clean and professional template slide with a simple bullet point list and a header."
+}

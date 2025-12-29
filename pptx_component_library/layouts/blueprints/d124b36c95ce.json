@@ -1,0 +1,611 @@
+{
+  "id": "d124b36c95ce",
+  "template": "template_market_analysis",
+  "slide_num": 223,
+  "layout_name": "Default",
+  "element_count": 24,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1814,
+        "top": 0.3995,
+        "width": 0.1503,
+        "height": 0.4926,
+        "right": 0.3317,
+        "bottom": 0.8921
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 3.0,
+        "width": 2.0,
+        "height": 3.69
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Forecasted data"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.4486,
+        "width": 0.2862,
+        "height": 0.4345,
+        "right": 0.3317,
+        "bottom": 0.8831
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.36,
+        "width": 3.82,
+        "height": 3.26
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1428,
+        "top": 0.516,
+        "width": 0.0386,
+        "height": 0.0347,
+        "right": 0.1814,
+        "bottom": 0.5508
+      },
+      "position_inches": {
+        "left": 1.9,
+        "top": 3.87,
+        "width": 0.51,
+        "height": 0.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "-13%"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0521,
+        "top": 0.5334,
+        "width": 0.0933,
+        "height": 0.0395,
+        "right": 0.1454,
+        "bottom": 0.5729
+      },
+      "position_inches": {
+        "left": 0.69,
+        "top": 4.0,
+        "width": 1.24,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1814,
+        "top": 0.4692,
+        "width": 0.1426,
+        "height": 0.0642,
+        "right": 0.324,
+        "bottom": 0.5334
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 3.52,
+        "width": 1.9,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2281,
+        "top": 0.4839,
+        "width": 0.0492,
+        "height": 0.0347,
+        "right": 0.2773,
+        "bottom": 0.5187
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 3.63,
+        "width": 0.66,
+        "height": 0.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "+8%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0796,
+        "top": 0.5324,
+        "width": 0.0462,
+        "height": 0.0347,
+        "right": 0.1259,
+        "bottom": 0.5671
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 3.99,
+        "width": 0.62,
+        "height": 0.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "+10%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.3635,
+        "top": 0.4025,
+        "width": 0.2729,
+        "height": 0.507,
+        "right": 0.6365,
+        "bottom": 0.9095
+      },
+      "position_inches": {
+        "left": 4.85,
+        "top": 3.02,
+        "width": 3.64,
+        "height": 3.8
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9101,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9303
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.83,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. [Sanitized]\u00a0includes [sanitized]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized], [sanitized company] Strategy"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.2864,
+        "height": 0.0624,
+        "right": 0.3319,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "The used car financing market is expected to grow"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.2864,
+        "height": 0.0,
+        "right": 0.3319,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.2552,
+        "width": 0.2864,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.3298,
+        "width": 0.2864,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6556,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6556,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.74,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.351,
+        "width": 0.2864,
+        "height": 0.5546,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 2.63,
+        "width": 3.82,
+        "height": 4.16
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "The primary method for financing used car purchase"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3568,
+        "top": 0.2552,
+        "width": 0.2864,
+        "height": 0.0624,
+        "right": 0.6432,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Majority of purchases are cash followed by [saniti"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.357,
+        "top": 0.3298,
+        "width": 0.2862,
+        "height": 0.0,
+        "right": 0.6432,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "width": 0.2236,
+        "height": 0.0269,
+        "right": 0.2691,
+        "bottom": 0.3672
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 2.98,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "UK used car financing market, B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.357,
+        "top": 0.3402,
+        "width": 0.2727,
+        "height": 0.0539,
+        "right": 0.6297,
+        "bottom": 0.3941
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.55,
+        "width": 3.64,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "UK used car financing market by type (2021), \u000b% of"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0264,
+        "width": 0.909,
+        "height": 0.132,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.2,
+        "width": 12.12,
+        "height": 0.99
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Used: [Sanitized] and [sanitized] are the two bigg"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #4"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "CAR FINANCING"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.2552,
+        "right": 0.3319,
+        "bottom": 0.8921,
+        "width": 0.2865,
+        "height": 0.6369
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3568,
+        "top": 0.2488,
+        "right": 0.6556,
+        "bottom": 0.9095,
+        "width": 0.2988,
+        "height": 0.6607
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9101,
+        "right": 0.6439,
+        "bottom": 0.9684,
+        "width": 0.5984,
+        "height": 0.0583
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6681,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.2864,
+        "height": 0.6504
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0264,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.132
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 24
+  },
+  "category": "multi_column"
+}

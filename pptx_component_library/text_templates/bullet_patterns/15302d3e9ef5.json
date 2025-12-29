@@ -1,0 +1,60 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 210,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 3,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 32,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 11,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 28,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Owned by single-store pharmacies\n~830 stores\nHealth and wellness products",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 3,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 1,
+      "1": 2
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 3.3,
+    "pattern": "two_level"
+  },
+  "id": "15302d3e9ef5"
+}

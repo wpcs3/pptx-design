@@ -1,0 +1,180 @@
+{
+  "id": "2e1db80cdeaa",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 7,
+  "layout_name": "Blank",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": -0.0,
+        "top": 0.6811,
+        "width": 1.0,
+        "height": 0.3232,
+        "right": 1.0,
+        "bottom": 1.0043
+      },
+      "position_inches": {
+        "left": -0.0,
+        "top": 5.11,
+        "width": 13.33,
+        "height": 2.42
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0273,
+        "top": 0.7396,
+        "width": 0.606,
+        "height": 0.2019,
+        "right": 0.6333,
+        "bottom": 0.9415
+      },
+      "position_inches": {
+        "left": 0.36,
+        "top": 5.55,
+        "width": 8.08,
+        "height": 1.51
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Title of document] \u000b[Subtitle, date]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8154,
+        "top": 0.7396,
+        "width": 0.1573,
+        "height": 0.2019,
+        "right": 0.9727,
+        "bottom": 0.9415
+      },
+      "position_inches": {
+        "left": 10.87,
+        "top": 5.55,
+        "width": 2.1,
+        "height": 1.51
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Company logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.749,
+        "top": 0.0585,
+        "width": 0.2237,
+        "height": 0.1333,
+        "right": 0.9727,
+        "bottom": 0.1918
+      },
+      "position_inches": {
+        "left": 9.99,
+        "top": 0.44,
+        "width": 2.98,
+        "height": 1.0
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Change picture to match company pictures/ industry"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": -0.0,
+        "top": 0.6811,
+        "right": 1.0,
+        "bottom": 1.0043,
+        "width": 1.0,
+        "height": 0.3232
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.8154,
+        "top": 0.7396,
+        "right": 0.9727,
+        "bottom": 0.9415,
+        "width": 0.1573,
+        "height": 0.2019
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.749,
+        "top": 0.0585,
+        "right": 0.9727,
+        "bottom": 0.1918,
+        "width": 0.2237,
+        "height": 0.1333
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": -0.0,
+    "right": 0.0,
+    "top": 0.0002,
+    "bottom": -0.0043,
+    "left_inches": -0.0,
+    "right_inches": 0.0,
+    "top_inches": 0.0,
+    "bottom_inches": -0.03
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

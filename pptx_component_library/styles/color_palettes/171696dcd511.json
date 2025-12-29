@@ -1,0 +1,43 @@
+{
+  "id": "171696dcd511",
+  "name": "template_market_analysis_palette",
+  "template": "template_market_analysis",
+  "theme_colors": {
+    "dk1": "#000000",
+    "lt1": "#FFFFFF",
+    "dk2": "#000000",
+    "lt2": "#FFFFFF",
+    "accent1": "#051C2C",
+    "accent2": "#22A3DF",
+    "accent3": "#2222F6",
+    "accent4": "#1877A2",
+    "accent5": "#A2D5EC",
+    "accent6": "#F8BC3B",
+    "hlink": "#3478AB",
+    "folHlink": "#8B78AB"
+  },
+  "custom_colors": [
+    "#3C96B4",
+    "#061F32",
+    "#E7E6E6",
+    "#FFFFFF",
+    "#000000",
+    "#B3B3B3",
+    "#D0D0D0",
+    "#E5546C",
+    "#E6E6E6",
+    "#00A9F4",
+    "#F2F2F2",
+    "#051C2C"
+  ],
+  "primary": "#000000",
+  "secondary": "#000000",
+  "accent1": "#051C2C",
+  "accent2": "#22A3DF",
+  "accent3": "#2222F6",
+  "accent4": "#1877A2",
+  "accent5": "#A2D5EC",
+  "accent6": "#F8BC3B",
+  "background": "#FFFFFF",
+  "background_alt": "#FFFFFF"
+}

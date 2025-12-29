@@ -1,0 +1,147 @@
+{
+  "id": "8357ca0edcd6",
+  "template": "template_market_analysis",
+  "slide_num": 256,
+  "layout_name": "Frontpage",
+  "element_count": 4,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7273,
+        "width": 0.5131,
+        "height": 0.0286,
+        "right": 0.5586,
+        "bottom": 0.7559
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.45,
+        "width": 6.84,
+        "height": 0.21
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Presentation to Pharma Inc Corporate Management"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.5968,
+        "width": 0.4681,
+        "height": 0.0449,
+        "right": 0.5134,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.48,
+        "width": 6.24,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Full market potential analysis for new pathology s"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.3674,
+        "width": 0.8525,
+        "height": 0.2117,
+        "right": 0.8978,
+        "bottom": 0.5791
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.76,
+        "width": 11.37,
+        "height": 1.59
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Unlocking the Commercial Potential in Diagnostic A"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 1.0577,
+        "top": 0.4314,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 1.0577,
+        "bottom": 0.4314
+      },
+      "position_inches": {
+        "left": 14.1,
+        "top": 3.24,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.5968,
+        "right": 0.5586,
+        "bottom": 0.7559,
+        "width": 0.5133,
+        "height": 0.1591
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.3674,
+        "right": 0.8978,
+        "bottom": 0.5791,
+        "width": 0.8525,
+        "height": 0.2117
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 1.0577,
+        "top": 0.4314,
+        "right": 1.0577,
+        "bottom": 0.4314,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0453,
+    "right": -0.0577,
+    "top": 0.3674,
+    "bottom": 0.2441,
+    "left_inches": 0.6,
+    "right_inches": -0.77,
+    "top_inches": 2.76,
+    "bottom_inches": 1.83
+  },
+  "content_types": {
+    "other": 4
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,109 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 195,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 7,
+  "max_level": 0,
+  "has_bullets": true,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": true,
+      "bullet_char": "*",
+      "alignment": "left (1)",
+      "text_length": 21,
+      "word_count": 2,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 18,
+      "word_count": 3,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 103,
+      "word_count": 15,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 81,
+      "word_count": 15,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": true,
+      "bullet_char": "*",
+      "alignment": "left (1)",
+      "text_length": 14,
+      "word_count": 2,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 90,
+      "word_count": 13,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 96,
+      "word_count": 16,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "*7-Eleven benchmark: \n10-15% of turnover\n7-Eleven HQ negotiates and gets marketing contribution from suppliers, but makes no profit on invoicing\n7-Eleven HQ holds all leases and sublets for a 5 years ",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 7,
+    "max_depth": 0,
+    "items_per_level": {
+      "0": 7
+    },
+    "bullet_chars": [
+      "*"
+    ],
+    "avg_words_per_item": 9.4,
+    "pattern": "long_list"
+  },
+  "id": "8a1364444c96"
+}

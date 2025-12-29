@@ -1,0 +1,580 @@
+{
+  "id": "8690b789c8c0",
+  "template": "template_business_case",
+  "slide_num": 5,
+  "layout_name": "Default",
+  "element_count": 22,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The template includes three full-length sanitized"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2827,
+        "width": 0.1939,
+        "height": 0.2066,
+        "right": 0.2394,
+        "bottom": 0.4893
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.12,
+        "width": 2.59,
+        "height": 1.55
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Business case for purchasing and implementing new"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2076,
+        "width": 0.1939,
+        "height": 0.0624,
+        "right": 0.2394,
+        "bottom": 0.2699
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.56,
+        "width": 2.59,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Case"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2704,
+        "width": 0.1939,
+        "height": 0.0,
+        "right": 0.2394,
+        "bottom": 0.2704
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.03,
+        "width": 2.59,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2498,
+        "top": 0.2076,
+        "width": 0.7047,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.2699
+      },
+      "position_inches": {
+        "left": 3.33,
+        "top": 1.56,
+        "width": 9.4,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Description"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2497,
+        "top": 0.2704,
+        "width": 0.7051,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.2704
+      },
+      "position_inches": {
+        "left": 3.33,
+        "top": 2.03,
+        "width": 9.4,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2498,
+        "top": 0.2827,
+        "width": 0.2992,
+        "height": 0.2066,
+        "right": 0.549,
+        "bottom": 0.4893
+      },
+      "position_inches": {
+        "left": 3.33,
+        "top": 2.12,
+        "width": 3.99,
+        "height": 1.55
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "23-page case for purchasing and implementing new s"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7902,
+        "top": 0.2943,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.9438,
+        "bottom": 0.4479
+      },
+      "position_inches": {
+        "left": 10.54,
+        "top": 2.21,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.6839,
+        "top": 0.3241,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.8375,
+        "bottom": 0.4776
+      },
+      "position_inches": {
+        "left": 9.12,
+        "top": 2.43,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5777,
+        "top": 0.2966,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.7313,
+        "bottom": 0.4502
+      },
+      "position_inches": {
+        "left": 7.7,
+        "top": 2.22,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4995,
+        "width": 0.1939,
+        "height": 0.2066,
+        "right": 0.2394,
+        "bottom": 0.7062
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.75,
+        "width": 2.59,
+        "height": 1.55
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Business case for three new HR initiatives"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2498,
+        "top": 0.4995,
+        "width": 0.2992,
+        "height": 0.2066,
+        "right": 0.549,
+        "bottom": 0.7062
+      },
+      "position_inches": {
+        "left": 3.33,
+        "top": 3.75,
+        "width": 3.99,
+        "height": 1.55
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "28-page case for combating increased employee abse"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7164,
+        "width": 0.1939,
+        "height": 0.2066,
+        "right": 0.2394,
+        "bottom": 0.923
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.37,
+        "width": 2.59,
+        "height": 1.55
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Business case for refurbishing an energy plant*"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2498,
+        "top": 0.7164,
+        "width": 0.2992,
+        "height": 0.2066,
+        "right": 0.549,
+        "bottom": 0.923
+      },
+      "position_inches": {
+        "left": 3.33,
+        "top": 5.37,
+        "width": 3.99,
+        "height": 1.55
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "12-page case example, adapted from \u201dHBR Tools for"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7902,
+        "top": 0.5112,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.9438,
+        "bottom": 0.6647
+      },
+      "position_inches": {
+        "left": 10.54,
+        "top": 3.83,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.6839,
+        "top": 0.541,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.8375,
+        "bottom": 0.6945
+      },
+      "position_inches": {
+        "left": 9.12,
+        "top": 4.06,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5777,
+        "top": 0.5135,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.7313,
+        "bottom": 0.667
+      },
+      "position_inches": {
+        "left": 7.7,
+        "top": 3.85,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7902,
+        "top": 0.7281,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.9438,
+        "bottom": 0.8816
+      },
+      "position_inches": {
+        "left": 10.54,
+        "top": 5.46,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.6839,
+        "top": 0.7578,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.8375,
+        "bottom": 0.9114
+      },
+      "position_inches": {
+        "left": 9.12,
+        "top": 5.68,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5777,
+        "top": 0.7304,
+        "width": 0.1536,
+        "height": 0.1536,
+        "right": 0.7313,
+        "bottom": 0.8839
+      },
+      "position_inches": {
+        "left": 7.7,
+        "top": 5.48,
+        "width": 2.05,
+        "height": 1.15
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "*Adapted from \u201cHBR Tools for Building Your Busines"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2076,
+        "right": 0.2394,
+        "bottom": 0.7062,
+        "width": 0.1939,
+        "height": 0.4986
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2497,
+        "top": 0.2076,
+        "right": 0.9548,
+        "bottom": 0.7062,
+        "width": 0.7051,
+        "height": 0.4986
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6839,
+        "top": 0.2943,
+        "right": 0.9438,
+        "bottom": 0.6945,
+        "width": 0.2599,
+        "height": 0.4002
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7164,
+        "right": 0.2394,
+        "bottom": 0.923,
+        "width": 0.1939,
+        "height": 0.2066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7164,
+        "right": 0.7313,
+        "bottom": 0.9852,
+        "width": 0.6929,
+        "height": 0.2688
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6839,
+        "top": 0.7281,
+        "right": 0.9438,
+        "bottom": 0.9114,
+        "width": 0.2599,
+        "height": 0.1833
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 22
+  },
+  "category": "multi_column"
+}

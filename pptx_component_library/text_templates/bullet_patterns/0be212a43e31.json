@@ -1,0 +1,178 @@
+{
+  "template": "template_business_case",
+  "slide_num": 252,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 14,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 17,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 13,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 22,
+      "word_count": 3,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 20,
+      "word_count": 4,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 16,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 16,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 55,
+      "word_count": 6,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 10,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 5,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 3,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 4,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 19,
+      "word_count": 2,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 21,
+      "word_count": 3,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 30,
+      "word_count": 4,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "sample_text": "Executive summary\nBusiness need\nBackground and context\nWhat is the problem?\nSolution options\nOptions analysis\nRecommended solution (details, benefits, cost analysis)\nFinancials\nCosts\nROI\nPlan\nImplemen",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 14,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 6,
+      "1": 8
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 2.4,
+    "pattern": "two_level"
+  },
+  "id": "0be212a43e31"
+}

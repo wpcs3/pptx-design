@@ -1,0 +1,398 @@
+{
+  "presentation_types": {
+    "market_analysis": {
+      "description": "Economic and real estate market overview",
+      "typical_sections": [
+        {
+          "name": "Executive Summary",
+          "slide_types": ["title_slide", "title_content"],
+          "content_sources": ["research", "internal_data"],
+          "slide_count": {"min": 1, "max": 3}
+        },
+        {
+          "name": "Macro Economic Overview",
+          "slide_types": ["section_divider", "data_chart", "title_content"],
+          "content_sources": ["research"],
+          "research_topics": ["GDP growth", "inflation trends", "employment data", "interest rates", "consumer sentiment"],
+          "slide_count": {"min": 3, "max": 6}
+        },
+        {
+          "name": "Real Estate Market",
+          "slide_types": ["data_chart", "two_column", "title_content", "table_slide"],
+          "content_sources": ["research", "internal_data"],
+          "research_topics": ["cap rates by market", "transaction volume", "rent growth", "vacancy rates", "new supply"],
+          "slide_count": {"min": 4, "max": 8}
+        },
+        {
+          "name": "Sector Deep Dive",
+          "slide_types": ["section_divider", "data_chart", "title_content"],
+          "content_sources": ["research"],
+          "research_topics": ["sector-specific trends", "demand drivers", "supply pipeline"],
+          "slide_count": {"min": 3, "max": 6}
+        },
+        {
+          "name": "Outlook and Recommendations",
+          "slide_types": ["title_content", "key_metrics"],
+          "content_sources": ["research", "internal_data"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Appendix",
+          "slide_types": ["title_content", "data_chart", "table_slide"],
+          "content_sources": ["research", "internal_data"],
+          "slide_count": {"min": 0, "max": 10}
+        }
+      ],
+      "typical_slide_count": {"min": 15, "max": 35}
+    },
+    "investment_pitch": {
+      "description": "Pitch for specific investment strategy or fund",
+      "typical_sections": [
+        {
+          "name": "Title",
+          "slide_types": ["title_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 1}
+        },
+        {
+          "name": "Executive Summary",
+          "slide_types": ["title_content", "key_metrics"],
+          "content_sources": ["research", "user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Company Overview",
+          "slide_types": ["title_content", "image_slide"],
+          "content_sources": ["reusable"],
+          "reusable_section": "company_overview",
+          "slide_count": {"min": 3, "max": 5}
+        },
+        {
+          "name": "Track Record",
+          "slide_types": ["data_chart", "table_slide", "key_metrics"],
+          "content_sources": ["reusable"],
+          "reusable_section": "track_record",
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Market Opportunity",
+          "slide_types": ["section_divider", "data_chart", "title_content", "two_column"],
+          "content_sources": ["research"],
+          "research_topics": ["market size", "growth drivers", "competitive landscape", "target demographics"],
+          "slide_count": {"min": 3, "max": 6}
+        },
+        {
+          "name": "Investment Strategy",
+          "slide_types": ["title_content", "two_column", "image_slide"],
+          "content_sources": ["user_input", "research"],
+          "slide_count": {"min": 3, "max": 5}
+        },
+        {
+          "name": "Pipeline / Targets",
+          "slide_types": ["title_content", "table_slide", "image_slide"],
+          "content_sources": ["user_input", "internal_data"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Risk Factors",
+          "slide_types": ["title_content", "two_column"],
+          "content_sources": ["research", "user_input"],
+          "research_topics": ["market risks", "regulatory risks", "execution risks"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Terms and Structure",
+          "slide_types": ["table_slide", "title_content"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Contact",
+          "slide_types": ["title_content"],
+          "content_sources": ["reusable"],
+          "reusable_section": "contact_info",
+          "slide_count": {"min": 1, "max": 1}
+        }
+      ],
+      "typical_slide_count": {"min": 20, "max": 35}
+    },
+    "due_diligence": {
+      "description": "Due diligence report for specific property or portfolio",
+      "typical_sections": [
+        {
+          "name": "Title",
+          "slide_types": ["title_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 1}
+        },
+        {
+          "name": "Executive Summary",
+          "slide_types": ["title_content", "key_metrics"],
+          "content_sources": ["research", "user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Property Overview",
+          "slide_types": ["section_divider", "image_slide", "title_content", "table_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 3, "max": 6}
+        },
+        {
+          "name": "Market Analysis",
+          "slide_types": ["data_chart", "title_content", "two_column"],
+          "content_sources": ["research"],
+          "research_topics": ["local market conditions", "comparable sales", "rent comparables", "demographic trends"],
+          "slide_count": {"min": 4, "max": 8}
+        },
+        {
+          "name": "Financial Analysis",
+          "slide_types": ["table_slide", "data_chart", "title_content"],
+          "content_sources": ["user_input", "internal_data"],
+          "slide_count": {"min": 4, "max": 8}
+        },
+        {
+          "name": "Risk Assessment",
+          "slide_types": ["title_content", "two_column", "table_slide"],
+          "content_sources": ["research", "user_input"],
+          "research_topics": ["physical risks", "market risks", "tenant risks", "regulatory risks"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Recommendation",
+          "slide_types": ["title_content", "key_metrics"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Appendix",
+          "slide_types": ["title_content", "table_slide", "image_slide"],
+          "content_sources": ["user_input", "internal_data"],
+          "slide_count": {"min": 0, "max": 10}
+        }
+      ],
+      "typical_slide_count": {"min": 18, "max": 40}
+    },
+    "business_case": {
+      "description": "Business case for internal initiative or investment",
+      "typical_sections": [
+        {
+          "name": "Title",
+          "slide_types": ["title_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 1}
+        },
+        {
+          "name": "Executive Summary",
+          "slide_types": ["title_content"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        },
+        {
+          "name": "Problem Statement",
+          "slide_types": ["section_divider", "title_content", "two_column"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Analysis",
+          "slide_types": ["data_chart", "title_content", "table_slide"],
+          "content_sources": ["research", "user_input"],
+          "research_topics": ["industry benchmarks", "best practices", "competitive analysis"],
+          "slide_count": {"min": 3, "max": 6}
+        },
+        {
+          "name": "Proposed Solution",
+          "slide_types": ["title_content", "two_column", "image_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 3, "max": 5}
+        },
+        {
+          "name": "Financial Impact",
+          "slide_types": ["table_slide", "data_chart", "key_metrics"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Implementation Plan",
+          "slide_types": ["title_content", "table_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Recommendation",
+          "slide_types": ["title_content"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        }
+      ],
+      "typical_slide_count": {"min": 15, "max": 30}
+    },
+    "consulting_framework": {
+      "description": "Strategic consulting framework or analysis",
+      "typical_sections": [
+        {
+          "name": "Title",
+          "slide_types": ["title_slide"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 1}
+        },
+        {
+          "name": "Situation Overview",
+          "slide_types": ["title_content", "two_column"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 2, "max": 3}
+        },
+        {
+          "name": "Analysis Framework",
+          "slide_types": ["section_divider", "image_slide", "title_content"],
+          "content_sources": ["user_input", "research"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Key Findings",
+          "slide_types": ["title_content", "data_chart", "two_column"],
+          "content_sources": ["research", "user_input"],
+          "slide_count": {"min": 4, "max": 8}
+        },
+        {
+          "name": "Strategic Options",
+          "slide_types": ["two_column", "table_slide", "title_content"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 2, "max": 4}
+        },
+        {
+          "name": "Recommendation",
+          "slide_types": ["title_content", "key_metrics"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 3}
+        },
+        {
+          "name": "Next Steps",
+          "slide_types": ["title_content"],
+          "content_sources": ["user_input"],
+          "slide_count": {"min": 1, "max": 2}
+        }
+      ],
+      "typical_slide_count": {"min": 12, "max": 25}
+    }
+  },
+  "reusable_sections": {
+    "company_overview": {
+      "description": "Standard 3-5 slides about firm history, team, AUM",
+      "update_frequency": "quarterly",
+      "source_template": "template_business_case.pptx",
+      "source_slides": [2, 3, 4, 5, 6],
+      "placeholders": ["firm_name", "aum_total", "team_size", "years_in_business"]
+    },
+    "track_record": {
+      "description": "Historical performance metrics and deal history",
+      "update_frequency": "quarterly",
+      "source_template": "template_business_case.pptx",
+      "source_slides": [7, 8, 9],
+      "placeholders": ["irr", "multiple", "deals_completed", "capital_deployed"]
+    },
+    "contact_info": {
+      "description": "Contact information and next steps",
+      "update_frequency": "as_needed",
+      "source_template": "template_business_case.pptx",
+      "source_slides": [200],
+      "placeholders": ["contact_name", "contact_email", "contact_phone"]
+    },
+    "legal_disclaimer": {
+      "description": "Standard legal disclaimer slide",
+      "update_frequency": "annual",
+      "source_template": "template_business_case.pptx",
+      "source_slides": [201],
+      "placeholders": []
+    }
+  },
+  "research_categories": {
+    "macroeconomic": {
+      "topics": ["GDP growth", "inflation", "interest rates", "employment", "consumer sentiment"],
+      "sources": ["Federal Reserve", "BLS", "BEA", "Conference Board"],
+      "update_frequency": "monthly"
+    },
+    "real_estate_market": {
+      "topics": ["cap rates", "transaction volume", "rent growth", "vacancy", "new supply", "absorption"],
+      "sources": ["CoStar", "CBRE", "JLL", "Cushman & Wakefield", "NCREIF"],
+      "update_frequency": "quarterly"
+    },
+    "sector_specific": {
+      "industrial": {
+        "topics": ["e-commerce growth", "supply chain trends", "last-mile demand", "warehouse rents"],
+        "sources": ["Prologis research", "CBRE Industrial", "SIOR"]
+      },
+      "multifamily": {
+        "topics": ["rent growth", "occupancy", "new construction", "demographic shifts"],
+        "sources": ["RealPage", "Yardi", "NMHC"]
+      },
+      "office": {
+        "topics": ["return to office trends", "sublease availability", "flight to quality"],
+        "sources": ["Kastle Systems", "JLL Office", "Savills"]
+      },
+      "retail": {
+        "topics": ["consumer spending", "store openings/closings", "e-commerce impact"],
+        "sources": ["ICSC", "Placer.ai", "RetailDive"]
+      }
+    },
+    "competitive_landscape": {
+      "topics": ["competitor positioning", "market share", "recent transactions", "fundraising activity"],
+      "sources": ["PitchBook", "Preqin", "industry publications"]
+    }
+  },
+  "slide_type_recommendations": {
+    "numerical_comparison": "data_chart",
+    "pros_cons": "two_column",
+    "timeline": "title_content",
+    "key_stats": "key_metrics",
+    "detailed_data": "table_slide",
+    "visual_content": "image_slide",
+    "narrative": "title_content",
+    "section_break": "section_divider"
+  },
+  "outline_schema": {
+    "description": "Schema for slide content in outline JSON files",
+    "slide_content_fields": {
+      "common": {
+        "title": "Slide title text",
+        "subtitle": "Subtitle or subheading (optional)",
+        "narrative": "Footer/source note (optional)"
+      },
+      "title_content": {
+        "bullets": ["Array of bullet point strings"]
+      },
+      "two_column": {
+        "left_column": {"header": "string", "bullets": ["array"]},
+        "right_column": {"header": "string", "bullets": ["array"]}
+      },
+      "data_chart": {
+        "chart_data": {
+          "type": "column | bar | line | pie | waterfall",
+          "categories": ["X-axis labels"],
+          "series": [{"name": "Series name", "values": [1, 2, 3]}]
+        },
+        "library_component_id": "Optional: ID from ComponentLibrary to use exact chart from templates"
+      },
+      "table_slide": {
+        "headers": ["Column headers"],
+        "data": [["Row 1 values"], ["Row 2 values"]],
+        "library_component_id": "Optional: ID from ComponentLibrary to use exact table from templates",
+        "use_library": "Optional: Set to true to auto-match a library component"
+      },
+      "key_metrics": {
+        "metrics": [{"label": "Metric name", "value": "$100M"}]
+      }
+    },
+    "library_integration": {
+      "description": "Use library_component_id to pull exact charts/tables from analyzed template slides",
+      "finding_component_ids": "Run 'python -m pptx_generator list-library charts' or 'list-library tables'",
+      "example": {
+        "slide_type": "data_chart",
+        "content": {
+          "title": "Revenue Growth",
+          "library_component_id": "chart_template_market_analysis_12_0"
+        }
+      }
+    }
+  }
+}

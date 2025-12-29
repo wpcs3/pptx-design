@@ -1,0 +1,257 @@
+{
+  "id": "ce8593285db1",
+  "template": "template_market_analysis",
+  "slide_num": 314,
+  "layout_name": "Default",
+  "element_count": 8,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Best practice tip: Read only titles and see if ove"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix: Checklist"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.387,
+        "width": 0.0,
+        "height": 0.5294,
+        "right": 0.5,
+        "bottom": 0.9163
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.9,
+        "width": 0.0,
+        "height": 3.97
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "width": 0.9145,
+        "height": 0.0494,
+        "right": 0.9548,
+        "bottom": 0.2802
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 1.73,
+        "width": 12.19,
+        "height": 0.37
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Zoom out on your slides and only read the titles."
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "width": 0.4428,
+        "height": 0.0494,
+        "right": 0.4831,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 2.76,
+        "width": 5.9,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Titles that don\u2019t tell a story are difficult to na"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "width": 0.431,
+        "height": 0.0494,
+        "right": 0.9548,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.76,
+        "width": 5.75,
+        "height": 0.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Coherent titles easily deliver the main points:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.4522,
+        "width": 0.4235,
+        "height": 0.386,
+        "right": 0.4638,
+        "bottom": 0.8382
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 3.39,
+        "width": 5.65,
+        "height": 2.89
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Why we believe in the mission Solutions along the"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5238,
+        "top": 0.4522,
+        "width": 0.4235,
+        "height": 0.3725,
+        "right": 0.9473,
+        "bottom": 0.8247
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 3.39,
+        "width": 5.65,
+        "height": 2.79
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Company] is building the national virtual care pl"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "right": 0.9548,
+        "bottom": 0.9163,
+        "width": 0.9145,
+        "height": 0.6855
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "right": 0.4831,
+        "bottom": 0.8382,
+        "width": 0.4428,
+        "height": 0.4706
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "right": 0.9548,
+        "bottom": 0.8247,
+        "width": 0.431,
+        "height": 0.4571
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0403,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0837,
+    "left_inches": 0.54,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 8
+  },
+  "category": "multi_column"
+}

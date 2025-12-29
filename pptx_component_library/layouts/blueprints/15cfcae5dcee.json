@@ -1,0 +1,619 @@
+{
+  "id": "15cfcae5dcee",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 202,
+  "layout_name": "Default",
+  "element_count": 23,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Porter\u2019s Five Forces"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2271,
+        "width": 0.2373,
+        "height": 0.1256,
+        "right": 0.2828,
+        "bottom": 0.3528
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.7,
+        "width": 3.16,
+        "height": 0.94
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Competition"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3696,
+        "width": 0.2373,
+        "height": 0.1256,
+        "right": 0.2828,
+        "bottom": 0.4952
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.77,
+        "width": 3.16,
+        "height": 0.94
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Threat of new entrants"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.512,
+        "width": 0.2373,
+        "height": 0.1256,
+        "right": 0.2828,
+        "bottom": 0.6377
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.84,
+        "width": 3.16,
+        "height": 0.94
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Power of suppliers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6544,
+        "width": 0.2373,
+        "height": 0.1256,
+        "right": 0.2828,
+        "bottom": 0.7801
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.91,
+        "width": 3.16,
+        "height": 0.94
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Power of customers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7969,
+        "width": 0.2373,
+        "height": 0.1256,
+        "right": 0.2828,
+        "bottom": 0.9225
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.98,
+        "width": 3.16,
+        "height": 0.94
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Threat of substitute products"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3294,
+        "top": 0.2271,
+        "width": 0.3476,
+        "height": 0.1424,
+        "right": 0.677,
+        "bottom": 0.3696
+      },
+      "position_inches": {
+        "left": 4.39,
+        "top": 1.7,
+        "width": 4.64,
+        "height": 1.07
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3,
+        "top": 0.2485,
+        "width": 0.4743,
+        "height": 0.0829,
+        "right": 0.7743,
+        "bottom": 0.3314
+      },
+      "position_inches": {
+        "left": 4.0,
+        "top": 1.86,
+        "width": 6.32,
+        "height": 0.62
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key points around competition in the indus"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3,
+        "top": 0.391,
+        "width": 0.4743,
+        "height": 0.0829,
+        "right": 0.7743,
+        "bottom": 0.4738
+      },
+      "position_inches": {
+        "left": 4.0,
+        "top": 2.93,
+        "width": 6.32,
+        "height": 0.62
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key points around new entrants e.g., barri"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3,
+        "top": 0.5334,
+        "width": 0.4743,
+        "height": 0.0829,
+        "right": 0.7743,
+        "bottom": 0.6163
+      },
+      "position_inches": {
+        "left": 4.0,
+        "top": 4.0,
+        "width": 6.32,
+        "height": 0.62
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key points around bargaining power of supp"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3,
+        "top": 0.6758,
+        "width": 0.4743,
+        "height": 0.0829,
+        "right": 0.7743,
+        "bottom": 0.7587
+      },
+      "position_inches": {
+        "left": 4.0,
+        "top": 5.07,
+        "width": 6.32,
+        "height": 0.62
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key points around bargaining power of cust"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3,
+        "top": 0.8183,
+        "width": 0.4743,
+        "height": 0.0829,
+        "right": 0.7743,
+        "bottom": 0.9011
+      },
+      "position_inches": {
+        "left": 4.0,
+        "top": 6.14,
+        "width": 6.32,
+        "height": 0.62
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert key points around threat of substitution e"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8372,
+        "top": 0.2485,
+        "width": 0.095,
+        "height": 0.0829,
+        "right": 0.9322,
+        "bottom": 0.3314
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 1.86,
+        "width": 1.27,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "High"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8372,
+        "top": 0.391,
+        "width": 0.095,
+        "height": 0.0829,
+        "right": 0.9322,
+        "bottom": 0.4738
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 2.93,
+        "width": 1.27,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Low"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8372,
+        "top": 0.5334,
+        "width": 0.095,
+        "height": 0.0829,
+        "right": 0.9322,
+        "bottom": 0.6163
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 4.0,
+        "width": 1.27,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Medium"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8372,
+        "top": 0.6758,
+        "width": 0.095,
+        "height": 0.0829,
+        "right": 0.9322,
+        "bottom": 0.7587
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 5.07,
+        "width": 1.27,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Medium"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8372,
+        "top": 0.8183,
+        "width": 0.095,
+        "height": 0.0829,
+        "right": 0.9322,
+        "bottom": 0.9011
+      },
+      "position_inches": {
+        "left": 11.16,
+        "top": 6.14,
+        "width": 1.27,
+        "height": 0.62
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "High"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3612,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3612
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.71,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5036,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5036
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.78,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6461,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6461
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.85,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7885,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7885
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.91,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2271,
+        "right": 0.2828,
+        "bottom": 0.7801,
+        "width": 0.2373,
+        "height": 0.553
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7969,
+        "right": 0.2828,
+        "bottom": 0.9225,
+        "width": 0.2373,
+        "height": 0.1256
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2271,
+        "right": 0.9545,
+        "bottom": 0.7885,
+        "width": 0.909,
+        "height": 0.5614
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3,
+        "top": 0.8183,
+        "right": 0.7743,
+        "bottom": 0.9011,
+        "width": 0.4743,
+        "height": 0.0828
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.8372,
+        "top": 0.2485,
+        "right": 0.9322,
+        "bottom": 0.7587,
+        "width": 0.095,
+        "height": 0.5102
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.8372,
+        "top": 0.8183,
+        "right": 0.9322,
+        "bottom": 0.9011,
+        "width": 0.095,
+        "height": 0.0828
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0775,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.58
+  },
+  "content_types": {
+    "other": 23
+  },
+  "category": "multi_column"
+}

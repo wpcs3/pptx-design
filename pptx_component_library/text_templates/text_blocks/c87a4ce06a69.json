@@ -1,0 +1,57 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 4,
+  "pattern_type": "text_block",
+  "paragraph_count": 4,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 24,
+      "word_count": 3,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 11,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 7,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 7,
+      "word_count": 1,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Overview of methodology:\nMethodology\nProcess\nSources",
+  "usage_count": 83,
+  "id": "c87a4ce06a69"
+}

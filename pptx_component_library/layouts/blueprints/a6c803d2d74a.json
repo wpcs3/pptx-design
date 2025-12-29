@@ -1,0 +1,296 @@
+{
+  "id": "a6c803d2d74a",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 212,
+  "layout_name": "Default",
+  "element_count": 10,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Best practice tip: Use visuals and color to highli"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix B: Checklist"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0794,
+        "top": 0.4831,
+        "width": 0.3646,
+        "height": 0.3648,
+        "right": 0.444,
+        "bottom": 0.8479
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 3.62,
+        "width": 4.86,
+        "height": 2.74
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.557,
+        "top": 0.4831,
+        "width": 0.3646,
+        "height": 0.3648,
+        "right": 0.9216,
+        "bottom": 0.8479
+      },
+      "position_inches": {
+        "left": 7.43,
+        "top": 3.62,
+        "width": 4.86,
+        "height": 2.74
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "width": 0.9145,
+        "height": 0.0853,
+        "right": 0.9548,
+        "bottom": 0.3161
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 1.73,
+        "width": 12.19,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Look at the message you want to say with your slid"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "width": 0.4428,
+        "height": 0.0494,
+        "right": 0.4831,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 2.76,
+        "width": 5.9,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Without colors or call-outs it is more time-consum"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "width": 0.431,
+        "height": 0.0494,
+        "right": 0.9548,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.76,
+        "width": 5.75,
+        "height": 0.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "With simple highlights you can call attention to t"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5845,
+        "top": 0.5939,
+        "width": 0.1393,
+        "height": 0.0683,
+        "right": 0.7238,
+        "bottom": 0.6622
+      },
+      "position_inches": {
+        "left": 7.79,
+        "top": 4.45,
+        "width": 1.86,
+        "height": 0.51
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6443,
+        "top": 0.6073,
+        "width": 0.0295,
+        "height": 0.0315,
+        "right": 0.6739,
+        "bottom": 0.6388
+      },
+      "position_inches": {
+        "left": 8.59,
+        "top": 4.55,
+        "width": 0.39,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "8%"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.387,
+        "width": 0.0,
+        "height": 0.5294,
+        "right": 0.5,
+        "bottom": 0.9163
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.9,
+        "width": 0.0,
+        "height": 3.97
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "right": 0.4831,
+        "bottom": 0.8479,
+        "width": 0.4428,
+        "height": 0.4803
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "right": 0.9548,
+        "bottom": 0.8479,
+        "width": 0.431,
+        "height": 0.4803
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "right": 0.9548,
+        "bottom": 0.9163,
+        "width": 0.9145,
+        "height": 0.6855
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0403,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0837,
+    "left_inches": 0.54,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 10
+  },
+  "category": "multi_column"
+}

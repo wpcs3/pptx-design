@@ -1,0 +1,771 @@
+{
+  "id": "ab99a0fcde9d",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 328,
+  "layout_name": "Default",
+  "element_count": 31,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Best practice tip: Use the Pyramid Principle"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix: Checklist"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "width": 0.9145,
+        "height": 0.0853,
+        "right": 0.9548,
+        "bottom": 0.3161
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 1.73,
+        "width": 12.19,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Look at how you have structured your slides and st"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "width": 0.4428,
+        "height": 0.0494,
+        "right": 0.4831,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 2.76,
+        "width": 5.9,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Starting with the detailed arguments or facts drow"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "width": 0.431,
+        "height": 0.0494,
+        "right": 0.9548,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.76,
+        "width": 5.75,
+        "height": 0.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Starting with the main conclusion focuses your aud"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.387,
+        "width": 0.0,
+        "height": 0.5294,
+        "right": 0.5,
+        "bottom": 0.9163
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.9,
+        "width": 0.0,
+        "height": 3.97
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6711,
+        "top": 0.4969,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.7986,
+        "bottom": 0.5946
+      },
+      "position_inches": {
+        "left": 8.95,
+        "top": 3.73,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "We should get a dog"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6711,
+        "top": 0.645,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.7986,
+        "bottom": 0.7426
+      },
+      "position_inches": {
+        "left": 8.95,
+        "top": 4.84,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Daily walks will be good for us"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5311,
+        "top": 0.645,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.6586,
+        "bottom": 0.7426
+      },
+      "position_inches": {
+        "left": 7.08,
+        "top": 4.84,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "We both love dogs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8111,
+        "top": 0.645,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.9386,
+        "bottom": 0.7426
+      },
+      "position_inches": {
+        "left": 10.81,
+        "top": 4.84,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "We have the time and money now"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5984,
+        "top": 0.8159,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.7259,
+        "bottom": 0.9136
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 6.12,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "We don\u2019t get enough exercise right now"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7438,
+        "top": 0.8159,
+        "width": 0.1275,
+        "height": 0.0976,
+        "right": 0.8713,
+        "bottom": 0.9136
+      },
+      "position_inches": {
+        "left": 9.92,
+        "top": 6.12,
+        "width": 1.7,
+        "height": 0.73
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "We love taking walks but just forget"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0861,
+        "top": 0.749,
+        "width": 0.1275,
+        "height": 0.1145,
+        "right": 0.2136,
+        "bottom": 0.8635
+      },
+      "position_inches": {
+        "left": 1.15,
+        "top": 5.62,
+        "width": 1.7,
+        "height": 0.86
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "We should get a dog"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2868,
+        "top": 0.5094,
+        "width": 0.1275,
+        "height": 0.1145,
+        "right": 0.4143,
+        "bottom": 0.6239
+      },
+      "position_inches": {
+        "left": 3.82,
+        "top": 3.82,
+        "width": 1.7,
+        "height": 0.86
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Daily walks will be good for us"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0861,
+        "top": 0.5094,
+        "width": 0.1275,
+        "height": 0.1145,
+        "right": 0.2136,
+        "bottom": 0.6239
+      },
+      "position_inches": {
+        "left": 1.15,
+        "top": 3.82,
+        "width": 1.7,
+        "height": 0.86
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "We love taking walks but just forget"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2868,
+        "top": 0.749,
+        "width": 0.1275,
+        "height": 0.1145,
+        "right": 0.4143,
+        "bottom": 0.8635
+      },
+      "position_inches": {
+        "left": 3.82,
+        "top": 5.62,
+        "width": 1.7,
+        "height": 0.86
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "If we had a dog we would remember to take walks"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2136,
+        "top": 0.5666,
+        "width": 0.0732,
+        "height": 0.0,
+        "right": 0.2868,
+        "bottom": 0.5666
+      },
+      "position_inches": {
+        "left": 2.85,
+        "top": 4.25,
+        "width": 0.98,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3505,
+        "top": 0.6239,
+        "width": 0.0,
+        "height": 0.1251,
+        "right": 0.3505,
+        "bottom": 0.749
+      },
+      "position_inches": {
+        "left": 4.67,
+        "top": 4.68,
+        "width": 0.0,
+        "height": 0.94
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2136,
+        "top": 0.8062,
+        "width": 0.0732,
+        "height": 0.0,
+        "right": 0.2868,
+        "bottom": 0.8062
+      },
+      "position_inches": {
+        "left": 2.85,
+        "top": 6.05,
+        "width": 0.98,
+        "height": 0.0
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0861,
+        "top": 0.4667,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.2136,
+        "bottom": 0.5071
+      },
+      "position_inches": {
+        "left": 1.15,
+        "top": 3.5,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Supporting fact"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2868,
+        "top": 0.4667,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.4143,
+        "bottom": 0.5071
+      },
+      "position_inches": {
+        "left": 3.82,
+        "top": 3.5,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Supporting fact"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2877,
+        "top": 0.7054,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.4152,
+        "bottom": 0.7458
+      },
+      "position_inches": {
+        "left": 3.84,
+        "top": 5.29,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Argument"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0861,
+        "top": 0.7054,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.2136,
+        "bottom": 0.7458
+      },
+      "position_inches": {
+        "left": 1.15,
+        "top": 5.29,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Main conclusion"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5311,
+        "top": 0.4969,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.6586,
+        "bottom": 0.5373
+      },
+      "position_inches": {
+        "left": 7.08,
+        "top": 3.73,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Main conclusion"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5311,
+        "top": 0.5996,
+        "width": 0.1275,
+        "height": 0.0404,
+        "right": 0.6586,
+        "bottom": 0.64
+      },
+      "position_inches": {
+        "left": 7.08,
+        "top": 4.5,
+        "width": 1.7,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Arguments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7348,
+        "top": 0.5946,
+        "width": 0.0,
+        "height": 0.0504,
+        "right": 0.7348,
+        "bottom": 0.645
+      },
+      "position_inches": {
+        "left": 9.8,
+        "top": 4.46,
+        "width": 0.0,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7906,
+        "top": 0.4953,
+        "width": 0.0284,
+        "height": 0.2489,
+        "right": 0.819,
+        "bottom": 0.7442
+      },
+      "position_inches": {
+        "left": 10.54,
+        "top": 3.72,
+        "width": 0.38,
+        "height": 1.87
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6507,
+        "top": 0.4953,
+        "width": 0.0284,
+        "height": 0.2489,
+        "right": 0.679,
+        "bottom": 0.7442
+      },
+      "position_inches": {
+        "left": 8.68,
+        "top": 3.72,
+        "width": 0.38,
+        "height": 1.87
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6779,
+        "top": 0.7147,
+        "width": 0.0412,
+        "height": 0.1292,
+        "right": 0.7191,
+        "bottom": 0.8439
+      },
+      "position_inches": {
+        "left": 9.04,
+        "top": 5.36,
+        "width": 0.55,
+        "height": 0.97
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7506,
+        "top": 0.7147,
+        "width": 0.0412,
+        "height": 0.1292,
+        "right": 0.7918,
+        "bottom": 0.8439
+      },
+      "position_inches": {
+        "left": 10.01,
+        "top": 5.36,
+        "width": 0.55,
+        "height": 0.97
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5984,
+        "top": 0.7814,
+        "width": 0.1023,
+        "height": 0.0269,
+        "right": 0.7007,
+        "bottom": 0.8084
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 5.86,
+        "width": 1.36,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Supporting facts"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "right": 0.9548,
+        "bottom": 0.9163,
+        "width": 0.9145,
+        "height": 0.6855
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "right": 0.4831,
+        "bottom": 0.7458,
+        "width": 0.4428,
+        "height": 0.3782
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "right": 0.9548,
+        "bottom": 0.8439,
+        "width": 0.431,
+        "height": 0.4763
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.2868,
+        "top": 0.749,
+        "right": 0.7259,
+        "bottom": 0.9136,
+        "width": 0.4391,
+        "height": 0.1646
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7438,
+        "top": 0.8159,
+        "right": 0.8713,
+        "bottom": 0.9136,
+        "width": 0.1275,
+        "height": 0.0977
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0861,
+        "top": 0.749,
+        "right": 0.2868,
+        "bottom": 0.8635,
+        "width": 0.2007,
+        "height": 0.1145
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0403,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0837,
+    "left_inches": 0.54,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 31
+  },
+  "category": "multi_column"
+}

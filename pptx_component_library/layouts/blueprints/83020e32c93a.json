@@ -1,0 +1,1285 @@
+{
+  "id": "83020e32c93a",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 295,
+  "layout_name": "Default",
+  "element_count": 55,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "List of most likely European trade buyers"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.3245,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1944,
+        "bottom": 0.3469
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 2.43,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "UK"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.3133,
+        "width": 0.181,
+        "height": 0.0449,
+        "right": 0.7475,
+        "bottom": 0.3582
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 2.35,
+        "width": 2.41,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Looking to continue expanding internationally."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.3245,
+        "width": 0.1953,
+        "height": 0.0224,
+        "right": 0.9543,
+        "bottom": 0.3469
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 2.43,
+        "width": 2.6,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Acquire leading position in Benelux."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.3021,
+        "width": 0.2742,
+        "height": 0.0673,
+        "right": 0.5462,
+        "bottom": 0.3694
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 2.27,
+        "width": 3.66,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Products for mothers-to-be, babies and children. O"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.3909,
+        "width": 0.181,
+        "height": 0.0673,
+        "right": 0.7475,
+        "bottom": 0.4582
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 2.93,
+        "width": 2.41,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Looking to continue expanding internationally, mai"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.4133,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1944,
+        "bottom": 0.4358
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 3.1,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "FR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.4021,
+        "width": 0.2742,
+        "height": 0.0449,
+        "right": 0.5462,
+        "bottom": 0.447
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 3.02,
+        "width": 3.66,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Products for mothers and children. Operations in 1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.3909,
+        "width": 0.1953,
+        "height": 0.0673,
+        "right": 0.9543,
+        "bottom": 0.4582
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 2.93,
+        "width": 2.6,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Acquire leading position in Benelux. Product expan"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.6574,
+        "width": 0.181,
+        "height": 0.0673,
+        "right": 0.7475,
+        "bottom": 0.7247
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 4.93,
+        "width": 2.41,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Further development of current [sanitized] markets"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.6798,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1945,
+        "bottom": 0.7023
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 5.1,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "SE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.6798,
+        "width": 0.2742,
+        "height": 0.0224,
+        "right": 0.5462,
+        "bottom": 0.7023
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 5.1,
+        "width": 3.66,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Largest toy retailer in Nordic market."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7584,
+        "top": 0.6686,
+        "width": 0.1959,
+        "height": 0.0449,
+        "right": 0.9543,
+        "bottom": 0.7135
+      },
+      "position_inches": {
+        "left": 10.11,
+        "top": 5.01,
+        "width": 2.61,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Expand product area.  Strengthen Benelux market po"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.591,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1944,
+        "bottom": 0.6134
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 4.43,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "DK"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.5798,
+        "width": 0.181,
+        "height": 0.0449,
+        "right": 0.7475,
+        "bottom": 0.6247
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 4.35,
+        "width": 2.41,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "International expansion. Product expansion."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.591,
+        "width": 0.2742,
+        "height": 0.0224,
+        "right": 0.5462,
+        "bottom": 0.6134
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 4.43,
+        "width": 3.66,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Home product for the bedroom, bathroom, office etc"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.5798,
+        "width": 0.1953,
+        "height": 0.0449,
+        "right": 0.9543,
+        "bottom": 0.6247
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 4.35,
+        "width": 2.6,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Product expansion while utilizing existing store n"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.5022,
+        "width": 0.181,
+        "height": 0.0224,
+        "right": 0.7475,
+        "bottom": 0.5246
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 3.77,
+        "width": 2.41,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "NA"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.5022,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1944,
+        "bottom": 0.5246
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 3.77,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "IT"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.4909,
+        "width": 0.2742,
+        "height": 0.0449,
+        "right": 0.5462,
+        "bottom": 0.5358
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 3.68,
+        "width": 3.66,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Children's clothing. Operations in 21 countries, m"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.5022,
+        "width": 0.1953,
+        "height": 0.0224,
+        "right": 0.9543,
+        "bottom": 0.5246
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 3.77,
+        "width": 2.6,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Acquire leading position in Benelux."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.7687,
+        "width": 0.0284,
+        "height": 0.0224,
+        "right": 0.1944,
+        "bottom": 0.7911
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 5.76,
+        "width": 0.38,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "UK"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7586,
+        "top": 0.7574,
+        "width": 0.1956,
+        "height": 0.0449,
+        "right": 0.9543,
+        "bottom": 0.8023
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 5.68,
+        "width": 2.61,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Strengthen market position in Europe by gaining op"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.7462,
+        "width": 0.181,
+        "height": 0.0673,
+        "right": 0.7475,
+        "bottom": 0.8135
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 5.6,
+        "width": 2.41,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Expanding internationally. Focus on becoming the n"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.7574,
+        "width": 0.2742,
+        "height": 0.0449,
+        "right": 0.5462,
+        "bottom": 0.8023
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 5.68,
+        "width": 3.66,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Children's clothing and accessories. Strong global"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.166,
+        "top": 0.8535,
+        "width": 0.0426,
+        "height": 0.0224,
+        "right": 0.2086,
+        "bottom": 0.8759
+      },
+      "position_inches": {
+        "left": 2.21,
+        "top": 6.4,
+        "width": 0.57,
+        "height": 0.17
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "FR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.8422,
+        "width": 0.2742,
+        "height": 0.0449,
+        "right": 0.5462,
+        "bottom": 0.8871
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 6.32,
+        "width": 3.66,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Children's clothing. Operations mainly in Europe,"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.8422,
+        "width": 0.181,
+        "height": 0.0449,
+        "right": 0.7475,
+        "bottom": 0.8871
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 6.32,
+        "width": 2.41,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "High focus on expanding in [sanitized]\u00a0and interna"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7586,
+        "top": 0.831,
+        "width": 0.1956,
+        "height": 0.0673,
+        "right": 0.9543,
+        "bottom": 0.8983
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 6.23,
+        "width": 2.61,
+        "height": 0.5
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Expand product area. access the Benelux region. St"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "width": 0.1008,
+        "height": 0.0369,
+        "right": 0.1463,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.87,
+        "width": 1.34,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Company Name"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2913,
+        "width": 0.1008,
+        "height": 0.0,
+        "right": 0.1463,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.18,
+        "width": 1.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.162,
+        "top": 0.2488,
+        "width": 0.0942,
+        "height": 0.0369,
+        "right": 0.2563,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 2.16,
+        "top": 1.87,
+        "width": 1.26,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Nationality"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.162,
+        "top": 0.2913,
+        "width": 0.0942,
+        "height": 0.0,
+        "right": 0.2563,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 2.16,
+        "top": 2.18,
+        "width": 1.26,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.2488,
+        "width": 0.2742,
+        "height": 0.0369,
+        "right": 0.5462,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 1.87,
+        "width": 3.66,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Profile"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.272,
+        "top": 0.2913,
+        "width": 0.2742,
+        "height": 0.0,
+        "right": 0.5462,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 2.18,
+        "width": 3.66,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.2488,
+        "width": 0.181,
+        "height": 0.0369,
+        "right": 0.7475,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 1.87,
+        "width": 2.41,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Strategy"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5665,
+        "top": 0.2913,
+        "width": 0.181,
+        "height": 0.0,
+        "right": 0.7475,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 2.18,
+        "width": 2.41,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.2488,
+        "width": 0.1953,
+        "height": 0.0369,
+        "right": 0.9543,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 1.87,
+        "width": 2.6,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Rationale"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.759,
+        "top": 0.2913,
+        "width": 0.1953,
+        "height": 0.0,
+        "right": 0.9543,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 2.18,
+        "width": 2.6,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8243,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.8243
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.18,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7355,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7355
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.52,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5578,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5578
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.18,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.469,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.469
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.52,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6466,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6466
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.85,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3801,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3801
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.85,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.311,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.3604
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 2.33,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.3999,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.4492
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 3.0,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.4887,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.5381
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 3.67,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.5775,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.6269
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 4.33,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.6664,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.7157
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 5.0,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.7552,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.8046
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 5.66,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0493,
+        "top": 0.8378,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1425,
+        "bottom": 0.8871
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 6.28,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.2563,
+        "bottom": 0.8046,
+        "width": 0.2108,
+        "height": 0.5558
+      },
+      "element_count": 16,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.9545,
+        "bottom": 0.8135,
+        "width": 0.909,
+        "height": 0.5647
+      },
+      "element_count": 21,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7584,
+        "top": 0.2488,
+        "right": 0.9543,
+        "bottom": 0.8023,
+        "width": 0.1959,
+        "height": 0.5535
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0493,
+        "top": 0.8378,
+        "right": 0.2086,
+        "bottom": 0.8871,
+        "width": 0.1593,
+        "height": 0.0493
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8243,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.1609
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7586,
+        "top": 0.831,
+        "right": 0.9543,
+        "bottom": 0.8983,
+        "width": 0.1957,
+        "height": 0.0673
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 55
+  },
+  "category": "multi_column"
+}

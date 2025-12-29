@@ -1,0 +1,525 @@
+{
+  "id": "5edbdc5e3a6e",
+  "template": "template_business_case",
+  "slide_num": 6,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The template also includes 1 Word document and 5 E"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.3404,
+        "width": 0.0,
+        "height": 0.4934,
+        "right": 0.5,
+        "bottom": 0.8338
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.55,
+        "width": 0.0,
+        "height": 3.7
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5419,
+        "top": 0.2348,
+        "width": 0.4095,
+        "height": 0.0853,
+        "right": 0.9514,
+        "bottom": 0.32
+      },
+      "position_inches": {
+        "left": 7.23,
+        "top": 1.76,
+        "width": 5.46,
+        "height": 0.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "5 Excel files to support your business case calcul"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2348,
+        "width": 0.4448,
+        "height": 0.0853,
+        "right": 0.4832,
+        "bottom": 0.32
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.76,
+        "width": 5.93,
+        "height": 0.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1 ready-to-use Word document to prepare your busin"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0672,
+        "top": 0.4806,
+        "width": 0.1825,
+        "height": 0.4199,
+        "right": 0.2497,
+        "bottom": 0.9005
+      },
+      "position_inches": {
+        "left": 0.9,
+        "top": 3.6,
+        "width": 2.43,
+        "height": 3.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.164,
+        "top": 0.4105,
+        "width": 0.1825,
+        "height": 0.4199,
+        "right": 0.3465,
+        "bottom": 0.8304
+      },
+      "position_inches": {
+        "left": 2.19,
+        "top": 3.08,
+        "width": 2.43,
+        "height": 3.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.2608,
+        "top": 0.3404,
+        "width": 0.1828,
+        "height": 0.4199,
+        "right": 0.4436,
+        "bottom": 0.7603
+      },
+      "position_inches": {
+        "left": 3.48,
+        "top": 2.55,
+        "width": 2.44,
+        "height": 3.15
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.3395,
+        "width": 0.0767,
+        "height": 0.1271,
+        "right": 0.1221,
+        "bottom": 0.4666
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 1.02,
+        "height": 0.95
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7874,
+        "top": 0.3395,
+        "width": 0.1454,
+        "height": 0.21,
+        "right": 0.9328,
+        "bottom": 0.5495
+      },
+      "position_inches": {
+        "left": 10.5,
+        "top": 2.55,
+        "width": 1.94,
+        "height": 1.57
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.67,
+        "top": 0.6375,
+        "width": 0.1769,
+        "height": 0.21,
+        "right": 0.8469,
+        "bottom": 0.8475
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 4.78,
+        "width": 2.36,
+        "height": 1.57
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8158,
+        "top": 0.6827,
+        "width": 0.1221,
+        "height": 0.21,
+        "right": 0.9379,
+        "bottom": 0.8927
+      },
+      "position_inches": {
+        "left": 10.88,
+        "top": 5.12,
+        "width": 1.63,
+        "height": 1.57
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5419,
+        "top": 0.3395,
+        "width": 0.1765,
+        "height": 0.21,
+        "right": 0.7184,
+        "bottom": 0.5495
+      },
+      "position_inches": {
+        "left": 7.23,
+        "top": 2.55,
+        "width": 2.35,
+        "height": 1.57
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5335,
+        "top": 0.5639,
+        "width": 0.2084,
+        "height": 0.0465,
+        "right": 0.742,
+        "bottom": 0.6103
+      },
+      "position_inches": {
+        "left": 7.11,
+        "top": 4.23,
+        "width": 2.78,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Back-of-the-envelope sheet to get a preliminary vi"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7631,
+        "top": 0.5639,
+        "width": 0.1941,
+        "height": 0.0465,
+        "right": 0.9572,
+        "bottom": 0.6103
+      },
+      "position_inches": {
+        "left": 10.17,
+        "top": 4.23,
+        "width": 2.59,
+        "height": 0.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comprehensive business case with costs, benefits,"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.704,
+        "top": 0.8617,
+        "width": 0.109,
+        "height": 0.0465,
+        "right": 0.813,
+        "bottom": 0.9082
+      },
+      "position_inches": {
+        "left": 9.39,
+        "top": 6.46,
+        "width": 1.45,
+        "height": 0.35
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Risk matrix"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5671,
+        "top": 0.9043,
+        "width": 0.109,
+        "height": 0.0465,
+        "right": 0.676,
+        "bottom": 0.9507
+      },
+      "position_inches": {
+        "left": 7.56,
+        "top": 6.78,
+        "width": 1.45,
+        "height": 0.35
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Options analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8224,
+        "top": 0.9043,
+        "width": 0.109,
+        "height": 0.033,
+        "right": 0.9313,
+        "bottom": 0.9373
+      },
+      "position_inches": {
+        "left": 10.96,
+        "top": 6.78,
+        "width": 1.45,
+        "height": 0.25
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Simple status tool"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8769,
+        "top": 0.3396,
+        "width": 0.0782,
+        "height": 0.127,
+        "right": 0.9551,
+        "bottom": 0.4666
+      },
+      "position_inches": {
+        "left": 11.69,
+        "top": 2.55,
+        "width": 1.04,
+        "height": 0.95
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5419,
+        "top": 0.6827,
+        "width": 0.1592,
+        "height": 0.21,
+        "right": 0.7012,
+        "bottom": 0.8927
+      },
+      "position_inches": {
+        "left": 7.23,
+        "top": 5.12,
+        "width": 2.12,
+        "height": 1.57
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2608,
+        "top": 0.3395,
+        "right": 0.742,
+        "bottom": 0.8927,
+        "width": 0.4812,
+        "height": 0.5532
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5419,
+        "top": 0.2348,
+        "right": 0.9572,
+        "bottom": 0.8927,
+        "width": 0.4153,
+        "height": 0.6579
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2348,
+        "right": 0.4832,
+        "bottom": 0.9005,
+        "width": 0.4448,
+        "height": 0.6657
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.704,
+        "top": 0.8617,
+        "right": 0.9313,
+        "bottom": 0.9373,
+        "width": 0.2273,
+        "height": 0.0756
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.5671,
+        "top": 0.9043,
+        "right": 0.676,
+        "bottom": 0.9507,
+        "width": 0.1089,
+        "height": 0.0464
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0428,
+    "top": 0.0147,
+    "bottom": 0.0493,
+    "left_inches": 0.51,
+    "right_inches": 0.57,
+    "top_inches": 0.11,
+    "bottom_inches": 0.37
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "multi_column"
+}

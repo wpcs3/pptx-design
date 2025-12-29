@@ -1,0 +1,481 @@
+{
+  "id": "56b93660a2fe",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 131,
+  "layout_name": "Default",
+  "element_count": 17,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Four key drivers ensure high customer traffic"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [Statistics bank]; Newspapers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.455,
+        "width": 0.2142,
+        "height": 0.2444,
+        "right": 0.2597,
+        "bottom": 0.6995
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.41,
+        "width": 2.86,
+        "height": 1.83
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target] uses four primary \u2019drivers\u2019 to ensure hig"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2597,
+        "top": 0.3138,
+        "width": 0.0589,
+        "height": 0.2635,
+        "right": 0.3186,
+        "bottom": 0.5773
+      },
+      "position_inches": {
+        "left": 3.46,
+        "top": 2.35,
+        "width": 0.79,
+        "height": 1.98
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2597,
+        "top": 0.4894,
+        "width": 0.0589,
+        "height": 0.0878,
+        "right": 0.3186,
+        "bottom": 0.5773
+      },
+      "position_inches": {
+        "left": 3.46,
+        "top": 3.67,
+        "width": 0.79,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2597,
+        "top": 0.5773,
+        "width": 0.0589,
+        "height": 0.0878,
+        "right": 0.3186,
+        "bottom": 0.6651
+      },
+      "position_inches": {
+        "left": 3.46,
+        "top": 4.33,
+        "width": 0.79,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2597,
+        "top": 0.5773,
+        "width": 0.0589,
+        "height": 0.2635,
+        "right": 0.3186,
+        "bottom": 0.8407
+      },
+      "position_inches": {
+        "left": 3.46,
+        "top": 4.33,
+        "width": 0.79,
+        "height": 1.98
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5083,
+        "top": 0.2478,
+        "width": 0.446,
+        "height": 0.1319,
+        "right": 0.9543,
+        "bottom": 0.3797
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 1.86,
+        "width": 5.95,
+        "height": 0.99
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] has excellent high-street locations in mo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5083,
+        "top": 0.4392,
+        "width": 0.446,
+        "height": 0.1005,
+        "right": 0.9543,
+        "bottom": 0.5397
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 3.29,
+        "width": 5.95,
+        "height": 0.75
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] has first-class brand name in German reta"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5083,
+        "top": 0.6148,
+        "width": 0.446,
+        "height": 0.1005,
+        "right": 0.9543,
+        "bottom": 0.7154
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 4.61,
+        "width": 5.95,
+        "height": 0.75
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] provides \u2019value-for-money\u2019 approach to cu"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5083,
+        "top": 0.7748,
+        "width": 0.446,
+        "height": 0.1319,
+        "right": 0.9543,
+        "bottom": 0.9067
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 5.81,
+        "width": 5.95,
+        "height": 0.99
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Target] invests a lot in store personnel's profes"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3186,
+        "top": 0.2476,
+        "width": 0.1814,
+        "height": 0.1323,
+        "right": 0.5,
+        "bottom": 0.3799
+      },
+      "position_inches": {
+        "left": 4.25,
+        "top": 1.86,
+        "width": 2.42,
+        "height": 0.99
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Location"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3186,
+        "top": 0.4233,
+        "width": 0.1814,
+        "height": 0.1323,
+        "right": 0.5,
+        "bottom": 0.5556
+      },
+      "position_inches": {
+        "left": 4.25,
+        "top": 3.17,
+        "width": 2.42,
+        "height": 0.99
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Brand/tradition"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3186,
+        "top": 0.5989,
+        "width": 0.1814,
+        "height": 0.1323,
+        "right": 0.5,
+        "bottom": 0.7312
+      },
+      "position_inches": {
+        "left": 4.25,
+        "top": 4.49,
+        "width": 2.42,
+        "height": 0.99
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Price (\u2019Value-for-money\u2019)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3186,
+        "top": 0.7746,
+        "width": 0.1814,
+        "height": 0.1323,
+        "right": 0.5,
+        "bottom": 0.9069
+      },
+      "position_inches": {
+        "left": 4.25,
+        "top": 5.81,
+        "width": 2.42,
+        "height": 0.99
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Quality / service / skilled professionals"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7746,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.909,
+        "height": 0.194
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3138,
+        "right": 0.3186,
+        "bottom": 0.8407,
+        "width": 0.2731,
+        "height": 0.5269
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5083,
+        "top": 0.2478,
+        "right": 0.9543,
+        "bottom": 0.7154,
+        "width": 0.446,
+        "height": 0.4676
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5083,
+        "top": 0.7748,
+        "right": 0.9543,
+        "bottom": 0.9067,
+        "width": 0.446,
+        "height": 0.1319
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3186,
+        "top": 0.2476,
+        "right": 0.5,
+        "bottom": 0.7312,
+        "width": 0.1814,
+        "height": 0.4836
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 17
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,418 @@
+{
+  "id": "403c158cba4c",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 8,
+  "layout_name": "Default",
+  "element_count": 15,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3957,
+        "top": 0.3703,
+        "width": 0.5588,
+        "height": 0.2582,
+        "right": 0.9545,
+        "bottom": 0.6285
+      },
+      "position_inches": {
+        "left": 5.28,
+        "top": 2.78,
+        "width": 7.45,
+        "height": 1.94
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Get inspiration"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3957,
+        "top": 0.6344,
+        "width": 0.5588,
+        "height": 0.0577,
+        "right": 0.9545,
+        "bottom": 0.6921
+      },
+      "position_inches": {
+        "left": 5.28,
+        "top": 4.76,
+        "width": 7.45,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Use if needed"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3957,
+        "top": 0.3051,
+        "width": 0.5588,
+        "height": 0.0577,
+        "right": 0.9545,
+        "bottom": 0.3628
+      },
+      "position_inches": {
+        "left": 5.28,
+        "top": 2.29,
+        "width": 7.45,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Pick-and-choose"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3957,
+        "top": 0.2365,
+        "width": 0.5588,
+        "height": 0.0576,
+        "right": 0.9545,
+        "bottom": 0.2941
+      },
+      "position_inches": {
+        "left": 5.28,
+        "top": 1.77,
+        "width": 7.45,
+        "height": 0.43
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Start here"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "How we recommend using the template (II/III)"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "width": 0.3015,
+        "height": 0.4847,
+        "right": 0.3399,
+        "bottom": 0.727
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.82,
+        "width": 4.02,
+        "height": 3.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "We recommend starting with the best practice guide"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.839,
+        "width": 0.2832,
+        "height": 0.0942,
+        "right": 0.3216,
+        "bottom": 0.9333
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.29,
+        "width": 3.78,
+        "height": 0.71
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Note: Examples have been sanitized and some number"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "width": 0.5454,
+        "height": 0.6982,
+        "right": 0.9548,
+        "bottom": 0.9405
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.82,
+        "width": 7.27,
+        "height": 5.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide Due Diligence template slides"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2417,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.289
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.81,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "i"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3116,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.3588
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.34,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "ii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3838,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.431
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.88,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.4691,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.5164
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 3.52,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iv"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.5545,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.6018
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 4.16,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "v"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.6388,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.686
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 4.79,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "vi"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.3957,
+        "top": 0.2365,
+        "right": 0.9548,
+        "bottom": 0.9405,
+        "width": 0.5591,
+        "height": 0.704
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "right": 0.3399,
+        "bottom": 0.727,
+        "width": 0.3015,
+        "height": 0.4847
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.839,
+        "right": 0.3216,
+        "bottom": 0.9333,
+        "width": 0.2832,
+        "height": 0.0943
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2417,
+        "right": 0.436,
+        "bottom": 0.686,
+        "width": 0.0266,
+        "height": 0.4443
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0595,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.45
+  },
+  "content_types": {
+    "other": 15
+  },
+  "category": "multi_column"
+}

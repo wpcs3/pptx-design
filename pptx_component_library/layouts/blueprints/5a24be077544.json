@@ -1,0 +1,593 @@
+{
+  "id": "5a24be077544",
+  "template": "template_business_case",
+  "slide_num": 245,
+  "layout_name": "Default",
+  "element_count": 22,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.013,
+        "height": 0.0231,
+        "right": 0.013,
+        "bottom": 0.0231
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.17,
+        "height": 0.17
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Project will be led by [Name Namesen] and split in"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Project structure"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4379,
+        "top": 0.2695,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.5619,
+        "bottom": 0.4113
+      },
+      "position_inches": {
+        "left": 5.84,
+        "top": 2.02,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Project Manager, Head of People and"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5891,
+        "top": 0.2527,
+        "width": 0.0528,
+        "height": 0.4111,
+        "right": 0.642,
+        "bottom": 0.6638
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 1.89,
+        "width": 0.7,
+        "height": 3.08
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3579,
+        "top": 0.2527,
+        "width": 0.0528,
+        "height": 0.4111,
+        "right": 0.4107,
+        "bottom": 0.6638
+      },
+      "position_inches": {
+        "left": 4.77,
+        "top": 1.89,
+        "width": 0.7,
+        "height": 3.08
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0524,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.1765,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 0.7,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Analyst"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2067,
+        "top": 0.5052,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.3307,
+        "bottom": 0.6469
+      },
+      "position_inches": {
+        "left": 2.76,
+        "top": 3.79,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Lead on process improvement"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6692,
+        "top": 0.5052,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.7932,
+        "bottom": 0.6469
+      },
+      "position_inches": {
+        "left": 8.92,
+        "top": 3.79,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Lead on PIP and recognition"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2068,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.3308,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 2.76,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Name Namesen] HR assistant"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3612,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.4852,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Ops expert"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6692,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.7932,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 8.92,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Name Namesen] HR assistant"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5148,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.6388,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 6.86,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Name Namesen] HR manager"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8235,
+        "top": 0.7408,
+        "width": 0.124,
+        "height": 0.1417,
+        "right": 0.9476,
+        "bottom": 0.8825
+      },
+      "position_inches": {
+        "left": 10.98,
+        "top": 5.56,
+        "width": 1.65,
+        "height": 1.06
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Name Namesen] Team representative"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1652,
+        "top": 0.5567,
+        "width": 0.0528,
+        "height": 0.2742,
+        "right": 0.218,
+        "bottom": 0.8309
+      },
+      "position_inches": {
+        "left": 2.2,
+        "top": 4.18,
+        "width": 0.7,
+        "height": 2.06
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2423,
+        "top": 0.6937,
+        "width": 0.0528,
+        "height": 0.0002,
+        "right": 0.2952,
+        "bottom": 0.694
+      },
+      "position_inches": {
+        "left": 3.23,
+        "top": 5.2,
+        "width": 0.7,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3195,
+        "top": 0.5565,
+        "width": 0.0528,
+        "height": 0.2747,
+        "right": 0.3723,
+        "bottom": 0.8312
+      },
+      "position_inches": {
+        "left": 4.26,
+        "top": 4.17,
+        "width": 0.7,
+        "height": 2.06
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7312,
+        "top": 0.6469,
+        "width": 0.0,
+        "height": 0.0939,
+        "right": 0.7312,
+        "bottom": 0.7408
+      },
+      "position_inches": {
+        "left": 9.75,
+        "top": 4.85,
+        "width": 0.0,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6276,
+        "top": 0.5566,
+        "width": 0.0528,
+        "height": 0.2744,
+        "right": 0.6804,
+        "bottom": 0.8311
+      },
+      "position_inches": {
+        "left": 8.37,
+        "top": 4.17,
+        "width": 0.7,
+        "height": 2.06
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.782,
+        "top": 0.5566,
+        "width": 0.0528,
+        "height": 0.2744,
+        "right": 0.8348,
+        "bottom": 0.8311
+      },
+      "position_inches": {
+        "left": 10.43,
+        "top": 4.17,
+        "width": 0.7,
+        "height": 2.06
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 0.013,
+        "bottom": 0.0231,
+        "width": 0.013,
+        "height": 0.0231
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8312,
+        "width": 0.909,
+        "height": 0.6389
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0524,
+        "top": 0.7408,
+        "right": 0.3308,
+        "bottom": 0.8825,
+        "width": 0.2784,
+        "height": 0.1417
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1652,
+        "top": 0.5052,
+        "right": 0.3307,
+        "bottom": 0.8309,
+        "width": 0.1655,
+        "height": 0.3257
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6692,
+        "top": 0.5052,
+        "right": 0.8348,
+        "bottom": 0.8311,
+        "width": 0.1656,
+        "height": 0.3259
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3612,
+        "top": 0.7408,
+        "right": 0.6388,
+        "bottom": 0.8825,
+        "width": 0.2776,
+        "height": 0.1417
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6692,
+        "top": 0.7408,
+        "right": 0.9476,
+        "bottom": 0.8825,
+        "width": 0.2784,
+        "height": 0.1417
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": 0.0455,
+    "top": 0.0,
+    "bottom": 0.1175,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.88
+  },
+  "content_types": {
+    "other": 22
+  },
+  "category": "multi_column"
+}

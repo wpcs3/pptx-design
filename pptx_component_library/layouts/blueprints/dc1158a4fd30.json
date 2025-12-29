@@ -1,0 +1,428 @@
+{
+  "id": "dc1158a4fd30",
+  "template": "template_business_case",
+  "slide_num": 143,
+  "layout_name": "Default",
+  "element_count": 15,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4887,
+        "top": 0.2866,
+        "width": 0.4656,
+        "height": 0.0797,
+        "right": 0.9543,
+        "bottom": 0.3663
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 2.15,
+        "width": 6.21,
+        "height": 0.6
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Ramp-up phase"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2866,
+        "width": 0.4545,
+        "height": 0.0797,
+        "right": 0.5,
+        "bottom": 0.3663
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.15,
+        "width": 6.06,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Strengthen foundation"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Need for immediate actions to secure momentum in ["
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7416,
+        "width": 0.8997,
+        "height": 0.1637,
+        "right": 0.9452,
+        "bottom": 0.9053
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.56,
+        "width": 12.0,
+        "height": 1.23
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert main goal(s) of period] [Insert initiative"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.9031,
+        "top": 0.3782,
+        "width": 0.0525,
+        "height": 0.0333,
+        "right": 0.9556,
+        "bottom": 0.4115
+      },
+      "position_inches": {
+        "left": 12.04,
+        "top": 2.84,
+        "width": 0.7,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2029"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.042,
+        "top": 0.3782,
+        "width": 0.0525,
+        "height": 0.0333,
+        "right": 0.0945,
+        "bottom": 0.4115
+      },
+      "position_inches": {
+        "left": 0.56,
+        "top": 2.84,
+        "width": 0.7,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2025"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4809,
+        "top": 0.4148,
+        "width": 0.4734,
+        "height": 0.3149,
+        "right": 0.9543,
+        "bottom": 0.7297
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 3.11,
+        "width": 6.31,
+        "height": 2.36
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert main goal(s) of period] [Insert initiative"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4148,
+        "width": 0.4656,
+        "height": 0.3149,
+        "right": 0.5111,
+        "bottom": 0.7297
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.11,
+        "width": 6.21,
+        "height": 2.36
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert main goal(s) of period] [Insert initiative"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2572,
+        "top": 0.3782,
+        "width": 0.0525,
+        "height": 0.0333,
+        "right": 0.3097,
+        "bottom": 0.4115
+      },
+      "position_inches": {
+        "left": 3.43,
+        "top": 2.84,
+        "width": 0.7,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4725,
+        "top": 0.3782,
+        "width": 0.0525,
+        "height": 0.0333,
+        "right": 0.525,
+        "bottom": 0.4115
+      },
+      "position_inches": {
+        "left": 6.3,
+        "top": 2.84,
+        "width": 0.7,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2027"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6878,
+        "top": 0.3782,
+        "width": 0.0525,
+        "height": 0.0333,
+        "right": 0.7403,
+        "bottom": 0.4115
+      },
+      "position_inches": {
+        "left": 9.17,
+        "top": 2.84,
+        "width": 0.7,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2028"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4809,
+        "top": 0.2866,
+        "right": 0.9556,
+        "bottom": 0.7297,
+        "width": 0.4747,
+        "height": 0.4431
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.042,
+        "top": 0.2866,
+        "right": 0.5111,
+        "bottom": 0.7297,
+        "width": 0.4691,
+        "height": 0.4431
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.4115,
+        "width": 0.909,
+        "height": 0.2192
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7416,
+        "right": 0.9452,
+        "bottom": 0.9852,
+        "width": 0.9068,
+        "height": 0.2436
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0444,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.59,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 15
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "12fb73159086",
+  "template": "template_market_analysis",
+  "slide_num": 21,
+  "layout_name": "Agenda",
+  "element_count": 4,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2373,
+        "width": 0.5451,
+        "height": 0.0562,
+        "right": 0.9545,
+        "bottom": 0.2935
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.78,
+        "width": 7.27,
+        "height": 0.42
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0385,
+        "top": 0.2423,
+        "width": 0.2464,
+        "height": 0.1183,
+        "right": 0.285,
+        "bottom": 0.3606
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.82,
+        "width": 3.29,
+        "height": 0.89
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Content"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "width": 0.5454,
+        "height": 0.6484,
+        "right": 0.9548,
+        "bottom": 0.8906
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.82,
+        "width": 7.27,
+        "height": 4.86
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "01. Executive summary 02. [Insert section] [Insert"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2373,
+        "right": 0.9548,
+        "bottom": 0.8906,
+        "width": 0.5454,
+        "height": 0.6533
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0385,
+        "top": 0.2423,
+        "right": 0.285,
+        "bottom": 0.3606,
+        "width": 0.2465,
+        "height": 0.1183
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0385,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1094,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.82
+  },
+  "content_types": {
+    "other": 4
+  },
+  "category": "mixed_content"
+}

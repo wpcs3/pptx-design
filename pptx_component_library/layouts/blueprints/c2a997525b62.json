@@ -1,0 +1,661 @@
+{
+  "id": "c2a997525b62",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 28,
+  "layout_name": "Default",
+  "element_count": 26,
+  "elements": [
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.1394,
+        "top": 0.2244,
+        "width": 0.8108,
+        "height": 0.61,
+        "right": 0.9502,
+        "bottom": 0.8344
+      },
+      "position_inches": {
+        "left": 1.86,
+        "top": 1.68,
+        "width": 10.81,
+        "height": 4.57
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Clustered column chart with takeaways/ Insert act"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.1996,
+        "width": 0.1056,
+        "height": 0.0763,
+        "right": 0.144,
+        "bottom": 0.2759
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.5,
+        "width": 1.41,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Description] [Unit]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2021,
+        "top": 0.3852,
+        "width": 0.118,
+        "height": 0.0,
+        "right": 0.3201,
+        "bottom": 0.3852
+      },
+      "position_inches": {
+        "left": 2.69,
+        "top": 2.89,
+        "width": 1.57,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2021,
+        "top": 0.3852,
+        "width": 0.0,
+        "height": 0.2008,
+        "right": 0.2021,
+        "bottom": 0.586
+      },
+      "position_inches": {
+        "left": 2.69,
+        "top": 2.89,
+        "width": 0.0,
+        "height": 1.51
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3201,
+        "top": 0.3852,
+        "width": 0.0,
+        "height": 0.0449,
+        "right": 0.3201,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 4.27,
+        "top": 2.89,
+        "width": 0.0,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2366,
+        "top": 0.3634,
+        "width": 0.0537,
+        "height": 0.0436,
+        "right": 0.2903,
+        "bottom": 0.407
+      },
+      "position_inches": {
+        "left": 3.15,
+        "top": 2.73,
+        "width": 0.72,
+        "height": 0.33
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "+xx ppt"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3948,
+        "top": 0.3386,
+        "width": 0.118,
+        "height": 0.0,
+        "right": 0.5128,
+        "bottom": 0.3386
+      },
+      "position_inches": {
+        "left": 5.26,
+        "top": 2.54,
+        "width": 1.57,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3948,
+        "top": 0.3386,
+        "width": 0.0,
+        "height": 0.2679,
+        "right": 0.3948,
+        "bottom": 0.6065
+      },
+      "position_inches": {
+        "left": 5.26,
+        "top": 2.54,
+        "width": 0.0,
+        "height": 2.01
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5128,
+        "top": 0.3386,
+        "width": 0.0,
+        "height": 0.0296,
+        "right": 0.5128,
+        "bottom": 0.3682
+      },
+      "position_inches": {
+        "left": 6.84,
+        "top": 2.54,
+        "width": 0.0,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.427,
+        "top": 0.3168,
+        "width": 0.0537,
+        "height": 0.0436,
+        "right": 0.4807,
+        "bottom": 0.3604
+      },
+      "position_inches": {
+        "left": 5.69,
+        "top": 2.38,
+        "width": 0.72,
+        "height": 0.33
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+xx ppt"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1647,
+        "top": 0.8096,
+        "width": 0.1923,
+        "height": 0.084,
+        "right": 0.357,
+        "bottom": 0.8935
+      },
+      "position_inches": {
+        "left": 2.2,
+        "top": 6.07,
+        "width": 2.56,
+        "height": 0.63
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Insert description or main takeaway]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.8096,
+        "width": 0.1923,
+        "height": 0.084,
+        "right": 0.5495,
+        "bottom": 0.8935
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 6.07,
+        "width": 2.56,
+        "height": 0.63
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert description or main takeaway]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5496,
+        "top": 0.8096,
+        "width": 0.1923,
+        "height": 0.084,
+        "right": 0.7419,
+        "bottom": 0.8935
+      },
+      "position_inches": {
+        "left": 7.33,
+        "top": 6.07,
+        "width": 2.56,
+        "height": 0.63
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert description or main takeaway]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7421,
+        "top": 0.8096,
+        "width": 0.1923,
+        "height": 0.084,
+        "right": 0.9344,
+        "bottom": 0.8935
+      },
+      "position_inches": {
+        "left": 9.89,
+        "top": 6.07,
+        "width": 2.56,
+        "height": 0.63
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Insert description or main takeaway]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5867,
+        "top": 0.4775,
+        "width": 0.118,
+        "height": 0.0,
+        "right": 0.7047,
+        "bottom": 0.4775
+      },
+      "position_inches": {
+        "left": 7.82,
+        "top": 3.58,
+        "width": 1.57,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5876,
+        "top": 0.4807,
+        "width": 0.0,
+        "height": 0.032,
+        "right": 0.5876,
+        "bottom": 0.5127
+      },
+      "position_inches": {
+        "left": 7.84,
+        "top": 3.61,
+        "width": 0.0,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7048,
+        "top": 0.4793,
+        "width": 0.0,
+        "height": 0.0235,
+        "right": 0.7048,
+        "bottom": 0.5027
+      },
+      "position_inches": {
+        "left": 9.4,
+        "top": 3.59,
+        "width": 0.0,
+        "height": 0.18
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.4555,
+        "width": 0.0537,
+        "height": 0.0436,
+        "right": 0.6796,
+        "bottom": 0.499
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 3.42,
+        "width": 0.72,
+        "height": 0.33
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+xx ppt"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7767,
+        "top": 0.4618,
+        "width": 0.118,
+        "height": 0.0,
+        "right": 0.8947,
+        "bottom": 0.4618
+      },
+      "position_inches": {
+        "left": 10.36,
+        "top": 3.46,
+        "width": 1.57,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7777,
+        "top": 0.465,
+        "width": 0.0,
+        "height": 0.032,
+        "right": 0.7777,
+        "bottom": 0.497
+      },
+      "position_inches": {
+        "left": 10.37,
+        "top": 3.49,
+        "width": 0.0,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8948,
+        "top": 0.4636,
+        "width": 0.0,
+        "height": 0.0235,
+        "right": 0.8948,
+        "bottom": 0.487
+      },
+      "position_inches": {
+        "left": 11.93,
+        "top": 3.48,
+        "width": 0.0,
+        "height": 0.18
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8159,
+        "top": 0.4398,
+        "width": 0.0537,
+        "height": 0.0436,
+        "right": 0.8696,
+        "bottom": 0.4833
+      },
+      "position_inches": {
+        "left": 10.88,
+        "top": 3.3,
+        "width": 0.72,
+        "height": 0.33
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "+xx ppt"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1394,
+        "top": 0.2244,
+        "right": 0.9502,
+        "bottom": 0.8344,
+        "width": 0.8108,
+        "height": 0.61
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.1996,
+        "right": 0.3201,
+        "bottom": 0.586,
+        "width": 0.2817,
+        "height": 0.3864
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8096,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.1756
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.1647,
+        "top": 0.8096,
+        "right": 0.357,
+        "bottom": 0.8935,
+        "width": 0.1923,
+        "height": 0.0839
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7421,
+        "top": 0.8096,
+        "right": 0.9344,
+        "bottom": 0.8935,
+        "width": 0.1923,
+        "height": 0.0839
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7048,
+        "top": 0.4398,
+        "right": 0.8948,
+        "bottom": 0.5027,
+        "width": 0.19,
+        "height": 0.0629
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 26
+  },
+  "category": "multi_column"
+}

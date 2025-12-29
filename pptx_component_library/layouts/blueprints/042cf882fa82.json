@@ -1,0 +1,630 @@
+{
+  "id": "042cf882fa82",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 122,
+  "layout_name": "Default",
+  "element_count": 24,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "This report is the first step of the full evaluati"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7839,
+        "top": 0.2386,
+        "width": 0.0309,
+        "height": 0.0241,
+        "right": 0.8147,
+        "bottom": 0.2627
+      },
+      "position_inches": {
+        "left": 10.45,
+        "top": 1.79,
+        "width": 0.41,
+        "height": 0.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": ""
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8231,
+        "top": 0.2282,
+        "width": 0.1314,
+        "height": 0.0449,
+        "right": 0.9545,
+        "bottom": 0.2731
+      },
+      "position_inches": {
+        "left": 10.97,
+        "top": 1.71,
+        "width": 1.75,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Focus of this document and  [ConsultingCo] involve"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4928,
+        "top": -0.4419,
+        "width": 0.026,
+        "height": 1.5717,
+        "right": 0.5188,
+        "bottom": 1.1298
+      },
+      "position_inches": {
+        "left": 6.57,
+        "top": -3.31,
+        "width": 0.35,
+        "height": 11.79
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3108,
+        "width": 0.9092,
+        "height": 0.0539,
+        "right": 0.9541,
+        "bottom": 0.3646
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.33,
+        "width": 12.12,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] evaluation process"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.4401,
+        "width": 0.2407,
+        "height": 0.3895,
+        "right": 0.2856,
+        "bottom": 0.8297
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.3,
+        "width": 3.21,
+        "height": 2.92
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": ""
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0644,
+        "top": 0.4475,
+        "width": 0.191,
+        "height": 0.0875,
+        "right": 0.2553,
+        "bottom": 0.535
+      },
+      "position_inches": {
+        "left": 0.86,
+        "top": 3.36,
+        "width": 2.55,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Pros regarding [Target]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0644,
+        "top": 0.5433,
+        "width": 0.191,
+        "height": 0.0875,
+        "right": 0.2553,
+        "bottom": 0.6308
+      },
+      "position_inches": {
+        "left": 0.86,
+        "top": 4.07,
+        "width": 2.55,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Analysis of the European health and beauty market"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0644,
+        "top": 0.639,
+        "width": 0.191,
+        "height": 0.0875,
+        "right": 0.2553,
+        "bottom": 0.7265
+      },
+      "position_inches": {
+        "left": 0.86,
+        "top": 4.79,
+        "width": 2.55,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Misgivings regarding [Target]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0644,
+        "top": 0.7347,
+        "width": 0.191,
+        "height": 0.0875,
+        "right": 0.2553,
+        "bottom": 0.8223
+      },
+      "position_inches": {
+        "left": 0.86,
+        "top": 5.51,
+        "width": 2.55,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Initial hypothesis on financial base case"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1362,
+        "top": 0.4006,
+        "width": 0.0581,
+        "height": 0.0269,
+        "right": 0.1943,
+        "bottom": 0.4275
+      },
+      "position_inches": {
+        "left": 1.82,
+        "top": 3.0,
+        "width": 0.77,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Pre-study"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3024,
+        "top": 0.4879,
+        "width": 0.1503,
+        "height": 0.294,
+        "right": 0.4527,
+        "bottom": 0.7819
+      },
+      "position_inches": {
+        "left": 4.03,
+        "top": 3.66,
+        "width": 2.0,
+        "height": 2.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Management presentation and go/no-go decision"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0534,
+        "top": 0.4713,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.0759,
+        "bottom": 0.5113
+      },
+      "position_inches": {
+        "left": 0.71,
+        "top": 3.53,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0534,
+        "top": 0.567,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.0759,
+        "bottom": 0.607
+      },
+      "position_inches": {
+        "left": 0.71,
+        "top": 4.25,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0534,
+        "top": 0.6628,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.0759,
+        "bottom": 0.7028
+      },
+      "position_inches": {
+        "left": 0.71,
+        "top": 4.97,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0534,
+        "top": 0.7585,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.0759,
+        "bottom": 0.7985
+      },
+      "position_inches": {
+        "left": 0.71,
+        "top": 5.69,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4696,
+        "top": 0.4879,
+        "width": 0.1503,
+        "height": 0.294,
+        "right": 0.6199,
+        "bottom": 0.7819
+      },
+      "position_inches": {
+        "left": 6.26,
+        "top": 3.66,
+        "width": 2.0,
+        "height": 2.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Formulation of preliminary offer for takeover of ["
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6367,
+        "top": 0.4879,
+        "width": 0.1503,
+        "height": 0.294,
+        "right": 0.787,
+        "bottom": 0.7819
+      },
+      "position_inches": {
+        "left": 8.49,
+        "top": 3.66,
+        "width": 2.0,
+        "height": 2.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Strategic \u2019due diligence\u2019 and ongoing valuation of"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8038,
+        "top": 0.4879,
+        "width": 0.1503,
+        "height": 0.294,
+        "right": 0.9541,
+        "bottom": 0.7819
+      },
+      "position_inches": {
+        "left": 10.72,
+        "top": 3.66,
+        "width": 2.0,
+        "height": 2.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Formulation of final and committing bid for [Targe"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.8671,
+        "width": 0.2407,
+        "height": 0.0,
+        "right": 0.2856,
+        "bottom": 0.8671
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 6.5,
+        "width": 3.21,
+        "height": 0.0
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.109,
+        "top": 0.8474,
+        "width": 0.1126,
+        "height": 0.0394,
+        "right": 0.2216,
+        "bottom": 0.8868
+      },
+      "position_inches": {
+        "left": 1.45,
+        "top": 6.36,
+        "width": 1.5,
+        "height": 0.3
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "May 2-11*"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "*Due to short timeframe for pre-study all conclusi"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6367,
+        "top": 0.2282,
+        "right": 0.9545,
+        "bottom": 0.7819,
+        "width": 0.3178,
+        "height": 0.5537
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0449,
+        "top": -0.4419,
+        "right": 0.9541,
+        "bottom": 1.1298,
+        "width": 0.9092,
+        "height": 1.5717
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.4006,
+        "right": 0.2856,
+        "bottom": 0.8297,
+        "width": 0.2407,
+        "height": 0.4291
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.8474,
+        "right": 0.2856,
+        "bottom": 0.8868,
+        "width": 0.2407,
+        "height": 0.0394
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9468,
+        "width": 0.7705,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": -0.4419,
+    "bottom": -0.1298,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": -3.31,
+    "bottom_inches": -0.97
+  },
+  "content_types": {
+    "other": 24
+  },
+  "category": "multi_column"
+}

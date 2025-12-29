@@ -1,0 +1,561 @@
+{
+  "id": "4179c63667e4",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 262,
+  "layout_name": "Default",
+  "element_count": 21,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Potential to create leading Benelux baby retailer"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8425,
+        "top": 0.1267,
+        "width": 0.112,
+        "height": 0.0325,
+        "right": 0.9545,
+        "bottom": 0.1592
+      },
+      "position_inches": {
+        "left": 11.23,
+        "top": 0.95,
+        "width": 1.49,
+        "height": 0.24
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Ambition case"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2596,
+        "width": 0.29,
+        "height": 0.0624,
+        "right": 0.3355,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.95,
+        "width": 3.87,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Prioritized target candidates in Benelux"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.29,
+        "height": 0.0,
+        "right": 0.3355,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 3.87,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3561,
+        "top": 0.2596,
+        "width": 0.5984,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 1.95,
+        "width": 7.98,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Revenue potential from two acquisitions alone repr"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.356,
+        "top": 0.3343,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.51,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3453,
+        "top": 0.2412,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.3453,
+        "bottom": 0.8974
+      },
+      "position_inches": {
+        "left": 4.6,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.2636,
+        "top": 0.5276,
+        "width": 0.0443,
+        "height": 0.0525,
+        "right": 0.308,
+        "bottom": 0.5801
+      },
+      "position_inches": {
+        "left": 3.52,
+        "top": 3.96,
+        "width": 0.59,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0759,
+        "top": 0.7729,
+        "width": 0.052,
+        "height": 0.0375,
+        "right": 0.1279,
+        "bottom": 0.8105
+      },
+      "position_inches": {
+        "left": 1.01,
+        "top": 5.8,
+        "width": 0.69,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0899,
+        "top": 0.3688,
+        "width": 0.1157,
+        "height": 0.0645,
+        "right": 0.2057,
+        "bottom": 0.4332
+      },
+      "position_inches": {
+        "left": 1.2,
+        "top": 2.77,
+        "width": 1.54,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[BabyCo1] \u000b(active discussions)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2279,
+        "top": 0.6105,
+        "width": 0.1157,
+        "height": 0.0645,
+        "right": 0.3437,
+        "bottom": 0.675
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 4.58,
+        "width": 1.54,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[BabyCo2] \u000b(active discussions)"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1256,
+        "top": 0.4415,
+        "width": 0.0443,
+        "height": 0.0525,
+        "right": 0.17,
+        "bottom": 0.494
+      },
+      "position_inches": {
+        "left": 1.68,
+        "top": 3.31,
+        "width": 0.59,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0797,
+        "top": 0.8196,
+        "width": 0.0444,
+        "height": 0.0525,
+        "right": 0.1241,
+        "bottom": 0.8721
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 6.15,
+        "width": 0.59,
+        "height": 0.39
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3561,
+        "top": 0.3416,
+        "width": 0.3142,
+        "height": 0.0404,
+        "right": 0.6703,
+        "bottom": 0.382
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.56,
+        "width": 4.19,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Illustration of revenue potential in 2026/27, EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.356,
+        "top": 0.7391,
+        "width": 0.5984,
+        "height": 0.1805,
+        "right": 0.9544,
+        "bottom": 0.9196
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 5.54,
+        "width": 7.98,
+        "height": 1.35
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Potential to create baby equipment retailer with c"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8425,
+        "top": 0.4704,
+        "width": 0.112,
+        "height": 0.0375,
+        "right": 0.9544,
+        "bottom": 0.5079
+      },
+      "position_inches": {
+        "left": 11.23,
+        "top": 3.53,
+        "width": 1.49,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "1.8-2.4 B used \u000bin ambition \u000bcase modeling"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8278,
+        "top": 0.4627,
+        "width": 0.007,
+        "height": 0.0529,
+        "right": 0.8347,
+        "bottom": 0.5156
+      },
+      "position_inches": {
+        "left": 11.04,
+        "top": 3.47,
+        "width": 0.09,
+        "height": 0.4
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.356,
+        "top": 0.3916,
+        "width": 0.5184,
+        "height": 0.3353,
+        "right": 0.8744,
+        "bottom": 0.7269
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.94,
+        "width": 6.91,
+        "height": 2.51
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.1592,
+        "width": 0.3287,
+        "height": 0.1445
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7391,
+        "right": 0.9544,
+        "bottom": 0.9852,
+        "width": 0.916,
+        "height": 0.2461
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2596,
+        "right": 0.3437,
+        "bottom": 0.8105,
+        "width": 0.2982,
+        "height": 0.5509
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3453,
+        "top": 0.2412,
+        "right": 0.9545,
+        "bottom": 0.8974,
+        "width": 0.6092,
+        "height": 0.6562
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0797,
+        "top": 0.8196,
+        "right": 0.1241,
+        "bottom": 0.8721,
+        "width": 0.0444,
+        "height": 0.0525
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.8278,
+        "top": 0.4627,
+        "right": 0.9544,
+        "bottom": 0.5156,
+        "width": 0.1266,
+        "height": 0.0529
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 21
+  },
+  "category": "multi_column"
+}

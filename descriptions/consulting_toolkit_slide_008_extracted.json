@@ -1,0 +1,571 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5
+  },
+  "background": {
+    "type": "solid",
+    "color": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "element_1",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.833,
+        "top_inches": 1.917,
+        "width_inches": 2.0,
+        "height_inches": 0.5
+      },
+      "text_content": {
+        "text": "Content",
+        "font_name": "Arial",
+        "font_size_pt": 24,
+        "font_color": "#000000",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_2",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 1.7,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_3",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 1.72,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "1",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_4",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 1.667,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_5",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 2.2,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_6",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 2.22,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "2",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_7",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 2.167,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_8",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 2.7,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_9",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 2.72,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "3",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_10",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 2.667,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_11",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 3.2,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_12",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 3.22,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "4",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_13",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 3.167,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_14",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 3.7,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_15",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 3.72,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "5",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_16",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 3.667,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_17",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 4.2,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_18",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 4.22,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "6",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_19",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 4.167,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_20",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 4.7,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_21",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 4.72,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "7",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_22",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 4.667,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_23",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 5.2,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_24",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 5.22,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "8",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_25",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 5.167,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_26",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.5,
+        "top_inches": 5.7,
+        "width_inches": 0.33,
+        "height_inches": 0.33
+      },
+      "shape_properties": {
+        "fill": {
+          "type": "solid",
+          "color": "#003366"
+        },
+        "shape_type": "oval"
+      }
+    },
+    {
+      "id": "element_27",
+      "type": "textbox",
+      "position": {
+        "left_inches": 5.521,
+        "top_inches": 5.72,
+        "width_inches": 0.292,
+        "height_inches": 0.292
+      },
+      "text_content": {
+        "text": "9",
+        "font_name": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_28",
+      "type": "textbox",
+      "position": {
+        "left_inches": 6.0,
+        "top_inches": 5.667,
+        "width_inches": 3.0,
+        "height_inches": 0.333
+      },
+      "text_content": {
+        "text": "[Insert section]",
+        "font_name": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_29",
+      "type": "line",
+      "position": {
+        "left_inches": 0.833,
+        "top_inches": 0.5,
+        "width_inches": 11.667,
+        "height_inches": 0
+      },
+      "shape_properties": {}
+    },
+    {
+      "id": "element_30",
+      "type": "line",
+      "position": {
+        "left_inches": 0.833,
+        "top_inches": 7.167,
+        "width_inches": 11.667,
+        "height_inches": 0
+      },
+      "shape_properties": {}
+    },
+    {
+      "id": "element_31",
+      "type": "textbox",
+      "position": {
+        "left_inches": 10.083,
+        "top_inches": 7.167,
+        "width_inches": 2.5,
+        "height_inches": 0.25
+      },
+      "text_content": {
+        "text": "Company Name",
+        "font_name": "Arial",
+        "font_size_pt": 8,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "element_32",
+      "type": "textbox",
+      "position": {
+        "left_inches": 12.833,
+        "top_inches": 7.167,
+        "width_inches": 0.167,
+        "height_inches": 0.25
+      },
+      "text_content": {
+        "text": "8",
+        "font_name": "Arial",
+        "font_size_pt": 8,
+        "font_color": "#000000",
+        "bold": false,
+        "alignment": "left"
+      }
+    }
+  ],
+  "color_palette": [
+    "#FFFFFF",
+    "#000000",
+    "#003366"
+  ],
+  "design_notes": "Content slide with white background. Includes heading 'Content', list of 'Insert section' elements with numbering inside circles. Company name and slide number at bottom right."
+}

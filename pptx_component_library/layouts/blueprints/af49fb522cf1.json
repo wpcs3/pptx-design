@@ -1,0 +1,534 @@
+{
+  "id": "af49fb522cf1",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 126,
+  "layout_name": "Default",
+  "element_count": 19,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Possible to acquire [Target] because majority of c"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Interviews; [Target] material; [Consulting"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0639,
+        "top": 0.3698,
+        "width": 0.3946,
+        "height": 0.14,
+        "right": 0.4585,
+        "bottom": 0.5098
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 2.77,
+        "width": 5.26,
+        "height": 1.05
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "General Assembly  180 owners \u2013 each owner has one"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0639,
+        "top": 0.775,
+        "width": 0.3946,
+        "height": 0.1157,
+        "right": 0.4585,
+        "bottom": 0.8907
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 5.81,
+        "width": 5.26,
+        "height": 0.87
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Target] Inc. Management [Name Namesen]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0639,
+        "top": 0.5334,
+        "width": 0.3946,
+        "height": 0.2179,
+        "right": 0.4585,
+        "bottom": 0.7514
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 4.0,
+        "width": 5.26,
+        "height": 1.63
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Board of Directors [Name Namesen] (chairman) [Name"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2612,
+        "top": 0.7514,
+        "width": 0.0,
+        "height": 0.0237,
+        "right": 0.2612,
+        "bottom": 0.775
+      },
+      "position_inches": {
+        "left": 3.48,
+        "top": 5.64,
+        "width": 0.0,
+        "height": 0.18
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2612,
+        "top": 0.5098,
+        "width": 0.0,
+        "height": 0.0237,
+        "right": 0.2612,
+        "bottom": 0.5334
+      },
+      "position_inches": {
+        "left": 3.48,
+        "top": 3.82,
+        "width": 0.0,
+        "height": 0.18
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.3343,
+        "width": 0.0,
+        "height": 0.56,
+        "right": 0.5,
+        "bottom": 0.8943
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.51,
+        "width": 0.0,
+        "height": 4.2
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.4832,
+        "top": 0.5843,
+        "width": 0.0337,
+        "height": 0.06,
+        "right": 0.5168,
+        "bottom": 0.6443
+      },
+      "position_inches": {
+        "left": 6.44,
+        "top": 4.38,
+        "width": 0.45,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.4769,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Decision power ultimately lies with store owners\u2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.9545,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2026where majority are positive towards a sale accord"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3528,
+        "width": 0.2688,
+        "height": 0.1057,
+        "right": 0.7919,
+        "bottom": 0.4586
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.65,
+        "width": 3.58,
+        "height": 0.79
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u201cThe starting point for negotiating a potential ta"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6439,
+        "top": 0.485,
+        "width": 0.3106,
+        "height": 0.1234,
+        "right": 0.9545,
+        "bottom": 0.6084
+      },
+      "position_inches": {
+        "left": 8.59,
+        "top": 3.64,
+        "width": 4.14,
+        "height": 0.93
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u201cFor this amount ~40% of the capital of the limite"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5294,
+        "top": 0.6297,
+        "width": 0.4251,
+        "height": 0.1295,
+        "right": 0.9545,
+        "bottom": 0.7592
+      },
+      "position_inches": {
+        "left": 7.06,
+        "top": 4.72,
+        "width": 5.67,
+        "height": 0.97
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u201cAnother 32% of the capital (adding up to 72% of t"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5924,
+        "top": 0.8044,
+        "width": 0.3627,
+        "height": 0.1048,
+        "right": 0.9551,
+        "bottom": 0.9093
+      },
+      "position_inches": {
+        "left": 7.9,
+        "top": 6.03,
+        "width": 4.84,
+        "height": 0.79
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "\u201cThe remaining 28% are evaluating if they want to"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "right": 0.4769,
+        "bottom": 0.775,
+        "width": 0.4314,
+        "height": 0.5134
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0639,
+        "top": 0.775,
+        "right": 0.4585,
+        "bottom": 0.8907,
+        "width": 0.3946,
+        "height": 0.1157
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4832,
+        "top": 0.3343,
+        "right": 0.7919,
+        "bottom": 0.8943,
+        "width": 0.3087,
+        "height": 0.56
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.2616,
+        "right": 0.9545,
+        "bottom": 0.7592,
+        "width": 0.4314,
+        "height": 0.4976
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5924,
+        "top": 0.8044,
+        "right": 0.9551,
+        "bottom": 0.9093,
+        "width": 0.3627,
+        "height": 0.1049
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0449,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 19
+  },
+  "category": "multi_column"
+}

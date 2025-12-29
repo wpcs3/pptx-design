@@ -1,0 +1,392 @@
+{
+  "id": "8de9aab9b4db",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 260,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Organic growth potential should be supported by st"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2577,
+        "width": 0.4314,
+        "height": 0.0643,
+        "right": 0.4769,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.93,
+        "width": 5.75,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Online sales important part of overall sales strat"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2577,
+        "width": 0.4314,
+        "height": 0.0643,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.93,
+        "width": 5.75,
+        "height": 0.48
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Focus points when building Group online presence"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8425,
+        "top": 0.1267,
+        "width": 0.112,
+        "height": 0.0325,
+        "right": 0.9545,
+        "bottom": 0.1592
+      },
+      "position_inches": {
+        "left": 11.23,
+        "top": 0.95,
+        "width": 1.49,
+        "height": 0.24
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Ambition case"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.674,
+        "top": 0.7186,
+        "width": 0.1302,
+        "height": 0.0257,
+        "right": 0.8042,
+        "bottom": 0.7443
+      },
+      "position_inches": {
+        "left": 8.99,
+        "top": 5.39,
+        "width": 1.74,
+        "height": 0.19
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5217,
+        "top": 0.3466,
+        "width": 0.4328,
+        "height": 0.5412,
+        "right": 0.9545,
+        "bottom": 0.8877
+      },
+      "position_inches": {
+        "left": 6.96,
+        "top": 2.6,
+        "width": 5.77,
+        "height": 4.06
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Technical fundamentals: Integration with strong su"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.7628,
+        "width": 0.4314,
+        "height": 0.149,
+        "right": 0.9545,
+        "bottom": 0.9118
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 5.72,
+        "width": 5.75,
+        "height": 1.12
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Requires well-developed inventory management syste"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.347,
+        "width": 0.4235,
+        "height": 0.0673,
+        "right": 0.469,
+        "bottom": 0.4143
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.6,
+        "width": 5.65,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Respondents who \u201cVery likely\u201d or \u201cLikely\u201d will use"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.4344,
+        "width": 0.4314,
+        "height": 0.4606,
+        "right": 0.4766,
+        "bottom": 0.8951
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.26,
+        "width": 5.75,
+        "height": 3.45
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2419,
+        "top": 0.4757,
+        "width": 0.0763,
+        "height": 0.3471,
+        "right": 0.3182,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 3.23,
+        "top": 3.57,
+        "width": 1.02,
+        "height": 2.6
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.1592,
+        "width": 0.3287,
+        "height": 0.1445
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0452,
+        "top": 0.2577,
+        "right": 0.4769,
+        "bottom": 0.8951,
+        "width": 0.4317,
+        "height": 0.6374
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5217,
+        "top": 0.2577,
+        "right": 0.9548,
+        "bottom": 0.8877,
+        "width": 0.4331,
+        "height": 0.63
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.7628,
+        "right": 0.9545,
+        "bottom": 0.9118,
+        "width": 0.4314,
+        "height": 0.149
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "mixed_content"
+}

@@ -1,0 +1,637 @@
+{
+  "id": "43f74a85f42b",
+  "template": "template_market_analysis",
+  "slide_num": 201,
+  "layout_name": "Default",
+  "element_count": 24,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "width": 0.909,
+        "height": 0.1141,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.86
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The key customers for these suppliers are 35-54 ye"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized]; [sanitized]; Team analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8295,
+        "width": 0.2844,
+        "height": 0.0914,
+        "right": 0.3299,
+        "bottom": 0.9209
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.22,
+        "width": 3.79,
+        "height": 0.69
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized]\u00a0equipment constitutes >50% of the mark"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.357,
+        "top": 0.8295,
+        "width": 0.2844,
+        "height": 0.0914,
+        "right": 0.6414,
+        "bottom": 0.9209
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 6.22,
+        "width": 3.79,
+        "height": 0.69
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Key customer segment for used equipment suppliers"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6701,
+        "top": 0.8295,
+        "width": 0.2844,
+        "height": 0.0914,
+        "right": 0.9545,
+        "bottom": 0.9209
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 6.22,
+        "width": 3.79,
+        "height": 0.69
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Market is not consolidated, although key equipment"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.6701,
+        "top": 0.4111,
+        "width": 0.2844,
+        "height": 0.4039,
+        "right": 0.9545,
+        "bottom": 0.815
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 3.08,
+        "width": 3.79,
+        "height": 3.03
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.3569,
+        "top": 0.4111,
+        "width": 0.2844,
+        "height": 0.4039,
+        "right": 0.6413,
+        "bottom": 0.815
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 3.08,
+        "width": 3.79,
+        "height": 3.03
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4094,
+        "width": 0.2844,
+        "height": 0.4056,
+        "right": 0.3299,
+        "bottom": 0.815
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.07,
+        "width": 3.79,
+        "height": 3.04
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1558,
+        "top": 0.5469,
+        "width": 0.0639,
+        "height": 0.0539,
+        "right": 0.2196,
+        "bottom": 0.6008
+      },
+      "position_inches": {
+        "left": 2.08,
+        "top": 4.1,
+        "width": 0.85,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Total value 16.9 B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4638,
+        "top": 0.5095,
+        "width": 0.0639,
+        "height": 0.0539,
+        "right": 0.5277,
+        "bottom": 0.5634
+      },
+      "position_inches": {
+        "left": 6.18,
+        "top": 3.82,
+        "width": 0.85,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Total value 16.9 B USD"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2867,
+        "width": 0.2844,
+        "height": 0.0624,
+        "right": 0.3299,
+        "bottom": 0.349
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.15,
+        "width": 3.79,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Products and services sold by US used equipment su"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3613,
+        "width": 0.2844,
+        "height": 0.0,
+        "right": 0.3299,
+        "bottom": 0.3613
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.71,
+        "width": 3.79,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3717,
+        "width": 0.1266,
+        "height": 0.0269,
+        "right": 0.1721,
+        "bottom": 0.3986
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.79,
+        "width": 1.69,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2020, % of pieces sold"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.357,
+        "top": 0.2867,
+        "width": 0.2844,
+        "height": 0.0624,
+        "right": 0.6413,
+        "bottom": 0.349
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.15,
+        "width": 3.79,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Customer segmentation of US used equipment supplie"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3578,
+        "top": 0.3613,
+        "width": 0.2844,
+        "height": 0.0,
+        "right": 0.6422,
+        "bottom": 0.3613
+      },
+      "position_inches": {
+        "left": 4.77,
+        "top": 2.71,
+        "width": 3.79,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.357,
+        "top": 0.3717,
+        "width": 0.1219,
+        "height": 0.0269,
+        "right": 0.4788,
+        "bottom": 0.3986
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.79,
+        "width": 1.63,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2020, % of customers"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6701,
+        "top": 0.2867,
+        "width": 0.2844,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.349
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 2.15,
+        "width": 3.79,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Competitive dynamics of US used equipment supplier"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6701,
+        "top": 0.3613,
+        "width": 0.2844,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3613
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 2.71,
+        "width": 3.79,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6701,
+        "top": 0.3717,
+        "width": 0.1373,
+        "height": 0.0269,
+        "right": 0.8074,
+        "bottom": 0.3986
+      },
+      "position_inches": {
+        "left": 8.93,
+        "top": 2.79,
+        "width": 1.83,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2019, % share of market"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3438,
+        "top": 0.2722,
+        "width": 0.0,
+        "height": 0.6333,
+        "right": 0.3438,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 4.58,
+        "top": 2.04,
+        "width": 0.0,
+        "height": 4.75
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6562,
+        "top": 0.2722,
+        "width": 0.0,
+        "height": 0.6333,
+        "right": 0.6562,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.75,
+        "top": 2.04,
+        "width": 0.0,
+        "height": 4.75
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "MARKET DYNAMICS"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.114
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8295,
+        "right": 0.6439,
+        "bottom": 0.9684,
+        "width": 0.5984,
+        "height": 0.1389
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8295,
+        "right": 0.3299,
+        "bottom": 0.9209,
+        "width": 0.2844,
+        "height": 0.0914
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6701,
+        "top": 0.8295,
+        "right": 0.9545,
+        "bottom": 0.9209,
+        "width": 0.2844,
+        "height": 0.0914
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6701,
+        "top": 0.2867,
+        "right": 0.9545,
+        "bottom": 0.815,
+        "width": 0.2844,
+        "height": 0.5283
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3438,
+        "top": 0.2722,
+        "right": 0.6562,
+        "bottom": 0.9056,
+        "width": 0.3124,
+        "height": 0.6334
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2867,
+        "right": 0.3299,
+        "bottom": 0.815,
+        "width": 0.2844,
+        "height": 0.5283
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 24
+  },
+  "category": "multi_column"
+}

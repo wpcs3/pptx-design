@@ -1,0 +1,365 @@
+{
+  "id": "6b62498ecdc5",
+  "template": "template_market_analysis",
+  "slide_num": 167,
+  "layout_name": "Default",
+  "element_count": 12,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "InsuranceCorp Digital Vision Overview"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4217,
+        "top": 0.205,
+        "width": 0.2054,
+        "height": 0.0314,
+        "right": 0.6271,
+        "bottom": 0.2364
+      },
+      "position_inches": {
+        "left": 5.62,
+        "top": 1.54,
+        "width": 2.74,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "What we found"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4217,
+        "top": 0.2481,
+        "width": 0.5332,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.2481
+      },
+      "position_inches": {
+        "left": 5.62,
+        "top": 1.86,
+        "width": 7.11,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1983,
+        "width": 0.3637,
+        "height": 0.0449,
+        "right": 0.4092,
+        "bottom": 0.2432
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.49,
+        "width": 4.85,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "What we set out to do"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2481,
+        "width": 0.3627,
+        "height": 0.0,
+        "right": 0.4082,
+        "bottom": 0.2481
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.86,
+        "width": 4.84,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. Customers who responded \u2018Very likely\u2019"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2565,
+        "width": 0.3627,
+        "height": 0.1754,
+        "right": 0.4076,
+        "bottom": 0.432
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.92,
+        "width": 4.84,
+        "height": 1.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "The digital vision project set out to determine th"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.4529,
+        "width": 0.3633,
+        "height": 0.4197,
+        "right": 0.4082,
+        "bottom": 0.8726
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.4,
+        "width": 4.84,
+        "height": 3.15
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "The project was focused on defining the digital vi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4217,
+        "top": 0.2565,
+        "width": 0.5334,
+        "height": 0.6161,
+        "right": 0.9551,
+        "bottom": 0.8726
+      },
+      "position_inches": {
+        "left": 5.62,
+        "top": 1.92,
+        "width": 7.11,
+        "height": 4.62
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Market research shows that established insurance c"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4217,
+        "top": 0.205,
+        "right": 0.6271,
+        "bottom": 0.2364,
+        "width": 0.2054,
+        "height": 0.0314
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4217,
+        "top": 0.2481,
+        "right": 0.9551,
+        "bottom": 0.8726,
+        "width": 0.5334,
+        "height": 0.6245
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.1983,
+        "right": 0.4092,
+        "bottom": 0.8726,
+        "width": 0.3643,
+        "height": 0.6743
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0449,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 12
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,180 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 263,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 13,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 20,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 34,
+      "word_count": 6,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 32,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 22,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 38,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 39,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 34,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 21,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 13,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 12,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 15,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 56,
+      "word_count": 13,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 84,
+      "word_count": 14,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "About [BabyCo1] (NE)\nFounded in 1993 as voluntary chain\nCurrently ~100 stores nationwide\nFocus on two concepts:\nBaby/children\u2019s clothing \u201dhigh-street\u201d\nBaby/children\u2019s equipment like [Target]\nTotal cha",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 13,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 8,
+      "1": 5
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 5.2,
+    "pattern": "two_level"
+  },
+  "id": "dbef797cce8d"
+}

@@ -1,0 +1,112 @@
+{
+  "template": "template_business_case",
+  "slide_num": 14,
+  "pattern_type": "text_block",
+  "paragraph_count": 9,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 51,
+      "word_count": 10,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 61,
+      "word_count": 11,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 101,
+      "word_count": 15,
+      "font_size": 16.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 73,
+      "word_count": 11,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 55,
+      "word_count": 11,
+      "font_size": 16.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 57,
+      "word_count": 9,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 45,
+      "word_count": 7,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 1,
+      "word_count": 1,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 96,
+      "word_count": 18,
+      "font_size": 16.0,
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "sample_text": "A business case is typically used when you want to:\nGet the go-ahead to start developing a new product or service\nPrioritize between projects within your team or organization to decide which to alloca",
+  "usage_count": 5,
+  "id": "744a8f07d733"
+}

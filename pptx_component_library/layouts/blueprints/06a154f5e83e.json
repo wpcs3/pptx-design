@@ -1,0 +1,426 @@
+{
+  "id": "06a154f5e83e",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 191,
+  "layout_name": "Default",
+  "element_count": 15,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "McKinsey Horizon Model: The Three Horizons of Grow"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2002,
+        "top": 0.8698,
+        "width": 0.6106,
+        "height": 0.0,
+        "right": 0.8108,
+        "bottom": 0.8698
+      },
+      "position_inches": {
+        "left": 2.67,
+        "top": 6.52,
+        "width": 8.14,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2002,
+        "top": 0.2285,
+        "width": 0.0,
+        "height": 0.6413,
+        "right": 0.2002,
+        "bottom": 0.8698
+      },
+      "position_inches": {
+        "left": 2.67,
+        "top": 1.71,
+        "width": 0.0,
+        "height": 4.81
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1122,
+        "top": 0.2335,
+        "width": 0.0871,
+        "height": 0.0449,
+        "right": 0.1993,
+        "bottom": 0.2784
+      },
+      "position_inches": {
+        "left": 1.5,
+        "top": 1.75,
+        "width": 1.16,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Value"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7208,
+        "top": 0.8717,
+        "width": 0.0871,
+        "height": 0.0449,
+        "right": 0.8079,
+        "bottom": 0.9166
+      },
+      "position_inches": {
+        "left": 9.61,
+        "top": 6.54,
+        "width": 1.16,
+        "height": 0.34
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Time"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4849,
+        "top": 0.3232,
+        "width": 0.2422,
+        "height": 0.7215,
+        "right": 0.7271,
+        "bottom": 1.0447
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 2.42,
+        "width": 3.23,
+        "height": 5.41
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6868,
+        "top": 0.1423,
+        "width": 0.2422,
+        "height": 0.7215,
+        "right": 0.9291,
+        "bottom": 0.8638
+      },
+      "position_inches": {
+        "left": 9.16,
+        "top": 1.07,
+        "width": 3.23,
+        "height": 5.41
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2457,
+        "top": 0.6121,
+        "width": 0.0871,
+        "height": 0.0449,
+        "right": 0.3328,
+        "bottom": 0.657
+      },
+      "position_inches": {
+        "left": 3.28,
+        "top": 4.59,
+        "width": 1.16,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Horizon 1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4147,
+        "top": 0.456,
+        "width": 0.0871,
+        "height": 0.0449,
+        "right": 0.5018,
+        "bottom": 0.5009
+      },
+      "position_inches": {
+        "left": 5.53,
+        "top": 3.42,
+        "width": 1.16,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Horizon 2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5895,
+        "top": 0.2999,
+        "width": 0.0871,
+        "height": 0.0449,
+        "right": 0.6766,
+        "bottom": 0.3448
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 2.25,
+        "width": 1.16,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Horizon 3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.26,
+        "top": 0.7137,
+        "width": 0.2417,
+        "height": 0.1212,
+        "right": 0.5018,
+        "bottom": 0.8349
+      },
+      "position_inches": {
+        "left": 3.47,
+        "top": 5.35,
+        "width": 3.22,
+        "height": 0.91
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Focus on core businesses that generate cash and pr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4473,
+        "top": 0.5477,
+        "width": 0.2186,
+        "height": 0.1212,
+        "right": 0.6659,
+        "bottom": 0.6689
+      },
+      "position_inches": {
+        "left": 5.96,
+        "top": 4.11,
+        "width": 2.91,
+        "height": 0.91
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Explore emerging opportunities that are likely to"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6433,
+        "top": 0.367,
+        "width": 0.2067,
+        "height": 0.1212,
+        "right": 0.85,
+        "bottom": 0.4882
+      },
+      "position_inches": {
+        "left": 8.58,
+        "top": 2.75,
+        "width": 2.76,
+        "height": 0.91
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Explore wholly new opportunities that may in time"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.283,
+        "top": 0.504,
+        "width": 0.2422,
+        "height": 0.7215,
+        "right": 0.5252,
+        "bottom": 1.2256
+      },
+      "position_inches": {
+        "left": 3.77,
+        "top": 3.78,
+        "width": 3.23,
+        "height": 5.41
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.2002,
+        "top": 0.504,
+        "right": 0.8108,
+        "bottom": 1.2256,
+        "width": 0.6106,
+        "height": 0.7216
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1122,
+        "top": 0.2285,
+        "right": 0.3328,
+        "bottom": 0.8698,
+        "width": 0.2206,
+        "height": 0.6413
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7208,
+        "top": 0.8717,
+        "right": 0.8079,
+        "bottom": 0.9166,
+        "width": 0.0871,
+        "height": 0.0449
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.26,
+        "top": 0.2999,
+        "right": 0.7271,
+        "bottom": 1.0447,
+        "width": 0.4671,
+        "height": 0.7448
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6433,
+        "top": 0.1423,
+        "right": 0.9291,
+        "bottom": 0.8638,
+        "width": 0.2858,
+        "height": 0.7215
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": -0.2256,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": -1.69
+  },
+  "content_types": {
+    "other": 15
+  },
+  "category": "multi_column"
+}

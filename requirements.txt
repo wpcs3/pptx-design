@@ -1,0 +1,42 @@
+# PPTX Design System - Pip Requirements
+#
+# NOTE: Some dependencies are installed via conda (in the pptx-design environment):
+#   conda install -c conda-forge poppler pdf2image pillow scikit-image numpy
+#
+# Install these pip packages after activating the conda environment:
+#   conda activate pptx-design
+#   pip install -r requirements.txt
+
+# Core PPTX manipulation
+python-pptx>=0.6.21
+
+# LLM Providers - Phase 1
+litellm>=1.50.0           # Unified LLM interface (100+ providers)
+anthropic>=0.40.0         # Anthropic Claude API
+openai>=1.50.0            # OpenAI GPT API
+google-generativeai>=0.8.0  # Google Gemini API
+
+# CLI and formatting
+click>=8.0.0
+rich>=13.0.0
+
+# Utilities
+requests>=2.31.0          # For Ollama and other HTTP calls
+json5>=0.9.14             # Tolerant JSON parsing for LLM outputs
+
+# MCP Server - Phase 3
+mcp>=1.2.0                # Model Context Protocol SDK
+
+# Phase 4 - Advanced Features
+PyYAML>=6.0               # YAML parsing for Markdown frontmatter
+
+# Phase 4 - ML Layout Classification (optional)
+# Install separately if needed:
+#   pip install layoutparser
+#   pip install "layoutparser[detectron2]"  # For ML model support
+
+# Phase 4 - Semantic Analysis (optional)
+# Install separately if needed:
+#   pip install transformers torch torchvision
+# Note: torch and transformers are large dependencies (~2GB+)
+# Only install if using LayoutLMv3 semantic analysis

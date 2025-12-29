@@ -1,0 +1,664 @@
+{
+  "id": "2271403f4636",
+  "template": "template_market_analysis",
+  "slide_num": 229,
+  "layout_name": "Default",
+  "element_count": 26,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Smallest suppliers provide financing through broke"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #4"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.7653,
+        "height": 0.0202,
+        "right": 0.8108,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 10.2,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized]; [sanitized]; [sanitized]; [sa"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3925,
+        "width": 0.2862,
+        "height": 0.366,
+        "right": 0.3311,
+        "bottom": 0.7585
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.94,
+        "width": 3.82,
+        "height": 2.74
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0562,
+        "top": 0.765,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.0676,
+        "bottom": 0.7854
+      },
+      "position_inches": {
+        "left": 0.75,
+        "top": 5.74,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.073,
+        "top": 0.7617,
+        "width": 0.0552,
+        "height": 0.0269,
+        "right": 0.1282,
+        "bottom": 0.7886
+      },
+      "position_inches": {
+        "left": 0.97,
+        "top": 5.71,
+        "width": 0.74,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Franchise"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0737,
+        "top": 0.7979,
+        "width": 0.1047,
+        "height": 0.0269,
+        "right": 0.1783,
+        "bottom": 0.8249
+      },
+      "position_inches": {
+        "left": 0.98,
+        "top": 5.98,
+        "width": 1.4,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Large independent"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0562,
+        "top": 0.8012,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.0676,
+        "bottom": 0.8216
+      },
+      "position_inches": {
+        "left": 0.75,
+        "top": 6.01,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0562,
+        "top": 0.8374,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.0676,
+        "bottom": 0.8578
+      },
+      "position_inches": {
+        "left": 0.75,
+        "top": 6.28,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.073,
+        "top": 0.8341,
+        "width": 0.1529,
+        "height": 0.0269,
+        "right": 0.2259,
+        "bottom": 0.8611
+      },
+      "position_inches": {
+        "left": 0.97,
+        "top": 6.26,
+        "width": 2.04,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Small-medium independent"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0737,
+        "top": 0.8704,
+        "width": 0.1307,
+        "height": 0.0269,
+        "right": 0.2043,
+        "bottom": 0.8973
+      },
+      "position_inches": {
+        "left": 0.98,
+        "top": 6.53,
+        "width": 1.74,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Very small independent"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0562,
+        "top": 0.8736,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.0676,
+        "bottom": 0.894
+      },
+      "position_inches": {
+        "left": 0.75,
+        "top": 6.55,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1577,
+        "top": 0.557,
+        "width": 0.0754,
+        "height": 0.0557,
+        "right": 0.2332,
+        "bottom": 0.6127
+      },
+      "position_inches": {
+        "left": 2.1,
+        "top": 4.18,
+        "width": 1.01,
+        "height": 0.42
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Total: 1.4 M"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.3568,
+        "top": 0.417,
+        "width": 0.2845,
+        "height": 0.4886,
+        "right": 0.6413,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 3.13,
+        "width": 3.79,
+        "height": 3.66
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.2862,
+        "height": 0.0624,
+        "right": 0.3317,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "POS financed deals are fairly independent of size"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.2862,
+        "height": 0.0,
+        "right": 0.3317,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.2552,
+        "width": 0.2864,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.3298,
+        "width": 0.2864,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6556,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6556,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.74,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3568,
+        "top": 0.2552,
+        "width": 0.2862,
+        "height": 0.0624,
+        "right": 0.643,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 1.91,
+        "width": 3.82,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Larger suppliers rely on lenders for most POS fina"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3568,
+        "top": 0.3298,
+        "width": 0.2862,
+        "height": 0.0,
+        "right": 0.643,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.47,
+        "width": 3.82,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "width": 0.2912,
+        "height": 0.0539,
+        "right": 0.3367,
+        "bottom": 0.3941
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 3.88,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "POS financed deals for used equipment \u000bthrough equ"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3568,
+        "top": 0.3402,
+        "width": 0.2705,
+        "height": 0.0539,
+        "right": 0.6273,
+        "bottom": 0.3941
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.55,
+        "width": 3.61,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Estimated proportion of POS finance by size \u000bof su"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6681,
+        "top": 0.351,
+        "width": 0.2864,
+        "height": 0.5546,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.91,
+        "top": 2.63,
+        "width": 3.82,
+        "height": 4.16
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "POS financed deals for used cars through car deale"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "CAR FINANCING"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "right": 0.8108,
+        "bottom": 0.9684,
+        "width": 0.7653,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2552,
+        "right": 0.3367,
+        "bottom": 0.7886,
+        "width": 0.2918,
+        "height": 0.5334
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0562,
+        "top": 0.7979,
+        "right": 0.2259,
+        "bottom": 0.8973,
+        "width": 0.1697,
+        "height": 0.0994
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3568,
+        "top": 0.2488,
+        "right": 0.6556,
+        "bottom": 0.9056,
+        "width": 0.2988,
+        "height": 0.6568
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6681,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.2864,
+        "height": 0.6504
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 26
+  },
+  "category": "multi_column"
+}

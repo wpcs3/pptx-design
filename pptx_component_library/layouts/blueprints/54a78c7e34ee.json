@@ -1,0 +1,440 @@
+{
+  "id": "54a78c7e34ee",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 265,
+  "layout_name": "Default",
+  "element_count": 15,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Acquisitions planned to happen in two steps, leadi"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1834,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.4769,
+        "bottom": 0.2878
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.38,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Revenue development, M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.1834,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.9548,
+        "bottom": 0.2878
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.38,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "EBITDA development, M EUR"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3001,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3001
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.25,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3001,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3001
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.25,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0508,
+        "top": 0.8091,
+        "width": 0.4261,
+        "height": 0.1163,
+        "right": 0.4769,
+        "bottom": 0.9253
+      },
+      "position_inches": {
+        "left": 0.68,
+        "top": 6.07,
+        "width": 5.68,
+        "height": 0.87
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "CAGR 2020/21-2026/27: Base case\t\t\t9.6% Ambition ca"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0508,
+        "top": 0.3136,
+        "width": 0.4261,
+        "height": 0.4802,
+        "right": 0.4769,
+        "bottom": 0.7938
+      },
+      "position_inches": {
+        "left": 0.68,
+        "top": 2.35,
+        "width": 5.68,
+        "height": 3.6
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2952,
+        "top": 0.3154,
+        "width": 0.0807,
+        "height": 0.0508,
+        "right": 0.3759,
+        "bottom": 0.3662
+      },
+      "position_inches": {
+        "left": 3.94,
+        "top": 2.37,
+        "width": 1.08,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Acquisition of [BabyCo2]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2268,
+        "top": 0.4429,
+        "width": 0.0807,
+        "height": 0.0508,
+        "right": 0.3075,
+        "bottom": 0.4937
+      },
+      "position_inches": {
+        "left": 3.02,
+        "top": 3.32,
+        "width": 1.08,
+        "height": 0.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Acquisition of [BabyCo1]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5287,
+        "top": 0.8091,
+        "width": 0.4261,
+        "height": 0.1163,
+        "right": 0.9548,
+        "bottom": 0.9253
+      },
+      "position_inches": {
+        "left": 7.05,
+        "top": 6.07,
+        "width": 5.68,
+        "height": 0.87
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "CAGR 2020/21-2026/27: Base case\t\t\t13.1% Ambition c"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.5287,
+        "top": 0.3136,
+        "width": 0.4261,
+        "height": 0.4802,
+        "right": 0.9548,
+        "bottom": 0.7938
+      },
+      "position_inches": {
+        "left": 7.05,
+        "top": 2.35,
+        "width": 5.68,
+        "height": 3.6
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7707,
+        "top": 0.3708,
+        "width": 0.0807,
+        "height": 0.0508,
+        "right": 0.8514,
+        "bottom": 0.4216
+      },
+      "position_inches": {
+        "left": 10.28,
+        "top": 2.78,
+        "width": 1.08,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Acquisition of [BabyCo2]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6988,
+        "top": 0.4492,
+        "width": 0.0807,
+        "height": 0.0508,
+        "right": 0.7795,
+        "bottom": 0.5
+      },
+      "position_inches": {
+        "left": 9.32,
+        "top": 3.37,
+        "width": 1.08,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Acquisition of [BabyCo1]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1834,
+        "right": 0.4769,
+        "bottom": 0.7938,
+        "width": 0.4314,
+        "height": 0.6104
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.1834,
+        "right": 0.9548,
+        "bottom": 0.7938,
+        "width": 0.4314,
+        "height": 0.6104
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0508,
+        "top": 0.8091,
+        "right": 0.4769,
+        "bottom": 0.9253,
+        "width": 0.4261,
+        "height": 0.1162
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2952,
+        "top": 0.3154,
+        "right": 0.3759,
+        "bottom": 0.3662,
+        "width": 0.0807,
+        "height": 0.0508
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5287,
+        "top": 0.8091,
+        "right": 0.9548,
+        "bottom": 0.9253,
+        "width": 0.4261,
+        "height": 0.1162
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 15
+  },
+  "category": "multi_column"
+}

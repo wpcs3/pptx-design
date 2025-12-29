@@ -1,0 +1,452 @@
+{
+  "id": "d4ec2a908590",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 244,
+  "layout_name": "Default",
+  "element_count": 17,
+  "elements": [
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.048,
+        "top": 0.4077,
+        "width": 0.4289,
+        "height": 0.4736,
+        "right": 0.4769,
+        "bottom": 0.8812
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 3.06,
+        "width": 5.72,
+        "height": 3.55
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Sales growth has been decreasing, however still si"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.2417,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.5,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5002,
+        "top": 0.2417,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.5002,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.4769,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Both existing and new stores have shown solid grow"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Growth is significantly above est. market average"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.347,
+        "width": 0.4069,
+        "height": 0.0404,
+        "right": 0.4524,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.6,
+        "width": 5.43,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Historical sales development \u2013 old vs. new stores,"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] data; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.347,
+        "width": 0.4069,
+        "height": 0.0404,
+        "right": 0.9303,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.6,
+        "width": 5.43,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sales growth contributors, %"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.5205,
+        "top": 0.4077,
+        "width": 0.4339,
+        "height": 0.4736,
+        "right": 0.9545,
+        "bottom": 0.8812
+      },
+      "position_inches": {
+        "left": 6.94,
+        "top": 3.06,
+        "width": 5.79,
+        "height": 3.55
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5755,
+        "top": 0.7636,
+        "width": 0.3563,
+        "height": 0.0,
+        "right": 0.9318,
+        "bottom": 0.7636
+      },
+      "position_inches": {
+        "left": 7.67,
+        "top": 5.73,
+        "width": 4.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5738,
+        "top": 0.6949,
+        "width": 0.1865,
+        "height": 0.0645,
+        "right": 0.7603,
+        "bottom": 0.7594
+      },
+      "position_inches": {
+        "left": 7.65,
+        "top": 5.21,
+        "width": 2.49,
+        "height": 0.48
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Weighted estimated market growth in all [Target] s"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7555,
+        "top": 0.5731,
+        "width": 0.0,
+        "height": 0.0714,
+        "right": 0.7555,
+        "bottom": 0.6445
+      },
+      "position_inches": {
+        "left": 10.07,
+        "top": 4.3,
+        "width": 0.0,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7603,
+        "top": 0.6085,
+        "width": 0.0689,
+        "height": 0.0375,
+        "right": 0.8292,
+        "bottom": 0.646
+      },
+      "position_inches": {
+        "left": 10.14,
+        "top": 4.56,
+        "width": 0.92,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "New stores"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "right": 0.4769,
+        "bottom": 0.8812,
+        "width": 0.4314,
+        "height": 0.6196
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.5,
+        "top": 0.2417,
+        "right": 0.7603,
+        "bottom": 0.8978,
+        "width": 0.2603,
+        "height": 0.6561
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5205,
+        "top": 0.2616,
+        "right": 0.9548,
+        "bottom": 0.8812,
+        "width": 0.4343,
+        "height": 0.6196
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 17
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,890 @@
+{
+  "id": "3cba1c9d07a5",
+  "template": "template_market_analysis",
+  "slide_num": 266,
+  "layout_name": "Default",
+  "element_count": 36,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The [sanitized] division lacks a fundamental comme"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0536,
+        "top": 0.4808,
+        "width": 0.1035,
+        "height": 0.1401,
+        "right": 0.1571,
+        "bottom": 0.6209
+      },
+      "position_inches": {
+        "left": 0.71,
+        "top": 3.61,
+        "width": 1.38,
+        "height": 1.05
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized] division"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1891,
+        "top": 0.3507,
+        "width": 0.1355,
+        "height": 0.0999,
+        "right": 0.3247,
+        "bottom": 0.4507
+      },
+      "position_inches": {
+        "left": 2.52,
+        "top": 2.63,
+        "width": 1.81,
+        "height": 0.75
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "OEM \u000bProposition \u000band Portfolio"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1571,
+        "top": 0.4007,
+        "width": 0.032,
+        "height": 0.1501,
+        "right": 0.1891,
+        "bottom": 0.5508
+      },
+      "position_inches": {
+        "left": 2.1,
+        "top": 3.01,
+        "width": 0.43,
+        "height": 1.13
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1571,
+        "top": 0.5508,
+        "width": 0.032,
+        "height": 0.1501,
+        "right": 0.1891,
+        "bottom": 0.701
+      },
+      "position_inches": {
+        "left": 2.1,
+        "top": 4.13,
+        "width": 0.43,
+        "height": 1.13
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1891,
+        "top": 0.651,
+        "width": 0.1355,
+        "height": 0.0999,
+        "right": 0.3247,
+        "bottom": 0.7509
+      },
+      "position_inches": {
+        "left": 2.52,
+        "top": 4.88,
+        "width": 1.81,
+        "height": 0.75
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Distributor \u000bProposition \u000band Portfolio"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.803,
+        "top": 0.5006,
+        "width": 0.0893,
+        "height": 0.0404,
+        "right": 0.8923,
+        "bottom": 0.541
+      },
+      "position_inches": {
+        "left": 10.71,
+        "top": 3.75,
+        "width": 1.19,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "END-USERS"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0457,
+        "top": 0.6467,
+        "width": 0.1035,
+        "height": 0.06,
+        "right": 0.1492,
+        "bottom": 0.7067
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.85,
+        "width": 1.38,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Product range?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4285,
+        "top": 0.2675,
+        "width": 0.0715,
+        "height": 0.06,
+        "right": 0.5,
+        "bottom": 0.3275
+      },
+      "position_inches": {
+        "left": 5.71,
+        "top": 2.01,
+        "width": 0.95,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Pricing \u000bstrategy?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0638,
+        "top": 0.7645,
+        "width": 0.0854,
+        "height": 0.06,
+        "right": 0.1492,
+        "bottom": 0.8246
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 5.73,
+        "width": 1.14,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Technology strategy?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6368,
+        "top": 0.7824,
+        "width": 0.077,
+        "height": 0.06,
+        "right": 0.7138,
+        "bottom": 0.8424
+      },
+      "position_inches": {
+        "left": 8.49,
+        "top": 5.87,
+        "width": 1.03,
+        "height": 0.45
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Distributor\u000bconcept?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2339,
+        "top": 0.7758,
+        "width": 0.0907,
+        "height": 0.06,
+        "right": 0.3247,
+        "bottom": 0.8358
+      },
+      "position_inches": {
+        "left": 3.12,
+        "top": 5.82,
+        "width": 1.21,
+        "height": 0.45
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Distributor\u000bcoverage?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.197,
+        "top": 0.561,
+        "width": 0.114,
+        "height": 0.06,
+        "right": 0.311,
+        "bottom": 0.621
+      },
+      "position_inches": {
+        "left": 2.63,
+        "top": 4.21,
+        "width": 1.52,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Customer\u000bsegmentation?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.197,
+        "top": 0.471,
+        "width": 0.1276,
+        "height": 0.06,
+        "right": 0.3247,
+        "bottom": 0.531
+      },
+      "position_inches": {
+        "left": 2.63,
+        "top": 3.53,
+        "width": 1.7,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target customers?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.16,
+        "top": 0.2675,
+        "width": 0.0793,
+        "height": 0.06,
+        "right": 0.2394,
+        "bottom": 0.3275
+      },
+      "position_inches": {
+        "left": 2.13,
+        "top": 2.01,
+        "width": 1.06,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Channel\u000bstrategy?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8506,
+        "top": 0.6435,
+        "width": 0.0841,
+        "height": 0.06,
+        "right": 0.9347,
+        "bottom": 0.7035
+      },
+      "position_inches": {
+        "left": 11.34,
+        "top": 4.83,
+        "width": 1.12,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Online presence?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6432,
+        "top": 0.4969,
+        "width": 0.0955,
+        "height": 0.06,
+        "right": 0.7386,
+        "bottom": 0.557
+      },
+      "position_inches": {
+        "left": 8.58,
+        "top": 3.73,
+        "width": 1.27,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Value\u000bproposition?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7939,
+        "top": 0.4003,
+        "width": 0.0853,
+        "height": 0.06,
+        "right": 0.8792,
+        "bottom": 0.4603
+      },
+      "position_inches": {
+        "left": 10.59,
+        "top": 3.0,
+        "width": 1.14,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "End-user marketing?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6185,
+        "top": 0.2842,
+        "width": 0.1195,
+        "height": 0.06,
+        "right": 0.738,
+        "bottom": 0.3442
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 2.13,
+        "width": 1.59,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sales force mgmt?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5986,
+        "top": 0.5714,
+        "width": 0.0576,
+        "height": 0.06,
+        "right": 0.6563,
+        "bottom": 0.6314
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 4.29,
+        "width": 0.77,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "KPIs?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4311,
+        "top": 0.5773,
+        "width": 0.0934,
+        "height": 0.06,
+        "right": 0.5246,
+        "bottom": 0.6373
+      },
+      "position_inches": {
+        "left": 5.75,
+        "top": 4.33,
+        "width": 1.25,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u2019Store front\u2019"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3804,
+        "top": 0.4802,
+        "width": 0.1274,
+        "height": 0.06,
+        "right": 0.5078,
+        "bottom": 0.5402
+      },
+      "position_inches": {
+        "left": 5.07,
+        "top": 3.6,
+        "width": 1.7,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "OEM value proposition?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3909,
+        "width": 0.0884,
+        "height": 0.06,
+        "right": 0.1339,
+        "bottom": 0.4509
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.93,
+        "width": 1.18,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Cost trans-parency?"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis based on discussions with [s"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4687,
+        "top": 0.342,
+        "width": 0.181,
+        "height": 0.1202,
+        "right": 0.6498,
+        "bottom": 0.4622
+      },
+      "position_inches": {
+        "left": 6.25,
+        "top": 2.57,
+        "width": 2.41,
+        "height": 0.9
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "OEMs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4687,
+        "top": 0.6443,
+        "width": 0.181,
+        "height": 0.1202,
+        "right": 0.6498,
+        "bottom": 0.7645
+      },
+      "position_inches": {
+        "left": 6.25,
+        "top": 4.83,
+        "width": 2.41,
+        "height": 0.9
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Distributors"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7524,
+        "top": 0.4911,
+        "width": 0.181,
+        "height": 0.1202,
+        "right": 0.9334,
+        "bottom": 0.6113
+      },
+      "position_inches": {
+        "left": 10.03,
+        "top": 3.68,
+        "width": 2.41,
+        "height": 0.9
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "End-users"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1571,
+        "top": 0.5508,
+        "width": 0.6857,
+        "height": 0.0605,
+        "right": 0.8429,
+        "bottom": 0.6113
+      },
+      "position_inches": {
+        "left": 2.1,
+        "top": 4.13,
+        "width": 9.14,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.434,
+        "top": 0.8511,
+        "width": 0.132,
+        "height": 0.0329,
+        "right": 0.566,
+        "bottom": 0.8839
+      },
+      "position_inches": {
+        "left": 5.79,
+        "top": 6.38,
+        "width": 1.76,
+        "height": 0.25
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Direct/online"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3247,
+        "top": 0.4007,
+        "width": 0.1441,
+        "height": 0.0,
+        "right": 0.4687,
+        "bottom": 0.4007
+      },
+      "position_inches": {
+        "left": 4.33,
+        "top": 3.01,
+        "width": 1.92,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3247,
+        "top": 0.701,
+        "width": 0.1441,
+        "height": 0.0,
+        "right": 0.4687,
+        "bottom": 0.701
+      },
+      "position_inches": {
+        "left": 4.33,
+        "top": 5.26,
+        "width": 1.92,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.5937,
+        "width": 0.1291,
+        "height": 0.1107,
+        "right": 0.7789,
+        "bottom": 0.7044
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 4.45,
+        "width": 1.72,
+        "height": 0.83
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.4021,
+        "width": 0.1291,
+        "height": 0.1066,
+        "right": 0.7789,
+        "bottom": 0.5087
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 3.02,
+        "width": 1.72,
+        "height": 0.8
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1942,
+        "width": 0.3045,
+        "height": 0.0517,
+        "right": 0.35,
+        "bottom": 0.2459
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.46,
+        "width": 4.06,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Conceptual view of commercial chain:"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1942,
+        "right": 0.35,
+        "bottom": 0.8246,
+        "width": 0.3045,
+        "height": 0.6304
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6185,
+        "top": 0.2842,
+        "right": 0.9347,
+        "bottom": 0.7044,
+        "width": 0.3162,
+        "height": 0.4202
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1571,
+        "top": 0.2675,
+        "right": 0.8429,
+        "bottom": 0.7645,
+        "width": 0.6858,
+        "height": 0.497
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6368,
+        "top": 0.7824,
+        "right": 0.7138,
+        "bottom": 0.8424,
+        "width": 0.077,
+        "height": 0.06
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.2339,
+        "top": 0.7758,
+        "right": 0.3247,
+        "bottom": 0.8358,
+        "width": 0.0908,
+        "height": 0.06
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8511,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.1341
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 36
+  },
+  "category": "multi_column"
+}

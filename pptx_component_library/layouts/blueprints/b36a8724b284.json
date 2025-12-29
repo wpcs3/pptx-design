@@ -1,0 +1,111 @@
+{
+  "id": "b36a8724b284",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 329,
+  "layout_name": "Section slide",
+  "element_count": 3,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "right": 1.0,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 13.33,
+        "height": 7.5
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4,
+        "top": 0.4599,
+        "width": 0.2313,
+        "height": 0.0782,
+        "right": 0.6313,
+        "bottom": 0.5381
+      },
+      "position_inches": {
+        "left": 5.33,
+        "top": 3.45,
+        "width": 3.08,
+        "height": 0.59
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0,
+    "bottom": 0.0,
+    "left_inches": 0.0,
+    "right_inches": 0.0,
+    "top_inches": 0.0,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 3
+  },
+  "category": "mixed_content"
+}

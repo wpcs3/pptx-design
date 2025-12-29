@@ -1,0 +1,371 @@
+{
+  "id": "48a70d76a712",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 2,
+  "layout_name": "Default",
+  "element_count": 13,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Objectives of this template"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "width": 0.9164,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.2911
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.61,
+        "width": 12.22,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The Business & Consulting Toolkit includes an exte"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.3562,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.4011
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 2.67,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Quickly create new, professional-looking slides by"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.4531,
+        "width": 0.8845,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.5294
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 3.4,
+        "width": 11.79,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Find inspiration for slide layouts and designs for"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.5814,
+        "width": 0.8845,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.6577
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 4.36,
+        "width": 11.79,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Get ideas for how to present your analyses and dat"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.7097,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.7546
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 5.32,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Access common frameworks and tools used by busines"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.8275,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.8724
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 6.21,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Get a tried-and-tested checklist as well as helpfu"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.3655,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.3917
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 2.74,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.4833,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.5096
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 3.63,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.6012,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.6274
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 4.51,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.719,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.7453
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 5.39,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.8369,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.8631
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 6.28,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "right": 0.9548,
+        "bottom": 0.7546,
+        "width": 0.9164,
+        "height": 0.5398
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0703,
+        "top": 0.8275,
+        "right": 0.9548,
+        "bottom": 0.8724,
+        "width": 0.8845,
+        "height": 0.0449
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.3655,
+        "right": 0.0697,
+        "bottom": 0.7453,
+        "width": 0.0221,
+        "height": 0.3798
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.8369,
+        "right": 0.0697,
+        "bottom": 0.8631,
+        "width": 0.0221,
+        "height": 0.0262
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1276,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.96
+  },
+  "content_types": {
+    "other": 13
+  },
+  "category": "mixed_content"
+}

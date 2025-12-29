@@ -1,0 +1,685 @@
+{
+  "id": "bd254d892623",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 283,
+  "layout_name": "Default",
+  "element_count": 26,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Base case IRR of 24.7% protected by \u201dkick-back\u201d ag"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2768,
+        "top": 0.2585,
+        "width": 0.1811,
+        "height": 0.0369,
+        "right": 0.4579,
+        "bottom": 0.2954
+      },
+      "position_inches": {
+        "left": 3.69,
+        "top": 1.94,
+        "width": 2.42,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Base case"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7589,
+        "top": 0.2585,
+        "width": 0.0919,
+        "height": 0.0369,
+        "right": 0.8508,
+        "bottom": 0.2954
+      },
+      "position_inches": {
+        "left": 10.12,
+        "top": 1.94,
+        "width": 1.22,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Ambition case"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.1996,
+        "width": 0.5078,
+        "height": 0.0449,
+        "right": 0.5462,
+        "bottom": 0.2445
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.5,
+        "width": 6.77,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Business case components impact on IRR, M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0835,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.1543,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 1.11,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Existing stores"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1558,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.2267,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 2.08,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "20 new stores"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2281,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.299,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Increased institutional sales"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.3713,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Increased selling space"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3728,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.4436,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 4.97,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Improved sourcing"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4451,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.5159,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 5.93,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Increased HQ costs"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5897,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.6606,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Base case 2026/27"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7344,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.8052,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 9.79,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Like-for-like organic growth"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8067,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.8776,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 10.76,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Realization of Benelux strategy"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.879,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.9499,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 11.72,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Ambition case 2026/27"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0855,
+        "top": 0.3039,
+        "width": 0.5637,
+        "height": 0.0,
+        "right": 0.6492,
+        "bottom": 0.3039
+      },
+      "position_inches": {
+        "left": 1.14,
+        "top": 2.28,
+        "width": 7.52,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.671,
+        "top": 0.3039,
+        "width": 0.2677,
+        "height": 0.0,
+        "right": 0.9387,
+        "bottom": 0.3039
+      },
+      "position_inches": {
+        "left": 8.95,
+        "top": 2.28,
+        "width": 3.57,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5174,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.5883,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 6.9,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "One-off cost/capex"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.662,
+        "top": 0.8102,
+        "width": 0.0709,
+        "height": 0.0805,
+        "right": 0.7329,
+        "bottom": 0.8908
+      },
+      "position_inches": {
+        "left": 8.83,
+        "top": 6.08,
+        "width": 0.94,
+        "height": 0.6
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Recap. EUR 200 M dividend in 25/26"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5794,
+        "top": 0.5,
+        "width": 0.0855,
+        "height": 0.0673,
+        "right": 0.665,
+        "bottom": 0.5673
+      },
+      "position_inches": {
+        "left": 7.73,
+        "top": 3.75,
+        "width": 1.14,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Pre 24.7% Post 24.8%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8863,
+        "top": 0.3363,
+        "width": 0.0562,
+        "height": 0.0404,
+        "right": 0.9425,
+        "bottom": 0.3767
+      },
+      "position_inches": {
+        "left": 11.82,
+        "top": 2.52,
+        "width": 0.75,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "~45%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0895,
+        "top": 0.3363,
+        "width": 0.1272,
+        "height": 0.0914,
+        "right": 0.2167,
+        "bottom": 0.4277
+      },
+      "position_inches": {
+        "left": 1.19,
+        "top": 2.52,
+        "width": 1.7,
+        "height": 0.69
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "21/22 fundamentals: EBITDA:\t65.9 M Margin:\t13.4%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5543,
+        "top": 0.6664,
+        "width": 0.1417,
+        "height": 0.0914,
+        "right": 0.696,
+        "bottom": 0.7577
+      },
+      "position_inches": {
+        "left": 7.39,
+        "top": 5.0,
+        "width": 1.89,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "EBITDA:\t122.0 M \ud835\udeabEBITDA:\t56.1 M Margin:\t15.8%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8147,
+        "top": 0.6662,
+        "width": 0.1332,
+        "height": 0.0914,
+        "right": 0.948,
+        "bottom": 0.7576
+      },
+      "position_inches": {
+        "left": 10.86,
+        "top": 5.0,
+        "width": 1.78,
+        "height": 0.69
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "EBITDA:\t~195 M \ud835\udeabEBITDA:\t129 M Margin:\t~12%"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0855,
+        "top": 0.2585,
+        "right": 0.696,
+        "bottom": 0.7577,
+        "width": 0.6105,
+        "height": 0.4992
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.671,
+        "top": 0.2585,
+        "right": 0.948,
+        "bottom": 0.7576,
+        "width": 0.277,
+        "height": 0.4991
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8102,
+        "right": 0.6606,
+        "bottom": 0.9852,
+        "width": 0.6222,
+        "height": 0.175
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.1996,
+        "right": 0.5462,
+        "bottom": 0.4277,
+        "width": 0.5078,
+        "height": 0.2281
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0835,
+        "top": 0.8102,
+        "right": 0.299,
+        "bottom": 0.8908,
+        "width": 0.2155,
+        "height": 0.0806
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.662,
+        "top": 0.8102,
+        "right": 0.9499,
+        "bottom": 0.8908,
+        "width": 0.2879,
+        "height": 0.0806
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 26
+  },
+  "category": "multi_column"
+}

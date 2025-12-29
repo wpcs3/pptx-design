@@ -1,0 +1,1115 @@
+{
+  "id": "f1c68599e804",
+  "template": "template_market_analysis",
+  "slide_num": 13,
+  "layout_name": "Default",
+  "element_count": 48,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Depending on the main question, the competitive ma"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "In this package, we have included five different t"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Guide"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.149,
+        "top": 0.3065,
+        "width": 0.2,
+        "height": 0.1127,
+        "right": 0.349,
+        "bottom": 0.4192
+      },
+      "position_inches": {
+        "left": 1.99,
+        "top": 2.3,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "EV market analysis prepared as part of a broader s"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3065,
+        "width": 0.0993,
+        "height": 0.1133,
+        "right": 0.1448,
+        "bottom": 0.4198
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.3,
+        "width": 1.32,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Real-life case example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4338,
+        "width": 0.0993,
+        "height": 0.1133,
+        "right": 0.1448,
+        "bottom": 0.5471
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.25,
+        "width": 1.32,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Real-life case example #2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5611,
+        "width": 0.0993,
+        "height": 0.1133,
+        "right": 0.1448,
+        "bottom": 0.6744
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.21,
+        "width": 1.32,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Real-life case example #3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8157,
+        "width": 0.0993,
+        "height": 0.1133,
+        "right": 0.1448,
+        "bottom": 0.9291
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.12,
+        "width": 1.32,
+        "height": 0.85
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Real-life case example #5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.149,
+        "top": 0.4338,
+        "width": 0.2,
+        "height": 0.1133,
+        "right": 0.349,
+        "bottom": 0.5471
+      },
+      "position_inches": {
+        "left": 1.99,
+        "top": 3.25,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Executive summary of a market analysis, developed"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.149,
+        "top": 0.6884,
+        "width": 0.2,
+        "height": 0.1115,
+        "right": 0.349,
+        "bottom": 0.8
+      },
+      "position_inches": {
+        "left": 1.99,
+        "top": 5.16,
+        "width": 2.67,
+        "height": 0.84
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Market report evaluating growth and trends in the"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.149,
+        "top": 0.8157,
+        "width": 0.2,
+        "height": 0.1133,
+        "right": 0.349,
+        "bottom": 0.9291
+      },
+      "position_inches": {
+        "left": 1.99,
+        "top": 6.12,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Report on analysis of full market potential"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2314,
+        "width": 0.3035,
+        "height": 0.0624,
+        "right": 0.349,
+        "bottom": 0.2937
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.74,
+        "width": 4.05,
+        "height": 0.47
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Case"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2942,
+        "width": 0.3035,
+        "height": 0.0,
+        "right": 0.349,
+        "bottom": 0.2942
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.21,
+        "width": 4.05,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.2314,
+        "width": 0.1939,
+        "height": 0.0624,
+        "right": 0.5511,
+        "bottom": 0.2937
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 1.74,
+        "width": 2.59,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Main question(s) / purpose"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.2942,
+        "width": 0.194,
+        "height": 0.0,
+        "right": 0.5512,
+        "bottom": 0.2942
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.21,
+        "width": 2.59,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.2314,
+        "width": 0.3951,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.2937
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 1.74,
+        "width": 5.27,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Types of analysis included"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5593,
+        "top": 0.2942,
+        "width": 0.3952,
+        "height": 0.0,
+        "right": 0.9546,
+        "bottom": 0.2942
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 2.21,
+        "width": 5.27,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.3065,
+        "width": 0.1939,
+        "height": 0.1127,
+        "right": 0.5511,
+        "bottom": 0.4192
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 2.3,
+        "width": 2.59,
+        "height": 0.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Is the lack of rapid charging a barrier to the upt"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.3037,
+        "width": 0.2429,
+        "height": 0.1154,
+        "right": 0.8023,
+        "bottom": 0.4192
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 2.28,
+        "width": 3.24,
+        "height": 0.87
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Meta-study of multiple different types of research"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.4338,
+        "width": 0.1939,
+        "height": 0.1133,
+        "right": 0.5511,
+        "bottom": 0.5471
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 3.25,
+        "width": 2.59,
+        "height": 0.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Is there an opportunity for a digital insurance pr"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.4336,
+        "width": 0.2,
+        "height": 0.1133,
+        "right": 0.7593,
+        "bottom": 0.5469
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 3.25,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Quantitative market research Customer surveys"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.6884,
+        "width": 0.1939,
+        "height": 0.1115,
+        "right": 0.5511,
+        "bottom": 0.8
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 5.16,
+        "width": 2.59,
+        "height": 0.84
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "What is the current state and forecasted growth an"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.6884,
+        "width": 0.2382,
+        "height": 0.1115,
+        "right": 0.7976,
+        "bottom": 0.8
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 5.16,
+        "width": 3.18,
+        "height": 0.84
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Quantitative market research Market positioning Ma"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.8157,
+        "width": 0.1939,
+        "height": 0.1119,
+        "right": 0.5511,
+        "bottom": 0.9276
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 6.12,
+        "width": 2.59,
+        "height": 0.84
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "What is our available and addressable market sizes"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.8157,
+        "width": 0.2382,
+        "height": 0.1136,
+        "right": 0.7976,
+        "bottom": 0.9294
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 6.12,
+        "width": 3.18,
+        "height": 0.85
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Quantitative market research Market positioning Ma"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.426,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.426
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.19,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5534,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5534
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.15,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8078,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.8078
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.06,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.87,
+        "top": 0.4546,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9543,
+        "bottom": 0.5389
+      },
+      "position_inches": {
+        "left": 11.6,
+        "top": 3.41,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.4454,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9218,
+        "bottom": 0.5297
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 3.34,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.87,
+        "top": 0.5831,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9543,
+        "bottom": 0.6674
+      },
+      "position_inches": {
+        "left": 11.6,
+        "top": 4.37,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.5735,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9218,
+        "bottom": 0.6579
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 4.3,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8023,
+        "top": 0.5661,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.8866,
+        "bottom": 0.6504
+      },
+      "position_inches": {
+        "left": 10.7,
+        "top": 4.25,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.87,
+        "top": 0.8348,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9543,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 11.6,
+        "top": 6.26,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.8259,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9218,
+        "bottom": 0.9102
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 6.19,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8031,
+        "top": 0.8208,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.8873,
+        "bottom": 0.9051
+      },
+      "position_inches": {
+        "left": 10.71,
+        "top": 6.16,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.87,
+        "top": 0.3257,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9543,
+        "bottom": 0.41
+      },
+      "position_inches": {
+        "left": 11.6,
+        "top": 2.44,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8375,
+        "top": 0.3167,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.9218,
+        "bottom": 0.401
+      },
+      "position_inches": {
+        "left": 11.17,
+        "top": 2.38,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6884,
+        "width": 0.0993,
+        "height": 0.1133,
+        "right": 0.1448,
+        "bottom": 0.8018
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.16,
+        "width": 1.32,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Real-life case example #4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.149,
+        "top": 0.5608,
+        "width": 0.2,
+        "height": 0.1133,
+        "right": 0.349,
+        "bottom": 0.6741
+      },
+      "position_inches": {
+        "left": 1.99,
+        "top": 4.21,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Market report summarizing key facts and trends for"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3572,
+        "top": 0.5608,
+        "width": 0.1939,
+        "height": 0.1133,
+        "right": 0.5511,
+        "bottom": 0.6741
+      },
+      "position_inches": {
+        "left": 4.76,
+        "top": 4.21,
+        "width": 2.59,
+        "height": 0.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "What is the current state and forecasted growth of"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5594,
+        "top": 0.5606,
+        "width": 0.2,
+        "height": 0.1133,
+        "right": 0.7593,
+        "bottom": 0.6739
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 4.2,
+        "width": 2.67,
+        "height": 0.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Quantitative market research Competitive landscape"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6802,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6802
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.1,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8023,
+        "top": 0.3086,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.8866,
+        "bottom": 0.3929
+      },
+      "position_inches": {
+        "left": 10.7,
+        "top": 2.31,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8023,
+        "top": 0.438,
+        "width": 0.0843,
+        "height": 0.0843,
+        "right": 0.8866,
+        "bottom": 0.5223
+      },
+      "position_inches": {
+        "left": 10.7,
+        "top": 3.28,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8704,
+        "top": 0.711,
+        "width": 0.0827,
+        "height": 0.0828,
+        "right": 0.9531,
+        "bottom": 0.7938
+      },
+      "position_inches": {
+        "left": 11.61,
+        "top": 5.33,
+        "width": 1.1,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8381,
+        "top": 0.7018,
+        "width": 0.0837,
+        "height": 0.0837,
+        "right": 0.9218,
+        "bottom": 0.7855
+      },
+      "position_inches": {
+        "left": 11.18,
+        "top": 5.26,
+        "width": 1.12,
+        "height": 0.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8044,
+        "top": 0.6942,
+        "width": 0.0827,
+        "height": 0.0828,
+        "right": 0.8872,
+        "bottom": 0.777
+      },
+      "position_inches": {
+        "left": 10.73,
+        "top": 5.21,
+        "width": 1.1,
+        "height": 0.62
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8,
+        "width": 0.909,
+        "height": 0.6077
+      },
+      "element_count": 12,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2314,
+        "right": 0.349,
+        "bottom": 0.8018,
+        "width": 0.3035,
+        "height": 0.5704
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8157,
+        "right": 0.349,
+        "bottom": 0.9291,
+        "width": 0.3035,
+        "height": 0.1134
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5593,
+        "top": 0.2314,
+        "right": 0.9546,
+        "bottom": 0.8,
+        "width": 0.3953,
+        "height": 0.5686
+      },
+      "element_count": 16,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8078,
+        "right": 0.9545,
+        "bottom": 0.9276,
+        "width": 0.909,
+        "height": 0.1198
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5594,
+        "top": 0.8157,
+        "right": 0.9543,
+        "bottom": 0.9294,
+        "width": 0.3949,
+        "height": 0.1137
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0454,
+    "top": 0.0147,
+    "bottom": 0.0706,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.53
+  },
+  "content_types": {
+    "other": 48
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "4383cca67d54",
+  "template": "template_market_analysis",
+  "slide_num": 1,
+  "layout_name": "Blank dark",
+  "element_count": 3,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0994,
+        "top": 0.0,
+        "width": 0.7976,
+        "height": 0.8186,
+        "right": 0.8971,
+        "bottom": 0.8186
+      },
+      "position_inches": {
+        "left": 1.33,
+        "top": 0.0,
+        "width": 10.64,
+        "height": 6.14
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.132,
+        "top": 0.0849,
+        "width": 0.6436,
+        "height": 0.3456,
+        "right": 0.7756,
+        "bottom": 0.4304
+      },
+      "position_inches": {
+        "left": 1.76,
+        "top": 0.64,
+        "width": 8.58,
+        "height": 2.59
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Competitive Market Analysis Presentation Template"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.7214,
+        "width": 0.1707,
+        "height": 0.0577,
+        "right": 0.3114,
+        "bottom": 0.7791
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 5.41,
+        "width": 2.28,
+        "height": 0.43
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0994,
+        "top": 0.0,
+        "right": 0.8971,
+        "bottom": 0.8186,
+        "width": 0.7977,
+        "height": 0.8186
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1407,
+        "top": 0.7214,
+        "right": 0.3114,
+        "bottom": 0.7791,
+        "width": 0.1707,
+        "height": 0.0577
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0994,
+    "right": 0.1029,
+    "top": 0.0,
+    "bottom": 0.1814,
+    "left_inches": 1.33,
+    "right_inches": 1.37,
+    "top_inches": 0.0,
+    "bottom_inches": 1.36
+  },
+  "content_types": {
+    "other": 3
+  },
+  "category": "mixed_content"
+}

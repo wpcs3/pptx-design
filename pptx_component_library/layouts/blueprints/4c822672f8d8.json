@@ -1,0 +1,178 @@
+{
+  "id": "4c822672f8d8",
+  "template": "template_business_case",
+  "slide_num": 194,
+  "layout_name": "Custom Layout",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.3766,
+        "width": 0.6417,
+        "height": 0.2468,
+        "right": 0.6877,
+        "bottom": 0.6234
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.82,
+        "width": 8.56,
+        "height": 1.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "IIIa. Case Real-life sanitized case example \u000bBusin"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.075,
+        "top": 0.142,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.075,
+        "bottom": 0.142
+      },
+      "position_inches": {
+        "left": 1.0,
+        "top": 1.07,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1339,
+        "top": 1.0952,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.1339,
+        "bottom": 1.0952
+      },
+      "position_inches": {
+        "left": 1.79,
+        "top": 8.21,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.075,
+        "bottom": 0.142,
+        "width": 0.0749,
+        "height": 0.1418
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.046,
+        "top": 0.3766,
+        "right": 0.6877,
+        "bottom": 0.6234,
+        "width": 0.6417,
+        "height": 0.2468
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.1339,
+        "top": 1.0952,
+        "right": 0.1339,
+        "bottom": 1.0952,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": -0.0952,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": -0.71
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

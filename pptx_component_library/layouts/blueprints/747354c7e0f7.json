@@ -1,0 +1,903 @@
+{
+  "id": "747354c7e0f7",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 230,
+  "layout_name": "Default",
+  "element_count": 37,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target] is Belgium's leading baby equipment retai"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2492,
+        "width": 0.4459,
+        "height": 0.0313,
+        "right": 0.4914,
+        "bottom": 0.2804
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.87,
+        "width": 5.95,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target] dominates market within strollers and fur"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2927,
+        "width": 0.4459,
+        "height": 0.0,
+        "right": 0.4914,
+        "bottom": 0.2927
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.2,
+        "width": 5.95,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3054,
+        "width": 0.4459,
+        "height": 0.0271,
+        "right": 0.4914,
+        "bottom": 0.3325
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.29,
+        "width": 5.95,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Total sales of baby equipment excl. VAT (2020), M"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5086,
+        "top": 0.2492,
+        "width": 0.4459,
+        "height": 0.0313,
+        "right": 0.9545,
+        "bottom": 0.2804
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 1.87,
+        "width": 5.95,
+        "height": 0.23
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2026and has by far the largest footprint of main reta"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5086,
+        "top": 0.2927,
+        "width": 0.4459,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2927
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 2.2,
+        "width": 5.95,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0781,
+        "top": 0.3551,
+        "width": 0.4062,
+        "height": 0.3748,
+        "right": 0.4842,
+        "bottom": 0.7299
+      },
+      "position_inches": {
+        "left": 1.04,
+        "top": 2.66,
+        "width": 5.42,
+        "height": 2.81
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.5086,
+        "top": 0.3551,
+        "width": 0.3789,
+        "height": 0.3308,
+        "right": 0.8875,
+        "bottom": 0.6859
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 2.66,
+        "width": 5.05,
+        "height": 2.48
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3394,
+        "top": 0.42,
+        "width": 0.0082,
+        "height": 0.0153,
+        "right": 0.3476,
+        "bottom": 0.4353
+      },
+      "position_inches": {
+        "left": 4.53,
+        "top": 3.15,
+        "width": 0.11,
+        "height": 0.11
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3394,
+        "top": 0.3723,
+        "width": 0.0082,
+        "height": 0.0153,
+        "right": 0.3476,
+        "bottom": 0.3876
+      },
+      "position_inches": {
+        "left": 4.53,
+        "top": 2.79,
+        "width": 0.11,
+        "height": 0.11
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3561,
+        "top": 0.4164,
+        "width": 0.1077,
+        "height": 0.0224,
+        "right": 0.4637,
+        "bottom": 0.4389
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 3.12,
+        "width": 1.44,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] key segments"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3561,
+        "top": 0.3575,
+        "width": 0.1308,
+        "height": 0.0449,
+        "right": 0.4868,
+        "bottom": 0.4024
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 2.68,
+        "width": 1.74,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Remaining of total baby equipment market"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3394,
+        "top": 0.4677,
+        "width": 0.0082,
+        "height": 0.0153,
+        "right": 0.3476,
+        "bottom": 0.483
+      },
+      "position_inches": {
+        "left": 4.53,
+        "top": 3.51,
+        "width": 0.11,
+        "height": 0.11
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3558,
+        "top": 0.4529,
+        "width": 0.1308,
+        "height": 0.0449,
+        "right": 0.4866,
+        "bottom": 0.4978
+      },
+      "position_inches": {
+        "left": 4.74,
+        "top": 3.4,
+        "width": 1.74,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] secondary segments"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1144,
+        "top": 0.7729,
+        "width": 0.3698,
+        "height": 0.1014,
+        "right": 0.4842,
+        "bottom": 0.8743
+      },
+      "position_inches": {
+        "left": 1.53,
+        "top": 5.8,
+        "width": 4.93,
+        "height": 0.76
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0463,
+        "top": 0.7745,
+        "width": 0.0662,
+        "height": 0.0449,
+        "right": 0.1125,
+        "bottom": 0.8194
+      },
+      "position_inches": {
+        "left": 0.62,
+        "top": 5.81,
+        "width": 0.88,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Target] market share"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4188,
+        "top": 0.7861,
+        "width": 0.0639,
+        "height": 0.0224,
+        "right": 0.4827,
+        "bottom": 0.8085
+      },
+      "position_inches": {
+        "left": 5.58,
+        "top": 5.9,
+        "width": 0.85,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "7\u20138%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0463,
+        "top": 0.836,
+        "width": 0.0662,
+        "height": 0.0224,
+        "right": 0.1125,
+        "bottom": 0.8585
+      },
+      "position_inches": {
+        "left": 0.62,
+        "top": 6.27,
+        "width": 0.88,
+        "height": 0.17
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Key channel"
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.1133,
+        "top": 0.7861,
+        "width": 0.0639,
+        "height": 0.0807,
+        "right": 0.1773,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 1.51,
+        "top": 5.9,
+        "width": 0.85,
+        "height": 0.61
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.1724,
+        "top": 0.7861,
+        "width": 0.0639,
+        "height": 0.0807,
+        "right": 0.2363,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 2.3,
+        "top": 5.9,
+        "width": 0.85,
+        "height": 0.61
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.2293,
+        "top": 0.7861,
+        "width": 0.0699,
+        "height": 0.0807,
+        "right": 0.2992,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 5.9,
+        "width": 0.93,
+        "height": 0.61
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.2954,
+        "top": 0.7861,
+        "width": 0.0639,
+        "height": 0.0807,
+        "right": 0.3594,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 3.94,
+        "top": 5.9,
+        "width": 0.85,
+        "height": 0.61
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.3561,
+        "top": 0.7861,
+        "width": 0.0639,
+        "height": 0.0807,
+        "right": 0.42,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 5.9,
+        "width": 0.85,
+        "height": 0.61
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4188,
+        "top": 0.8219,
+        "width": 0.0639,
+        "height": 0.0449,
+        "right": 0.4827,
+        "bottom": 0.8668
+      },
+      "position_inches": {
+        "left": 5.58,
+        "top": 6.16,
+        "width": 0.85,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Baby  specialists"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8875,
+        "top": 0.6173,
+        "width": 0.0476,
+        "height": 0.0224,
+        "right": 0.9351,
+        "bottom": 0.6398
+      },
+      "position_inches": {
+        "left": 11.83,
+        "top": 4.63,
+        "width": 0.63,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Region 1]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8875,
+        "top": 0.5808,
+        "width": 0.0476,
+        "height": 0.0224,
+        "right": 0.9351,
+        "bottom": 0.6033
+      },
+      "position_inches": {
+        "left": 11.83,
+        "top": 4.36,
+        "width": 0.63,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Region 2]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8875,
+        "top": 0.5394,
+        "width": 0.0476,
+        "height": 0.0224,
+        "right": 0.9351,
+        "bottom": 0.5618
+      },
+      "position_inches": {
+        "left": 11.83,
+        "top": 4.05,
+        "width": 0.63,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Region 3]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8875,
+        "top": 0.5032,
+        "width": 0.0476,
+        "height": 0.0224,
+        "right": 0.9351,
+        "bottom": 0.5257
+      },
+      "position_inches": {
+        "left": 11.83,
+        "top": 3.77,
+        "width": 0.63,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Region 4]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8875,
+        "top": 0.4417,
+        "width": 0.0476,
+        "height": 0.0224,
+        "right": 0.9351,
+        "bottom": 0.4641
+      },
+      "position_inches": {
+        "left": 11.83,
+        "top": 3.31,
+        "width": 0.63,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Region 5]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5086,
+        "top": 0.3054,
+        "width": 0.4459,
+        "height": 0.0271,
+        "right": 0.9545,
+        "bottom": 0.3325
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 2.29,
+        "width": 5.95,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Number of stores per retail chain (2020)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6694,
+        "top": 0.7199,
+        "width": 0.1244,
+        "height": 0.0188,
+        "right": 0.7937,
+        "bottom": 0.7387
+      },
+      "position_inches": {
+        "left": 8.92,
+        "top": 5.4,
+        "width": 1.66,
+        "height": 0.14
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2372,
+        "top": 0.7199,
+        "width": 0.1244,
+        "height": 0.0188,
+        "right": 0.3615,
+        "bottom": 0.7387
+      },
+      "position_inches": {
+        "left": 3.16,
+        "top": 5.4,
+        "width": 1.66,
+        "height": 0.14
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5467,
+        "top": 0.7729,
+        "width": 0.3698,
+        "height": 0.1014,
+        "right": 0.9164,
+        "bottom": 0.8743
+      },
+      "position_inches": {
+        "left": 7.29,
+        "top": 5.8,
+        "width": 4.93,
+        "height": 0.76
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Target] has the overall largest shop network\u000b [Co"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: National statistics bank; [Target] data; ["
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. [Target] clothing sales include more"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2492,
+        "right": 0.4914,
+        "bottom": 0.8194,
+        "width": 0.4459,
+        "height": 0.5702
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5086,
+        "top": 0.2492,
+        "right": 0.9545,
+        "bottom": 0.7387,
+        "width": 0.4459,
+        "height": 0.4895
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3394,
+        "top": 0.3575,
+        "right": 0.4868,
+        "bottom": 0.8085,
+        "width": 0.1474,
+        "height": 0.451
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0463,
+        "top": 0.7729,
+        "right": 0.4842,
+        "bottom": 0.8743,
+        "width": 0.4379,
+        "height": 0.1014
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7861,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.1991
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5467,
+        "top": 0.7729,
+        "right": 0.9164,
+        "bottom": 0.8743,
+        "width": 0.3697,
+        "height": 0.1014
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 37
+  },
+  "category": "multi_column"
+}

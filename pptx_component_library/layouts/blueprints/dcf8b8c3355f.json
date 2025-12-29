@@ -1,0 +1,200 @@
+{
+  "id": "dcf8b8c3355f",
+  "template": "template_business_case",
+  "slide_num": 251,
+  "layout_name": "Frontpage",
+  "element_count": 6,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.0476,
+        "width": 0.1639,
+        "height": 0.1524,
+        "right": 0.2092,
+        "bottom": 0.2
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 0.36,
+        "width": 2.19,
+        "height": 1.14
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6577,
+        "width": 0.5131,
+        "height": 0.0314,
+        "right": 0.5586,
+        "bottom": 0.6891
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.93,
+        "width": 6.84,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "November 2024"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.5968,
+        "width": 0.5131,
+        "height": 0.0449,
+        "right": 0.5583,
+        "bottom": 0.6416
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.48,
+        "width": 6.84,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "EnergyCo"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.3674,
+        "width": 0.5131,
+        "height": 0.2117,
+        "right": 0.5583,
+        "bottom": 0.5791
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.76,
+        "width": 6.84,
+        "height": 1.59
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Business case"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4832,
+        "top": -0.0053,
+        "width": 0.5196,
+        "height": 1.0053,
+        "right": 1.0028,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 6.44,
+        "top": -0.04,
+        "width": 6.93,
+        "height": 7.54
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.0476,
+        "right": 0.2092,
+        "bottom": 0.2,
+        "width": 0.1639,
+        "height": 0.1524
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.3674,
+        "right": 0.5586,
+        "bottom": 0.6891,
+        "width": 0.5133,
+        "height": 0.3217
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4832,
+        "top": -0.0053,
+        "right": 1.0028,
+        "bottom": 1.0,
+        "width": 0.5196,
+        "height": 1.0053
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0453,
+    "right": -0.0028,
+    "top": -0.0053,
+    "bottom": 0.0,
+    "left_inches": 0.6,
+    "right_inches": -0.04,
+    "top_inches": -0.04,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 6
+  },
+  "category": "mixed_content"
+}

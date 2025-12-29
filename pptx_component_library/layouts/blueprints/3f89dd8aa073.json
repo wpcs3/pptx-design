@@ -1,0 +1,453 @@
+{
+  "id": "3f89dd8aa073",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 2,
+  "layout_name": "Default",
+  "element_count": 17,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Objectives of this template"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "width": 0.9164,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.2911
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.61,
+        "width": 12.22,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The Due Diligence template includes a fully struct"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.7707,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.8155
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 5.78,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Create and present a complete commercial due dilig"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.4456,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.4904
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 3.34,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Analyze the target\u2019s financial position and financ"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.5268,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.5717
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 3.95,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Analyze the market attractiveness and dynamics"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.6894,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.7343
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 5.17,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Discuss and evaluate the commercial attractiveness"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.3329,
+        "width": 0.8845,
+        "height": 0.0763,
+        "right": 0.9548,
+        "bottom": 0.4092
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 2.5,
+        "width": 11.79,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Conduct a due diligence of a target company using"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.8519,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.8968
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 6.39,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Get inspiration from real-life case examples on ho"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.3582,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.3845
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 2.69,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.4557,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.482
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 3.42,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.5361,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.5624
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 4.02,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.6174,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.6437
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 4.63,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.6987,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.7249
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 5.24,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.8612,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.8875
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 6.46,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "bottom_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0703,
+        "top": 0.6081,
+        "width": 0.8845,
+        "height": 0.0449,
+        "right": 0.9548,
+        "bottom": 0.653
+      },
+      "position_inches": {
+        "left": 0.94,
+        "top": 4.56,
+        "width": 11.79,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Create an overview of the target\u2019s competitive adv"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.78,
+        "width": 0.0221,
+        "height": 0.0262,
+        "right": 0.0697,
+        "bottom": 0.8062
+      },
+      "position_inches": {
+        "left": 0.63,
+        "top": 5.85,
+        "width": 0.29,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2148,
+        "right": 0.9548,
+        "bottom": 0.8155,
+        "width": 0.9164,
+        "height": 0.6007
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0703,
+        "top": 0.8519,
+        "right": 0.9548,
+        "bottom": 0.8968,
+        "width": 0.8845,
+        "height": 0.0449
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.3582,
+        "right": 0.0697,
+        "bottom": 0.8062,
+        "width": 0.0221,
+        "height": 0.448
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.8612,
+        "right": 0.0697,
+        "bottom": 0.8875,
+        "width": 0.0221,
+        "height": 0.0263
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1032,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.77
+  },
+  "content_types": {
+    "other": 17
+  },
+  "category": "mixed_content"
+}

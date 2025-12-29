@@ -1,0 +1,571 @@
+{
+  "id": "3dc1ba9f5cf8",
+  "template": "template_market_analysis",
+  "slide_num": 294,
+  "layout_name": "Default",
+  "element_count": 22,
+  "elements": [
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0385,
+        "top": 0.3122,
+        "width": 0.916,
+        "height": 0.5962,
+        "right": 0.9545,
+        "bottom": 0.9084
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 2.34,
+        "width": 12.21,
+        "height": 4.47
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The addressable distributor market is growing at 8"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis based on discussions with [s"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6546,
+        "top": 0.2181,
+        "width": 0.0,
+        "height": 0.6247,
+        "right": 0.6546,
+        "bottom": 0.8428
+      },
+      "position_inches": {
+        "left": 8.73,
+        "top": 1.64,
+        "width": 0.0,
+        "height": 4.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.4416,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.4866
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 3.31,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "11%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.5025,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.5475
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 3.77,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.5634,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.6084
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 4.23,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "21%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.6243,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.6693
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 4.68,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "19%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.6852,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.7302
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 5.14,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "7%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5706,
+        "top": 0.7461,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.6228,
+        "bottom": 0.7911
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 5.6,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "7%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.2361,
+        "width": 0.5984,
+        "height": 0.0624,
+        "right": 0.6443,
+        "bottom": 0.2984
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.77,
+        "width": 7.98,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Distributor market growth, EUR M"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3107,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.6443,
+        "bottom": 0.3107
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.33,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.2361,
+        "width": 0.29,
+        "height": 0.0624,
+        "right": 0.9548,
+        "bottom": 0.2984
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 1.77,
+        "width": 3.87,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Share of global market, %"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.3107,
+        "width": 0.29,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3107
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 2.33,
+        "width": 3.87,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5659,
+        "top": 0.3946,
+        "width": 0.0616,
+        "height": 0.0337,
+        "right": 0.6275,
+        "bottom": 0.4284
+      },
+      "position_inches": {
+        "left": 7.55,
+        "top": 2.96,
+        "width": 0.82,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "CAGR"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1197,
+        "top": 0.387,
+        "width": 0.3649,
+        "height": 0.1276,
+        "right": 0.4846,
+        "bottom": 0.5146
+      },
+      "position_inches": {
+        "left": 1.6,
+        "top": 2.9,
+        "width": 4.87,
+        "height": 0.96
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.276,
+        "top": 0.4283,
+        "width": 0.0522,
+        "height": 0.045,
+        "right": 0.3282,
+        "bottom": 0.4733
+      },
+      "position_inches": {
+        "left": 3.68,
+        "top": 3.21,
+        "width": 0.7,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "8%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.6921,
+        "top": 0.387,
+        "width": 0.2355,
+        "height": 0.4558,
+        "right": 0.9276,
+        "bottom": 0.8428
+      },
+      "position_inches": {
+        "left": 9.23,
+        "top": 2.9,
+        "width": 3.14,
+        "height": 3.42
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8261,
+        "top": 0.356,
+        "width": 0.085,
+        "height": 0.0269,
+        "right": 0.9111,
+        "bottom": 0.3829
+      },
+      "position_inches": {
+        "left": 11.02,
+        "top": 2.67,
+        "width": 1.13,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "~ 355+ EUR M"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7089,
+        "top": 0.356,
+        "width": 0.085,
+        "height": 0.0269,
+        "right": 0.7938,
+        "bottom": 0.3829
+      },
+      "position_inches": {
+        "left": 9.45,
+        "top": 2.67,
+        "width": 1.13,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "~ 250+ EUR M"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0385,
+        "top": 0.2181,
+        "right": 0.9545,
+        "bottom": 0.9084,
+        "width": 0.916,
+        "height": 0.6903
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6649,
+        "top": 0.2361,
+        "right": 0.9548,
+        "bottom": 0.8428,
+        "width": 0.2899,
+        "height": 0.6067
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1197,
+        "top": 0.387,
+        "right": 0.4846,
+        "bottom": 0.5146,
+        "width": 0.3649,
+        "height": 0.1276
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0452,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 22
+  },
+  "category": "multi_column"
+}

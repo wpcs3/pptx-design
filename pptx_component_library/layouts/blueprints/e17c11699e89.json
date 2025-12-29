@@ -1,0 +1,279 @@
+{
+  "id": "e17c11699e89",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 19,
+  "layout_name": "Default",
+  "element_count": 9,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Competitive landscape"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5258,
+        "top": 0.2603,
+        "width": 0.4287,
+        "height": 0.0663,
+        "right": 0.9545,
+        "bottom": 0.3266
+      },
+      "position_inches": {
+        "left": 7.01,
+        "top": 1.95,
+        "width": 5.72,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Key questions/checklist"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2625,
+        "width": 0.4287,
+        "height": 0.0641,
+        "right": 0.4742,
+        "bottom": 0.3266
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.97,
+        "width": 5.72,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Objective"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6035,
+        "width": 0.4287,
+        "height": 0.0641,
+        "right": 0.4742,
+        "bottom": 0.6676
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.53,
+        "width": 5.72,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Typical data sources"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6676,
+        "width": 0.4287,
+        "height": 0.2484,
+        "right": 0.4742,
+        "bottom": 0.9159
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.01,
+        "width": 5.72,
+        "height": 1.86
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Competitor annual reports and other financial fili"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3261,
+        "width": 0.4287,
+        "height": 0.2484,
+        "right": 0.4742,
+        "bottom": 0.5744
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.45,
+        "width": 5.72,
+        "height": 1.86
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Get comprehensive understanding of target's positi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5258,
+        "top": 0.3261,
+        "width": 0.4287,
+        "height": 0.5899,
+        "right": 0.9545,
+        "bottom": 0.9159
+      },
+      "position_inches": {
+        "left": 7.01,
+        "top": 2.45,
+        "width": 5.72,
+        "height": 4.42
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Who are key competitors? How have market shares sh"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.1064,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.0744,
+        "bottom": 0.1589
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 0.8,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "3c"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5258,
+        "top": 0.2603,
+        "right": 0.9545,
+        "bottom": 0.9159,
+        "width": 0.4287,
+        "height": 0.6556
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2625,
+        "right": 0.4742,
+        "bottom": 0.9159,
+        "width": 0.4287,
+        "height": 0.6534
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.1064,
+        "right": 0.0744,
+        "bottom": 0.1589,
+        "width": 0.0295,
+        "height": 0.0525
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0449,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0841,
+    "left_inches": 0.6,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 9
+  },
+  "category": "mixed_content"
+}

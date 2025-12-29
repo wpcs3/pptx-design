@@ -1,0 +1,91 @@
+{
+  "id": "ce5ab48e4681",
+  "template": "template_market_analysis",
+  "slide_num": 316,
+  "layout_name": "Blank dark",
+  "element_count": 2,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4049,
+        "top": 0.4633,
+        "width": 0.2173,
+        "height": 0.0735,
+        "right": 0.6222,
+        "bottom": 0.5367
+      },
+      "position_inches": {
+        "left": 5.4,
+        "top": 3.47,
+        "width": 2.9,
+        "height": 0.55
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4049,
+        "top": 0.4633,
+        "right": 0.6222,
+        "bottom": 0.5367,
+        "width": 0.2173,
+        "height": 0.0734
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.3778,
+    "top": 0.0002,
+    "bottom": 0.4633,
+    "left_inches": 0.0,
+    "right_inches": 5.04,
+    "top_inches": 0.0,
+    "bottom_inches": 3.47
+  },
+  "content_types": {
+    "other": 2
+  },
+  "category": "minimal"
+}

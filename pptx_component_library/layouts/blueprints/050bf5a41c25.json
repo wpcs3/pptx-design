@@ -1,0 +1,394 @@
+{
+  "id": "050bf5a41c25",
+  "template": "template_business_case",
+  "slide_num": 170,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0746,
+        "top": 0.3282,
+        "width": 0.1781,
+        "height": 0.1459,
+        "right": 0.2527,
+        "bottom": 0.474
+      },
+      "position_inches": {
+        "left": 0.99,
+        "top": 2.46,
+        "width": 2.38,
+        "height": 1.09
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Step 1 Preparation and planning"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2982,
+        "top": 0.3282,
+        "width": 0.1781,
+        "height": 0.1459,
+        "right": 0.4763,
+        "bottom": 0.474
+      },
+      "position_inches": {
+        "left": 3.98,
+        "top": 2.46,
+        "width": 2.38,
+        "height": 1.09
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Step 2 [Insert phase e.g., Solution design]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5219,
+        "top": 0.3282,
+        "width": 0.1781,
+        "height": 0.1459,
+        "right": 0.7,
+        "bottom": 0.474
+      },
+      "position_inches": {
+        "left": 6.96,
+        "top": 2.46,
+        "width": 2.38,
+        "height": 1.09
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Step 3 [Insert phase e.g., Solution iteration]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7455,
+        "top": 0.3282,
+        "width": 0.1781,
+        "height": 0.1862,
+        "right": 0.9237,
+        "bottom": 0.5144
+      },
+      "position_inches": {
+        "left": 9.94,
+        "top": 2.46,
+        "width": 2.38,
+        "height": 1.4
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Step 4 [Insert phase e.g., Roll-out preparation]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0568,
+        "top": 0.5797,
+        "width": 0.1977,
+        "height": 0.3097,
+        "right": 0.2545,
+        "bottom": 0.8894
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 4.35,
+        "width": 2.64,
+        "height": 2.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert main activities e.g., \u201cAssemble and onboar"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2896,
+        "top": 0.5797,
+        "width": 0.1977,
+        "height": 0.3411,
+        "right": 0.4873,
+        "bottom": 0.9208
+      },
+      "position_inches": {
+        "left": 3.86,
+        "top": 4.35,
+        "width": 2.64,
+        "height": 2.56
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert main activities e.g., \u201cValidate identified"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5098,
+        "top": 0.5797,
+        "width": 0.1977,
+        "height": 0.3097,
+        "right": 0.7075,
+        "bottom": 0.8894
+      },
+      "position_inches": {
+        "left": 6.8,
+        "top": 4.35,
+        "width": 2.64,
+        "height": 2.32
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert main activities e.g., \u201cTest POC with selec"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.73,
+        "top": 0.5797,
+        "width": 0.2088,
+        "height": 0.2782,
+        "right": 0.9388,
+        "bottom": 0.858
+      },
+      "position_inches": {
+        "left": 9.73,
+        "top": 4.35,
+        "width": 2.78,
+        "height": 2.09
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert main activities e.g., \u201cSummarize findings\u201d"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0556,
+        "top": 0.5269,
+        "width": 0.8888,
+        "height": 0.0,
+        "right": 0.9444,
+        "bottom": 0.5269
+      },
+      "position_inches": {
+        "left": 0.74,
+        "top": 3.95,
+        "width": 11.85,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "We will go through four high-level steps, with maj"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7455,
+        "top": 0.1327,
+        "width": 0.2545,
+        "height": 0.1187,
+        "right": 1.0,
+        "bottom": 0.2514
+      },
+      "position_inches": {
+        "left": 9.94,
+        "top": 1.0,
+        "width": 3.39,
+        "height": 0.89
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Slideworks note: This slide is connected in a cont"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0568,
+        "top": 0.3282,
+        "right": 0.2545,
+        "bottom": 0.8894,
+        "width": 0.1977,
+        "height": 0.5612
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.9208,
+        "width": 0.909,
+        "height": 0.7285
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.73,
+        "top": 0.3282,
+        "right": 0.9388,
+        "bottom": 0.858,
+        "width": 0.2088,
+        "height": 0.5298
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 1.0,
+        "bottom": 0.2514,
+        "width": 0.3742,
+        "height": 0.2367
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.0,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "multi_column"
+}

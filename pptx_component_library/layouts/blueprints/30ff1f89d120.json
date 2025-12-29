@@ -1,0 +1,614 @@
+{
+  "id": "30ff1f89d120",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 4,
+  "layout_name": "Default",
+  "element_count": 25,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Note, this Due Diligence template focuses on the c"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0461,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.1689,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Commercial"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1772,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.3,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 2.36,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Operational"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3083,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.4311,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 4.11,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Financial"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4394,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.5622,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 5.86,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Legal"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5705,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.6933,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "IT and tech"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7016,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.8244,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 9.35,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Environmental"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8327,
+        "top": 0.3633,
+        "width": 0.1228,
+        "height": 0.0668,
+        "right": 0.9556,
+        "bottom": 0.4301
+      },
+      "position_inches": {
+        "left": 11.1,
+        "top": 2.72,
+        "width": 1.64,
+        "height": 0.5
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Management"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0461,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.1689,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Market size, growth, trends, and competitors Custo"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1772,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.3,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 2.36,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Operational efficiency Supplier opportunities  and"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3083,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.4311,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 4.11,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Adjustments to P&L and balance sheet (incl. tax) F"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4394,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.5622,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 5.86,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "IP rights Contracts Insurance"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5705,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.6933,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 7.61,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Technology platforms Tech roadmap ERP systems and"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7016,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.8244,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 9.35,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Compliance and reporting of ESG"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8327,
+        "top": 0.4352,
+        "width": 0.1228,
+        "height": 0.2568,
+        "right": 0.9556,
+        "bottom": 0.692
+      },
+      "position_inches": {
+        "left": 11.1,
+        "top": 3.26,
+        "width": 1.64,
+        "height": 1.93
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Key employee assessment and remuneration packages"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0957,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.1193,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 1.28,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "A"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2268,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.2504,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 3.02,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "B"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3579,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.3815,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 4.77,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "C"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.489,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.5126,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "D"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6201,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.6437,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 8.27,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "E"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7512,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.7748,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 10.02,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "F"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8823,
+        "top": 0.302,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.9059,
+        "bottom": 0.344
+      },
+      "position_inches": {
+        "left": 11.76,
+        "top": 2.27,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "G"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1007,
+        "top": 0.6175,
+        "width": 0.0137,
+        "height": 0.2184,
+        "right": 0.1144,
+        "bottom": 0.8359
+      },
+      "position_inches": {
+        "left": 1.34,
+        "top": 4.63,
+        "width": 0.18,
+        "height": 1.64
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.052,
+        "top": 0.751,
+        "width": 0.111,
+        "height": 0.0458,
+        "right": 0.163,
+        "bottom": 0.7969
+      },
+      "position_inches": {
+        "left": 0.69,
+        "top": 5.63,
+        "width": 1.48,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Focus of this \u000btemplate"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0461,
+        "top": 0.302,
+        "right": 0.3,
+        "bottom": 0.8359,
+        "width": 0.2539,
+        "height": 0.5339
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3083,
+        "top": 0.302,
+        "right": 0.6933,
+        "bottom": 0.692,
+        "width": 0.385,
+        "height": 0.39
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7016,
+        "top": 0.302,
+        "right": 0.9556,
+        "bottom": 0.692,
+        "width": 0.254,
+        "height": 0.39
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0444,
+    "top": 0.0147,
+    "bottom": 0.1641,
+    "left_inches": 0.61,
+    "right_inches": 0.59,
+    "top_inches": 0.11,
+    "bottom_inches": 1.23
+  },
+  "content_types": {
+    "other": 25
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,69 @@
+You are a PowerPoint design analyst. Your task is to describe this slide template with enough precision that it can be recreated programmatically using python-pptx.
+
+Analyze this slide image and provide a complete specification.
+
+## Required Output Format (JSON):
+
+```json
+{
+    "slide_dimensions": {
+        "width_inches": 13.333,
+        "height_inches": 7.5,
+        "aspect_ratio": "16:9"
+    },
+    "background": {
+        "type": "solid|gradient|image",
+        "color": "#RRGGBB",
+        "gradient_start": "#RRGGBB",
+        "gradient_end": "#RRGGBB",
+        "gradient_direction": "horizontal|vertical|diagonal"
+    },
+    "elements": [
+        {
+            "id": "element_1",
+            "type": "textbox|shape|line|image_placeholder",
+            "position": {
+                "left_inches": 0.0,
+                "top_inches": 0.0,
+                "width_inches": 0.0,
+                "height_inches": 0.0
+            },
+            "text_properties": {
+                "placeholder_text": "TITLE GOES HERE",
+                "font_family": "Calibri Light",
+                "font_size_pt": 44,
+                "font_color": "#RRGGBB",
+                "bold": false,
+                "italic": false,
+                "alignment": "center|left|right",
+                "vertical_alignment": "top|middle|bottom"
+            },
+            "shape_properties": {
+                "fill_color": "#RRGGBB",
+                "fill_transparency": 0,
+                "border_color": "#RRGGBB",
+                "border_width_pt": 1,
+                "shape_type": "rectangle|rounded_rectangle|oval|line"
+            }
+        }
+    ],
+    "color_palette": ["#RRGGBB", "#RRGGBB"],
+    "design_notes": "Free-form observations about the design style, spacing patterns, visual hierarchy, etc."
+}
+```
+
+## Guidelines:
+
+1. **Measure precisely**: Estimate positions and sizes as accurately as possible. Use the slide dimensions as reference (standard widescreen is 13.333" × 7.5").
+
+2. **Identify ALL elements**: Include decorative shapes, lines, backgrounds, even subtle design elements.
+
+3. **Note visual hierarchy**: Which elements are most prominent? This affects z-order.
+
+4. **Observe spacing patterns**: Are elements evenly spaced? Following a grid? Margins consistent?
+
+5. **Color accuracy**: Try to identify exact colors. Note if colors are from a brand palette.
+
+6. **Font identification**: Identify fonts as precisely as possible. Common PowerPoint fonts: Calibri, Calibri Light, Arial, Century Gothic, Segoe UI.
+
+Output ONLY the JSON, no additional commentary.

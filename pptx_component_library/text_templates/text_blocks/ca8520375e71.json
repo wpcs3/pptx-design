@@ -1,0 +1,46 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 3,
+  "pattern_type": "text_block",
+  "paragraph_count": 3,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 29,
+      "word_count": 4,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 63,
+      "word_count": 10,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 58,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Business & Consulting Toolkit\nAppendix A: Common frameworks and tools used in mgmt consulting\nAppendix B: Checklist and best practices for presentations",
+  "usage_count": 67,
+  "id": "ca8520375e71"
+}

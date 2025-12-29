@@ -1,0 +1,318 @@
+{
+  "id": "5a982bb152ce",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 13,
+  "layout_name": "Default",
+  "element_count": 11,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "There are many ways to categorize CDDs but a commo"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5002,
+        "top": 0.2417,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.5002,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.4769,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Sell-side vs. buy-side"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2616,
+        "width": 0.4314,
+        "height": 0.0604,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.96,
+        "width": 5.75,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Inside vs. outside"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6313,
+        "width": 0.4314,
+        "height": 0.2665,
+        "right": 0.4769,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.74,
+        "width": 5.75,
+        "height": 2.0
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Buy-side: CDD conducted by potential buyer, either"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3412,
+        "width": 0.4314,
+        "height": 0.2665,
+        "right": 0.4769,
+        "bottom": 0.6077
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.56,
+        "width": 5.75,
+        "height": 2.0
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Sell-side (also called a vendor DD): CDD conducted"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.6313,
+        "width": 0.4314,
+        "height": 0.2665,
+        "right": 0.9548,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 4.74,
+        "width": 5.75,
+        "height": 2.0
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Outside: Little or no internal data is available T"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3412,
+        "width": 0.4314,
+        "height": 0.2665,
+        "right": 0.9548,
+        "bottom": 0.6077
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.56,
+        "width": 5.75,
+        "height": 2.0
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Inside: Data is provided by the target company All"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.5002,
+        "top": 0.2417,
+        "right": 0.5002,
+        "bottom": 0.8978,
+        "width": 0.0,
+        "height": 0.6561
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2616,
+        "right": 0.4769,
+        "bottom": 0.8978,
+        "width": 0.4314,
+        "height": 0.6362
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.2616,
+        "right": 0.9548,
+        "bottom": 0.8978,
+        "width": 0.4314,
+        "height": 0.6362
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1022,
+    "left_inches": 0.61,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.77
+  },
+  "content_types": {
+    "other": 11
+  },
+  "category": "multi_column"
+}

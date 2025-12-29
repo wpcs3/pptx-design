@@ -1,0 +1,528 @@
+{
+  "id": "50472e526959",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 210,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9539,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The Polish health market is fragmented with no dom"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.5138,
+        "width": 0.1676,
+        "height": 0.1778,
+        "right": 0.2125,
+        "bottom": 0.6916
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.85,
+        "width": 2.23,
+        "height": 1.33
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Three types of players distinguish themselves in P"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.8129,
+        "width": 0.1639,
+        "height": 0.1001,
+        "right": 0.4111,
+        "bottom": 0.913
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 6.1,
+        "width": 2.19,
+        "height": 0.75
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.6953,
+        "width": 0.1639,
+        "height": 0.1001,
+        "right": 0.4111,
+        "bottom": 0.7954
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 5.21,
+        "width": 2.19,
+        "height": 0.75
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u2026"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4243,
+        "top": 0.4211,
+        "width": 0.5271,
+        "height": 0.0808,
+        "right": 0.9513,
+        "bottom": 0.5019
+      },
+      "position_inches": {
+        "left": 5.66,
+        "top": 3.16,
+        "width": 7.03,
+        "height": 0.61
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Owned by single-store pharmacies ~830 stores Healt"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.4105,
+        "width": 0.1639,
+        "height": 0.102,
+        "right": 0.4111,
+        "bottom": 0.5125
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 3.08,
+        "width": 2.19,
+        "height": 0.77
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Private pharmacies"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.2904,
+        "width": 0.1639,
+        "height": 0.102,
+        "right": 0.4111,
+        "bottom": 0.3924
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 2.18,
+        "width": 2.19,
+        "height": 0.77
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[RetailCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4243,
+        "top": 0.2876,
+        "width": 0.5271,
+        "height": 0.1077,
+        "right": 0.9513,
+        "bottom": 0.3953
+      },
+      "position_inches": {
+        "left": 5.66,
+        "top": 2.16,
+        "width": 7.03,
+        "height": 0.81
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Owned by [Conglomerate] 17 stores 206 EUR M in yea"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2472,
+        "top": 0.5306,
+        "width": 0.1639,
+        "height": 0.102,
+        "right": 0.4111,
+        "bottom": 0.6326
+      },
+      "position_inches": {
+        "left": 3.3,
+        "top": 3.98,
+        "width": 2.19,
+        "height": 0.77
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[RetailCo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4243,
+        "top": 0.5412,
+        "width": 0.5271,
+        "height": 0.0808,
+        "right": 0.9513,
+        "bottom": 0.622
+      },
+      "position_inches": {
+        "left": 5.66,
+        "top": 4.06,
+        "width": 7.03,
+        "height": 0.61
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Leading provider of services in Polish trading sec"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2125,
+        "top": 0.3414,
+        "width": 0.0347,
+        "height": 0.2613,
+        "right": 0.2472,
+        "bottom": 0.6027
+      },
+      "position_inches": {
+        "left": 2.83,
+        "top": 2.56,
+        "width": 0.46,
+        "height": 1.96
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2125,
+        "top": 0.4615,
+        "width": 0.0347,
+        "height": 0.1412,
+        "right": 0.2472,
+        "bottom": 0.6027
+      },
+      "position_inches": {
+        "left": 2.83,
+        "top": 3.46,
+        "width": 0.46,
+        "height": 1.06
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2125,
+        "top": 0.5816,
+        "width": 0.0347,
+        "height": 0.0211,
+        "right": 0.2472,
+        "bottom": 0.6027
+      },
+      "position_inches": {
+        "left": 2.83,
+        "top": 4.36,
+        "width": 0.46,
+        "height": 0.16
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2125,
+        "top": 0.6027,
+        "width": 0.0347,
+        "height": 0.1427,
+        "right": 0.2472,
+        "bottom": 0.7454
+      },
+      "position_inches": {
+        "left": 2.83,
+        "top": 4.52,
+        "width": 0.46,
+        "height": 1.07
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2125,
+        "top": 0.6027,
+        "width": 0.0347,
+        "height": 0.2603,
+        "right": 0.2472,
+        "bottom": 0.863
+      },
+      "position_inches": {
+        "left": 2.83,
+        "top": 4.52,
+        "width": 0.46,
+        "height": 1.95
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9683
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3257,
+        "top": 0.7111,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.3257,
+        "bottom": 0.7111
+      },
+      "position_inches": {
+        "left": 4.34,
+        "top": 5.33,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0036,
+        "top": 0.0104,
+        "width": 0.0372,
+        "height": 0.0415,
+        "right": 0.0408,
+        "bottom": 0.0519
+      },
+      "position_inches": {
+        "left": 0.05,
+        "top": 0.08,
+        "width": 0.5,
+        "height": 0.31
+      },
+      "zone": "top_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0408,
+        "bottom": 0.0519,
+        "width": 0.0407,
+        "height": 0.0517
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.0518,
+        "right": 0.9539,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2904,
+        "right": 0.4111,
+        "bottom": 0.863,
+        "width": 0.3662,
+        "height": 0.5726
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.2472,
+        "top": 0.8129,
+        "right": 0.4111,
+        "bottom": 0.913,
+        "width": 0.1639,
+        "height": 0.1001
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4243,
+        "top": 0.2876,
+        "right": 0.9513,
+        "bottom": 0.622,
+        "width": 0.527,
+        "height": 0.3344
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9481,
+        "right": 0.9545,
+        "bottom": 0.9683,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0317,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "mixed_content"
+}

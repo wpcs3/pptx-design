@@ -1,0 +1,32 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 169,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 5,
+      "font_size": 25.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    }
+  ],
+  "sample_text": "Implementation roadmap: Framework for approach",
+  "usage_count": 1,
+  "title_style": {
+    "format": "labeled",
+    "case": "mixed",
+    "font_size": 25.0,
+    "bold": true,
+    "alignment": "left"
+  },
+  "id": "44a1184d6972"
+}

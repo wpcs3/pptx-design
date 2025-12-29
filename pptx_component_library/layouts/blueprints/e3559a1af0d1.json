@@ -1,0 +1,593 @@
+{
+  "id": "e3559a1af0d1",
+  "template": "template_business_case",
+  "slide_num": 105,
+  "layout_name": "Default",
+  "element_count": 23,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Option I: [insert description e.g., optimizes for"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4061,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4061
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.05,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5823,
+        "top": 0.3244,
+        "width": 0.3726,
+        "height": 0.0595,
+        "right": 0.9549,
+        "bottom": 0.3838
+      },
+      "position_inches": {
+        "left": 7.76,
+        "top": 2.43,
+        "width": 4.97,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert levers to pull that can be pulled to make"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5823,
+        "top": 0.4194,
+        "width": 0.3726,
+        "height": 0.1571,
+        "right": 0.9549,
+        "bottom": 0.5765
+      },
+      "position_inches": {
+        "left": 7.76,
+        "top": 3.15,
+        "width": 4.97,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert levers to pull that can be pulled to make"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2605,
+        "width": 0.1283,
+        "height": 0.0314,
+        "right": 0.1738,
+        "bottom": 0.292
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.95,
+        "width": 1.71,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Area"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2994,
+        "width": 0.1283,
+        "height": 0.0,
+        "right": 0.1738,
+        "bottom": 0.2994
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.25,
+        "width": 1.71,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5823,
+        "top": 0.2605,
+        "width": 0.3726,
+        "height": 0.0314,
+        "right": 0.9549,
+        "bottom": 0.292
+      },
+      "position_inches": {
+        "left": 7.76,
+        "top": 1.95,
+        "width": 4.97,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Possible levers"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5823,
+        "top": 0.2994,
+        "width": 0.3726,
+        "height": 0.0,
+        "right": 0.9549,
+        "bottom": 0.2994
+      },
+      "position_inches": {
+        "left": 7.76,
+        "top": 2.25,
+        "width": 4.97,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1879,
+        "top": 0.3244,
+        "width": 0.3802,
+        "height": 0.0595,
+        "right": 0.5682,
+        "bottom": 0.3838
+      },
+      "position_inches": {
+        "left": 2.51,
+        "top": 2.43,
+        "width": 5.07,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert description of area/dimension of solution]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1879,
+        "top": 0.4194,
+        "width": 0.3802,
+        "height": 0.1245,
+        "right": 0.5682,
+        "bottom": 0.5439
+      },
+      "position_inches": {
+        "left": 2.51,
+        "top": 3.15,
+        "width": 5.07,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert description of area/dimension of solution]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1879,
+        "top": 0.2605,
+        "width": 0.3802,
+        "height": 0.0314,
+        "right": 0.5682,
+        "bottom": 0.292
+      },
+      "position_inches": {
+        "left": 2.51,
+        "top": 1.95,
+        "width": 5.07,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Description"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1879,
+        "top": 0.2994,
+        "width": 0.3802,
+        "height": 0.0,
+        "right": 0.5682,
+        "bottom": 0.2994
+      },
+      "position_inches": {
+        "left": 2.51,
+        "top": 2.25,
+        "width": 5.07,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1879,
+        "top": 0.6995,
+        "width": 0.3802,
+        "height": 0.1245,
+        "right": 0.5682,
+        "bottom": 0.8241
+      },
+      "position_inches": {
+        "left": 2.51,
+        "top": 5.25,
+        "width": 5.07,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert description of area/dimension of solution]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6862,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6862
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.15,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5823,
+        "top": 0.6995,
+        "width": 0.3726,
+        "height": 0.1571,
+        "right": 0.9549,
+        "bottom": 0.8566
+      },
+      "position_inches": {
+        "left": 7.76,
+        "top": 5.25,
+        "width": 4.97,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert levers to pull that can be pulled to make"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0605,
+        "top": 0.3244,
+        "width": 0.1133,
+        "height": 0.0684,
+        "right": 0.1738,
+        "bottom": 0.3928
+      },
+      "position_inches": {
+        "left": 0.81,
+        "top": 2.43,
+        "width": 1.51,
+        "height": 0.51
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert area / dimension]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0605,
+        "top": 0.4194,
+        "width": 0.1133,
+        "height": 0.2536,
+        "right": 0.1738,
+        "bottom": 0.6729
+      },
+      "position_inches": {
+        "left": 0.81,
+        "top": 3.15,
+        "width": 1.51,
+        "height": 1.9
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert area / dimension]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0605,
+        "top": 0.6995,
+        "width": 0.1133,
+        "height": 0.2053,
+        "right": 0.1738,
+        "bottom": 0.9048
+      },
+      "position_inches": {
+        "left": 0.81,
+        "top": 5.25,
+        "width": 1.51,
+        "height": 1.54
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Insert area / dimension]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0447,
+        "top": 0.3379,
+        "width": 0.024,
+        "height": 0.0413,
+        "right": 0.0688,
+        "bottom": 0.3792
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.53,
+        "width": 0.32,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0447,
+        "top": 0.5255,
+        "width": 0.024,
+        "height": 0.0413,
+        "right": 0.0688,
+        "bottom": 0.5668
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.94,
+        "width": 0.32,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0447,
+        "top": 0.7815,
+        "width": 0.024,
+        "height": 0.0413,
+        "right": 0.0688,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 5.86,
+        "width": 0.32,
+        "height": 0.31
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2605,
+        "right": 0.9545,
+        "bottom": 0.8241,
+        "width": 0.909,
+        "height": 0.5636
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5823,
+        "top": 0.2605,
+        "right": 0.9549,
+        "bottom": 0.8566,
+        "width": 0.3726,
+        "height": 0.5961
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0447,
+        "top": 0.2605,
+        "right": 0.1738,
+        "bottom": 0.6729,
+        "width": 0.1291,
+        "height": 0.4124
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0447,
+        "top": 0.6995,
+        "right": 0.1738,
+        "bottom": 0.9048,
+        "width": 0.1291,
+        "height": 0.2053
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0451,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 23
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,1224 @@
+{
+  "id": "7c2b99c29bdb",
+  "template": "template_business_case",
+  "slide_num": 146,
+  "layout_name": "Default",
+  "element_count": 53,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Project] will evolve through four main phases"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.18,
+        "top": 0.2796,
+        "width": 0.2062,
+        "height": 0.0853,
+        "right": 0.3863,
+        "bottom": 0.365
+      },
+      "position_inches": {
+        "left": 2.4,
+        "top": 2.1,
+        "width": 2.75,
+        "height": 0.64
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Phase 1]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5589,
+        "top": 0.2796,
+        "width": 0.2062,
+        "height": 0.0851,
+        "right": 0.7651,
+        "bottom": 0.3647
+      },
+      "position_inches": {
+        "left": 7.45,
+        "top": 2.1,
+        "width": 2.75,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Phase 3]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7483,
+        "top": 0.2796,
+        "width": 0.2062,
+        "height": 0.0851,
+        "right": 0.9545,
+        "bottom": 0.3647
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 2.1,
+        "width": 2.75,
+        "height": 0.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Phase 4]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3799,
+        "width": 0.1304,
+        "height": 0.0713,
+        "right": 0.1759,
+        "bottom": 0.4511
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.85,
+        "width": 1.74,
+        "height": 0.53
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key meetings"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.783,
+        "width": 0.1304,
+        "height": 0.1467,
+        "right": 0.1759,
+        "bottom": 0.9297
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.87,
+        "width": 1.74,
+        "height": 1.1
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Responsible leads and participants"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.464,
+        "width": 0.0638,
+        "height": 0.3062,
+        "right": 0.1092,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.48,
+        "width": 0.85,
+        "height": 2.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Delive-rables"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1121,
+        "top": 0.6235,
+        "width": 0.0638,
+        "height": 0.1467,
+        "right": 0.1759,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 1.49,
+        "top": 4.68,
+        "width": 0.85,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert track]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1121,
+        "top": 0.464,
+        "width": 0.0638,
+        "height": 0.1467,
+        "right": 0.1759,
+        "bottom": 0.6106
+      },
+      "position_inches": {
+        "left": 1.49,
+        "top": 3.48,
+        "width": 0.85,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert track]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4575,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4575
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.43,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.18,
+        "top": 0.2519,
+        "width": 0.1831,
+        "height": 0.0,
+        "right": 0.3631,
+        "bottom": 0.2519
+      },
+      "position_inches": {
+        "left": 2.4,
+        "top": 1.89,
+        "width": 2.44,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2242,
+        "top": 0.2407,
+        "width": 0.0947,
+        "height": 0.0224,
+        "right": 0.3189,
+        "bottom": 0.2632
+      },
+      "position_inches": {
+        "left": 2.99,
+        "top": 1.81,
+        "width": 1.26,
+        "height": 0.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert timeline]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5589,
+        "top": 0.2519,
+        "width": 0.1831,
+        "height": 0.0,
+        "right": 0.742,
+        "bottom": 0.2519
+      },
+      "position_inches": {
+        "left": 7.45,
+        "top": 1.89,
+        "width": 2.44,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7483,
+        "top": 0.2519,
+        "width": 0.1831,
+        "height": 0.0,
+        "right": 0.9314,
+        "bottom": 0.2519
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 1.89,
+        "width": 2.44,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6031,
+        "top": 0.2407,
+        "width": 0.0947,
+        "height": 0.0224,
+        "right": 0.6978,
+        "bottom": 0.2632
+      },
+      "position_inches": {
+        "left": 8.04,
+        "top": 1.81,
+        "width": 1.26,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert timeline]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7812,
+        "top": 0.2407,
+        "width": 0.1173,
+        "height": 0.0224,
+        "right": 0.8985,
+        "bottom": 0.2632
+      },
+      "position_inches": {
+        "left": 10.42,
+        "top": 1.81,
+        "width": 1.56,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert timeline]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7766,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7766
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.82,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1121,
+        "top": 0.6171,
+        "width": 0.8424,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6171
+      },
+      "position_inches": {
+        "left": 1.49,
+        "top": 4.63,
+        "width": 11.23,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.18,
+        "top": 0.464,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.3631,
+        "bottom": 0.6106
+      },
+      "position_inches": {
+        "left": 2.4,
+        "top": 3.48,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.18,
+        "top": 0.6235,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.3631,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 2.4,
+        "top": 4.68,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.18,
+        "top": 0.783,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.3631,
+        "bottom": 0.9297
+      },
+      "position_inches": {
+        "left": 2.4,
+        "top": 5.87,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Insert name and role OR team/function] [Insert na"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2809,
+        "top": 0.5358,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.2809,
+        "bottom": 0.5358
+      },
+      "position_inches": {
+        "left": 3.75,
+        "top": 4.02,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5589,
+        "top": 0.464,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.742,
+        "bottom": 0.6106
+      },
+      "position_inches": {
+        "left": 7.45,
+        "top": 3.48,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5589,
+        "top": 0.6235,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.742,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 7.45,
+        "top": 4.68,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5589,
+        "top": 0.783,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.742,
+        "bottom": 0.9297
+      },
+      "position_inches": {
+        "left": 7.45,
+        "top": 5.87,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert name and role OR team/function] [Insert na"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7483,
+        "top": 0.464,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.9314,
+        "bottom": 0.6106
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 3.48,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7483,
+        "top": 0.6235,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.9314,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 4.68,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7483,
+        "top": 0.783,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.9314,
+        "bottom": 0.9297
+      },
+      "position_inches": {
+        "left": 9.98,
+        "top": 5.87,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Insert name and role OR team/function] [Insert na"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.232,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.2507,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 3.09,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2939,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.3126,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 3.92,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4615,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.4802,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 6.15,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.521,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.5398,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 6.95,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5458,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.5646,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 7.28,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7352,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.754,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 9.8,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6411,
+        "top": 0.8129,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.6411,
+        "bottom": 0.8129
+      },
+      "position_inches": {
+        "left": 8.55,
+        "top": 6.1,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.217,
+        "top": 0.4025,
+        "width": 0.0487,
+        "height": 0.0329,
+        "right": 0.2657,
+        "bottom": 0.4355
+      },
+      "position_inches": {
+        "left": 2.89,
+        "top": 3.02,
+        "width": 0.65,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "SteerCo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2789,
+        "top": 0.4025,
+        "width": 0.0487,
+        "height": 0.0329,
+        "right": 0.3276,
+        "bottom": 0.4355
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 3.02,
+        "width": 0.65,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "SteerCo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4465,
+        "top": 0.4025,
+        "width": 0.0487,
+        "height": 0.0329,
+        "right": 0.4952,
+        "bottom": 0.4355
+      },
+      "position_inches": {
+        "left": 5.95,
+        "top": 3.02,
+        "width": 0.65,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "SteerCo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5058,
+        "top": 0.4025,
+        "width": 0.0487,
+        "height": 0.0329,
+        "right": 0.5545,
+        "bottom": 0.4355
+      },
+      "position_inches": {
+        "left": 6.74,
+        "top": 3.02,
+        "width": 0.65,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "SteerCo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5269,
+        "top": 0.4275,
+        "width": 0.0566,
+        "height": 0.0329,
+        "right": 0.5835,
+        "bottom": 0.4605
+      },
+      "position_inches": {
+        "left": 7.03,
+        "top": 3.21,
+        "width": 0.75,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Milestone]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6936,
+        "top": 0.4275,
+        "width": 0.102,
+        "height": 0.0329,
+        "right": 0.7956,
+        "bottom": 0.4605
+      },
+      "position_inches": {
+        "left": 9.25,
+        "top": 3.21,
+        "width": 1.36,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Milestone]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3694,
+        "top": 0.2796,
+        "width": 0.2062,
+        "height": 0.0851,
+        "right": 0.5757,
+        "bottom": 0.3647
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 2.1,
+        "width": 2.75,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Phase 2]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3694,
+        "top": 0.2519,
+        "width": 0.1831,
+        "height": 0.0,
+        "right": 0.5525,
+        "bottom": 0.2519
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 1.89,
+        "width": 2.44,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4136,
+        "top": 0.2407,
+        "width": 0.0947,
+        "height": 0.0224,
+        "right": 0.5083,
+        "bottom": 0.2632
+      },
+      "position_inches": {
+        "left": 5.52,
+        "top": 1.81,
+        "width": 1.26,
+        "height": 0.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert timeline]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3694,
+        "top": 0.464,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.5525,
+        "bottom": 0.6106
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 3.48,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3694,
+        "top": 0.6235,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.5525,
+        "bottom": 0.7702
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 4.68,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert key activities] [Insert key activities] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3694,
+        "top": 0.783,
+        "width": 0.1831,
+        "height": 0.1467,
+        "right": 0.5525,
+        "bottom": 0.9297
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 5.87,
+        "width": 2.44,
+        "height": 1.1
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert name and role OR team/function] [Insert na"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3558,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.3745,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 4.74,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4019,
+        "top": 0.3693,
+        "width": 0.0187,
+        "height": 0.0329,
+        "right": 0.4206,
+        "bottom": 0.4023
+      },
+      "position_inches": {
+        "left": 5.36,
+        "top": 2.77,
+        "width": 0.25,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3871,
+        "top": 0.4025,
+        "width": 0.0487,
+        "height": 0.0329,
+        "right": 0.4358,
+        "bottom": 0.4355
+      },
+      "position_inches": {
+        "left": 5.16,
+        "top": 3.02,
+        "width": 0.65,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "SteerCo"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3368,
+        "top": 0.4282,
+        "width": 0.0566,
+        "height": 0.0329,
+        "right": 0.3934,
+        "bottom": 0.4611
+      },
+      "position_inches": {
+        "left": 4.49,
+        "top": 3.21,
+        "width": 0.75,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Milestone]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2407,
+        "right": 0.3863,
+        "bottom": 0.7702,
+        "width": 0.3408,
+        "height": 0.5295
+      },
+      "element_count": 14,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2407,
+        "right": 0.9545,
+        "bottom": 0.7766,
+        "width": 0.909,
+        "height": 0.5359
+      },
+      "element_count": 23,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6936,
+        "top": 0.2407,
+        "right": 0.9545,
+        "bottom": 0.7702,
+        "width": 0.2609,
+        "height": 0.5295
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.783,
+        "right": 0.3631,
+        "bottom": 0.9297,
+        "width": 0.3176,
+        "height": 0.1467
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.783,
+        "right": 0.742,
+        "bottom": 0.9852,
+        "width": 0.7036,
+        "height": 0.2022
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7483,
+        "top": 0.783,
+        "right": 0.9314,
+        "bottom": 0.9297,
+        "width": 0.1831,
+        "height": 0.1467
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 53
+  },
+  "category": "multi_column"
+}

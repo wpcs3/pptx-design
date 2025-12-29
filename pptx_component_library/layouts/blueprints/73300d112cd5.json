@@ -1,0 +1,530 @@
+{
+  "id": "73300d112cd5",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 169,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8224,
+        "width": 0.5913,
+        "height": 0.0743,
+        "right": 0.6368,
+        "bottom": 0.8966
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.17,
+        "width": 7.88,
+        "height": 0.56
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Growth in [Target] chain office personnel costs ha"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.044,
+        "top": 0.4204,
+        "width": 0.6003,
+        "height": 0.3925,
+        "right": 0.6442,
+        "bottom": 0.8128
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 3.15,
+        "width": 8.0,
+        "height": 2.94
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.2596,
+        "width": 0.5984,
+        "height": 0.0624,
+        "right": 0.6443,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.95,
+        "width": 7.98,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Increasing number of employees have been main driv"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3343,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.6443,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.3506,
+        "width": 0.5739,
+        "height": 0.0404,
+        "right": 0.6197,
+        "bottom": 0.391
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.63,
+        "width": 7.65,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Target] Inc. number of employees and chain office"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.2596,
+        "width": 0.29,
+        "height": 0.0624,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 1.95,
+        "width": 3.87,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comment"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6546,
+        "top": 0.2417,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.6546,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 8.73,
+        "top": 1.81,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.3343,
+        "width": 0.29,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 2.51,
+        "width": 3.87,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6649,
+        "top": 0.372,
+        "width": 0.29,
+        "height": 0.4847,
+        "right": 0.9548,
+        "bottom": 0.8567
+      },
+      "position_inches": {
+        "left": 8.86,
+        "top": 2.79,
+        "width": 3.87,
+        "height": 3.64
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] Inc.\u2019 chain office costs have fluctuated"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] annual report; [ConsultingCo] ana"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Note: [Target] Inc. chain office costs exclude VAT"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2287,
+        "top": 0.8444,
+        "width": 0.0414,
+        "height": 0.0301,
+        "right": 0.2701,
+        "bottom": 0.8745
+      },
+      "position_inches": {
+        "left": 3.05,
+        "top": 6.33,
+        "width": 0.55,
+        "height": 0.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "98"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3383,
+        "top": 0.8444,
+        "width": 0.0414,
+        "height": 0.0301,
+        "right": 0.3797,
+        "bottom": 0.8745
+      },
+      "position_inches": {
+        "left": 4.51,
+        "top": 6.33,
+        "width": 0.55,
+        "height": 0.23
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "93"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4479,
+        "top": 0.8444,
+        "width": 0.0414,
+        "height": 0.0301,
+        "right": 0.4893,
+        "bottom": 0.8745
+      },
+      "position_inches": {
+        "left": 5.97,
+        "top": 6.33,
+        "width": 0.55,
+        "height": 0.23
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "98"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5574,
+        "top": 0.8444,
+        "width": 0.0414,
+        "height": 0.0301,
+        "right": 0.5988,
+        "bottom": 0.8745
+      },
+      "position_inches": {
+        "left": 7.43,
+        "top": 6.33,
+        "width": 0.55,
+        "height": 0.23
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "109"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0497,
+        "top": 0.831,
+        "width": 0.0402,
+        "height": 0.057,
+        "right": 0.0899,
+        "bottom": 0.888
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 6.23,
+        "width": 0.54,
+        "height": 0.43
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Cost \u000bindex:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1191,
+        "top": 0.8444,
+        "width": 0.0414,
+        "height": 0.0301,
+        "right": 0.1606,
+        "bottom": 0.8745
+      },
+      "position_inches": {
+        "left": 1.59,
+        "top": 6.33,
+        "width": 0.55,
+        "height": 0.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "100"
+    }
+  ],
+  "zones": [
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8224,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.1628
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.044,
+        "top": 0.2417,
+        "right": 0.6546,
+        "bottom": 0.8978,
+        "width": 0.6106,
+        "height": 0.6561
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6649,
+        "top": 0.2596,
+        "right": 0.9548,
+        "bottom": 0.8567,
+        "width": 0.2899,
+        "height": 0.5971
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0497,
+        "top": 0.831,
+        "right": 0.2701,
+        "bottom": 0.888,
+        "width": 0.2204,
+        "height": 0.057
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0452,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "mixed_content"
+}

@@ -1,0 +1,628 @@
+{
+  "id": "fcc2572a8381",
+  "template": "template_business_case",
+  "slide_num": 13,
+  "layout_name": "Default",
+  "element_count": 24,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Business case and business plan are not the same t"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "A business case is a static document specific to a"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.3153,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.571,
+        "bottom": 0.4034
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 2.36,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Business case"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.3153,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.9545,
+        "bottom": 0.4034
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 2.36,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Business plan"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4102,
+        "width": 0.142,
+        "height": 0.0881,
+        "right": 0.1875,
+        "bottom": 0.4983
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.08,
+        "width": 1.89,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Scope"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4991,
+        "width": 0.142,
+        "height": 0.0881,
+        "right": 0.1875,
+        "bottom": 0.5872
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.74,
+        "width": 1.89,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Audience"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5879,
+        "width": 0.142,
+        "height": 0.0881,
+        "right": 0.1875,
+        "bottom": 0.6761
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.41,
+        "width": 1.89,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Purpose"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6768,
+        "width": 0.142,
+        "height": 0.1596,
+        "right": 0.1875,
+        "bottom": 0.8364
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.08,
+        "width": 1.89,
+        "height": 1.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Content"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8371,
+        "width": 0.142,
+        "height": 0.0881,
+        "right": 0.1875,
+        "bottom": 0.9253
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.28,
+        "width": 1.89,
+        "height": 0.66
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Frequency"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.4045,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.571,
+        "bottom": 0.4927
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 3.03,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Specific project"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.4948,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.571,
+        "bottom": 0.583
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 3.71,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Internal stakeholders"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.5851,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.571,
+        "bottom": 0.6732
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 4.39,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Justify a specific project or initiative"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.6754,
+        "width": 0.3536,
+        "height": 0.1596,
+        "right": 0.571,
+        "bottom": 0.835
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 5.07,
+        "width": 4.71,
+        "height": 1.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Executive summary, background and context, problem"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2174,
+        "top": 0.8371,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.571,
+        "bottom": 0.9253
+      },
+      "position_inches": {
+        "left": 2.9,
+        "top": 6.28,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Static document for a specific project or initiati"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.8371,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.9545,
+        "bottom": 0.9253
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 6.28,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Dynamic document with ongoing updates"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.6754,
+        "width": 0.3536,
+        "height": 0.1596,
+        "right": 0.9545,
+        "bottom": 0.835
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 5.07,
+        "width": 4.71,
+        "height": 1.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Executive summary, purpose, market analysis, team,"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.5851,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.9545,
+        "bottom": 0.6732
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 4.39,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Outlines an entire business\u2019 overall strategy, goa"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.4948,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.9545,
+        "bottom": 0.583
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 3.71,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "External stakeholders"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6009,
+        "top": 0.4045,
+        "width": 0.3536,
+        "height": 0.0881,
+        "right": 0.9545,
+        "bottom": 0.4927
+      },
+      "position_inches": {
+        "left": 8.01,
+        "top": 3.03,
+        "width": 4.71,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Entire organization/business unit"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4937,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4937
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.7,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.584,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.38,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6743,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6743
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.06,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.836,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.836
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.27,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.835,
+        "width": 0.909,
+        "height": 0.6427
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6009,
+        "top": 0.3153,
+        "right": 0.9545,
+        "bottom": 0.835,
+        "width": 0.3536,
+        "height": 0.5197
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.4102,
+        "right": 0.1875,
+        "bottom": 0.8364,
+        "width": 0.142,
+        "height": 0.4262
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8371,
+        "right": 0.1875,
+        "bottom": 0.9253,
+        "width": 0.142,
+        "height": 0.0882
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.836,
+        "right": 0.9545,
+        "bottom": 0.9253,
+        "width": 0.909,
+        "height": 0.0893
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6009,
+        "top": 0.8371,
+        "right": 0.9545,
+        "bottom": 0.9253,
+        "width": 0.3536,
+        "height": 0.0882
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0747,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.56
+  },
+  "content_types": {
+    "other": 24
+  },
+  "category": "multi_column"
+}

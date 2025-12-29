@@ -1,0 +1,134 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 24,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 10,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 37,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 126,
+      "word_count": 24,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 107,
+      "word_count": 22,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 45,
+      "word_count": 8,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 260,
+      "word_count": 39,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 164,
+      "word_count": 26,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 30,
+      "word_count": 5,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 236,
+      "word_count": 39,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 90,
+      "word_count": 17,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 77,
+      "word_count": 15,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Make sure you keep track of your data\nKeep a single, clear log of all your sources (type of data, title if relevant, date, page etc.) and how/if they have been used\nStore this log for longer than you ",
+  "usage_count": 1,
+  "bullet_style": {
+    "total_items": 10,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 3,
+      "1": 7
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 20.3,
+    "pattern": "two_level"
+  },
+  "id": "754f8e7d5774"
+}

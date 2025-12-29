@@ -1,0 +1,49 @@
+{
+  "template": "template_business_case",
+  "slide_num": 5,
+  "pattern_type": "text_block",
+  "paragraph_count": 3,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 57,
+      "word_count": 8,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 55,
+      "word_count": 10,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 65,
+      "word_count": 10,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "23-page case for purchasing and implementing new software\nCompares options for vendor and chooses one to focus on\nGives examples of cost savings and calculates various ROI metrics",
+  "usage_count": 137,
+  "id": "7875a9c5c930"
+}

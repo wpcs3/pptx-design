@@ -1,0 +1,96 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 40,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 6,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 94,
+      "word_count": 13,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 55,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 57,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 68,
+      "word_count": 8,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 25,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 21,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Conduct relevant analyses to confirm or reject hypotheses in order to evaluate attractiveness:\nEvaluation of market; Size, growth, competitors, trends\nEvaluation of company; Financials, customers, val",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 6,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 3,
+      "1": 3
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 7.0,
+    "pattern": "two_level"
+  },
+  "id": "9a994742c7db"
+}

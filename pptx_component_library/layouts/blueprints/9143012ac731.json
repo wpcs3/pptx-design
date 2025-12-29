@@ -1,0 +1,502 @@
+{
+  "id": "9143012ac731",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 194,
+  "layout_name": "Default",
+  "element_count": 19,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "BCG Growth/Transformation framework: Three levers"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.14,
+        "top": 0.4072,
+        "width": 0.5386,
+        "height": 0.3032,
+        "right": 0.6786,
+        "bottom": 0.7104
+      },
+      "position_inches": {
+        "left": 1.87,
+        "top": 3.05,
+        "width": 7.18,
+        "height": 2.27
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Core and \u000badjacent growth"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.413,
+        "width": 0.1036,
+        "height": 0.0763,
+        "right": 0.142,
+        "bottom": 0.4893
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 3.1,
+        "width": 1.38,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Improve \u000bexecution"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.5207,
+        "width": 0.1036,
+        "height": 0.0763,
+        "right": 0.142,
+        "bottom": 0.5969
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 3.9,
+        "width": 1.38,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Enhance \u000boffering"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.6283,
+        "width": 0.1036,
+        "height": 0.0763,
+        "right": 0.142,
+        "bottom": 0.7046
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 4.71,
+        "width": 1.38,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Acquire/\u000bpartner"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.7359,
+        "width": 0.1036,
+        "height": 0.0763,
+        "right": 0.142,
+        "bottom": 0.8122
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 5.52,
+        "width": 1.38,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Reposition \u000bbusiness"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.147,
+        "top": 0.32,
+        "width": 0.2742,
+        "height": 0.0617,
+        "right": 0.4212,
+        "bottom": 0.3817
+      },
+      "position_inches": {
+        "left": 1.96,
+        "top": 2.4,
+        "width": 3.66,
+        "height": 0.46
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Maximize the core"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4138,
+        "top": 0.32,
+        "width": 0.2742,
+        "height": 0.0619,
+        "right": 0.688,
+        "bottom": 0.3819
+      },
+      "position_inches": {
+        "left": 5.52,
+        "top": 2.4,
+        "width": 3.66,
+        "height": 0.46
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Expand into adjacencies"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6806,
+        "top": 0.3197,
+        "width": 0.2742,
+        "height": 0.0619,
+        "right": 0.9548,
+        "bottom": 0.3817
+      },
+      "position_inches": {
+        "left": 9.08,
+        "top": 2.4,
+        "width": 3.66,
+        "height": 0.46
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Explore new frontiers (disruption)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2693,
+        "top": 0.2489,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.2989,
+        "bottom": 0.3014
+      },
+      "position_inches": {
+        "left": 3.59,
+        "top": 1.87,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5361,
+        "top": 0.2489,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.5657,
+        "bottom": 0.3014
+      },
+      "position_inches": {
+        "left": 7.15,
+        "top": 1.87,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.803,
+        "top": 0.2489,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.8325,
+        "bottom": 0.3014
+      },
+      "position_inches": {
+        "left": 10.71,
+        "top": 1.87,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.046,
+        "top": 0.8436,
+        "width": 0.9088,
+        "height": 0.0619,
+        "right": 0.9548,
+        "bottom": 0.9055
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.33,
+        "width": 12.12,
+        "height": 0.46
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Organizational growth enablers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.147,
+        "top": 0.7431,
+        "width": 0.8078,
+        "height": 0.0619,
+        "right": 0.9548,
+        "bottom": 0.8051
+      },
+      "position_inches": {
+        "left": 1.96,
+        "top": 5.57,
+        "width": 10.77,
+        "height": 0.46
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Business model innovation"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.147,
+        "top": 0.6355,
+        "width": 0.8078,
+        "height": 0.0619,
+        "right": 0.9548,
+        "bottom": 0.6974
+      },
+      "position_inches": {
+        "left": 1.96,
+        "top": 4.77,
+        "width": 10.77,
+        "height": 0.46
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "M&A search and screen"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.147,
+        "top": 0.5278,
+        "width": 0.8078,
+        "height": 0.0619,
+        "right": 0.9548,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 1.96,
+        "top": 3.96,
+        "width": 10.77,
+        "height": 0.46
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Innovation"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.147,
+        "top": 0.4202,
+        "width": 0.2668,
+        "height": 0.0619,
+        "right": 0.4138,
+        "bottom": 0.4821
+      },
+      "position_inches": {
+        "left": 1.96,
+        "top": 3.15,
+        "width": 3.56,
+        "height": 0.46
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Commercial quick wins"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5657,
+        "top": 0.4202,
+        "width": 0.1039,
+        "height": 0.2772,
+        "right": 0.6695,
+        "bottom": 0.6974
+      },
+      "position_inches": {
+        "left": 7.54,
+        "top": 3.15,
+        "width": 1.38,
+        "height": 2.08
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Emerging markets"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.14,
+        "top": 0.2489,
+        "right": 0.9548,
+        "bottom": 0.8051,
+        "width": 0.8148,
+        "height": 0.5562
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2489,
+        "right": 0.4212,
+        "bottom": 0.8122,
+        "width": 0.3828,
+        "height": 0.5633
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6806,
+        "top": 0.2489,
+        "right": 0.9548,
+        "bottom": 0.3817,
+        "width": 0.2742,
+        "height": 0.1328
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.046,
+        "top": 0.8436,
+        "right": 0.9548,
+        "bottom": 0.9055,
+        "width": 0.9088,
+        "height": 0.0619
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0945,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.71
+  },
+  "content_types": {
+    "other": 19
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,671 @@
+{
+  "id": "687a0f18da9a",
+  "template": "template_market_analysis",
+  "slide_num": 285,
+  "layout_name": "Default",
+  "element_count": 27,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "To unlock the OEM potential Pharma Inc. needs to t"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2457,
+        "top": 0.2575,
+        "width": 0.0128,
+        "height": 0.2179,
+        "right": 0.2585,
+        "bottom": 0.4754
+      },
+      "position_inches": {
+        "left": 3.28,
+        "top": 1.93,
+        "width": 0.17,
+        "height": 1.63
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3437,
+        "top": 0.3315,
+        "width": 0.0878,
+        "height": 0.1077,
+        "right": 0.4314,
+        "bottom": 0.4393
+      },
+      "position_inches": {
+        "left": 4.58,
+        "top": 2.49,
+        "width": 1.17,
+        "height": 0.81
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Top 15\u000b~ 90% of total [sanitized] market value"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0954,
+        "top": 0.5784,
+        "width": 0.2377,
+        "height": 0.0808,
+        "right": 0.333,
+        "bottom": 0.6592
+      },
+      "position_inches": {
+        "left": 1.27,
+        "top": 4.34,
+        "width": 3.17,
+        "height": 0.61
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Low-10%\u000b~ 10% of total [sanitized] market value, e"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2135,
+        "top": 0.6643,
+        "width": 0.2377,
+        "height": 0.0926,
+        "right": 0.4512,
+        "bottom": 0.7569
+      },
+      "position_inches": {
+        "left": 2.85,
+        "top": 4.98,
+        "width": 3.17,
+        "height": 0.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4239,
+        "top": 0.395,
+        "width": 0.0276,
+        "height": 0.0,
+        "right": 0.4515,
+        "bottom": 0.395
+      },
+      "position_inches": {
+        "left": 5.65,
+        "top": 2.96,
+        "width": 0.37,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3316,
+        "top": 0.3005,
+        "width": 0.0079,
+        "height": 0.1698,
+        "right": 0.3395,
+        "bottom": 0.4703
+      },
+      "position_inches": {
+        "left": 4.42,
+        "top": 2.25,
+        "width": 0.11,
+        "height": 1.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2103,
+        "top": 0.3692,
+        "width": 0.0086,
+        "height": 0.396,
+        "right": 0.2189,
+        "bottom": 0.7653
+      },
+      "position_inches": {
+        "left": 2.8,
+        "top": 2.77,
+        "width": 0.11,
+        "height": 2.97
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8393,
+        "top": 0.3336,
+        "width": 0.1152,
+        "height": 0.1259,
+        "right": 0.9545,
+        "bottom": 0.4596
+      },
+      "position_inches": {
+        "left": 11.19,
+        "top": 2.5,
+        "width": 1.54,
+        "height": 0.94
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Top 15 OEM potential:  ~220 M EUR"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7926,
+        "top": 0.3865,
+        "width": 0.0473,
+        "height": 0.0202,
+        "right": 0.8399,
+        "bottom": 0.4067
+      },
+      "position_inches": {
+        "left": 10.57,
+        "top": 2.9,
+        "width": 0.63,
+        "height": 0.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8393,
+        "top": 0.6839,
+        "width": 0.1152,
+        "height": 0.1259,
+        "right": 0.9545,
+        "bottom": 0.8098
+      },
+      "position_inches": {
+        "left": 11.19,
+        "top": 5.13,
+        "width": 1.54,
+        "height": 0.94
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2018Low 10%\u2019  OEM potential:  ~20 M EUR"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7926,
+        "top": 0.7368,
+        "width": 0.0473,
+        "height": 0.0202,
+        "right": 0.8399,
+        "bottom": 0.757
+      },
+      "position_inches": {
+        "left": 10.57,
+        "top": 5.53,
+        "width": 0.63,
+        "height": 0.15
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8969,
+        "top": 0.4629,
+        "width": 0.0,
+        "height": 0.221,
+        "right": 0.8969,
+        "bottom": 0.6839
+      },
+      "position_inches": {
+        "left": 11.96,
+        "top": 3.47,
+        "width": 0.0,
+        "height": 1.66
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8622,
+        "top": 0.5359,
+        "width": 0.0691,
+        "height": 0.0628,
+        "right": 0.9314,
+        "bottom": 0.5987
+      },
+      "position_inches": {
+        "left": 11.5,
+        "top": 4.02,
+        "width": 0.92,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "x10"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Company websites; [sanitized]; team analys"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2663,
+        "width": 0.2806,
+        "height": 0.2793,
+        "right": 0.3261,
+        "bottom": 0.5456
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.0,
+        "width": 3.74,
+        "height": 2.09
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.4665,
+        "top": 0.2624,
+        "width": 0.3293,
+        "height": 0.2683,
+        "right": 0.7957,
+        "bottom": 0.5307
+      },
+      "position_inches": {
+        "left": 6.22,
+        "top": 1.97,
+        "width": 4.39,
+        "height": 2.01
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5941,
+        "top": 0.2575,
+        "width": 0.1599,
+        "height": 0.0269,
+        "right": 0.7539,
+        "bottom": 0.2844
+      },
+      "position_inches": {
+        "left": 7.92,
+        "top": 1.93,
+        "width": 2.13,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "BULK (10% value capture)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4258,
+        "top": 0.4059,
+        "width": 0.1102,
+        "height": 0.0539,
+        "right": 0.536,
+        "bottom": 0.4597
+      },
+      "position_inches": {
+        "left": 5.68,
+        "top": 3.04,
+        "width": 1.47,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "KITS\u000b (40% value capture)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4651,
+        "top": 0.2575,
+        "width": 0.0768,
+        "height": 0.0539,
+        "right": 0.5419,
+        "bottom": 0.3114
+      },
+      "position_inches": {
+        "left": 6.2,
+        "top": 1.93,
+        "width": 1.02,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Total = \u000b4.7 B EUR"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.4665,
+        "top": 0.6127,
+        "width": 0.3293,
+        "height": 0.2683,
+        "right": 0.7957,
+        "bottom": 0.881
+      },
+      "position_inches": {
+        "left": 6.22,
+        "top": 4.6,
+        "width": 4.39,
+        "height": 2.01
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5941,
+        "top": 0.6078,
+        "width": 0.1599,
+        "height": 0.0269,
+        "right": 0.7539,
+        "bottom": 0.6347
+      },
+      "position_inches": {
+        "left": 7.92,
+        "top": 4.56,
+        "width": 2.13,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "BULK (10% value capture)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4258,
+        "top": 0.7562,
+        "width": 0.1102,
+        "height": 0.0539,
+        "right": 0.536,
+        "bottom": 0.81
+      },
+      "position_inches": {
+        "left": 5.68,
+        "top": 5.67,
+        "width": 1.47,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "KITS\u000b (40% value capture)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4651,
+        "top": 0.6078,
+        "width": 0.0768,
+        "height": 0.0539,
+        "right": 0.5419,
+        "bottom": 0.6616
+      },
+      "position_inches": {
+        "left": 6.2,
+        "top": 4.56,
+        "width": 1.02,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Total = \u000b380 M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Note: Estimates are in M EUR"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2575,
+        "right": 0.333,
+        "bottom": 0.7653,
+        "width": 0.2875,
+        "height": 0.5078
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2135,
+        "top": 0.2575,
+        "right": 0.7957,
+        "bottom": 0.881,
+        "width": 0.5822,
+        "height": 0.6235
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5941,
+        "top": 0.2575,
+        "right": 0.9545,
+        "bottom": 0.8098,
+        "width": 0.3604,
+        "height": 0.5523
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 27
+  },
+  "category": "multi_column"
+}

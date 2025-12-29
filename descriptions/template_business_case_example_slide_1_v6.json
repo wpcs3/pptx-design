@@ -1,0 +1,110 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "aspect_ratio": "16:9"
+  },
+  "background": {
+    "type": "solid",
+    "color": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "top_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.0,
+        "width_inches": 12.333,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "fill_color": "#000000",
+        "border_color": "#000000",
+        "border_width_pt": 2.0,
+        "shape_type": "line"
+      }
+    },
+    {
+      "id": "executive_summary_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.7,
+        "width_inches": 6.0,
+        "height_inches": 4.0
+      },
+      "text_properties": {
+        "placeholder_text": "Executive\nsummary",
+        "font_family": "Calibri",
+        "font_size_pt": 48,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "large_number_1",
+      "type": "textbox",
+      "position": {
+        "left_inches": 9.0,
+        "top_inches": 1.6,
+        "width_inches": 3.5,
+        "height_inches": 4.5
+      },
+      "text_properties": {
+        "placeholder_text": "1",
+        "font_family": "Calibri",
+        "font_size_pt": 220,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "right",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "bottom_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 6.8,
+        "width_inches": 12.333,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "fill_color": "#000000",
+        "border_color": "#000000",
+        "border_width_pt": 2.0,
+        "shape_type": "line"
+      }
+    },
+    {
+      "id": "footer_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 10.3,
+        "top_inches": 6.9,
+        "width_inches": 2.7,
+        "height_inches": 0.35
+      },
+      "text_properties": {
+        "placeholder_text": "Company Name       1",
+        "font_family": "Calibri",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    }
+  ],
+  "color_palette": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "design_notes": "Clean, minimalist slide design with strong black typography on white background. Features horizontal lines at top and bottom as design elements with heavier 2pt weight for visual impact matching original thickness. Large decorative number '1' dominates the right side with precise positioning. Professional corporate styling with clear visual hierarchy. Footer contains company name and page number with proper seven-space separation in single-line format at bottom right. Font rendering should use natural weight without additional bolding - text appears substantial due to large font size rather than bold formatting. Anti-aliasing should be crisp and well-defined across all text elements to match original high-quality rendering. Ensure precise spacing in footer text to maintain 'Company Name       1' format with adequate character spacing between elements for proper visual separation matching the original template's spacing."
+}

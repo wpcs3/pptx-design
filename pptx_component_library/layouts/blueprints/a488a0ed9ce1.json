@@ -1,0 +1,388 @@
+{
+  "id": "a488a0ed9ce1",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 33,
+  "layout_name": "Default",
+  "element_count": 13,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0442,
+        "top": 0.243,
+        "width": 0.1463,
+        "height": 0.1467,
+        "right": 0.1906,
+        "bottom": 0.3897
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 1.82,
+        "width": 1.95,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Introduction to case"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Executive summary"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Executive summary"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1967,
+        "top": 0.2625,
+        "width": 0.7614,
+        "height": 0.1077,
+        "right": 0.958,
+        "bottom": 0.3702
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 1.97,
+        "width": 10.15,
+        "height": 0.81
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert background and key facts around target] [I"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0442,
+        "top": 0.5249,
+        "width": 0.1463,
+        "height": 0.1067,
+        "right": 0.1906,
+        "bottom": 0.6316
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 3.94,
+        "width": 1.95,
+        "height": 0.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key terms incl. price"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1967,
+        "top": 0.5513,
+        "width": 0.7614,
+        "height": 0.0539,
+        "right": 0.958,
+        "bottom": 0.6051
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 4.13,
+        "width": 10.15,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Acquisition of [Target] is gross payment of xx M U"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1967,
+        "top": 0.6661,
+        "width": 0.7614,
+        "height": 0.1077,
+        "right": 0.958,
+        "bottom": 0.7738
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 5.0,
+        "width": 10.15,
+        "height": 0.81
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert main takeaways around business plan going"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0442,
+        "top": 0.6466,
+        "width": 0.1463,
+        "height": 0.1467,
+        "right": 0.1906,
+        "bottom": 0.7933
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 4.85,
+        "width": 1.95,
+        "height": 1.1
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Business plan"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1967,
+        "top": 0.8468,
+        "width": 0.7614,
+        "height": 0.0288,
+        "right": 0.958,
+        "bottom": 0.8756
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 6.35,
+        "width": 10.15,
+        "height": 0.22
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Recommendation: Continue acquisition process"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0442,
+        "top": 0.8078,
+        "width": 0.1463,
+        "height": 0.1067,
+        "right": 0.1906,
+        "bottom": 0.9145
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 6.06,
+        "width": 1.95,
+        "height": 0.8
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Recommendation"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1967,
+        "top": 0.4171,
+        "width": 0.7614,
+        "height": 0.0808,
+        "right": 0.958,
+        "bottom": 0.4979
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 3.13,
+        "width": 10.15,
+        "height": 0.61
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "All due diligence requests have been assessed and"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0442,
+        "top": 0.4042,
+        "width": 0.1463,
+        "height": 0.1067,
+        "right": 0.1906,
+        "bottom": 0.5109
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 3.03,
+        "width": 1.95,
+        "height": 0.8
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key due diligence findings"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0442,
+        "top": 0.243,
+        "right": 0.1906,
+        "bottom": 0.7933,
+        "width": 0.1464,
+        "height": 0.5503
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1967,
+        "top": 0.2625,
+        "right": 0.958,
+        "bottom": 0.7738,
+        "width": 0.7613,
+        "height": 0.5113
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.1967,
+        "top": 0.8468,
+        "right": 0.958,
+        "bottom": 0.8756,
+        "width": 0.7613,
+        "height": 0.0288
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0442,
+        "top": 0.8078,
+        "right": 0.1906,
+        "bottom": 0.9145,
+        "width": 0.1464,
+        "height": 0.1067
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.042,
+    "top": 0.0002,
+    "bottom": 0.0855,
+    "left_inches": 0.0,
+    "right_inches": 0.56,
+    "top_inches": 0.0,
+    "bottom_inches": 0.64
+  },
+  "content_types": {
+    "other": 13
+  },
+  "category": "mixed_content"
+}

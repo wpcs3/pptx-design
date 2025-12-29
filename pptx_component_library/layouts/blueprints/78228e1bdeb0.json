@@ -1,0 +1,366 @@
+{
+  "id": "78228e1bdeb0",
+  "template": "template_business_case",
+  "slide_num": 171,
+  "layout_name": "Default",
+  "element_count": 12,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The project is estimated to take [insert] weeks"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7006,
+        "top": 0.1327,
+        "width": 0.2994,
+        "height": 0.1187,
+        "right": 1.0,
+        "bottom": 0.2514
+      },
+      "position_inches": {
+        "left": 9.34,
+        "top": 1.0,
+        "width": 3.99,
+        "height": 0.89
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Slideworks note: This slide is connected in a cont"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.2629,
+        "width": 0.909,
+        "height": 0.6298,
+        "right": 0.9566,
+        "bottom": 0.8927
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 1.97,
+        "width": 12.12,
+        "height": 4.72
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.3291,
+        "width": 0.1366,
+        "height": 0.105,
+        "right": 0.1842,
+        "bottom": 0.4341
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 2.47,
+        "width": 1.82,
+        "height": 0.79
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Preparation and planning"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1875,
+        "top": 0.4425,
+        "width": 0.1364,
+        "height": 0.105,
+        "right": 0.3239,
+        "bottom": 0.5475
+      },
+      "position_inches": {
+        "left": 2.5,
+        "top": 3.32,
+        "width": 1.82,
+        "height": 0.79
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Solution design Develop initial solution"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3271,
+        "top": 0.5558,
+        "width": 0.4193,
+        "height": 0.105,
+        "right": 0.7464,
+        "bottom": 0.6608
+      },
+      "position_inches": {
+        "left": 4.36,
+        "top": 4.17,
+        "width": 5.59,
+        "height": 0.79
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Solution iteration Continuously test and iterate s"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7496,
+        "top": 0.6692,
+        "width": 0.1364,
+        "height": 0.105,
+        "right": 0.8861,
+        "bottom": 0.7742
+      },
+      "position_inches": {
+        "left": 10.0,
+        "top": 5.02,
+        "width": 1.82,
+        "height": 0.79
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Prepare roll-out plan Summarize findings and devel"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8893,
+        "top": 0.7826,
+        "width": 0.07,
+        "height": 0.105,
+        "right": 0.9593,
+        "bottom": 0.8876
+      },
+      "position_inches": {
+        "left": 11.86,
+        "top": 5.87,
+        "width": 0.93,
+        "height": 0.79
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Present\u000bPresent findings to SG"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0476,
+        "top": 0.2063,
+        "width": 0.2909,
+        "height": 0.0378,
+        "right": 0.3385,
+        "bottom": 0.2442
+      },
+      "position_inches": {
+        "left": 0.64,
+        "top": 1.55,
+        "width": 3.88,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "High-level project plan:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 1.0,
+        "bottom": 0.2514,
+        "width": 0.3742,
+        "height": 0.2367
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.2629,
+        "right": 0.9566,
+        "bottom": 0.8927,
+        "width": 0.909,
+        "height": 0.6298
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0476,
+        "top": 0.2063,
+        "right": 0.3385,
+        "bottom": 0.5475,
+        "width": 0.2909,
+        "height": 0.3412
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7496,
+        "top": 0.6692,
+        "right": 0.8861,
+        "bottom": 0.7742,
+        "width": 0.1365,
+        "height": 0.105
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.8893,
+        "top": 0.7826,
+        "right": 0.9593,
+        "bottom": 0.8876,
+        "width": 0.07,
+        "height": 0.105
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.0,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 12
+  },
+  "category": "multi_column"
+}

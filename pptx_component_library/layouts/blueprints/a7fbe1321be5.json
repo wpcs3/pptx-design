@@ -1,0 +1,895 @@
+{
+  "id": "a7fbe1321be5",
+  "template": "template_market_analysis",
+  "slide_num": 192,
+  "layout_name": "Default",
+  "element_count": 37,
+  "elements": [
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3701,
+        "top": 0.351,
+        "width": 0.2634,
+        "height": 0.5604,
+        "right": 0.6335,
+        "bottom": 0.9114
+      },
+      "position_inches": {
+        "left": 4.93,
+        "top": 2.63,
+        "width": 3.51,
+        "height": 4.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Forecasted data"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3491,
+        "top": 0.4657,
+        "width": 0.1021,
+        "height": 0.072,
+        "right": 0.4511,
+        "bottom": 0.5377
+      },
+      "position_inches": {
+        "left": 4.65,
+        "top": 3.49,
+        "width": 1.36,
+        "height": 0.54
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2929,
+        "top": 0.4646,
+        "width": 0.0562,
+        "height": 0.0744,
+        "right": 0.3491,
+        "bottom": 0.539
+      },
+      "position_inches": {
+        "left": 3.91,
+        "top": 3.48,
+        "width": 0.75,
+        "height": 0.56
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0835,
+        "top": 0.4606,
+        "width": 0.2094,
+        "height": 0.0,
+        "right": 0.2929,
+        "bottom": 0.4606
+      },
+      "position_inches": {
+        "left": 1.11,
+        "top": 3.45,
+        "width": 2.79,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "width": 0.909,
+        "height": 0.1141,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.86
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "COVID-19 significantly impacted equipment sales ov"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.479,
+        "width": 0.5899,
+        "height": 0.3804,
+        "right": 0.6354,
+        "bottom": 0.8594
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.59,
+        "width": 7.87,
+        "height": 2.85
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized], [sanitized], Team analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.386,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.057,
+        "bottom": 0.4063
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.89,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0623,
+        "top": 0.3827,
+        "width": 0.0293,
+        "height": 0.0269,
+        "right": 0.0916,
+        "bottom": 0.4096
+      },
+      "position_inches": {
+        "left": 0.83,
+        "top": 2.87,
+        "width": 0.39,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Used"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1178,
+        "top": 0.3827,
+        "width": 0.0251,
+        "height": 0.0269,
+        "right": 0.1429,
+        "bottom": 0.4096
+      },
+      "position_inches": {
+        "left": 1.57,
+        "top": 2.87,
+        "width": 0.33,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "New"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.101,
+        "top": 0.386,
+        "width": 0.0115,
+        "height": 0.0204,
+        "right": 0.1124,
+        "bottom": 0.4063
+      },
+      "position_inches": {
+        "left": 1.35,
+        "top": 2.89,
+        "width": 0.15,
+        "height": 0.15
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.351,
+        "width": 0.3047,
+        "height": 0.5806,
+        "right": 0.9545,
+        "bottom": 0.9316
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.63,
+        "width": 4.06,
+        "height": 4.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Historically, equipment sales volume has been flat"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.5879,
+        "height": 0.0624,
+        "right": 0.6334,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 7.84,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "~10 M pieces of equipment are bought / sold annual"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.588,
+        "height": 0.0,
+        "right": 0.6335,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 7.84,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "width": 0.2854,
+        "height": 0.0269,
+        "right": 0.3309,
+        "bottom": 0.3672
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 3.81,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "US equipment sales volume by type, volume (M)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "width": 0.3047,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 1.91,
+        "width": 4.06,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.3298,
+        "width": 0.3047,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.47,
+        "width": 4.06,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6416,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6416,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.55,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "MARKET DYNAMICS"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1152,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.1572,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 1.54,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "7%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0511,
+        "top": 0.8426,
+        "width": 0.0462,
+        "height": 0.0625,
+        "right": 0.0974,
+        "bottom": 0.9051
+      },
+      "position_inches": {
+        "left": 0.68,
+        "top": 6.32,
+        "width": 0.62,
+        "height": 0.47
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "YoY growth:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5853,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.6273,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 7.8,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "1%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1674,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.2094,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 2.23,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "-2%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2719,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.3139,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "0%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3241,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.3661,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 4.32,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "-18%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3764,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.4183,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 5.02,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "8%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4286,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.4706,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 5.71,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "8%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4808,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.5228,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 6.41,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "3%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5331,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.575,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 7.11,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "1%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2197,
+        "top": 0.8502,
+        "width": 0.042,
+        "height": 0.0473,
+        "right": 0.2616,
+        "bottom": 0.8975
+      },
+      "position_inches": {
+        "left": 2.93,
+        "top": 6.38,
+        "width": 0.56,
+        "height": 0.36
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "-5%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2947,
+        "top": 0.4738,
+        "width": 0.0508,
+        "height": 0.0394,
+        "right": 0.3455,
+        "bottom": 0.5132
+      },
+      "position_inches": {
+        "left": 3.93,
+        "top": 3.55,
+        "width": 0.68,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "-18%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.372,
+        "top": 0.4864,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.4227,
+        "bottom": 0.5257
+      },
+      "position_inches": {
+        "left": 4.96,
+        "top": 3.65,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+8%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1629,
+        "top": 0.4409,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.2135,
+        "bottom": 0.4803
+      },
+      "position_inches": {
+        "left": 2.17,
+        "top": 3.31,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "0%"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4496,
+        "top": 0.4646,
+        "width": 0.16,
+        "height": 0.0,
+        "right": 0.6096,
+        "bottom": 0.4646
+      },
+      "position_inches": {
+        "left": 5.99,
+        "top": 3.48,
+        "width": 2.13,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5003,
+        "top": 0.4456,
+        "width": 0.0507,
+        "height": 0.0393,
+        "right": 0.5509,
+        "bottom": 0.4849
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 3.34,
+        "width": 0.68,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "+2%"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.6416,
+        "bottom": 0.9114,
+        "width": 0.5961,
+        "height": 0.6626
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "right": 0.3491,
+        "bottom": 0.539,
+        "width": 0.3036,
+        "height": 0.1988
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.114
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8502,
+        "right": 0.6439,
+        "bottom": 0.9684,
+        "width": 0.5984,
+        "height": 0.1182
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.9316,
+        "width": 0.3047,
+        "height": 0.6764
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0511,
+        "top": 0.8426,
+        "right": 0.3139,
+        "bottom": 0.9051,
+        "width": 0.2628,
+        "height": 0.0625
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 37
+  },
+  "category": "multi_column"
+}

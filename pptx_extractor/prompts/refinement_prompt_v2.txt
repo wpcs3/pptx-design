@@ -1,0 +1,77 @@
+You are refining a slide description to achieve pixel-perfect recreation. Apply the comparison feedback to produce an improved JSON specification.
+
+## CURRENT DESCRIPTION
+{current_description}
+
+## COMPARISON FEEDBACK
+{diff_feedback}
+
+## REFINEMENT METHODOLOGY
+
+### Step 1: Parse the Feedback
+Identify all corrections needed:
+- Position adjustments (left, top, width, height)
+- Color corrections
+- Typography fixes
+- Missing elements to add
+- Extra elements to remove
+
+### Step 2: Apply Position Corrections
+For each position correction:
+```
+new_value = current_value + adjustment
+```
+Ensure values stay within slide bounds (0-13.333 inches width, 0-7.5 inches height)
+
+### Step 3: Apply Color Corrections
+Replace hex values exactly as specified in feedback.
+
+### Step 4: Apply Typography Corrections
+Update font properties precisely:
+- Font family (use exact spelling)
+- Font size (integer points)
+- Bold/italic flags
+- Alignment
+
+### Step 5: Add Missing Elements
+Insert new elements with:
+- Unique id (e.g., "decorative_line_1")
+- Correct z_order (higher = on top)
+- All required properties
+
+### Step 6: Remove Extra Elements
+Delete elements flagged for removal.
+
+### Step 7: Validate
+Check that:
+- All positions are within slide bounds
+- All colors are valid hex (#RRGGBB)
+- All font sizes are reasonable (8-100 pt)
+- Z-order is consistent
+
+## EXAMPLE REFINEMENT
+
+If feedback says:
+```json
+{
+    "position_corrections": [
+        {"element": "title_1", "property": "top_inches", "current": 3.0, "target": 2.8, "adjustment": -0.2}
+    ],
+    "color_corrections": [
+        {"element": "title_1", "property": "text_color", "current": "#FFFFFF", "target": "#F0F0F0"}
+    ]
+}
+```
+
+Then update the title element:
+- Change `top_inches` from 3.0 to 2.8
+- Change text color from #FFFFFF to #F0F0F0
+
+## OUTPUT REQUIREMENTS
+
+1. Output the COMPLETE updated JSON description
+2. Include ALL elements (not just changed ones)
+3. Preserve the exact structure from the original
+4. Update the metadata.analysis_confidence based on refinement iteration
+
+Output ONLY the refined JSON. No explanations.

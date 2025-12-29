@@ -1,0 +1,67 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 15,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 4,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 41,
+      "word_count": 6,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 111,
+      "word_count": 20,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 72,
+      "word_count": 11,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 29,
+      "word_count": 5,
+      "font_size": 12.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "How realistic are our growth projections?\nWho has an incentive to over-estimate the upsides\u2026 and have we taken this into account in our report and price?\nHow sensitive to external factors is the valua",
+  "usage_count": 6,
+  "bullet_style": {
+    "total_items": 4,
+    "max_depth": 1,
+    "items_per_level": {
+      "1": 4
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 10.5,
+    "pattern": "two_level"
+  },
+  "id": "f678e8d6ca64"
+}

@@ -1,0 +1,37 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(python -m src.analyzer:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf:impress_pdf_Export:{\"PageRange\":{\"type\":\"string\",\"value\":\"1-5\"}} --outdir . \"C:\\\\Users\\\\wpcol\\\\claudecode\\\\pptx-design\\\\pptx_templates\\\\pptx_template_market_analysis\\\\template_market_analysis.pptx\")",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir . \"C:\\\\Users\\\\wpcol\\\\claudecode\\\\pptx-design\\\\pptx_templates\\\\pptx_template_market_analysis\\\\template_market_analysis.pptx\")",
+      "Bash(where:*)",
+      "Bash(conda list:*)",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir . \"C:\\\\Users\\\\wpcol\\\\claudecode\\\\pptx-design\\\\pptx_templates\\\\pptx_template_business_consulting_toolkit\\\\template_business_consulting_toolkit.pptx\")",
+      "Bash(cat:*)",
+      "Bash(\"C:/Program Files/LibreOffice/program/soffice.exe\" --headless --convert-to pdf --outdir \"C:/Users/wpcol/claudecode/pptx-design/outputs\" \"C:/Users/wpcol/claudecode/pptx-design/outputs/strategic_business_review.pptx\")",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir pptx_generator/output pptx_generator/output/Light_Industrial_Fund_I_v6_enhanced.pptx)",
+      "Bash(conda activate:*)",
+      "Bash(move:*)",
+      "WebSearch",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(del:*)",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir outputs outputs/template_based_test.pptx)",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir outputs outputs/template_based_clean.pptx)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "mcp__plugin_compound-engineering_context7__resolve-library-id",
+      "Bash(\"C:\\\\Program Files\\\\LibreOffice\\\\program\\\\soffice.exe\" --headless --convert-to pdf --outdir outputs outputs/markdown_presentation.pptx)",
+      "Bash(git -C \"C:/Users/wpcol/claudecode\" status)",
+      "Bash(git -C \"C:/Users/wpcol/claudecode/ai-newsletter\" remote -v)",
+      "Bash(gh auth status:*)",
+      "Bash(git init:*)",
+      "Bash(git -C \"C:/Users/wpcol/claudecode/pptx-design\" status --short)",
+      "Bash(git -C \"C:/Users/wpcol/claudecode/pptx-design\" add .)"
+    ]
+  }
+}

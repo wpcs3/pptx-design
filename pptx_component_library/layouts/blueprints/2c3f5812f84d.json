@@ -1,0 +1,608 @@
+{
+  "id": "2c3f5812f84d",
+  "template": "template_market_analysis",
+  "slide_num": 209,
+  "layout_name": "Default",
+  "element_count": 23,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Used equipment warranties are typically purchased"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Market research (e.g. [sanitized], [saniti"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3566,
+        "width": 0.2797,
+        "height": 0.0671,
+        "right": 0.3247,
+        "bottom": 0.4237
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.67,
+        "width": 3.73,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Independent warranty service channel"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3384,
+        "top": 0.3566,
+        "width": 0.2797,
+        "height": 0.0671,
+        "right": 0.6181,
+        "bottom": 0.4237
+      },
+      "position_inches": {
+        "left": 4.51,
+        "top": 2.67,
+        "width": 3.73,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Equipment \u201csupermarket\u201d channel"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.4237,
+        "width": 0.2797,
+        "height": 0.4818,
+        "right": 0.3247,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.18,
+        "width": 3.73,
+        "height": 3.61
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Independent warranty service offices offer extende"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6416,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6416,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.55,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.351,
+        "width": 0.3047,
+        "height": 0.5546,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.63,
+        "width": 4.06,
+        "height": 4.16
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "New equipment typically come with ~3-year manufact"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "width": 0.3047,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 1.91,
+        "width": 4.06,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.3298,
+        "width": 0.3047,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.47,
+        "width": 4.06,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.5879,
+        "height": 0.0624,
+        "right": 0.6334,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 7.84,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "There are two channels typically used to buy warra"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.588,
+        "height": 0.0,
+        "right": 0.6335,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 7.84,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "ADD-ON SERVICES"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3384,
+        "top": 0.4237,
+        "width": 0.2797,
+        "height": 0.4818,
+        "right": 0.6181,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 4.51,
+        "top": 3.18,
+        "width": 3.73,
+        "height": 3.61
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Equipment \u201csupermarkets\u201d offering extended warrant"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3563,
+        "top": 0.6283,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.4677,
+        "bottom": 0.724
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 4.71,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3563,
+        "top": 0.7578,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.4677,
+        "bottom": 0.8536
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 5.68,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4825,
+        "top": 0.683,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.5939,
+        "bottom": 0.7787
+      },
+      "position_inches": {
+        "left": 6.43,
+        "top": 5.12,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0553,
+        "top": 0.5902,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.1668,
+        "bottom": 0.686
+      },
+      "position_inches": {
+        "left": 0.74,
+        "top": 4.43,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0897,
+        "top": 0.6958,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.2012,
+        "bottom": 0.7915
+      },
+      "position_inches": {
+        "left": 1.2,
+        "top": 5.22,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0553,
+        "top": 0.7971,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.1668,
+        "bottom": 0.8929
+      },
+      "position_inches": {
+        "left": 0.74,
+        "top": 5.98,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1982,
+        "top": 0.5987,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.3096,
+        "bottom": 0.6944
+      },
+      "position_inches": {
+        "left": 2.64,
+        "top": 4.49,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1982,
+        "top": 0.7786,
+        "width": 0.1114,
+        "height": 0.0957,
+        "right": 0.3096,
+        "bottom": 0.8743
+      },
+      "position_inches": {
+        "left": 2.64,
+        "top": 5.84,
+        "width": 1.49,
+        "height": 0.72
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7578,
+        "right": 0.6439,
+        "bottom": 0.9684,
+        "width": 0.5984,
+        "height": 0.2106
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.3566,
+        "right": 0.3247,
+        "bottom": 0.9056,
+        "width": 0.2798,
+        "height": 0.549
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.6416,
+        "bottom": 0.9056,
+        "width": 0.5961,
+        "height": 0.6568
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.3047,
+        "height": 0.6504
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0553,
+        "top": 0.7786,
+        "right": 0.3096,
+        "bottom": 0.8929,
+        "width": 0.2543,
+        "height": 0.1143
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 23
+  },
+  "category": "multi_column"
+}

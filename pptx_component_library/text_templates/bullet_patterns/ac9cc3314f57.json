@@ -1,0 +1,72 @@
+{
+  "template": "template_business_case",
+  "slide_num": 151,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 4,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 15,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 46,
+      "word_count": 7,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Main objectives\n[Insert main objectives with project or phase]\n[Insert main objectives with project or phase]\n[Insert main objectives with project or phase]",
+  "usage_count": 2,
+  "bullet_style": {
+    "total_items": 4,
+    "max_depth": 1,
+    "items_per_level": {
+      "1": 1,
+      "0": 3
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 5.8,
+    "pattern": "two_level"
+  },
+  "id": "ac9cc3314f57"
+}

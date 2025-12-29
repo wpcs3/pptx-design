@@ -1,0 +1,720 @@
+{
+  "id": "d95452182e8d",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 234,
+  "layout_name": "1/2 grey",
+  "element_count": 30,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.4155,
+        "height": 0.1067,
+        "right": 0.461,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 5.54,
+        "height": 0.8
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "\u2026and is supported by several favorable consumer tr"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1819,
+        "top": 0.2422,
+        "width": 0.2791,
+        "height": 0.0,
+        "right": 0.461,
+        "bottom": 0.2422
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 1.82,
+        "width": 3.72,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.1985,
+        "width": 0.4155,
+        "height": 0.0314,
+        "right": 0.9545,
+        "bottom": 0.2299
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 1.49,
+        "width": 5.54,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Impact on market forecast"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.2422,
+        "width": 0.4155,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2422
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 1.82,
+        "width": 5.54,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.3808,
+        "width": 0.3165,
+        "height": 0.1207,
+        "right": 0.461,
+        "bottom": 0.5015
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 2.86,
+        "width": 4.22,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Focus on quality and longevity of both apparel and"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.5089,
+        "width": 0.3165,
+        "height": 0.1207,
+        "right": 0.461,
+        "bottom": 0.6296
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 3.82,
+        "width": 4.22,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "High brand awareness for even preschoolers and tod"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.2528,
+        "width": 0.3165,
+        "height": 0.1207,
+        "right": 0.461,
+        "bottom": 0.3735
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 1.9,
+        "width": 4.22,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "More young children dressed in \u201cfashionable\u201d cloth"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2528,
+        "width": 0.1287,
+        "height": 0.1207,
+        "right": 0.1742,
+        "bottom": 0.3735
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.9,
+        "width": 1.72,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201cMini-me\u201d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3808,
+        "width": 0.1287,
+        "height": 0.1207,
+        "right": 0.1742,
+        "bottom": 0.5015
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.86,
+        "width": 1.72,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "High  quality/safety"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5089,
+        "width": 0.1287,
+        "height": 0.1207,
+        "right": 0.1742,
+        "bottom": 0.6296
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.82,
+        "width": 1.72,
+        "height": 0.91
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Brand awareness"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1445,
+        "top": 0.6369,
+        "width": 0.3165,
+        "height": 0.2898,
+        "right": 0.461,
+        "bottom": 0.9267
+      },
+      "position_inches": {
+        "left": 1.93,
+        "top": 4.78,
+        "width": 4.22,
+        "height": 2.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Grand parents increasingly buying equipment etc. f"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6369,
+        "width": 0.1287,
+        "height": 0.2898,
+        "right": 0.1742,
+        "bottom": 0.9267
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.78,
+        "width": 1.72,
+        "height": 2.17
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "\u201cMultiples homes  per baby\u201d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.6369,
+        "width": 0.4155,
+        "height": 0.2898,
+        "right": 0.9545,
+        "bottom": 0.9267
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 4.78,
+        "width": 5.54,
+        "height": 2.17
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Higher purchasing power from pension schemes and h"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.3808,
+        "width": 0.4155,
+        "height": 0.1207,
+        "right": 0.9545,
+        "bottom": 0.5015
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 2.86,
+        "width": 5.54,
+        "height": 0.91
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Justification of higher retail prices of non-pollu"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.5089,
+        "width": 0.4155,
+        "height": 0.1207,
+        "right": 0.9545,
+        "bottom": 0.6296
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 3.82,
+        "width": 5.54,
+        "height": 0.91
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Increased use of licensing which drive prices upwa"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1819,
+        "top": 0.1985,
+        "width": 0.2791,
+        "height": 0.0314,
+        "right": 0.461,
+        "bottom": 0.2299
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 1.49,
+        "width": 3.72,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Growth drivers"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.2528,
+        "width": 0.4155,
+        "height": 0.1207,
+        "right": 0.9545,
+        "bottom": 0.3735
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 1.9,
+        "width": 5.54,
+        "height": 0.91
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Increased spending on children\u2019s clothing to look"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1819,
+        "top": 0.3771,
+        "width": 0.2791,
+        "height": 0.0,
+        "right": 0.461,
+        "bottom": 0.3771
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 2.83,
+        "width": 3.72,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1819,
+        "top": 0.5052,
+        "width": 0.2791,
+        "height": 0.0,
+        "right": 0.461,
+        "bottom": 0.5052
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 3.79,
+        "width": 3.72,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1819,
+        "top": 0.6332,
+        "width": 0.2791,
+        "height": 0.0,
+        "right": 0.461,
+        "bottom": 0.6332
+      },
+      "position_inches": {
+        "left": 2.42,
+        "top": 4.75,
+        "width": 3.72,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.3771,
+        "width": 0.4155,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3771
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 2.83,
+        "width": 5.54,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.5052,
+        "width": 0.4155,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5052
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 3.79,
+        "width": 5.54,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.6332,
+        "width": 0.4155,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6332
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 4.75,
+        "width": 5.54,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4888,
+        "top": 0.2864,
+        "width": 0.0224,
+        "height": 0.0534,
+        "right": 0.5112,
+        "bottom": 0.3398
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 2.15,
+        "width": 0.3,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4888,
+        "top": 0.4145,
+        "width": 0.0224,
+        "height": 0.0534,
+        "right": 0.5112,
+        "bottom": 0.4679
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 3.11,
+        "width": 0.3,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4888,
+        "top": 0.5425,
+        "width": 0.0224,
+        "height": 0.0534,
+        "right": 0.5112,
+        "bottom": 0.5959
+      },
+      "position_inches": {
+        "left": 6.52,
+        "top": 4.07,
+        "width": 0.3,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.49,
+        "top": 0.7551,
+        "width": 0.0224,
+        "height": 0.0534,
+        "right": 0.5124,
+        "bottom": 0.8085
+      },
+      "position_inches": {
+        "left": 6.53,
+        "top": 5.66,
+        "width": 0.3,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.461,
+        "bottom": 0.1584,
+        "width": 0.4609,
+        "height": 0.1582
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1985,
+        "right": 0.461,
+        "bottom": 0.9267,
+        "width": 0.4155,
+        "height": 0.7282
+      },
+      "element_count": 13,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.539,
+        "top": 0.1985,
+        "right": 0.9545,
+        "bottom": 0.9267,
+        "width": 0.4155,
+        "height": 0.7282
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4888,
+        "top": 0.2864,
+        "right": 0.5124,
+        "bottom": 0.8085,
+        "width": 0.0236,
+        "height": 0.5221
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 30
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,123 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 182,
+  "pattern_type": "text_block",
+  "paragraph_count": 10,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 23,
+      "word_count": 3,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 13,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 8,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 10,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 12,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 9,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 20,
+      "word_count": 3,
+      "font_size": 14.0,
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 4,
+      "word_count": 1,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 14,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 14,
+      "word_count": 2,
+      "font_size": 14.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Variable cost examples:\nRaw materials\nDelivery\nCommission\nDirect labor\nMarketing\nFixed cost examples:\nRent\nStaff overhead\nLoan interests",
+  "usage_count": 1,
+  "id": "87aef5eec71d"
+}

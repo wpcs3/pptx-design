@@ -1,0 +1,37 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 78,
+  "pattern_type": "text_block",
+  "paragraph_count": 2,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 59,
+      "word_count": 9,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 59,
+      "word_count": 9,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "[Insert 1-2 bullet points describing main focus, geos etc.]\n[Insert 1-2 bullet points describing main focus, geos etc.]",
+  "usage_count": 59,
+  "id": "0ee2c5e6d902"
+}

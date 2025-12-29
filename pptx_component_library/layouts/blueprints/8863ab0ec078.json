@@ -1,0 +1,255 @@
+{
+  "id": "8863ab0ec078",
+  "template": "template_market_analysis",
+  "slide_num": 311,
+  "layout_name": "Default",
+  "element_count": 8,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Best practice tip: Keep it to one message per slid"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix: Checklist"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0492,
+        "top": 0.4656,
+        "width": 0.4,
+        "height": 0.3926,
+        "right": 0.4492,
+        "bottom": 0.8582
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 3.49,
+        "width": 5.33,
+        "height": 2.94
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5232,
+        "top": 0.4605,
+        "width": 0.4229,
+        "height": 0.4426,
+        "right": 0.9461,
+        "bottom": 0.9031
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 3.45,
+        "width": 5.64,
+        "height": 3.32
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "width": 0.9145,
+        "height": 0.0853,
+        "right": 0.9548,
+        "bottom": 0.3161
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 1.73,
+        "width": 12.19,
+        "height": 0.64
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Look at your slide title and content \u2013 what is the"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "width": 0.4428,
+        "height": 0.0494,
+        "right": 0.4831,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 0.54,
+        "top": 2.76,
+        "width": 5.9,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Several messages in one slide make it difficult to"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5238,
+        "top": 0.3676,
+        "width": 0.431,
+        "height": 0.0494,
+        "right": 0.9548,
+        "bottom": 0.417
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.76,
+        "width": 5.75,
+        "height": 0.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "One message in each slide gets the points across c"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.387,
+        "width": 0.0,
+        "height": 0.5294,
+        "right": 0.5,
+        "bottom": 0.9163
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 2.9,
+        "width": 0.0,
+        "height": 3.97
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.3676,
+        "right": 0.4831,
+        "bottom": 0.8582,
+        "width": 0.4428,
+        "height": 0.4906
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5232,
+        "top": 0.3676,
+        "right": 0.9548,
+        "bottom": 0.9031,
+        "width": 0.4316,
+        "height": 0.5355
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0403,
+        "top": 0.2308,
+        "right": 0.9548,
+        "bottom": 0.9163,
+        "width": 0.9145,
+        "height": 0.6855
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0403,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0837,
+    "left_inches": 0.54,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 8
+  },
+  "category": "multi_column"
+}

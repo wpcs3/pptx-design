@@ -1,0 +1,495 @@
+{
+  "id": "4d9c0254a565",
+  "template": "template_market_analysis",
+  "slide_num": 284,
+  "layout_name": "Default",
+  "element_count": 19,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Using most likely [sanitized], the available OEM m"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis based on discussions with [s"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. Values validated with internal [sanit"
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.0366,
+        "top": 0.5293,
+        "width": 0.5591,
+        "height": 0.3522,
+        "right": 0.5956,
+        "bottom": 0.8815
+      },
+      "position_inches": {
+        "left": 0.49,
+        "top": 3.97,
+        "width": 7.45,
+        "height": 2.64
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4624,
+        "width": 0.5984,
+        "height": 0.0442,
+        "right": 0.6439,
+        "bottom": 0.5066
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.47,
+        "width": 7.98,
+        "height": 0.33
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Total [sanitized industry] market OEM potential, M"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5189,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.644,
+        "bottom": 0.5189
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.89,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2707,
+        "top": 0.3701,
+        "width": 0.1526,
+        "height": 0.0517,
+        "right": 0.4233,
+        "bottom": 0.4218
+      },
+      "position_inches": {
+        "left": 3.61,
+        "top": 2.78,
+        "width": 2.03,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "40%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2707,
+        "top": 0.3033,
+        "width": 0.0415,
+        "height": 0.0517,
+        "right": 0.3123,
+        "bottom": 0.355
+      },
+      "position_inches": {
+        "left": 3.61,
+        "top": 2.27,
+        "width": 0.55,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "10%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5312,
+        "top": 0.309,
+        "width": 0.098,
+        "height": 0.0404,
+        "right": 0.6291,
+        "bottom": 0.3494
+      },
+      "position_inches": {
+        "left": 7.08,
+        "top": 2.32,
+        "width": 1.31,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "BULK"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5312,
+        "top": 0.3753,
+        "width": 0.098,
+        "height": 0.0404,
+        "right": 0.6291,
+        "bottom": 0.4157
+      },
+      "position_inches": {
+        "left": 7.08,
+        "top": 2.81,
+        "width": 1.31,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "KITS"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2707,
+        "top": 0.3038,
+        "width": 0.3731,
+        "height": 0.0517,
+        "right": 0.6438,
+        "bottom": 0.3555
+      },
+      "position_inches": {
+        "left": 3.61,
+        "top": 2.28,
+        "width": 4.98,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2707,
+        "top": 0.3701,
+        "width": 0.3731,
+        "height": 0.0517,
+        "right": 0.6438,
+        "bottom": 0.4218
+      },
+      "position_inches": {
+        "left": 3.61,
+        "top": 2.78,
+        "width": 4.98,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3033,
+        "width": 0.2105,
+        "height": 0.1206,
+        "right": 0.256,
+        "bottom": 0.4239
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.27,
+        "width": 2.81,
+        "height": 0.9
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized] supplier value \u000bcapture of end-user pr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.2239,
+        "width": 0.5984,
+        "height": 0.0442,
+        "right": 0.6438,
+        "bottom": 0.2681
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.68,
+        "width": 7.98,
+        "height": 0.33
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Manufacturer value capture of 1 M EUR of OEM sales"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.2804,
+        "width": 0.5985,
+        "height": 0.0,
+        "right": 0.6439,
+        "bottom": 0.2804
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.1,
+        "width": 7.98,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6805,
+        "top": 0.2528,
+        "width": 0.0,
+        "height": 0.6562,
+        "right": 0.6805,
+        "bottom": 0.909
+      },
+      "position_inches": {
+        "left": 9.07,
+        "top": 1.9,
+        "width": 0.0,
+        "height": 4.92
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.6637,
+        "top": 0.5509,
+        "width": 0.0337,
+        "height": 0.06,
+        "right": 0.6974,
+        "bottom": 0.6109
+      },
+      "position_inches": {
+        "left": 8.85,
+        "top": 4.13,
+        "width": 0.45,
+        "height": 0.45
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.717,
+        "top": 0.3623,
+        "width": 0.2375,
+        "height": 0.4372,
+        "right": 0.9545,
+        "bottom": 0.7995
+      },
+      "position_inches": {
+        "left": 9.56,
+        "top": 2.72,
+        "width": 3.17,
+        "height": 3.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Available OEM [sanitized] market:  178-305 M EUR"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0366,
+        "top": 0.3033,
+        "right": 0.5956,
+        "bottom": 0.8815,
+        "width": 0.559,
+        "height": 0.5782
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.2239,
+        "right": 0.644,
+        "bottom": 0.5189,
+        "width": 0.5986,
+        "height": 0.295
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6637,
+        "top": 0.2528,
+        "right": 0.9545,
+        "bottom": 0.909,
+        "width": 0.2908,
+        "height": 0.6562
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0366,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.49,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 19
+  },
+  "category": "multi_column"
+}

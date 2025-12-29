@@ -1,0 +1,906 @@
+{
+  "id": "c729cfef3931",
+  "template": "template_business_case",
+  "slide_num": 244,
+  "layout_name": "Default",
+  "element_count": 37,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Several actions will secure momentum in next 6-8 m"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1536,
+        "top": 0.2219,
+        "width": 0.8007,
+        "height": 0.0356,
+        "right": 0.9543,
+        "bottom": 0.2575
+      },
+      "position_inches": {
+        "left": 2.05,
+        "top": 1.66,
+        "width": 10.68,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.1536,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.1536,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 2.05,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2719,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.2719,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 3.63,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.7451,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.7451,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 9.93,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.8634,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.8634,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 11.51,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.6268,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.6268,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 8.36,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.477,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.539,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 6.36,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Sep 2025"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1221,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.1841,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 1.63,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Dec 2024"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7136,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.7756,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 9.51,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Mar 2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8319,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.8939,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 11.09,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Mid-2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5953,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.6573,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 7.94,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Dec 2025"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2404,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.3024,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 3.2,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Mar 2025"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3587,
+        "top": 0.1904,
+        "width": 0.062,
+        "height": 0.0288,
+        "right": 0.4207,
+        "bottom": 0.2192
+      },
+      "position_inches": {
+        "left": 4.78,
+        "top": 1.43,
+        "width": 0.83,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Jun 2025"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3902,
+        "top": 0.2219,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.3902,
+        "bottom": 0.2586
+      },
+      "position_inches": {
+        "left": 5.2,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.5085,
+        "top": 0.2214,
+        "width": 0.0,
+        "height": 0.0367,
+        "right": 0.5085,
+        "bottom": 0.2581
+      },
+      "position_inches": {
+        "left": 6.78,
+        "top": 1.66,
+        "width": 0.0,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.1549,
+        "top": 0.4882,
+        "width": 0.1384,
+        "height": 0.0756,
+        "right": 0.2933,
+        "bottom": 0.5638
+      },
+      "position_inches": {
+        "left": 2.06,
+        "top": 3.66,
+        "width": 1.85,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Prepare org"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2914,
+        "top": 0.7795,
+        "width": 0.2944,
+        "height": 0.0288,
+        "right": 0.5858,
+        "bottom": 0.8083
+      },
+      "position_inches": {
+        "left": 3.89,
+        "top": 5.85,
+        "width": 3.93,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.6188,
+        "top": 0.773,
+        "width": 0.3428,
+        "height": 0.0756,
+        "right": 0.9616,
+        "bottom": 0.8486
+      },
+      "position_inches": {
+        "left": 8.25,
+        "top": 5.8,
+        "width": 4.57,
+        "height": 0.57
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Begin implementation"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3206,
+        "top": 0.855,
+        "width": 0.4146,
+        "height": 0.0756,
+        "right": 0.7353,
+        "bottom": 0.9306
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 6.41,
+        "width": 5.53,
+        "height": 0.57
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Co-create PIP and recognition initiatives"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2404,
+        "top": 0.6652,
+        "width": 0.1657,
+        "height": 0.0756,
+        "right": 0.4061,
+        "bottom": 0.7408
+      },
+      "position_inches": {
+        "left": 3.21,
+        "top": 4.99,
+        "width": 2.21,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Run IT framework project"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3926,
+        "top": 0.6652,
+        "width": 0.4766,
+        "height": 0.0756,
+        "right": 0.8692,
+        "bottom": 0.7408
+      },
+      "position_inches": {
+        "left": 5.23,
+        "top": 4.99,
+        "width": 6.35,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Implement new integrated IT solution Paced impleme"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2892,
+        "top": 0.3998,
+        "width": 0.2735,
+        "height": 0.0756,
+        "right": 0.5627,
+        "bottom": 0.4753
+      },
+      "position_inches": {
+        "left": 3.86,
+        "top": 3.0,
+        "width": 3.65,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Map all processes"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1549,
+        "top": 0.3998,
+        "width": 0.144,
+        "height": 0.0756,
+        "right": 0.2989,
+        "bottom": 0.4753
+      },
+      "position_inches": {
+        "left": 2.06,
+        "top": 3.0,
+        "width": 1.92,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Gather data"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.5996,
+        "top": 0.2617,
+        "width": 0.2696,
+        "height": 0.1123,
+        "right": 0.8692,
+        "bottom": 0.374
+      },
+      "position_inches": {
+        "left": 8.0,
+        "top": 1.96,
+        "width": 3.59,
+        "height": 0.84
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Executive body handling permanent tasks Assessment"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2341,
+        "top": 0.2625,
+        "width": 0.3655,
+        "height": 0.1106,
+        "right": 0.5997,
+        "bottom": 0.3731
+      },
+      "position_inches": {
+        "left": 3.12,
+        "top": 1.97,
+        "width": 4.87,
+        "height": 0.83
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Oversee key implementation projects Prepare decisi"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.1536,
+        "top": 0.2617,
+        "width": 0.0805,
+        "height": 0.0756,
+        "right": 0.2341,
+        "bottom": 0.3372
+      },
+      "position_inches": {
+        "left": 2.05,
+        "top": 1.96,
+        "width": 1.07,
+        "height": 0.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Establish PMO"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.427,
+        "top": 0.5767,
+        "width": 0.1167,
+        "height": 0.0756,
+        "right": 0.5437,
+        "bottom": 0.6523
+      },
+      "position_inches": {
+        "left": 5.69,
+        "top": 4.33,
+        "width": 1.56,
+        "height": 0.57
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Outline strategy"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.2617,
+        "width": 0.0957,
+        "height": 0.1123,
+        "right": 0.1406,
+        "bottom": 0.374
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.96,
+        "width": 1.28,
+        "height": 0.84
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Program management office (PMO)"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3998,
+        "width": 0.0957,
+        "height": 0.341,
+        "right": 0.1406,
+        "bottom": 0.7408
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.0,
+        "width": 1.28,
+        "height": 2.56
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Process improvement initiatives"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.7666,
+        "width": 0.0957,
+        "height": 0.164,
+        "right": 0.1406,
+        "bottom": 0.9306
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 5.75,
+        "width": 1.28,
+        "height": 1.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "PIP and recognition initiatives"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3869,
+        "width": 0.9094,
+        "height": 0.0,
+        "right": 0.9543,
+        "bottom": 0.3869
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.9,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.7537,
+        "width": 0.9094,
+        "height": 0.0,
+        "right": 0.9543,
+        "bottom": 0.7537
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 5.65,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.539,
+        "top": 0.5767,
+        "width": 0.3952,
+        "height": 0.0756,
+        "right": 0.9342,
+        "bottom": 0.6523
+      },
+      "position_inches": {
+        "left": 7.19,
+        "top": 4.33,
+        "width": 5.27,
+        "height": 0.57
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Implement efficiency initiatives"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.154,
+        "top": 0.7666,
+        "width": 0.1765,
+        "height": 0.0756,
+        "right": 0.3304,
+        "bottom": 0.8421
+      },
+      "position_inches": {
+        "left": 2.05,
+        "top": 5.75,
+        "width": 2.35,
+        "height": 0.57
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Gather inputs from teams"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.1904,
+        "right": 0.9543,
+        "bottom": 0.8083,
+        "width": 0.9094,
+        "height": 0.6179
+      },
+      "element_count": 14,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.1904,
+        "right": 0.4061,
+        "bottom": 0.7408,
+        "width": 0.3612,
+        "height": 0.5504
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.539,
+        "top": 0.1904,
+        "right": 0.9342,
+        "bottom": 0.6523,
+        "width": 0.3952,
+        "height": 0.4619
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6188,
+        "top": 0.773,
+        "right": 0.9616,
+        "bottom": 0.8486,
+        "width": 0.3428,
+        "height": 0.0756
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3206,
+        "top": 0.855,
+        "right": 0.7353,
+        "bottom": 0.9306,
+        "width": 0.4147,
+        "height": 0.0756
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.7666,
+        "right": 0.3304,
+        "bottom": 0.9306,
+        "width": 0.2855,
+        "height": 0.164
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0384,
+    "top": 0.0002,
+    "bottom": 0.0694,
+    "left_inches": 0.0,
+    "right_inches": 0.51,
+    "top_inches": 0.0,
+    "bottom_inches": 0.52
+  },
+  "content_types": {
+    "other": 37
+  },
+  "category": "multi_column"
+}

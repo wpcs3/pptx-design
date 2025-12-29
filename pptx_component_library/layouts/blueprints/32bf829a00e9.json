@@ -1,0 +1,168 @@
+{
+  "id": "32bf829a00e9",
+  "template": "template_market_analysis",
+  "slide_num": 186,
+  "layout_name": "Frontpage",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.002,
+        "height": 1.0,
+        "right": 1.002,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 13.36,
+        "height": 7.5
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.0476,
+        "width": 0.1639,
+        "height": 0.1524,
+        "right": 0.2092,
+        "bottom": 0.2
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 0.36,
+        "width": 2.19,
+        "height": 1.14
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "[Sanitized \u000bcompany logo]"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6977,
+        "width": 0.5131,
+        "height": 0.0314,
+        "right": 0.5586,
+        "bottom": 0.7291
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.23,
+        "width": 6.84,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized date]"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.6368,
+        "width": 0.6186,
+        "height": 0.0449,
+        "right": 0.6639,
+        "bottom": 0.6816
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.78,
+        "width": 8.25,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "EquipCorp - Market outlook"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.4074,
+        "width": 0.5976,
+        "height": 0.2117,
+        "right": 0.6429,
+        "bottom": 0.6191
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.06,
+        "width": 7.97,
+        "height": 1.59
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market outlook for the US equipment market"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 1.002,
+        "bottom": 1.0,
+        "width": 1.002,
+        "height": 1.0
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.0476,
+        "right": 0.2092,
+        "bottom": 0.2,
+        "width": 0.1639,
+        "height": 0.1524
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.6977,
+        "right": 0.5586,
+        "bottom": 0.7291,
+        "width": 0.5131,
+        "height": 0.0314
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": -0.002,
+    "top": 0.0,
+    "bottom": 0.0,
+    "left_inches": 0.0,
+    "right_inches": -0.03,
+    "top_inches": 0.0,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

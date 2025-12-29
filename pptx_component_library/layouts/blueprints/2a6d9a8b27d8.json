@@ -1,0 +1,566 @@
+{
+  "id": "2a6d9a8b27d8",
+  "template": "template_business_case",
+  "slide_num": 142,
+  "layout_name": "Default",
+  "element_count": 21,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.3438,
+        "top": 0.5376,
+        "width": 0.1978,
+        "height": 0.1787,
+        "right": 0.5417,
+        "bottom": 0.7163
+      },
+      "position_inches": {
+        "left": 4.58,
+        "top": 4.03,
+        "width": 2.64,
+        "height": 1.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert initiatives] [Insert initiatives] [Insert"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.1406,
+        "top": 0.5376,
+        "width": 0.1978,
+        "height": 0.1787,
+        "right": 0.3385,
+        "bottom": 0.7163
+      },
+      "position_inches": {
+        "left": 1.87,
+        "top": 4.03,
+        "width": 2.64,
+        "height": 1.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert initiatives] [Insert initiatives] [Insert"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.5474,
+        "top": 0.5376,
+        "width": 0.1978,
+        "height": 0.1787,
+        "right": 0.7452,
+        "bottom": 0.7163
+      },
+      "position_inches": {
+        "left": 7.3,
+        "top": 4.03,
+        "width": 2.64,
+        "height": 1.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert initiatives] [Insert initiatives] [Insert"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Four-step approach to realize vision and capture v"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.1406,
+        "top": 0.7275,
+        "width": 0.6046,
+        "height": 0.1789,
+        "right": 0.7452,
+        "bottom": 0.9064
+      },
+      "position_inches": {
+        "left": 1.87,
+        "top": 5.46,
+        "width": 8.06,
+        "height": 1.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert initiatives] [Insert initiatives] [Insert"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2195,
+        "top": 0.2409,
+        "width": 0.0358,
+        "height": 0.0288,
+        "right": 0.2553,
+        "bottom": 0.2697
+      },
+      "position_inches": {
+        "left": 2.93,
+        "top": 1.81,
+        "width": 0.48,
+        "height": 0.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2025"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8348,
+        "top": 0.2409,
+        "width": 0.0358,
+        "height": 0.0288,
+        "right": 0.8706,
+        "bottom": 0.2697
+      },
+      "position_inches": {
+        "left": 11.13,
+        "top": 1.81,
+        "width": 0.48,
+        "height": 0.22
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "2028"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4246,
+        "top": 0.2409,
+        "width": 0.0358,
+        "height": 0.0288,
+        "right": 0.4604,
+        "bottom": 0.2697
+      },
+      "position_inches": {
+        "left": 5.66,
+        "top": 1.81,
+        "width": 0.48,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2026"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1488,
+        "top": 0.4698,
+        "width": 0.1772,
+        "height": 0.0314,
+        "right": 0.326,
+        "bottom": 0.5012
+      },
+      "position_inches": {
+        "left": 1.98,
+        "top": 3.52,
+        "width": 2.36,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Strengthen foundation"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3522,
+        "top": 0.4285,
+        "width": 0.1772,
+        "height": 0.0314,
+        "right": 0.5294,
+        "bottom": 0.4599
+      },
+      "position_inches": {
+        "left": 4.7,
+        "top": 3.21,
+        "width": 2.36,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Ramp-up"
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.1406,
+        "top": 0.3455,
+        "width": 0.8137,
+        "height": 0.1545,
+        "right": 0.9543,
+        "bottom": 0.5
+      },
+      "position_inches": {
+        "left": 1.87,
+        "top": 2.59,
+        "width": 10.85,
+        "height": 1.16
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5634,
+        "top": 0.3901,
+        "width": 0.1772,
+        "height": 0.0314,
+        "right": 0.7406,
+        "bottom": 0.4215
+      },
+      "position_inches": {
+        "left": 7.51,
+        "top": 2.93,
+        "width": 2.36,
+        "height": 0.24
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Expansion"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7641,
+        "top": 0.3519,
+        "width": 0.1772,
+        "height": 0.0314,
+        "right": 0.9413,
+        "bottom": 0.3833
+      },
+      "position_inches": {
+        "left": 10.19,
+        "top": 2.64,
+        "width": 2.36,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Full value capture"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5376,
+        "width": 0.0875,
+        "height": 0.1787,
+        "right": 0.133,
+        "bottom": 0.7163
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.03,
+        "width": 1.17,
+        "height": 1.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Functional initiatives"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7265,
+        "width": 0.0875,
+        "height": 0.1787,
+        "right": 0.133,
+        "bottom": 0.9052
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.45,
+        "width": 1.17,
+        "height": 1.34
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Strategic initiatives"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1406,
+        "top": 0.2778,
+        "width": 0.8137,
+        "height": 0.0556,
+        "right": 0.9543,
+        "bottom": 0.3334
+      },
+      "position_inches": {
+        "left": 1.87,
+        "top": 2.08,
+        "width": 10.85,
+        "height": 0.42
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6297,
+        "top": 0.2409,
+        "width": 0.0358,
+        "height": 0.0288,
+        "right": 0.6655,
+        "bottom": 0.2697
+      },
+      "position_inches": {
+        "left": 8.4,
+        "top": 1.81,
+        "width": 0.48,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2027"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.7509,
+        "top": 0.5376,
+        "width": 0.1978,
+        "height": 0.1787,
+        "right": 0.9488,
+        "bottom": 0.7163
+      },
+      "position_inches": {
+        "left": 10.01,
+        "top": 4.03,
+        "width": 2.64,
+        "height": 1.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert initiatives] [Insert initiatives] [Insert"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.1406,
+        "top": 0.2409,
+        "right": 0.9543,
+        "bottom": 0.7163,
+        "width": 0.8137,
+        "height": 0.4754
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2409,
+        "right": 0.3385,
+        "bottom": 0.7163,
+        "width": 0.293,
+        "height": 0.4754
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7275,
+        "right": 0.7452,
+        "bottom": 0.9852,
+        "width": 0.7068,
+        "height": 0.2577
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7509,
+        "top": 0.2409,
+        "right": 0.9488,
+        "bottom": 0.7163,
+        "width": 0.1979,
+        "height": 0.4754
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7265,
+        "right": 0.133,
+        "bottom": 0.9052,
+        "width": 0.0875,
+        "height": 0.1787
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 21
+  },
+  "category": "multi_column"
+}

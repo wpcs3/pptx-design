@@ -1,0 +1,575 @@
+{
+  "id": "e7b40da9f227",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 141,
+  "layout_name": "Default",
+  "element_count": 23,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target]\u2019 current market position differs consider"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.2611,
+        "width": 0.587,
+        "height": 0.0808,
+        "right": 0.6368,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 1.96,
+        "width": 7.83,
+        "height": 0.61
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Germany is by far the biggest market, while market"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.3505,
+        "width": 0.1588,
+        "height": 0.0404,
+        "right": 0.2086,
+        "bottom": 0.3909
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 2.63,
+        "width": 2.12,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Current market position"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0498,
+        "top": 0.3419,
+        "width": 0.587,
+        "height": 0.0,
+        "right": 0.6368,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 2.56,
+        "width": 7.83,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6925,
+        "top": 0.2611,
+        "width": 0.262,
+        "height": 0.0808,
+        "right": 0.9545,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 9.23,
+        "top": 1.96,
+        "width": 3.49,
+        "height": 0.61
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6925,
+        "top": 0.3419,
+        "width": 0.262,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3419
+      },
+      "position_inches": {
+        "left": 9.23,
+        "top": 2.56,
+        "width": 3.49,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3733,
+        "top": 0.3505,
+        "width": 0.2525,
+        "height": 0.0673,
+        "right": 0.6258,
+        "bottom": 0.4178
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 2.63,
+        "width": 3.37,
+        "height": 0.5
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Current market share, % of retail sales in beauty"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6172,
+        "top": 0.523,
+        "width": 0.0949,
+        "height": 0.0331,
+        "right": 0.7121,
+        "bottom": 0.5561
+      },
+      "position_inches": {
+        "left": 8.23,
+        "top": 3.92,
+        "width": 1.26,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6925,
+        "top": 0.402,
+        "width": 0.262,
+        "height": 0.2751,
+        "right": 0.9545,
+        "bottom": 0.6771
+      },
+      "position_inches": {
+        "left": 9.23,
+        "top": 3.01,
+        "width": 3.49,
+        "height": 2.06
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] is very small player in Dutch market [Tar"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6172,
+        "top": 0.7785,
+        "width": 0.0949,
+        "height": 0.0331,
+        "right": 0.7121,
+        "bottom": 0.8116
+      },
+      "position_inches": {
+        "left": 8.23,
+        "top": 5.84,
+        "width": 1.26,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6925,
+        "top": 0.6838,
+        "width": 0.262,
+        "height": 0.2226,
+        "right": 0.9545,
+        "bottom": 0.9064
+      },
+      "position_inches": {
+        "left": 9.23,
+        "top": 5.13,
+        "width": 3.49,
+        "height": 1.67
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Target] is by far largest chained specialist in G"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2187,
+        "top": 0.6908,
+        "width": 0.2144,
+        "height": 0.1319,
+        "right": 0.4331,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 2.92,
+        "top": 5.18,
+        "width": 2.86,
+        "height": 0.99
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2086,
+        "top": 0.5369,
+        "width": 0.2245,
+        "height": 0.1245,
+        "right": 0.4331,
+        "bottom": 0.6613
+      },
+      "position_inches": {
+        "left": 2.78,
+        "top": 4.03,
+        "width": 2.99,
+        "height": 0.93
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.4122,
+        "top": 0.4287,
+        "width": 0.1747,
+        "height": 0.2217,
+        "right": 0.5869,
+        "bottom": 0.6504
+      },
+      "position_inches": {
+        "left": 5.5,
+        "top": 3.22,
+        "width": 2.33,
+        "height": 1.66
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.4122,
+        "top": 0.6843,
+        "width": 0.1747,
+        "height": 0.2217,
+        "right": 0.5869,
+        "bottom": 0.9059
+      },
+      "position_inches": {
+        "left": 5.5,
+        "top": 5.13,
+        "width": 2.33,
+        "height": 1.66
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5642,
+        "top": 0.4426,
+        "width": 0.0726,
+        "height": 0.0942,
+        "right": 0.6368,
+        "bottom": 0.5369
+      },
+      "position_inches": {
+        "left": 7.52,
+        "top": 3.32,
+        "width": 0.97,
+        "height": 0.71
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "100% = ~1.061 B EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4918,
+        "top": 1.2338,
+        "width": 0.0,
+        "height": 0.0,
+        "right": 0.4918,
+        "bottom": 1.2338
+      },
+      "position_inches": {
+        "left": 6.56,
+        "top": 9.25,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5581,
+        "top": 0.709,
+        "width": 0.0849,
+        "height": 0.0942,
+        "right": 0.643,
+        "bottom": 0.8032
+      },
+      "position_inches": {
+        "left": 7.44,
+        "top": 5.32,
+        "width": 1.13,
+        "height": 0.71
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "100% = ~1.781 B EUR"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3733,
+        "top": 0.4426,
+        "width": 0.0345,
+        "height": 0.0409,
+        "right": 0.4079,
+        "bottom": 0.4836
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 3.32,
+        "width": 0.46,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3733,
+        "top": 0.709,
+        "width": 0.0384,
+        "height": 0.041,
+        "right": 0.4117,
+        "bottom": 0.75
+      },
+      "position_inches": {
+        "left": 4.98,
+        "top": 5.32,
+        "width": 0.51,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8975,
+        "top": 0.189,
+        "width": 0.0574,
+        "height": 0.0319,
+        "right": 0.9549,
+        "bottom": 0.2209
+      },
+      "position_inches": {
+        "left": 11.97,
+        "top": 1.42,
+        "width": 0.77,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Estimate"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0498,
+        "top": 0.2611,
+        "right": 0.7121,
+        "bottom": 0.9059,
+        "width": 0.6623,
+        "height": 0.6448
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0498,
+        "top": 0.3505,
+        "right": 0.4331,
+        "bottom": 0.8228,
+        "width": 0.3833,
+        "height": 0.4723
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6925,
+        "top": 0.189,
+        "right": 0.9549,
+        "bottom": 0.9064,
+        "width": 0.2624,
+        "height": 0.7174
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 1.2338,
+        "width": 0.5984,
+        "height": 0.3019
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0451,
+    "top": 0.0147,
+    "bottom": -0.2338,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": -1.75
+  },
+  "content_types": {
+    "other": 23
+  },
+  "category": "multi_column"
+}

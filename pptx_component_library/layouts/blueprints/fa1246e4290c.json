@@ -1,0 +1,729 @@
+{
+  "id": "fa1246e4290c",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 136,
+  "layout_name": "Default",
+  "element_count": 30,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Germany and Netherlands have shown relatively high"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2149,
+        "width": 0.4314,
+        "height": 0.0643,
+        "right": 0.4769,
+        "bottom": 0.2792
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.61,
+        "width": 5.75,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Germany has exhibited steady growth in last five y"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2149,
+        "width": 0.4314,
+        "height": 0.0643,
+        "right": 0.9548,
+        "bottom": 0.2792
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.61,
+        "width": 5.75,
+        "height": 0.48
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Netherlands has also seen steady growth, driven pr"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2915,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.2915
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.19,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2915,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.2915
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.19,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3043,
+        "width": 0.1598,
+        "height": 0.0404,
+        "right": 0.2053,
+        "bottom": 0.3447
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.28,
+        "width": 2.13,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Retail sales, M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3043,
+        "width": 0.2019,
+        "height": 0.0404,
+        "right": 0.7253,
+        "bottom": 0.3447
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.28,
+        "width": 2.69,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Retail sales, M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Euromonitor; [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4065,
+        "top": 0.3043,
+        "width": 0.0701,
+        "height": 0.0404,
+        "right": 0.4766,
+        "bottom": 0.3447
+      },
+      "position_inches": {
+        "left": 5.42,
+        "top": 2.28,
+        "width": 0.93,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "CAGR, %"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8847,
+        "top": 0.3043,
+        "width": 0.0701,
+        "height": 0.0404,
+        "right": 0.9548,
+        "bottom": 0.3447
+      },
+      "position_inches": {
+        "left": 11.8,
+        "top": 2.28,
+        "width": 0.93,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "CAGR, %"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4178,
+        "top": 0.6216,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.4769,
+        "bottom": 0.6688
+      },
+      "position_inches": {
+        "left": 5.57,
+        "top": 4.66,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2.7%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4178,
+        "top": 0.4559,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.4769,
+        "bottom": 0.5031
+      },
+      "position_inches": {
+        "left": 5.57,
+        "top": 3.42,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "4.3%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4178,
+        "top": 0.383,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.4769,
+        "bottom": 0.4303
+      },
+      "position_inches": {
+        "left": 5.57,
+        "top": 2.87,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3.2%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3447,
+        "width": 0.345,
+        "height": 0.5322,
+        "right": 0.3905,
+        "bottom": 0.8769
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.58,
+        "width": 4.6,
+        "height": 3.99
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0572,
+        "top": 0.4156,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.1045,
+        "bottom": 0.4412
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 3.12,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1568"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1261,
+        "top": 0.4028,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.1734,
+        "bottom": 0.4284
+      },
+      "position_inches": {
+        "left": 1.68,
+        "top": 3.02,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1627"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.195,
+        "top": 0.39,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.2423,
+        "bottom": 0.4156
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 2.92,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1691"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2638,
+        "top": 0.3806,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.3111,
+        "bottom": 0.4063
+      },
+      "position_inches": {
+        "left": 3.52,
+        "top": 2.85,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1747"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3327,
+        "top": 0.3761,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.38,
+        "bottom": 0.4017
+      },
+      "position_inches": {
+        "left": 4.44,
+        "top": 2.82,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "1781"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8958,
+        "top": 0.6556,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.9548,
+        "bottom": 0.7029
+      },
+      "position_inches": {
+        "left": 11.94,
+        "top": 4.92,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "5.5%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8958,
+        "top": 0.5503,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.9548,
+        "bottom": 0.5976
+      },
+      "position_inches": {
+        "left": 11.94,
+        "top": 4.13,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "3.0%"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8958,
+        "top": 0.4775,
+        "width": 0.0591,
+        "height": 0.0472,
+        "right": 0.9548,
+        "bottom": 0.5247
+      },
+      "position_inches": {
+        "left": 11.94,
+        "top": 3.58,
+        "width": 0.79,
+        "height": 0.35
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "4.7%"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.5293,
+        "top": 0.3447,
+        "width": 0.345,
+        "height": 0.5322,
+        "right": 0.8742,
+        "bottom": 0.8769
+      },
+      "position_inches": {
+        "left": 7.06,
+        "top": 2.58,
+        "width": 4.6,
+        "height": 3.99
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.541,
+        "top": 0.5385,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.5883,
+        "bottom": 0.5641
+      },
+      "position_inches": {
+        "left": 7.21,
+        "top": 4.04,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "884"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6099,
+        "top": 0.5257,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.6572,
+        "bottom": 0.5513
+      },
+      "position_inches": {
+        "left": 8.13,
+        "top": 3.94,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "926"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6787,
+        "top": 0.5129,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.726,
+        "bottom": 0.5385
+      },
+      "position_inches": {
+        "left": 9.05,
+        "top": 3.85,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "969"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7476,
+        "top": 0.5036,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.7949,
+        "bottom": 0.5292
+      },
+      "position_inches": {
+        "left": 9.97,
+        "top": 3.78,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "995"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8164,
+        "top": 0.4844,
+        "width": 0.0473,
+        "height": 0.0256,
+        "right": 0.8638,
+        "bottom": 0.5101
+      },
+      "position_inches": {
+        "left": 10.89,
+        "top": 3.63,
+        "width": 0.63,
+        "height": 0.19
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "1061"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8572,
+        "width": 0.909,
+        "height": 0.0686,
+        "right": 0.9545,
+        "bottom": 0.9258
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.43,
+        "width": 12.12,
+        "height": 0.51
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "European average, Beauty (cosmetics and toiletries"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2149,
+        "right": 0.4769,
+        "bottom": 0.8769,
+        "width": 0.4314,
+        "height": 0.662
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.2149,
+        "right": 0.9548,
+        "bottom": 0.8769,
+        "width": 0.4314,
+        "height": 0.662
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3327,
+        "top": 0.3043,
+        "right": 0.7253,
+        "bottom": 0.6688,
+        "width": 0.3926,
+        "height": 0.3645
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8572,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.128
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 30
+  },
+  "category": "multi_column"
+}

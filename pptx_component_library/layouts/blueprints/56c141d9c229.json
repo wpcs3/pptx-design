@@ -1,0 +1,598 @@
+{
+  "id": "56c141d9c229",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 128,
+  "layout_name": "Default",
+  "element_count": 23,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.231,
+        "top": 0.4284,
+        "width": 0.7238,
+        "height": 0.4693,
+        "right": 0.9548,
+        "bottom": 0.8978
+      },
+      "position_inches": {
+        "left": 3.08,
+        "top": 3.21,
+        "width": 9.65,
+        "height": 3.52
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Conceptual strategy"
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target] is a German retail chain focused on five"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "width": 0.909,
+        "height": 0.0202,
+        "right": 0.9545,
+        "bottom": 0.9686
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 12.12,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target] company website; [ConsultingCo] a"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.231,
+        "top": 0.2489,
+        "width": 0.7238,
+        "height": 0.1566,
+        "right": 0.9548,
+        "bottom": 0.4056
+      },
+      "position_inches": {
+        "left": 3.08,
+        "top": 1.87,
+        "width": 9.65,
+        "height": 1.17
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "\u201cA total offering within Health and Beauty\u201d"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.4284,
+        "width": 0.164,
+        "height": 0.0598,
+        "right": 0.2092,
+        "bottom": 0.4883
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 3.21,
+        "width": 2.19,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Core elements:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.2489,
+        "width": 0.164,
+        "height": 0.0598,
+        "right": 0.2092,
+        "bottom": 0.3088
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.87,
+        "width": 2.19,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Value proposition:"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2462,
+        "top": 0.5739,
+        "width": 0.1065,
+        "height": 0.2954,
+        "right": 0.3527,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 3.28,
+        "top": 4.3,
+        "width": 1.42,
+        "height": 2.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Household items"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3929,
+        "top": 0.5739,
+        "width": 0.1065,
+        "height": 0.2954,
+        "right": 0.4994,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 5.24,
+        "top": 4.3,
+        "width": 1.42,
+        "height": 2.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Pharmacy"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5397,
+        "top": 0.5739,
+        "width": 0.1065,
+        "height": 0.2954,
+        "right": 0.6462,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 7.2,
+        "top": 4.3,
+        "width": 1.42,
+        "height": 2.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Vitamins and supplements"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6864,
+        "top": 0.5739,
+        "width": 0.1065,
+        "height": 0.2954,
+        "right": 0.7929,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 9.15,
+        "top": 4.3,
+        "width": 1.42,
+        "height": 2.22
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sports care"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8332,
+        "top": 0.5739,
+        "width": 0.1065,
+        "height": 0.2954,
+        "right": 0.9397,
+        "bottom": 0.8693
+      },
+      "position_inches": {
+        "left": 11.11,
+        "top": 4.3,
+        "width": 1.42,
+        "height": 2.22
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Beauty"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2846,
+        "top": 0.4986,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.3142,
+        "bottom": 0.5511
+      },
+      "position_inches": {
+        "left": 3.8,
+        "top": 3.74,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4314,
+        "top": 0.4986,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.4609,
+        "bottom": 0.5511
+      },
+      "position_inches": {
+        "left": 5.75,
+        "top": 3.74,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5781,
+        "top": 0.4986,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.6077,
+        "bottom": 0.5511
+      },
+      "position_inches": {
+        "left": 7.71,
+        "top": 3.74,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7249,
+        "top": 0.4986,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.7544,
+        "bottom": 0.5511
+      },
+      "position_inches": {
+        "left": 9.67,
+        "top": 3.74,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8716,
+        "top": 0.4986,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.9012,
+        "bottom": 0.5511
+      },
+      "position_inches": {
+        "left": 11.62,
+        "top": 3.74,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2537,
+        "top": 0.7265,
+        "width": 0.0913,
+        "height": 0.0753,
+        "right": 0.3451,
+        "bottom": 0.8017
+      },
+      "position_inches": {
+        "left": 3.38,
+        "top": 5.45,
+        "width": 1.22,
+        "height": 0.56
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4005,
+        "top": 0.7265,
+        "width": 0.0913,
+        "height": 0.0753,
+        "right": 0.4918,
+        "bottom": 0.8017
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 5.45,
+        "width": 1.22,
+        "height": 0.56
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5472,
+        "top": 0.7265,
+        "width": 0.0913,
+        "height": 0.0753,
+        "right": 0.6386,
+        "bottom": 0.8017
+      },
+      "position_inches": {
+        "left": 7.3,
+        "top": 5.45,
+        "width": 1.22,
+        "height": 0.56
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.694,
+        "top": 0.7265,
+        "width": 0.0913,
+        "height": 0.0753,
+        "right": 0.7853,
+        "bottom": 0.8017
+      },
+      "position_inches": {
+        "left": 9.25,
+        "top": 5.45,
+        "width": 1.22,
+        "height": 0.56
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8407,
+        "top": 0.7265,
+        "width": 0.0913,
+        "height": 0.0753,
+        "right": 0.9321,
+        "bottom": 0.8017
+      },
+      "position_inches": {
+        "left": 11.21,
+        "top": 5.45,
+        "width": 1.22,
+        "height": 0.56
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.231,
+        "top": 0.2489,
+        "right": 0.9548,
+        "bottom": 0.8978,
+        "width": 0.7238,
+        "height": 0.6489
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.9484,
+        "right": 0.9545,
+        "bottom": 0.9686,
+        "width": 0.909,
+        "height": 0.0202
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0452,
+        "top": 0.2489,
+        "right": 0.3527,
+        "bottom": 0.8693,
+        "width": 0.3075,
+        "height": 0.6204
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6864,
+        "top": 0.4986,
+        "right": 0.9397,
+        "bottom": 0.8693,
+        "width": 0.2533,
+        "height": 0.3707
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0452,
+    "top": 0.0002,
+    "bottom": 0.0314,
+    "left_inches": 0.0,
+    "right_inches": 0.6,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 23
+  },
+  "category": "multi_column"
+}

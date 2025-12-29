@@ -1,0 +1,31 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 157,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 38,
+      "word_count": 5,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Appendix: Summary of research reviewed",
+  "usage_count": 4,
+  "title_style": {
+    "format": "labeled",
+    "case": "mixed",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "78bc7d2b69d0"
+}

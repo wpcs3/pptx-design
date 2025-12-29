@@ -1,0 +1,31 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 105,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 38,
+      "word_count": 4,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Summary of strategic recommend-dations",
+  "usage_count": 1,
+  "title_style": {
+    "format": "section_header",
+    "case": "mixed",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "489e0d3b1b8b"
+}

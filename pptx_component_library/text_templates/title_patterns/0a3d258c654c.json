@@ -1,0 +1,31 @@
+{
+  "template": "template_business_case",
+  "slide_num": 21,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 23,
+      "word_count": 4,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Front pages and content",
+  "usage_count": 72,
+  "title_style": {
+    "format": "statement",
+    "case": "mixed",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "0a3d258c654c"
+}

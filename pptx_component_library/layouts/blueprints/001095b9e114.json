@@ -1,0 +1,433 @@
+{
+  "id": "001095b9e114",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 103,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Assessment conclusion slide / Insert action title"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2509,
+        "width": 0.1749,
+        "height": 0.0375,
+        "right": 0.2204,
+        "bottom": 0.2885
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.88,
+        "width": 2.33,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Assessment parameter"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2909,
+        "width": 0.1747,
+        "height": 0.0,
+        "right": 0.2203,
+        "bottom": 0.2909
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.18,
+        "width": 2.33,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2325,
+        "top": 0.2509,
+        "width": 0.7221,
+        "height": 0.0375,
+        "right": 0.9546,
+        "bottom": 0.2885
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 1.88,
+        "width": 9.63,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Key rationale for choosing [insert ]"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2326,
+        "top": 0.2909,
+        "width": 0.7216,
+        "height": 0.0,
+        "right": 0.9542,
+        "bottom": 0.2909
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 2.18,
+        "width": 9.62,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3107,
+        "width": 0.1747,
+        "height": 0.19,
+        "right": 0.2203,
+        "bottom": 0.5007
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.33,
+        "width": 2.33,
+        "height": 1.43
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert area 1]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5229,
+        "width": 0.1747,
+        "height": 0.19,
+        "right": 0.2203,
+        "bottom": 0.713
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.92,
+        "width": 2.33,
+        "height": 1.43
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Insert area 2]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7351,
+        "width": 0.1747,
+        "height": 0.19,
+        "right": 0.2203,
+        "bottom": 0.9252
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.51,
+        "width": 2.33,
+        "height": 1.43
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Insert area 3]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2338,
+        "top": 0.3107,
+        "width": 0.7207,
+        "height": 0.19,
+        "right": 0.9545,
+        "bottom": 0.5007
+      },
+      "position_inches": {
+        "left": 3.12,
+        "top": 2.33,
+        "width": 9.61,
+        "height": 1.43
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert arguments for choosing xx/where xx strengt"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2338,
+        "top": 0.5229,
+        "width": 0.7207,
+        "height": 0.19,
+        "right": 0.9545,
+        "bottom": 0.713
+      },
+      "position_inches": {
+        "left": 3.12,
+        "top": 3.92,
+        "width": 9.61,
+        "height": 1.43
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert arguments for choosing xx/where xx strengt"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2338,
+        "top": 0.7351,
+        "width": 0.7207,
+        "height": 0.19,
+        "right": 0.9545,
+        "bottom": 0.9252
+      },
+      "position_inches": {
+        "left": 3.12,
+        "top": 5.51,
+        "width": 9.61,
+        "height": 1.43
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert arguments for choosing xx/where xx strengt"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.724,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.724
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.43,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5118,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5118
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.84,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9546,
+        "bottom": 0.724,
+        "width": 0.9091,
+        "height": 0.5317
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2509,
+        "right": 0.2204,
+        "bottom": 0.713,
+        "width": 0.1749,
+        "height": 0.4621
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7351,
+        "right": 0.2203,
+        "bottom": 0.9252,
+        "width": 0.1748,
+        "height": 0.1901
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7351,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.2501
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0454,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "mixed_content"
+}

@@ -1,0 +1,422 @@
+{
+  "id": "489046a4e824",
+  "template": "template_business_case",
+  "slide_num": 8,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "How we recommend using the template (I/III)"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "width": 0.1486,
+        "height": 0.1077,
+        "right": 0.1869,
+        "bottom": 0.35
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.82,
+        "width": 1.98,
+        "height": 0.81
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "This template consist of four main parts:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.2535,
+        "width": 0.2117,
+        "height": 0.0673,
+        "right": 0.3964,
+        "bottom": 0.3208
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 1.9,
+        "width": 2.82,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Best practice guide on writing effective business"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.3368,
+        "width": 0.2117,
+        "height": 0.0673,
+        "right": 0.3964,
+        "bottom": 0.4041
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 2.53,
+        "width": 2.82,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "The template slides themselves that are ready to b"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.391,
+        "top": 0.2578,
+        "width": 0.0153,
+        "height": 0.0586,
+        "right": 0.4063,
+        "bottom": 0.3164
+      },
+      "position_inches": {
+        "left": 5.21,
+        "top": 1.93,
+        "width": 0.2,
+        "height": 0.44
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.391,
+        "top": 0.5126,
+        "width": 0.0153,
+        "height": 0.0588,
+        "right": 0.4063,
+        "bottom": 0.5714
+      },
+      "position_inches": {
+        "left": 5.21,
+        "top": 3.84,
+        "width": 0.2,
+        "height": 0.44
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.391,
+        "top": 0.3411,
+        "width": 0.0153,
+        "height": 0.0586,
+        "right": 0.4063,
+        "bottom": 0.3997
+      },
+      "position_inches": {
+        "left": 5.21,
+        "top": 2.56,
+        "width": 0.2,
+        "height": 0.44
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.5057,
+        "width": 0.2009,
+        "height": 0.0673,
+        "right": 0.3856,
+        "bottom": 0.573
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 3.79,
+        "width": 2.68,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Tips and tricks for making your business case even"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "width": 0.5454,
+        "height": 0.6484,
+        "right": 0.9548,
+        "bottom": 0.8906
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.82,
+        "width": 7.27,
+        "height": 4.86
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide: How to write a compelling bus"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2635,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.3107
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.98,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "i"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3468,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.3941
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.6,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "ii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.4301,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.4774
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 3.23,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iii"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.5157,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.5629
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 3.87,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "iv"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.391,
+        "top": 0.4245,
+        "width": 0.0153,
+        "height": 0.0586,
+        "right": 0.4063,
+        "bottom": 0.4831
+      },
+      "position_inches": {
+        "left": 5.21,
+        "top": 3.18,
+        "width": 0.2,
+        "height": 0.44
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1847,
+        "top": 0.4201,
+        "width": 0.2009,
+        "height": 0.0673,
+        "right": 0.3856,
+        "bottom": 0.4874
+      },
+      "position_inches": {
+        "left": 2.46,
+        "top": 3.15,
+        "width": 2.68,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Real-life examples of a business case"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "right": 0.3964,
+        "bottom": 0.573,
+        "width": 0.358,
+        "height": 0.3307
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.391,
+        "top": 0.2578,
+        "right": 0.436,
+        "bottom": 0.5714,
+        "width": 0.045,
+        "height": 0.3136
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "right": 0.9548,
+        "bottom": 0.8906,
+        "width": 0.5454,
+        "height": 0.6483
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1094,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.82
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "multi_column"
+}

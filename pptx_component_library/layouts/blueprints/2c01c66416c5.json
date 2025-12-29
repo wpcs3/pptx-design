@@ -1,0 +1,542 @@
+{
+  "id": "2c01c66416c5",
+  "template": "template_business_case",
+  "slide_num": 16,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Before starting your business case, make sure you\u2019"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.3912,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.4573,
+        "bottom": 0.4631
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 2.93,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Clarify what you want to get out of your audience"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.4978,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.4573,
+        "bottom": 0.5698
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 3.73,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Identify what metrics or qualities they value and"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.817,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.4573,
+        "bottom": 0.8889
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 6.13,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Assess how they like to receive information e.g.,"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.7112,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.4573,
+        "bottom": 0.7831
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 5.33,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Estimate their level of risk tolerance"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.6045,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.4573,
+        "bottom": 0.6764
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 4.53,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Articulate what they stand to gain"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.3912,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.9366,
+        "bottom": 0.4631
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 2.93,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Structure your presentation so it points to and fa"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.4978,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.9366,
+        "bottom": 0.5698
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 3.73,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Use this as a benchmark or KPI in your presentatio"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.6045,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.9366,
+        "bottom": 0.6764
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 4.53,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Explain how your audience will benefit if your cas"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.7112,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.9366,
+        "bottom": 0.7831
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 5.33,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Appease any fears by actively showing you\u2019ve consi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.8178,
+        "width": 0.3939,
+        "height": 0.0719,
+        "right": 0.9366,
+        "bottom": 0.8898
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 6.13,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Tailor your presentation to the preferred format t"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0634,
+        "top": 0.2846,
+        "width": 0.3939,
+        "height": 0.0718,
+        "right": 0.4573,
+        "bottom": 0.3564
+      },
+      "position_inches": {
+        "left": 0.85,
+        "top": 2.13,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Understand your audience\u2026"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5427,
+        "top": 0.2846,
+        "width": 0.3939,
+        "height": 0.0718,
+        "right": 0.9366,
+        "bottom": 0.3564
+      },
+      "position_inches": {
+        "left": 7.24,
+        "top": 2.13,
+        "width": 5.25,
+        "height": 0.54
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "\u2026so you can tailor your business case to their tas"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.4097,
+        "width": 0.0414,
+        "height": 0.0359,
+        "right": 0.5207,
+        "bottom": 0.4456
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 3.07,
+        "width": 0.55,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.6224,
+        "width": 0.0414,
+        "height": 0.0359,
+        "right": 0.5207,
+        "bottom": 0.6583
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 4.67,
+        "width": 0.55,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.7287,
+        "width": 0.0414,
+        "height": 0.0359,
+        "right": 0.5207,
+        "bottom": 0.7646
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 5.47,
+        "width": 0.55,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.835,
+        "width": 0.0414,
+        "height": 0.0359,
+        "right": 0.5207,
+        "bottom": 0.8709
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 6.26,
+        "width": 0.55,
+        "height": 0.27
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.5161,
+        "width": 0.0414,
+        "height": 0.0359,
+        "right": 0.5207,
+        "bottom": 0.552
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 3.87,
+        "width": 0.55,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.7646,
+        "width": 0.909,
+        "height": 0.5723
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0634,
+        "top": 0.2846,
+        "right": 0.4573,
+        "bottom": 0.7831,
+        "width": 0.3939,
+        "height": 0.4985
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0634,
+        "top": 0.817,
+        "right": 0.4573,
+        "bottom": 0.8889,
+        "width": 0.3939,
+        "height": 0.0719
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5427,
+        "top": 0.2846,
+        "right": 0.9366,
+        "bottom": 0.7831,
+        "width": 0.3939,
+        "height": 0.4985
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5427,
+        "top": 0.8178,
+        "right": 0.9366,
+        "bottom": 0.8898,
+        "width": 0.3939,
+        "height": 0.072
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.4793,
+        "top": 0.835,
+        "right": 0.5207,
+        "bottom": 0.8709,
+        "width": 0.0414,
+        "height": 0.0359
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.1102,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.83
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "multi_column"
+}

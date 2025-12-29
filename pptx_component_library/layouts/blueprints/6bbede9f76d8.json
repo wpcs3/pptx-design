@@ -1,0 +1,332 @@
+{
+  "id": "6bbede9f76d8",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 120,
+  "layout_name": "Default",
+  "element_count": 11,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Three state process slide / Insert action title]"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5,
+        "width": 0.2776,
+        "height": 0.3785,
+        "right": 0.3231,
+        "bottom": 0.8785
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.75,
+        "width": 3.7,
+        "height": 2.84
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Main description]\u000b [Key facts and data points] [K"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3613,
+        "top": 0.5,
+        "width": 0.2776,
+        "height": 0.3785,
+        "right": 0.639,
+        "bottom": 0.8785
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 3.75,
+        "width": 3.7,
+        "height": 2.84
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Main description]\u000b [Key facts and data points] [K"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6772,
+        "top": 0.5,
+        "width": 0.2776,
+        "height": 0.3785,
+        "right": 0.9548,
+        "bottom": 0.8785
+      },
+      "position_inches": {
+        "left": 9.03,
+        "top": 3.75,
+        "width": 3.7,
+        "height": 2.84
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Main description]\u000b [Key facts and data points] [K"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4028,
+        "width": 0.2776,
+        "height": 0.0728,
+        "right": 0.3231,
+        "bottom": 0.4756
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.02,
+        "width": 3.7,
+        "height": 0.55
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Where we were"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3613,
+        "top": 0.3565,
+        "width": 0.2776,
+        "height": 0.1183,
+        "right": 0.639,
+        "bottom": 0.4748
+      },
+      "position_inches": {
+        "left": 4.82,
+        "top": 2.67,
+        "width": 3.7,
+        "height": 0.89
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Where we are"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6772,
+        "top": 0.2963,
+        "width": 0.2776,
+        "height": 0.1785,
+        "right": 0.9548,
+        "bottom": 0.4748
+      },
+      "position_inches": {
+        "left": 9.03,
+        "top": 2.22,
+        "width": 3.7,
+        "height": 1.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Where we aspire to be"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: xx"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "width": 0.7705,
+        "height": 0.0532,
+        "right": 0.8089,
+        "bottom": 0.9468
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.7,
+        "width": 10.27,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8785,
+        "width": 0.909,
+        "height": 0.6862
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.4028,
+        "right": 0.3231,
+        "bottom": 0.8785,
+        "width": 0.2776,
+        "height": 0.4757
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6772,
+        "top": 0.2963,
+        "right": 0.9548,
+        "bottom": 0.8785,
+        "width": 0.2776,
+        "height": 0.5822
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8935,
+        "right": 0.8089,
+        "bottom": 0.9852,
+        "width": 0.7705,
+        "height": 0.0917
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 11
+  },
+  "category": "multi_column"
+}

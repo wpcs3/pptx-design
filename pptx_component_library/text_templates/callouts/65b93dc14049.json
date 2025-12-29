@@ -1,0 +1,24 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 194,
+  "pattern_type": "callout",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 92,
+      "word_count": 15,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Case example: [RetailCo] was transformed from a voluntary chain to a franchise chain in 2019",
+  "usage_count": 1,
+  "callout_type": "example",
+  "id": "65b93dc14049"
+}

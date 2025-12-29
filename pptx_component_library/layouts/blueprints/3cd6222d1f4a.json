@@ -1,0 +1,741 @@
+{
+  "id": "3cd6222d1f4a",
+  "template": "template_market_analysis",
+  "slide_num": 275,
+  "layout_name": "Default",
+  "element_count": 30,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Reported market estimates are funneled through mul"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4536,
+        "top": 0.2871,
+        "width": 0.1234,
+        "height": 0.1234,
+        "right": 0.577,
+        "bottom": 0.4105
+      },
+      "position_inches": {
+        "left": 6.05,
+        "top": 2.15,
+        "width": 1.65,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4235,
+        "top": 0.7222,
+        "width": 0.1836,
+        "height": 0.0404,
+        "right": 0.6071,
+        "bottom": 0.7626
+      },
+      "position_inches": {
+        "left": 5.65,
+        "top": 5.42,
+        "width": 2.45,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Available distributor market"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5897,
+        "top": 0.4455,
+        "width": 0.1181,
+        "height": 0.0539,
+        "right": 0.7078,
+        "bottom": 0.4994
+      },
+      "position_inches": {
+        "left": 7.86,
+        "top": 3.34,
+        "width": 1.58,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "PharmaInc\u2019s ability \u000bto address"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7557,
+        "top": 0.2424,
+        "width": 0.1758,
+        "height": 0.0269,
+        "right": 0.9315,
+        "bottom": 0.2694
+      },
+      "position_inches": {
+        "left": 10.08,
+        "top": 1.82,
+        "width": 2.34,
+        "height": 0.2
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Addressable OEM market"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7331,
+        "top": 0.7222,
+        "width": 0.2209,
+        "height": 0.0404,
+        "right": 0.9541,
+        "bottom": 0.7626
+      },
+      "position_inches": {
+        "left": 9.78,
+        "top": 5.42,
+        "width": 2.95,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Addressable distributor market"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4527,
+        "top": 0.7763,
+        "width": 0.1251,
+        "height": 0.1234,
+        "right": 0.5779,
+        "bottom": 0.8997
+      },
+      "position_inches": {
+        "left": 6.04,
+        "top": 5.82,
+        "width": 1.67,
+        "height": 0.93
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4354,
+        "top": 0.2424,
+        "width": 0.1598,
+        "height": 0.0269,
+        "right": 0.5952,
+        "bottom": 0.2694
+      },
+      "position_inches": {
+        "left": 5.81,
+        "top": 1.82,
+        "width": 2.13,
+        "height": 0.2
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Available OEM market"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis based on discussions with [s"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0459,
+        "top": 0.4654,
+        "width": 0.1054,
+        "height": 0.175,
+        "right": 0.1513,
+        "bottom": 0.6404
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.49,
+        "width": 1.41,
+        "height": 1.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Industry and analyst reports, and articles\u000b + Phar"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5343,
+        "top": 0.5664,
+        "width": 0.0528,
+        "height": 0.0,
+        "right": 0.5871,
+        "bottom": 0.5664
+      },
+      "position_inches": {
+        "left": 7.12,
+        "top": 4.25,
+        "width": 0.7,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5871,
+        "top": 0.5047,
+        "width": 0.1234,
+        "height": 0.1234,
+        "right": 0.7104,
+        "bottom": 0.628
+      },
+      "position_inches": {
+        "left": 7.83,
+        "top": 3.79,
+        "width": 1.65,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2934,
+        "top": 0.2912,
+        "width": 0.1509,
+        "height": 0.5502,
+        "right": 0.4443,
+        "bottom": 0.8415
+      },
+      "position_inches": {
+        "left": 3.91,
+        "top": 2.18,
+        "width": 2.01,
+        "height": 4.13
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5105,
+        "top": 0.4852,
+        "width": 0.0238,
+        "height": 0.1623,
+        "right": 0.5343,
+        "bottom": 0.6475
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 3.64,
+        "width": 0.32,
+        "height": 1.22
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1962,
+        "top": 0.4327,
+        "width": 0.0394,
+        "height": 0.2674,
+        "right": 0.2357,
+        "bottom": 0.7
+      },
+      "position_inches": {
+        "left": 2.62,
+        "top": 3.25,
+        "width": 0.53,
+        "height": 2.01
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3566,
+        "top": 0.4601,
+        "width": 0.033,
+        "height": 0.2126,
+        "right": 0.3896,
+        "bottom": 0.6727
+      },
+      "position_inches": {
+        "left": 4.75,
+        "top": 3.45,
+        "width": 0.44,
+        "height": 1.59
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4007,
+        "top": 0.5165,
+        "width": 0.1038,
+        "height": 0.0997,
+        "right": 0.5045,
+        "bottom": 0.6162
+      },
+      "position_inches": {
+        "left": 5.34,
+        "top": 3.87,
+        "width": 1.38,
+        "height": 0.75
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "By lab type By technology By disease type By geogr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2442,
+        "top": 0.5165,
+        "width": 0.1038,
+        "height": 0.0997,
+        "right": 0.348,
+        "bottom": 0.6162
+      },
+      "position_inches": {
+        "left": 3.26,
+        "top": 3.87,
+        "width": 1.38,
+        "height": 0.75
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1459,
+        "top": 0.5345,
+        "width": 0.0391,
+        "height": 0.0637,
+        "right": 0.185,
+        "bottom": 0.5982
+      },
+      "position_inches": {
+        "left": 1.95,
+        "top": 4.01,
+        "width": 0.52,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.782,
+        "top": 0.7763,
+        "width": 0.1232,
+        "height": 0.1234,
+        "right": 0.9052,
+        "bottom": 0.8997
+      },
+      "position_inches": {
+        "left": 10.43,
+        "top": 5.82,
+        "width": 1.64,
+        "height": 0.93
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7822,
+        "top": 0.2871,
+        "width": 0.1229,
+        "height": 0.1234,
+        "right": 0.905,
+        "bottom": 0.4105
+      },
+      "position_inches": {
+        "left": 10.43,
+        "top": 2.15,
+        "width": 1.64,
+        "height": 0.93
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2321,
+        "top": 0.7344,
+        "width": 0.1322,
+        "height": 0.0942,
+        "right": 0.3644,
+        "bottom": 0.8287
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 5.51,
+        "width": 1.76,
+        "height": 0.71
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Sanity check and calibrate with PharmaInc experts"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4018,
+        "top": 0.3733,
+        "width": 0.0656,
+        "height": 0.0675,
+        "right": 0.4674,
+        "bottom": 0.4408
+      },
+      "position_inches": {
+        "left": 5.36,
+        "top": 2.8,
+        "width": 0.87,
+        "height": 0.51
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3862,
+        "top": 0.7197,
+        "width": 0.096,
+        "height": 0.0659,
+        "right": 0.4822,
+        "bottom": 0.7856
+      },
+      "position_inches": {
+        "left": 5.15,
+        "top": 5.4,
+        "width": 1.28,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.577,
+        "top": 0.3488,
+        "width": 0.0718,
+        "height": 0.0967,
+        "right": 0.6488,
+        "bottom": 0.4455
+      },
+      "position_inches": {
+        "left": 7.69,
+        "top": 2.62,
+        "width": 0.96,
+        "height": 0.73
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5779,
+        "top": 0.628,
+        "width": 0.0709,
+        "height": 0.2099,
+        "right": 0.6488,
+        "bottom": 0.838
+      },
+      "position_inches": {
+        "left": 7.7,
+        "top": 4.71,
+        "width": 0.95,
+        "height": 1.57
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7104,
+        "top": 0.3488,
+        "width": 0.0717,
+        "height": 0.2176,
+        "right": 0.7822,
+        "bottom": 0.5664
+      },
+      "position_inches": {
+        "left": 9.47,
+        "top": 2.62,
+        "width": 0.96,
+        "height": 1.63
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7104,
+        "top": 0.5664,
+        "width": 0.0716,
+        "height": 0.2716,
+        "right": 0.782,
+        "bottom": 0.838
+      },
+      "position_inches": {
+        "left": 9.47,
+        "top": 4.25,
+        "width": 0.95,
+        "height": 2.04
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2934,
+        "top": 0.2424,
+        "right": 0.7104,
+        "bottom": 0.8415,
+        "width": 0.417,
+        "height": 0.5991
+      },
+      "element_count": 14,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7104,
+        "top": 0.2424,
+        "right": 0.9541,
+        "bottom": 0.838,
+        "width": 0.2437,
+        "height": 0.5956
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7763,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.2089
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0459,
+        "top": 0.4327,
+        "right": 0.3644,
+        "bottom": 0.8287,
+        "width": 0.3185,
+        "height": 0.396
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.782,
+        "top": 0.7763,
+        "right": 0.9052,
+        "bottom": 0.8997,
+        "width": 0.1232,
+        "height": 0.1234
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 30
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,873 @@
+{
+  "id": "bc9641fe7751",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 16,
+  "layout_name": "Default",
+  "element_count": 35,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "CDD reports typically follow a straight-forward st"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.2119,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.2658
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 1.59,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Executive summary"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.2799,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.3337
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 2.1,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Due diligence process"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.7966,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.8504
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 5.97,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Next steps / plan"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.7286,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.7824
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 5.46,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Recommendations"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0568,
+        "top": 0.3479,
+        "width": 0.1434,
+        "height": 0.2307,
+        "right": 0.2002,
+        "bottom": 0.5786
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 2.61,
+        "width": 1.91,
+        "height": 1.73
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Commercial due diligence"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.5927,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.6465
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 4.45,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Financial modeling and business case"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.6607,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.7145
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 4.95,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Risks and synergies assessment"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0567,
+        "top": 0.8645,
+        "width": 0.4433,
+        "height": 0.0538,
+        "right": 0.5,
+        "bottom": 0.9184
+      },
+      "position_inches": {
+        "left": 0.76,
+        "top": 6.48,
+        "width": 5.91,
+        "height": 0.4
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Appendix"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2174,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.2574
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.63,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2868,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.3268
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.15,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4432,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.4832
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.32,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5996,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.6396
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.5,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6676,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.7076
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.01,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7355,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.7755
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.52,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "6"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8035,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.8435
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.03,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "7"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8715,
+        "width": 0.0225,
+        "height": 0.04,
+        "right": 0.068,
+        "bottom": 0.9115
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.54,
+        "width": 0.3,
+        "height": 0.3
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "8"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2041,
+        "top": 0.3479,
+        "width": 0.2959,
+        "height": 0.0394,
+        "right": 0.5,
+        "bottom": 0.3872
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 2.61,
+        "width": 3.95,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Target overview"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2041,
+        "top": 0.3957,
+        "width": 0.2959,
+        "height": 0.0394,
+        "right": 0.5,
+        "bottom": 0.4351
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 2.97,
+        "width": 3.95,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2041,
+        "top": 0.4435,
+        "width": 0.2959,
+        "height": 0.0394,
+        "right": 0.5,
+        "bottom": 0.4829
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 3.33,
+        "width": 3.95,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Competitive landscape"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2041,
+        "top": 0.4914,
+        "width": 0.2959,
+        "height": 0.0394,
+        "right": 0.5,
+        "bottom": 0.5307
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 3.69,
+        "width": 3.95,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Customer analysis (not included in template)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2041,
+        "top": 0.5392,
+        "width": 0.2959,
+        "height": 0.0394,
+        "right": 0.5,
+        "bottom": 0.5786
+      },
+      "position_inches": {
+        "left": 2.72,
+        "top": 4.04,
+        "width": 3.95,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Supplier analysis (not included in template)"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5147,
+        "top": 0.3479,
+        "width": 0.0134,
+        "height": 0.2307,
+        "right": 0.5281,
+        "bottom": 0.5786
+      },
+      "position_inches": {
+        "left": 6.86,
+        "top": 2.61,
+        "width": 0.18,
+        "height": 1.73
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5147,
+        "top": 0.5928,
+        "width": 0.0134,
+        "height": 0.0537,
+        "right": 0.5281,
+        "bottom": 0.6465
+      },
+      "position_inches": {
+        "left": 6.86,
+        "top": 4.45,
+        "width": 0.18,
+        "height": 0.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5399,
+        "top": 0.4164,
+        "width": 0.3061,
+        "height": 0.0937,
+        "right": 0.846,
+        "bottom": 0.51
+      },
+      "position_inches": {
+        "left": 7.2,
+        "top": 3.12,
+        "width": 4.08,
+        "height": 0.7
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Depending on the target, type of due diligence, an"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5399,
+        "top": 0.5927,
+        "width": 0.3061,
+        "height": 0.0537,
+        "right": 0.846,
+        "bottom": 0.6464
+      },
+      "position_inches": {
+        "left": 7.2,
+        "top": 4.45,
+        "width": 4.08,
+        "height": 0.4
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Will sometimes also contain valuation of target"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5133,
+        "top": 0.7966,
+        "width": 0.0134,
+        "height": 0.0537,
+        "right": 0.5267,
+        "bottom": 0.8504
+      },
+      "position_inches": {
+        "left": 6.84,
+        "top": 5.97,
+        "width": 0.18,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5385,
+        "top": 0.7966,
+        "width": 0.3061,
+        "height": 0.0537,
+        "right": 0.8446,
+        "bottom": 0.8504
+      },
+      "position_inches": {
+        "left": 7.18,
+        "top": 5.97,
+        "width": 4.08,
+        "height": 0.4
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Depending on how far along the transaction process"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1951,
+        "top": 0.3518,
+        "width": 0.0177,
+        "height": 0.0315,
+        "right": 0.2128,
+        "bottom": 0.3833
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 2.64,
+        "width": 0.24,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "a"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1951,
+        "top": 0.3996,
+        "width": 0.0177,
+        "height": 0.0315,
+        "right": 0.2128,
+        "bottom": 0.4311
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 3.0,
+        "width": 0.24,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "b"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1951,
+        "top": 0.4475,
+        "width": 0.0177,
+        "height": 0.0315,
+        "right": 0.2128,
+        "bottom": 0.479
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 3.36,
+        "width": 0.24,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "c"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1951,
+        "top": 0.4953,
+        "width": 0.0177,
+        "height": 0.0315,
+        "right": 0.2128,
+        "bottom": 0.5268
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 3.71,
+        "width": 0.24,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1951,
+        "top": 0.5431,
+        "width": 0.0177,
+        "height": 0.0315,
+        "right": 0.2128,
+        "bottom": 0.5746
+      },
+      "position_inches": {
+        "left": 2.6,
+        "top": 4.07,
+        "width": 0.24,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "e"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2119,
+        "right": 0.5,
+        "bottom": 0.7824,
+        "width": 0.4545,
+        "height": 0.5705
+      },
+      "element_count": 17,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7966,
+        "right": 0.5,
+        "bottom": 0.9184,
+        "width": 0.4545,
+        "height": 0.1218
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2041,
+        "top": 0.3479,
+        "right": 0.5281,
+        "bottom": 0.6465,
+        "width": 0.324,
+        "height": 0.2986
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5399,
+        "top": 0.4164,
+        "right": 0.846,
+        "bottom": 0.6464,
+        "width": 0.3061,
+        "height": 0.23
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.5133,
+        "top": 0.7966,
+        "right": 0.5267,
+        "bottom": 0.8504,
+        "width": 0.0134,
+        "height": 0.0538
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5385,
+        "top": 0.7966,
+        "right": 0.8446,
+        "bottom": 0.8504,
+        "width": 0.3061,
+        "height": 0.0538
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0816,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.61
+  },
+  "content_types": {
+    "other": 35
+  },
+  "category": "multi_column"
+}

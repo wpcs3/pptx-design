@@ -1,0 +1,386 @@
+{
+  "id": "a474ea67c302",
+  "template": "template_business_case",
+  "slide_num": 235,
+  "layout_name": "Default",
+  "element_count": 13,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "More recognition"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0866,
+        "width": 0.0443,
+        "height": 0.0787,
+        "right": 0.0898,
+        "bottom": 0.1654
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.65,
+        "width": 0.59,
+        "height": 0.59
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2833,
+        "width": 0.3399,
+        "height": 0.2963,
+        "right": 0.3854,
+        "bottom": 0.5796
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.12,
+        "width": 4.53,
+        "height": 2.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "WHAT  Foster cultures of gratitude, appreciation,"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6129,
+        "width": 0.3399,
+        "height": 0.2963,
+        "right": 0.3854,
+        "bottom": 0.9092
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.6,
+        "width": 4.53,
+        "height": 2.22
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "WHY  Surveys and anecdotal feedback shows employee"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4383,
+        "top": 0.2833,
+        "width": 0.516,
+        "height": 0.6259,
+        "right": 0.9542,
+        "bottom": 0.9092
+      },
+      "position_inches": {
+        "left": 5.84,
+        "top": 2.12,
+        "width": 6.88,
+        "height": 4.69
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "HOW  Create an employer brand that supports apprec"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.412,
+        "top": 0.2902,
+        "width": 0.0,
+        "height": 0.6089,
+        "right": 0.412,
+        "bottom": 0.8991
+      },
+      "position_inches": {
+        "left": 5.49,
+        "top": 2.18,
+        "width": 0.0,
+        "height": 4.57
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.3951,
+        "top": 0.5646,
+        "width": 0.0337,
+        "height": 0.06,
+        "right": 0.4288,
+        "bottom": 0.6246
+      },
+      "position_inches": {
+        "left": 5.27,
+        "top": 4.23,
+        "width": 0.45,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.444,
+        "top": 0.3862,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.4676,
+        "bottom": 0.4282
+      },
+      "position_inches": {
+        "left": 5.92,
+        "top": 2.9,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.444,
+        "top": 0.5024,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.4676,
+        "bottom": 0.5444
+      },
+      "position_inches": {
+        "left": 5.92,
+        "top": 3.77,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.444,
+        "top": 0.556,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.4676,
+        "bottom": 0.598
+      },
+      "position_inches": {
+        "left": 5.92,
+        "top": 4.17,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.444,
+        "top": 0.7045,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.4676,
+        "bottom": 0.7465
+      },
+      "position_inches": {
+        "left": 5.92,
+        "top": 5.28,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.444,
+        "top": 0.7881,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.4676,
+        "bottom": 0.8301
+      },
+      "position_inches": {
+        "left": 5.92,
+        "top": 5.91,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "5"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0866,
+        "right": 0.0898,
+        "bottom": 0.1654,
+        "width": 0.0443,
+        "height": 0.0788
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2833,
+        "right": 0.3854,
+        "bottom": 0.9092,
+        "width": 0.3399,
+        "height": 0.6259
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4383,
+        "top": 0.2833,
+        "right": 0.9542,
+        "bottom": 0.9092,
+        "width": 0.5159,
+        "height": 0.6259
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3951,
+        "top": 0.2902,
+        "right": 0.4676,
+        "bottom": 0.8991,
+        "width": 0.0725,
+        "height": 0.6089
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.444,
+        "top": 0.7881,
+        "right": 0.4676,
+        "bottom": 0.8301,
+        "width": 0.0236,
+        "height": 0.042
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0908,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.68
+  },
+  "content_types": {
+    "other": 13
+  },
+  "category": "multi_column"
+}

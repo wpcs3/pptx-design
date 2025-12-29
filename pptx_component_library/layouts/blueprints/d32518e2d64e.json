@@ -1,0 +1,201 @@
+{
+  "id": "d32518e2d64e",
+  "template": "template_business_case",
+  "slide_num": 253,
+  "layout_name": "Default",
+  "element_count": 6,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Executive summary"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2118,
+        "width": 0.909,
+        "height": 0.1302,
+        "right": 0.9545,
+        "bottom": 0.342
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.59,
+        "width": 12.12,
+        "height": 0.98
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Problem: EnergyCo is at risk of losing client due"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3712,
+        "width": 0.909,
+        "height": 0.0294,
+        "right": 0.9545,
+        "bottom": 0.4005
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.78,
+        "width": 12.12,
+        "height": 0.22
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Solutions:"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7824,
+        "width": 0.909,
+        "height": 0.1302,
+        "right": 0.9545,
+        "bottom": 0.9125
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.87,
+        "width": 12.12,
+        "height": 0.98
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Recommendation: We recommend option 2. This is the"
+    },
+    {
+      "shape_type": "TABLE (19)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4115,
+        "width": 0.909,
+        "height": 0.32,
+        "right": 0.9545,
+        "bottom": 0.7314
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.09,
+        "width": 12.12,
+        "height": 2.4
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2118,
+        "right": 0.9545,
+        "bottom": 0.7314,
+        "width": 0.909,
+        "height": 0.5196
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7824,
+        "right": 0.9545,
+        "bottom": 0.9125,
+        "width": 0.909,
+        "height": 0.1301
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0875,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.66
+  },
+  "content_types": {
+    "other": 6
+  },
+  "category": "mixed_content"
+}

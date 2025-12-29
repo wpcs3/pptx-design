@@ -1,0 +1,476 @@
+{
+  "id": "c5c9331be861",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 201,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "PESTLE analysis (version 2)"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3153,
+        "top": 0.2547,
+        "width": 0.3515,
+        "height": 0.6248,
+        "right": 0.6668,
+        "bottom": 0.8795
+      },
+      "position_inches": {
+        "left": 4.2,
+        "top": 1.91,
+        "width": 4.69,
+        "height": 4.69
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2907,
+        "top": 0.5054,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.3601,
+        "bottom": 0.6288
+      },
+      "position_inches": {
+        "left": 3.88,
+        "top": 3.79,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "E"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.622,
+        "top": 0.5054,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.6915,
+        "bottom": 0.6288
+      },
+      "position_inches": {
+        "left": 8.29,
+        "top": 3.79,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "S"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6966,
+        "top": 0.4757,
+        "width": 0.2538,
+        "height": 0.1828,
+        "right": 0.9504,
+        "bottom": 0.6585
+      },
+      "position_inches": {
+        "left": 9.29,
+        "top": 3.57,
+        "width": 3.38,
+        "height": 1.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Social [Insert social factors that may impact your"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3515,
+        "top": 0.2487,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.4209,
+        "bottom": 0.3722
+      },
+      "position_inches": {
+        "left": 4.69,
+        "top": 1.87,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "P"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5612,
+        "top": 0.2487,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.6307,
+        "bottom": 0.3722
+      },
+      "position_inches": {
+        "left": 7.48,
+        "top": 1.87,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "E"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6519,
+        "top": 0.219,
+        "width": 0.2538,
+        "height": 0.1828,
+        "right": 0.9058,
+        "bottom": 0.4019
+      },
+      "position_inches": {
+        "left": 8.69,
+        "top": 1.64,
+        "width": 3.38,
+        "height": 1.37
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Economic [Insert economic factors that may impact"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0886,
+        "top": 0.219,
+        "width": 0.2538,
+        "height": 0.1828,
+        "right": 0.3424,
+        "bottom": 0.4019
+      },
+      "position_inches": {
+        "left": 1.18,
+        "top": 1.64,
+        "width": 3.38,
+        "height": 1.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Political [Insert political factors that may impac"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0496,
+        "top": 0.4622,
+        "width": 0.2538,
+        "height": 0.2098,
+        "right": 0.3034,
+        "bottom": 0.6719
+      },
+      "position_inches": {
+        "left": 0.66,
+        "top": 3.47,
+        "width": 3.38,
+        "height": 1.57
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Environmental [Insert social factors that may impa"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3515,
+        "top": 0.762,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.4209,
+        "bottom": 0.8854
+      },
+      "position_inches": {
+        "left": 4.69,
+        "top": 5.71,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "L"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6519,
+        "top": 0.7323,
+        "width": 0.2538,
+        "height": 0.1828,
+        "right": 0.9058,
+        "bottom": 0.9151
+      },
+      "position_inches": {
+        "left": 8.69,
+        "top": 5.49,
+        "width": 3.38,
+        "height": 1.37
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Technological [Insert social factors that may impa"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5612,
+        "top": 0.762,
+        "width": 0.0694,
+        "height": 0.1234,
+        "right": 0.6307,
+        "bottom": 0.8854
+      },
+      "position_inches": {
+        "left": 7.48,
+        "top": 5.71,
+        "width": 0.93,
+        "height": 0.93
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "T"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0886,
+        "top": 0.7323,
+        "width": 0.2538,
+        "height": 0.1828,
+        "right": 0.3424,
+        "bottom": 0.9151
+      },
+      "position_inches": {
+        "left": 1.18,
+        "top": 5.49,
+        "width": 3.38,
+        "height": 1.37
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Legal [Insert social factors that may impact your"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3153,
+        "top": 0.2487,
+        "right": 0.6915,
+        "bottom": 0.8795,
+        "width": 0.3762,
+        "height": 0.6308
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0496,
+        "top": 0.219,
+        "right": 0.3601,
+        "bottom": 0.6719,
+        "width": 0.3105,
+        "height": 0.4529
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6519,
+        "top": 0.219,
+        "right": 0.9504,
+        "bottom": 0.6585,
+        "width": 0.2985,
+        "height": 0.4395
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3515,
+        "top": 0.762,
+        "right": 0.6307,
+        "bottom": 0.8854,
+        "width": 0.2792,
+        "height": 0.1234
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6519,
+        "top": 0.7323,
+        "right": 0.9058,
+        "bottom": 0.9151,
+        "width": 0.2539,
+        "height": 0.1828
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0886,
+        "top": 0.7323,
+        "right": 0.3424,
+        "bottom": 0.9151,
+        "width": 0.2538,
+        "height": 0.1828
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0849,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.64
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "multi_column"
+}

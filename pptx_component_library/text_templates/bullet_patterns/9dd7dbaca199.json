@@ -1,0 +1,108 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 180,
+  "pattern_type": "bullet_list",
+  "paragraph_count": 7,
+  "max_level": 1,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 43,
+      "word_count": 7,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 61,
+      "word_count": 7,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 50,
+      "word_count": 7,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 11,
+      "word_count": 1,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 7,
+      "word_count": 1,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 6,
+      "word_count": 1,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 1,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 22,
+      "word_count": 3,
+      "font_size": 10.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Future markets included should be based on:\nManagerial resources, financial priorities, and strategic fit\nFuture objective for [Target] can accordingly be: \nNetherlands\nBelgium\nPoland\nSweden (question",
+  "usage_count": 3,
+  "bullet_style": {
+    "total_items": 7,
+    "max_depth": 1,
+    "items_per_level": {
+      "0": 2,
+      "1": 5
+    },
+    "bullet_chars": [],
+    "avg_words_per_item": 3.9,
+    "pattern": "two_level"
+  },
+  "id": "9dd7dbaca199"
+}

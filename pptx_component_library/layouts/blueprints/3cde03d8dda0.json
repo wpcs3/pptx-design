@@ -1,0 +1,335 @@
+{
+  "id": "3cde03d8dda0",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 9,
+  "layout_name": "Default",
+  "element_count": 12,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "How we recommend using the template (III/III)"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Template overview"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "width": 0.5454,
+        "height": 0.6484,
+        "right": 0.9548,
+        "bottom": 0.8906
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 1.82,
+        "width": 7.27,
+        "height": 4.86
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Due Diligence PowerPoint template"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.2729,
+        "width": 0.0266,
+        "height": 0.0472,
+        "right": 0.436,
+        "bottom": 0.3201
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.05,
+        "width": 0.35,
+        "height": 0.35
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "ii"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "width": 0.3015,
+        "height": 0.3904,
+        "right": 0.3399,
+        "bottom": 0.6327
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 1.82,
+        "width": 4.02,
+        "height": 2.93
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "The template slides themselves have been arranged"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1097,
+        "top": 0.6881,
+        "width": 0.124,
+        "height": 0.0796,
+        "right": 0.2336,
+        "bottom": 0.7677
+      },
+      "position_inches": {
+        "left": 1.46,
+        "top": 5.16,
+        "width": 1.65,
+        "height": 0.6
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.155,
+        "top": 0.7133,
+        "width": 0.0371,
+        "height": 0.0598,
+        "right": 0.1921,
+        "bottom": 0.7731
+      },
+      "position_inches": {
+        "left": 2.07,
+        "top": 5.35,
+        "width": 0.49,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4094,
+        "top": 0.3588,
+        "width": 0.4421,
+        "height": 0.4776,
+        "right": 0.8515,
+        "bottom": 0.8364
+      },
+      "position_inches": {
+        "left": 5.46,
+        "top": 2.69,
+        "width": 5.89,
+        "height": 3.58
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4042,
+        "top": 0.3501,
+        "width": 0.1282,
+        "height": 0.0335,
+        "right": 0.5323,
+        "bottom": 0.3836
+      },
+      "position_inches": {
+        "left": 5.39,
+        "top": 2.63,
+        "width": 1.71,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4042,
+        "top": 0.5449,
+        "width": 0.0623,
+        "height": 0.0335,
+        "right": 0.4665,
+        "bottom": 0.5784
+      },
+      "position_inches": {
+        "left": 5.39,
+        "top": 4.09,
+        "width": 0.83,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4042,
+        "top": 0.6423,
+        "width": 0.0623,
+        "height": 0.0335,
+        "right": 0.4665,
+        "bottom": 0.6757
+      },
+      "position_inches": {
+        "left": 5.39,
+        "top": 4.82,
+        "width": 0.83,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4042,
+        "top": 0.7366,
+        "width": 0.0623,
+        "height": 0.0335,
+        "right": 0.4665,
+        "bottom": 0.7701
+      },
+      "position_inches": {
+        "left": 5.39,
+        "top": 5.52,
+        "width": 0.83,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4094,
+        "top": 0.2423,
+        "right": 0.9548,
+        "bottom": 0.8906,
+        "width": 0.5454,
+        "height": 0.6483
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.4042,
+        "top": 0.2729,
+        "right": 0.8515,
+        "bottom": 0.8364,
+        "width": 0.4473,
+        "height": 0.5635
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.2423,
+        "right": 0.3399,
+        "bottom": 0.7731,
+        "width": 0.3015,
+        "height": 0.5308
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0452,
+    "top": 0.0147,
+    "bottom": 0.1094,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.82
+  },
+  "content_types": {
+    "other": 12
+  },
+  "category": "multi_column"
+}

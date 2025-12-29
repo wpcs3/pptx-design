@@ -1,0 +1,49 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 5,
+  "pattern_type": "text_block",
+  "paragraph_count": 3,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 28,
+      "word_count": 3,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 18,
+      "word_count": 2,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 32,
+      "word_count": 4,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Quantitative market research\nMarket positioning\nMarket taxonomy and definitions ",
+  "usage_count": 86,
+  "id": "4083925c9d7f"
+}

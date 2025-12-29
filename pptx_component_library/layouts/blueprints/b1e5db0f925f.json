@@ -1,0 +1,258 @@
+{
+  "id": "b1e5db0f925f",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 23,
+  "layout_name": "Default",
+  "element_count": 8,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Tips and tricks for creating the overall CDD repor"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2261,
+        "width": 0.909,
+        "height": 0.5149,
+        "right": 0.9545,
+        "bottom": 0.741
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.7,
+        "width": 12.12,
+        "height": 3.86
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Create a skeleton of your final report and financi"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0434,
+        "top": 0.2273,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.073,
+        "bottom": 0.2798
+      },
+      "position_inches": {
+        "left": 0.58,
+        "top": 1.7,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0434,
+        "top": 0.3967,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.073,
+        "bottom": 0.4492
+      },
+      "position_inches": {
+        "left": 0.58,
+        "top": 2.98,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0434,
+        "top": 0.5744,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.073,
+        "bottom": 0.6269
+      },
+      "position_inches": {
+        "left": 0.58,
+        "top": 4.31,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0434,
+        "top": 0.7187,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.073,
+        "bottom": 0.7712
+      },
+      "position_inches": {
+        "left": 0.58,
+        "top": 5.39,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "4"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0434,
+        "top": 0.8645,
+        "width": 0.0295,
+        "height": 0.0525,
+        "right": 0.073,
+        "bottom": 0.917
+      },
+      "position_inches": {
+        "left": 0.58,
+        "top": 6.48,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "5"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2261,
+        "right": 0.9545,
+        "bottom": 0.741,
+        "width": 0.909,
+        "height": 0.5149
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0434,
+        "top": 0.2273,
+        "right": 0.073,
+        "bottom": 0.7712,
+        "width": 0.0296,
+        "height": 0.5439
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0434,
+        "top": 0.8645,
+        "right": 0.073,
+        "bottom": 0.917,
+        "width": 0.0296,
+        "height": 0.0525
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0434,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.083,
+    "left_inches": 0.58,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.62
+  },
+  "content_types": {
+    "other": 8
+  },
+  "category": "mixed_content"
+}

@@ -1,0 +1,31 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 106,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 12,
+      "word_count": 2,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Key findings",
+  "usage_count": 2,
+  "title_style": {
+    "format": "key_point",
+    "case": "mixed",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "31d94cbe747a"
+}

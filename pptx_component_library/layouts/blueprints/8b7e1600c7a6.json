@@ -1,0 +1,481 @@
+{
+  "id": "8b7e1600c7a6",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 142,
+  "layout_name": "Default",
+  "element_count": 17,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "[Target] has very strong position within Germany h"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2175,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.4769,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.63,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Beauty: [Target] is dominant player in fragmented"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.2175,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.9548,
+        "bottom": 0.322
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 1.63,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Health: [Target] is second-largest player and only"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.3343,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9548,
+        "bottom": 0.3343
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.51,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8288,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.4769,
+        "bottom": 0.9332
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.22,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Target] is market leader in Germany, where two ma"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.8288,
+        "width": 0.4314,
+        "height": 0.1044,
+        "right": 0.9548,
+        "bottom": 0.9332
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 6.22,
+        "width": 5.75,
+        "height": 0.78
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Market is highly fragmented with many small player"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.347,
+        "width": 0.2552,
+        "height": 0.0404,
+        "right": 0.3007,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.6,
+        "width": 3.4,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Market shares within Beauty market, %"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [Target]; Euromonitor; Industry reports; ["
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8975,
+        "top": 0.189,
+        "width": 0.0574,
+        "height": 0.0319,
+        "right": 0.9549,
+        "bottom": 0.2209
+      },
+      "position_inches": {
+        "left": 11.97,
+        "top": 1.42,
+        "width": 0.77,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Estimate"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4141,
+        "width": 0.4314,
+        "height": 0.388,
+        "right": 0.4769,
+        "bottom": 0.8021
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.11,
+        "width": 5.75,
+        "height": 2.91
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5234,
+        "top": 0.347,
+        "width": 0.2552,
+        "height": 0.0404,
+        "right": 0.7786,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 6.98,
+        "top": 2.6,
+        "width": 3.4,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market shares within Health market, %"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3364,
+        "top": 0.347,
+        "width": 0.1402,
+        "height": 0.0404,
+        "right": 0.4766,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 4.49,
+        "top": 2.6,
+        "width": 1.87,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Total = ~ 1165 M EUR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.8241,
+        "top": 0.347,
+        "width": 0.1307,
+        "height": 0.0404,
+        "right": 0.9548,
+        "bottom": 0.3874
+      },
+      "position_inches": {
+        "left": 10.99,
+        "top": 2.6,
+        "width": 1.74,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Total = ~625 M EUR"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.4141,
+        "width": 0.4314,
+        "height": 0.388,
+        "right": 0.9545,
+        "bottom": 0.8021
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 3.11,
+        "width": 5.75,
+        "height": 2.91
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.0451,
+        "top": 0.189,
+        "width": 0.0384,
+        "height": 0.041,
+        "right": 0.0835,
+        "bottom": 0.23
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.42,
+        "width": 0.51,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0451,
+        "top": 0.189,
+        "right": 0.4769,
+        "bottom": 0.8021,
+        "width": 0.4318,
+        "height": 0.6131
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.189,
+        "right": 0.9549,
+        "bottom": 0.8021,
+        "width": 0.4318,
+        "height": 0.6131
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8288,
+        "right": 0.4769,
+        "bottom": 0.9332,
+        "width": 0.4314,
+        "height": 0.1044
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5234,
+        "top": 0.8288,
+        "right": 0.9548,
+        "bottom": 0.9332,
+        "width": 0.4314,
+        "height": 0.1044
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3364,
+        "top": 0.347,
+        "right": 0.7786,
+        "bottom": 0.3874,
+        "width": 0.4422,
+        "height": 0.0404
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0384,
+    "right": 0.0451,
+    "top": 0.0147,
+    "bottom": 0.0148,
+    "left_inches": 0.51,
+    "right_inches": 0.6,
+    "top_inches": 0.11,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 17
+  },
+  "category": "multi_column"
+}

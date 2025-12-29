@@ -1,0 +1,49 @@
+{
+  "template": "pptx_template_due_diligence",
+  "slide_num": 1,
+  "pattern_type": "text_block",
+  "paragraph_count": 3,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 24,
+      "word_count": 3,
+      "font_size": 44.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 19,
+      "word_count": 2,
+      "font_size": 44.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 105,
+      "word_count": 12,
+      "font_size": 20.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Commercial Due Diligence\nPowerPoint Template\n\u000bComplete PowerPoint template for high-quality, comprehensive due diligence reports and investment theses",
+  "usage_count": 112,
+  "id": "7c2f464fb8de"
+}

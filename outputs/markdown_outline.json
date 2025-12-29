@@ -1,0 +1,235 @@
+{
+  "title": "Q4 2025 Strategic Review",
+  "template": "consulting_toolkit",
+  "author": "Strategy Team",
+  "metadata": {
+    "date": "December 2025"
+  },
+  "sections": [
+    {
+      "name": "Main",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Q4 2025 Strategic Review",
+            "subtitle": "Annual Business Analysis"
+          }
+        },
+        {
+          "slide_type": "agenda",
+          "content": {
+            "title": "Agenda",
+            "items": [
+              "Executive Summary",
+              "Financial Performance",
+              "Market Position",
+              "Strategic Initiatives",
+              "2026 Outlook"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Executive Summary",
+            "bullets": [
+              "Revenue exceeded targets by 15%",
+              "Customer base expanded to 500+ enterprises",
+              "Successfully launched 3 new product lines",
+              "Market share increased from 12% to 18%"
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Key Performance Metrics",
+            "metrics": [
+              {
+                "label": "Revenue",
+                "value": "$4.8M"
+              },
+              {
+                "label": "YoY Growth",
+                "value": "32%"
+              },
+              {
+                "label": "Net Margin",
+                "value": "24%"
+              },
+              {
+                "label": "Customer NPS",
+                "value": "72"
+              }
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Revenue by Quarter",
+            "chart_data": {
+              "categories": "Q1, Q2, Q3, Q4",
+              "series": {
+                "Revenue": "950, 1100, 1250, 1500",
+                "Target": "900, 1050, 1200, 1400"
+              },
+              "type": "column"
+            }
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Market Share Analysis",
+            "table_data": {
+              "headers": [
+                "Region",
+                "2024",
+                "2025",
+                "Growth"
+              ],
+              "rows": [
+                [
+                  "North America",
+                  "15%",
+                  "20%",
+                  "+5pp"
+                ],
+                [
+                  "Europe",
+                  "10%",
+                  "15%",
+                  "+5pp"
+                ],
+                [
+                  "Asia Pacific",
+                  "8%",
+                  "12%",
+                  "+4pp"
+                ],
+                [
+                  "Latin America",
+                  "5%",
+                  "8%",
+                  "+3pp"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Strategic Comparison",
+            "left": {
+              "header": "",
+              "bullets": []
+            },
+            "right": {
+              "header": "",
+              "bullets": []
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "2026 Growth Plan",
+            "bullets": [
+              "Expand into European markets",
+              "Launch enterprise platform v2.0",
+              "Establish strategic partnerships",
+              "Invest in AI/ML capabilities",
+              "Double sales team capacity"
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Investment Requirements",
+            "metrics": [
+              {
+                "label": "R&D Budget",
+                "value": "$2.5M"
+              },
+              {
+                "label": "Marketing",
+                "value": "$1.8M"
+              },
+              {
+                "label": "Hiring",
+                "value": "$3.2M"
+              },
+              {
+                "label": "Infrastructure",
+                "value": "$1.5M"
+              }
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Risk Assessment",
+            "table_data": {
+              "headers": [
+                "Risk",
+                "Probability",
+                "Impact",
+                "Mitigation"
+              ],
+              "rows": [
+                [
+                  "Market downturn",
+                  "Medium",
+                  "High",
+                  "Diversified revenue"
+                ],
+                [
+                  "Competition",
+                  "High",
+                  "Medium",
+                  "Innovation focus"
+                ],
+                [
+                  "Talent shortage",
+                  "Medium",
+                  "Medium",
+                  "Remote hiring"
+                ],
+                [
+                  "Tech disruption",
+                  "Low",
+                  "High",
+                  "R&D investment"
+                ]
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Timeline",
+            "bullets": [
+              "Q1 2026: European market entry",
+              "Q2 2026: Platform v2.0 launch",
+              "Q3 2026: Partner program rollout",
+              "Q4 2026: AI features release"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Thank You",
+            "subtitle": "Questions & Discussion"
+          }
+        }
+      ]
+    }
+  ]
+}

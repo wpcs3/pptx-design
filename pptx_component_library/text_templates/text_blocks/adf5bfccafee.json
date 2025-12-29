@@ -1,0 +1,79 @@
+{
+  "template": "template_business_case",
+  "slide_num": 19,
+  "pattern_type": "text_block",
+  "paragraph_count": 6,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 118,
+      "word_count": 20,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 213,
+      "word_count": 38,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 169,
+      "word_count": 24,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 108,
+      "word_count": 19,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 24,
+      "word_count": 3,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 533,
+      "word_count": 91,
+      "font_size": 16.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Check if your organization has a required format for business cases, or some elements or metrics that must be included\nMake sure the metrics you use to measure success and why your business case shoul",
+  "usage_count": 14,
+  "id": "adf5bfccafee"
+}

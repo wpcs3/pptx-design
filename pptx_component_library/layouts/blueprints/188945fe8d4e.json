@@ -1,0 +1,433 @@
+{
+  "id": "188945fe8d4e",
+  "template": "template_business_case",
+  "slide_num": 237,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0754,
+        "top": 0.3394,
+        "width": 0.4386,
+        "height": 0.0639,
+        "right": 0.514,
+        "bottom": 0.4033
+      },
+      "position_inches": {
+        "left": 1.01,
+        "top": 2.55,
+        "width": 5.85,
+        "height": 0.48
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Business case focuses on cost savings only, althou"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2665,
+        "width": 0.4314,
+        "height": 0.0314,
+        "right": 0.4769,
+        "bottom": 0.2979
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.0,
+        "width": 5.75,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Three areas of benefits"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.2665,
+        "width": 0.4314,
+        "height": 0.0314,
+        "right": 0.9545,
+        "bottom": 0.2979
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.0,
+        "width": 5.75,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Focus for business case"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3102,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3102
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.33,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3102,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3102
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.33,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3296,
+        "width": 0.4314,
+        "height": 0.3231,
+        "right": 0.9545,
+        "bottom": 0.6528
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.47,
+        "width": 5.75,
+        "height": 2.42
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Business case focuses on financial implications of"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0792,
+        "top": 0.3296,
+        "width": 0.3977,
+        "height": 0.1616,
+        "right": 0.4769,
+        "bottom": 0.4912
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 2.47,
+        "width": 5.3,
+        "height": 1.21
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Improved top and bottom line Cost savings from cus"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0792,
+        "top": 0.5543,
+        "width": 0.3977,
+        "height": 0.1616,
+        "right": 0.4769,
+        "bottom": 0.7158
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 4.16,
+        "width": 5.3,
+        "height": 1.21
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Better employee experience More connection to work"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0792,
+        "top": 0.7789,
+        "width": 0.3977,
+        "height": 0.0808,
+        "right": 0.4769,
+        "bottom": 0.8597
+      },
+      "position_inches": {
+        "left": 1.06,
+        "top": 5.84,
+        "width": 5.3,
+        "height": 0.61
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Better customer experience Faster turnaround times"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.3214,
+        "width": 0.0237,
+        "height": 0.0421,
+        "right": 0.0689,
+        "bottom": 0.3635
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.41,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.5464,
+        "width": 0.0237,
+        "height": 0.0421,
+        "right": 0.0689,
+        "bottom": 0.5885
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 4.1,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0453,
+        "top": 0.7714,
+        "width": 0.0237,
+        "height": 0.0421,
+        "right": 0.0689,
+        "bottom": 0.8135
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 5.79,
+        "width": 0.32,
+        "height": 0.32
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7193,
+        "top": 0.4911,
+        "width": 0.039,
+        "height": 0.0639,
+        "right": 0.7583,
+        "bottom": 0.5551
+      },
+      "position_inches": {
+        "left": 9.59,
+        "top": 3.68,
+        "width": 0.52,
+        "height": 0.48
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0453,
+        "top": 0.2665,
+        "right": 0.514,
+        "bottom": 0.8135,
+        "width": 0.4687,
+        "height": 0.547
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.2665,
+        "right": 0.9545,
+        "bottom": 0.6528,
+        "width": 0.4314,
+        "height": 0.3863
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0792,
+        "top": 0.7789,
+        "right": 0.4769,
+        "bottom": 0.8597,
+        "width": 0.3977,
+        "height": 0.0808
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.1403,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 1.05
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "mixed_content"
+}

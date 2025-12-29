@@ -1,0 +1,97 @@
+{
+  "template": "template_business_case",
+  "slide_num": 29,
+  "pattern_type": "text_block",
+  "paragraph_count": 7,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 4,
+      "word_count": 1,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 66,
+      "word_count": 6,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 48,
+      "word_count": 6,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 74,
+      "word_count": 10,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 98,
+      "word_count": 13,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 79,
+      "word_count": 11,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left (1)",
+      "text_length": 40,
+      "word_count": 5,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "How:\nUse situation-complication-resolution framework to draft structure\nBriefly describe the overall context (situation)\nState problem / opportunity your business case will address (complication)\nDesc",
+  "usage_count": 4,
+  "id": "d7aa79080d5b"
+}

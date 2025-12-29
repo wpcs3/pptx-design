@@ -1,0 +1,412 @@
+{
+  "id": "9f8282a92163",
+  "template": "template_market_analysis",
+  "slide_num": 269,
+  "layout_name": "Default",
+  "element_count": 15,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3609,
+        "top": 0.6243,
+        "width": 0.2823,
+        "height": 0.2824,
+        "right": 0.6432,
+        "bottom": 0.9067
+      },
+      "position_inches": {
+        "left": 4.81,
+        "top": 4.68,
+        "width": 3.76,
+        "height": 2.12
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.671,
+        "top": 0.2624,
+        "width": 0.2823,
+        "height": 0.2824,
+        "right": 0.9532,
+        "bottom": 0.5448
+      },
+      "position_inches": {
+        "left": 8.95,
+        "top": 1.97,
+        "width": 3.76,
+        "height": 2.12
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.361,
+        "top": 0.2624,
+        "width": 0.2823,
+        "height": 0.2824,
+        "right": 0.6433,
+        "bottom": 0.5448
+      },
+      "position_inches": {
+        "left": 4.81,
+        "top": 1.97,
+        "width": 3.76,
+        "height": 2.12
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "A clear market taxonomy has been developed"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.051,
+        "top": 0.2624,
+        "width": 0.2823,
+        "height": 0.2824,
+        "right": 0.3332,
+        "bottom": 0.5448
+      },
+      "position_inches": {
+        "left": 0.68,
+        "top": 1.97,
+        "width": 3.76,
+        "height": 2.12
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.671,
+        "top": 0.6243,
+        "width": 0.2823,
+        "height": 0.2824,
+        "right": 0.9532,
+        "bottom": 0.9067
+      },
+      "position_inches": {
+        "left": 8.95,
+        "top": 4.68,
+        "width": 3.76,
+        "height": 2.12
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0503,
+        "top": 0.6243,
+        "width": 0.2835,
+        "height": 0.2824,
+        "right": 0.3338,
+        "bottom": 0.9067
+      },
+      "position_inches": {
+        "left": 0.67,
+        "top": 4.68,
+        "width": 3.78,
+        "height": 2.12
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized screenshot]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1181,
+        "top": 0.5971,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.2716,
+        "bottom": 0.6515
+      },
+      "position_inches": {
+        "left": 1.57,
+        "top": 4.48,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Industry structure"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4924,
+        "top": 0.2176,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.646,
+        "bottom": 0.272
+      },
+      "position_inches": {
+        "left": 6.57,
+        "top": 1.63,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market segments"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4924,
+        "top": 0.5971,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.646,
+        "bottom": 0.6515
+      },
+      "position_inches": {
+        "left": 6.57,
+        "top": 4.48,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Market definition"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7878,
+        "top": 0.2176,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.9414,
+        "bottom": 0.272
+      },
+      "position_inches": {
+        "left": 10.5,
+        "top": 1.63,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Value chain"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.1181,
+        "top": 0.2176,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.2716,
+        "bottom": 0.272
+      },
+      "position_inches": {
+        "left": 1.57,
+        "top": 1.63,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Lab type definitions"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7878,
+        "top": 0.5971,
+        "width": 0.1535,
+        "height": 0.0544,
+        "right": 0.9414,
+        "bottom": 0.6515
+      },
+      "position_inches": {
+        "left": 10.5,
+        "top": 4.48,
+        "width": 2.05,
+        "height": 0.41
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Sizing methodology"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3609,
+        "top": 0.2176,
+        "right": 0.646,
+        "bottom": 0.9067,
+        "width": 0.2851,
+        "height": 0.6891
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.671,
+        "top": 0.2176,
+        "right": 0.9532,
+        "bottom": 0.9067,
+        "width": 0.2822,
+        "height": 0.6891
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0503,
+        "top": 0.2176,
+        "right": 0.3338,
+        "bottom": 0.9067,
+        "width": 0.2835,
+        "height": 0.6891
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0933,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.7
+  },
+  "content_types": {
+    "other": 15
+  },
+  "category": "multi_column"
+}

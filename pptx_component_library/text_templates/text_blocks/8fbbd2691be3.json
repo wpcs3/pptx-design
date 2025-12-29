@@ -1,0 +1,73 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 12,
+  "pattern_type": "text_block",
+  "paragraph_count": 5,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "center (2)",
+      "text_length": 19,
+      "word_count": 2,
+      "font_size": 16.0,
+      "font_name": "Arial",
+      "bold": true,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 176,
+      "word_count": 32,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 189,
+      "word_count": 28,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 165,
+      "word_count": 29,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 78,
+      "word_count": 16,
+      "font_size": 14.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "Best-practice tips:\nOnly keep relevant analyses that bring valuable context or direct input for deciding what to do next \u2013 add the rest to an appendix or remove it completely from the final report\nStr",
+  "usage_count": 39,
+  "id": "8fbbd2691be3"
+}

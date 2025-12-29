@@ -1,0 +1,464 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "aspect_ratio": "16:9"
+  },
+  "background": {
+    "type": "solid",
+    "color": "#F5F5F5"
+  },
+  "elements": [
+    {
+      "id": "title",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 0.3,
+        "width_inches": 12.333,
+        "height_inches": 0.6
+      },
+      "text_properties": {
+        "placeholder_text": "Generator Feature Showcase",
+        "font_family": "Arial",
+        "font_size_pt": 32,
+        "font_color": "#1a1a2e",
+        "bold": true,
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "gradient_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.1,
+        "width_inches": 2.5,
+        "height_inches": 1.5
+      },
+      "shape_properties": {
+        "shape_type": "rounded_rectangle",
+        "corner_radius_inches": 0.15,
+        "gradient_fill": {
+          "type": "linear",
+          "angle": 45,
+          "stops": [
+            {"position": 0, "color": "#667eea"},
+            {"position": 50, "color": "#764ba2"},
+            {"position": 100, "color": "#f093fb"}
+          ]
+        },
+        "shadow": {
+          "type": "outer",
+          "blur_radius_pt": 8,
+          "distance_pt": 4,
+          "angle": 45,
+          "color": "#000000",
+          "transparency": 0.6
+        }
+      },
+      "text_properties": {
+        "placeholder_text": "Gradient Fill\nwith Shadow",
+        "font_family": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "pattern_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 3.2,
+        "top_inches": 1.1,
+        "width_inches": 2.5,
+        "height_inches": 1.5
+      },
+      "shape_properties": {
+        "shape_type": "hexagon",
+        "pattern_fill": {
+          "pattern": "diagonal_stripe",
+          "foreground_color": "#e74c3c",
+          "background_color": "#f8d7da"
+        },
+        "border_color": "#c0392b",
+        "border_width_pt": 2
+      },
+      "text_properties": {
+        "placeholder_text": "Pattern Fill\nHexagon",
+        "font_family": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#721c24",
+        "bold": true,
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "transparent_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 5.9,
+        "top_inches": 1.1,
+        "width_inches": 2.5,
+        "height_inches": 1.5
+      },
+      "shape_properties": {
+        "shape_type": "oval",
+        "fill_color": "#3498db",
+        "fill_transparency": 0.4,
+        "border_color": "#2980b9",
+        "border_width_pt": 3,
+        "border_transparency": 0.2
+      },
+      "text_properties": {
+        "placeholder_text": "40% Transparent\nOval",
+        "font_family": "Arial",
+        "font_size_pt": 14,
+        "font_color": "#1a5276",
+        "bold": true,
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "star_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 8.6,
+        "top_inches": 1.1,
+        "width_inches": 1.5,
+        "height_inches": 1.5
+      },
+      "shape_properties": {
+        "shape_type": "star_5",
+        "fill_color": "#f1c40f",
+        "border_color": "#d4ac0d",
+        "border_width_pt": 2,
+        "rotation_degrees": 15
+      }
+    },
+    {
+      "id": "arrow_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 10.3,
+        "top_inches": 1.1,
+        "width_inches": 2.5,
+        "height_inches": 1.5
+      },
+      "shape_properties": {
+        "shape_type": "right_arrow",
+        "fill_color": "#27ae60",
+        "border_color": "#1e8449",
+        "border_width_pt": 2
+      },
+      "text_properties": {
+        "placeholder_text": "Arrow\nShape",
+        "font_family": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "formatted_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 2.8,
+        "width_inches": 4.0,
+        "height_inches": 1.8
+      },
+      "text_properties": {
+        "rich_text": [
+          {"text": "Rich Text Formatting:\n", "bold": true, "font_size_pt": 16, "font_color": "#2c3e50"},
+          {"text": "Underlined text", "underline": true, "font_color": "#3498db"},
+          {"text": " and ", "font_color": "#2c3e50"},
+          {"text": "strikethrough", "strikethrough": true, "font_color": "#e74c3c"},
+          {"text": "\nH", "font_size_pt": 14, "font_color": "#2c3e50"},
+          {"text": "2", "subscript": true, "font_size_pt": 14, "font_color": "#2c3e50"},
+          {"text": "O (subscript) and E=mc", "font_size_pt": 14, "font_color": "#2c3e50"},
+          {"text": "2", "superscript": true, "font_size_pt": 14, "font_color": "#2c3e50"},
+          {"text": "\n", "font_size_pt": 14},
+          {"text": "Light ", "font_weight": 300, "font_color": "#7f8c8d"},
+          {"text": "Normal ", "font_weight": 400, "font_color": "#2c3e50"},
+          {"text": "Bold ", "font_weight": 700, "font_color": "#2c3e50"},
+          {"text": "Black", "font_weight": 900, "font_color": "#1a1a2e"}
+        ],
+        "font_family": "Arial",
+        "line_spacing": 1.3,
+        "margins": {
+          "left_inches": 0.1,
+          "right_inches": 0.1,
+          "top_inches": 0.1,
+          "bottom_inches": 0.1
+        }
+      },
+      "shape_properties": {
+        "fill_color": "#FFFFFF",
+        "border_color": "#bdc3c7",
+        "border_width_pt": 1
+      }
+    },
+    {
+      "id": "bullet_list",
+      "type": "bullet_list",
+      "position": {
+        "left_inches": 4.7,
+        "top_inches": 2.8,
+        "width_inches": 3.5,
+        "height_inches": 1.8
+      },
+      "list_properties": {
+        "items": [
+          {"text": "First bullet item", "level": 0},
+          {"text": "Nested item", "level": 1},
+          {"text": "Another nested", "level": 1},
+          {"text": "Back to top level", "level": 0},
+          {"text": "Final item", "level": 0}
+        ],
+        "bullet_type": "circle",
+        "bullet_color": "#9b59b6",
+        "font_family": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#2c3e50",
+        "line_spacing": 1.2
+      },
+      "shape_properties": {
+        "fill_color": "#f8f9fa",
+        "border_color": "#9b59b6",
+        "border_width_pt": 2
+      }
+    },
+    {
+      "id": "mini_table",
+      "type": "table",
+      "position": {
+        "left_inches": 8.4,
+        "top_inches": 2.8,
+        "width_inches": 4.4,
+        "height_inches": 1.8
+      },
+      "table_properties": {
+        "rows": 3,
+        "cols": 3,
+        "data": [
+          ["Feature", "Status", "Version"],
+          ["Gradients", "Done", "1.0"],
+          ["Charts", "Done", "1.0"]
+        ],
+        "header_row": true,
+        "header_fill_color": "#34495e",
+        "header_font_color": "#FFFFFF",
+        "cell_fill_color": "#ecf0f1",
+        "cell_font_color": "#2c3e50",
+        "border_color": "#7f8c8d",
+        "border_width_pt": 1,
+        "font_family": "Arial",
+        "font_size_pt": 11
+      }
+    },
+    {
+      "id": "line_with_arrows",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 4.9,
+        "width_inches": 3.0,
+        "height_inches": 0
+      },
+      "shape_properties": {
+        "border_color": "#e74c3c",
+        "border_width_pt": 3,
+        "line_dash_style": "solid",
+        "start_arrow": {
+          "type": "diamond",
+          "size": "medium"
+        },
+        "end_arrow": {
+          "type": "triangle",
+          "size": "large"
+        }
+      }
+    },
+    {
+      "id": "arrow_label",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 5.0,
+        "width_inches": 3.0,
+        "height_inches": 0.3
+      },
+      "text_properties": {
+        "placeholder_text": "Line with Arrow Heads",
+        "font_family": "Arial",
+        "font_size_pt": 10,
+        "font_color": "#7f8c8d",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "chart",
+      "type": "chart",
+      "position": {
+        "left_inches": 4.0,
+        "top_inches": 4.8,
+        "width_inches": 4.5,
+        "height_inches": 2.4
+      },
+      "chart_properties": {
+        "chart_type": "column_clustered",
+        "title": "Sales by Quarter",
+        "categories": ["Q1", "Q2", "Q3", "Q4"],
+        "series": [
+          {
+            "name": "2024",
+            "values": [120, 150, 180, 200]
+          },
+          {
+            "name": "2023",
+            "values": [100, 120, 140, 160]
+          }
+        ]
+      }
+    },
+    {
+      "id": "flowchart_box",
+      "type": "shape",
+      "position": {
+        "left_inches": 9.0,
+        "top_inches": 4.8,
+        "width_inches": 1.5,
+        "height_inches": 0.8
+      },
+      "shape_properties": {
+        "shape_type": "flowchart_process",
+        "fill_color": "#3498db",
+        "border_color": "#2980b9",
+        "border_width_pt": 2
+      },
+      "text_properties": {
+        "placeholder_text": "Process",
+        "font_family": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#FFFFFF",
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "flowchart_decision",
+      "type": "shape",
+      "position": {
+        "left_inches": 10.8,
+        "top_inches": 4.7,
+        "width_inches": 1.5,
+        "height_inches": 1.0
+      },
+      "shape_properties": {
+        "shape_type": "flowchart_decision",
+        "fill_color": "#f39c12",
+        "border_color": "#d68910",
+        "border_width_pt": 2
+      },
+      "text_properties": {
+        "placeholder_text": "Decision",
+        "font_family": "Arial",
+        "font_size_pt": 11,
+        "font_color": "#FFFFFF",
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "callout_shape",
+      "type": "shape",
+      "position": {
+        "left_inches": 9.0,
+        "top_inches": 5.9,
+        "width_inches": 3.8,
+        "height_inches": 1.2
+      },
+      "shape_properties": {
+        "shape_type": "callout_wedge_rectangle",
+        "fill_color": "#2ecc71",
+        "border_color": "#27ae60",
+        "border_width_pt": 2
+      },
+      "text_properties": {
+        "placeholder_text": "Callout Shape!\nWith pointer built-in",
+        "font_family": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "vertical_alignment": "middle"
+      }
+    },
+    {
+      "id": "hyperlink_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 5.5,
+        "width_inches": 3.0,
+        "height_inches": 0.5
+      },
+      "text_properties": {
+        "placeholder_text": "Click here for docs",
+        "font_family": "Arial",
+        "font_size_pt": 12,
+        "font_color": "#3498db",
+        "underline": true,
+        "alignment": "center"
+      },
+      "hyperlink": {
+        "url": "https://python-pptx.readthedocs.io/"
+      }
+    },
+    {
+      "id": "dashed_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 6.2,
+        "width_inches": 3.0,
+        "height_inches": 0
+      },
+      "shape_properties": {
+        "border_color": "#9b59b6",
+        "border_width_pt": 2,
+        "line_dash_style": "dash_dot"
+      }
+    },
+    {
+      "id": "footer",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 7.0,
+        "width_inches": 12.333,
+        "height_inches": 0.35
+      },
+      "text_properties": {
+        "placeholder_text": "Generated with PPTX Design System - Showcasing 34 new features including gradients, patterns, charts, shapes, and more!",
+        "font_family": "Arial",
+        "font_size_pt": 9,
+        "font_color": "#95a5a6",
+        "italic": true,
+        "alignment": "center"
+      }
+    }
+  ],
+  "color_palette": [
+    "#1a1a2e", "#667eea", "#764ba2", "#e74c3c", "#3498db",
+    "#27ae60", "#f1c40f", "#9b59b6", "#34495e", "#2ecc71"
+  ],
+  "design_notes": "Test slide demonstrating new generator features: gradient fills, pattern fills, transparency, multiple shape types, rich text formatting, bullet lists, tables, charts, lines with arrow heads, callouts, hyperlinks, and various flowchart shapes."
+}

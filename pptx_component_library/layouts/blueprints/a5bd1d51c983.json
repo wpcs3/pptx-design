@@ -1,0 +1,1653 @@
+{
+  "id": "a5bd1d51c983",
+  "template": "template_market_analysis",
+  "slide_num": 299,
+  "layout_name": "Default",
+  "element_count": 74,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Molecular Testing MAP"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #5"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0456,
+        "top": 0.5806,
+        "width": 0.1419,
+        "height": 0.0595,
+        "right": 0.1875,
+        "bottom": 0.6401
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.35,
+        "width": 1.89,
+        "height": 0.45
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Molecular Testing Labs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.3108,
+        "width": 0.1419,
+        "height": 0.0458,
+        "right": 0.4423,
+        "bottom": 0.3566
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 2.33,
+        "width": 1.89,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Chemiluminesence"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.3566,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.3841
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 2.67,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "HIV"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.7315,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.7589
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 5.49,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Infectious diseases"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.8594,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.8868
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 6.45,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "HIV"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.3566,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.3841
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 2.67,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "HIV Subtyping"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.6857,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.7131
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 5.14,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "ROTA Virus"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.768,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.7954
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 5.76,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "NORO Virus"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1875,
+        "top": 0.3337,
+        "width": 0.113,
+        "height": 0.2766,
+        "right": 0.3004,
+        "bottom": 0.6103
+      },
+      "position_inches": {
+        "left": 2.5,
+        "top": 2.5,
+        "width": 1.51,
+        "height": 2.07
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.3337,
+        "width": 0.1142,
+        "height": 0.0366,
+        "right": 0.5565,
+        "bottom": 0.3704
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 2.5,
+        "width": 1.52,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.3704,
+        "width": 0.1142,
+        "height": 0.0,
+        "right": 0.8126,
+        "bottom": 0.3704
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 2.78,
+        "width": 1.52,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.7452,
+        "width": 0.1142,
+        "height": 0.0548,
+        "right": 0.5565,
+        "bottom": 0.7999
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 5.59,
+        "width": 1.52,
+        "height": 0.41
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.7999,
+        "width": 0.1142,
+        "height": 0.0731,
+        "right": 0.5565,
+        "bottom": 0.8731
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 6.0,
+        "width": 1.52,
+        "height": 0.55
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.6994,
+        "width": 0.1142,
+        "height": 0.0458,
+        "right": 0.8126,
+        "bottom": 0.7452
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 5.25,
+        "width": 1.52,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.7452,
+        "width": 0.1142,
+        "height": 0.0365,
+        "right": 0.8126,
+        "bottom": 0.7817
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 5.59,
+        "width": 1.52,
+        "height": 0.27
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2298,
+        "top": 0.3066,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.2593,
+        "bottom": 0.359
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 2.3,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "30%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.8467,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.8991
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 6.35,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "20%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.4571,
+        "width": 0.1419,
+        "height": 0.0458,
+        "right": 0.4423,
+        "bottom": 0.5029
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 3.43,
+        "width": 1.89,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Chips"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.7771,
+        "width": 0.1419,
+        "height": 0.0458,
+        "right": 0.4423,
+        "bottom": 0.8228
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 5.83,
+        "width": 1.89,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "ELISA"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1875,
+        "top": 0.48,
+        "width": 0.113,
+        "height": 0.1303,
+        "right": 0.3004,
+        "bottom": 0.6103
+      },
+      "position_inches": {
+        "left": 2.5,
+        "top": 3.6,
+        "width": 1.51,
+        "height": 0.98
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1875,
+        "top": 0.6103,
+        "width": 0.113,
+        "height": 0.1896,
+        "right": 0.3004,
+        "bottom": 0.7999
+      },
+      "position_inches": {
+        "left": 2.5,
+        "top": 4.58,
+        "width": 1.51,
+        "height": 1.42
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2298,
+        "top": 0.4534,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.2593,
+        "bottom": 0.5058
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 3.4,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "5%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2298,
+        "top": 0.7733,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.2593,
+        "bottom": 0.8257
+      },
+      "position_inches": {
+        "left": 3.06,
+        "top": 5.8,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "65%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.5154,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.5428
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 3.87,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Cancer"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.4938,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.5213
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 3.7,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Prostate Cancer Panel"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.48,
+        "width": 0.1142,
+        "height": 0.0491,
+        "right": 0.5565,
+        "bottom": 0.5291
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 3.6,
+        "width": 1.52,
+        "height": 0.37
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.5075,
+        "width": 0.1142,
+        "height": 0.0216,
+        "right": 0.8126,
+        "bottom": 0.5291
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 3.81,
+        "width": 1.52,
+        "height": 0.16
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.5396,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.567
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 4.05,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Ovarian Cancer Panel"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.5291,
+        "width": 0.1142,
+        "height": 0.0242,
+        "right": 0.8126,
+        "bottom": 0.5533
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 3.97,
+        "width": 1.52,
+        "height": 0.18
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.6034,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.6308
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 4.53,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Tissue Typing"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.5808,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.6082
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 4.36,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "HLA Typing"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.6264,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.6538
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 4.7,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Tissue matching"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.6171,
+        "width": 0.1142,
+        "height": 0.1829,
+        "right": 0.5565,
+        "bottom": 0.7999
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 4.63,
+        "width": 1.52,
+        "height": 1.37
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.5945,
+        "width": 0.1142,
+        "height": 0.0226,
+        "right": 0.8126,
+        "bottom": 0.6171
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 4.46,
+        "width": 1.52,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.6171,
+        "width": 0.1142,
+        "height": 0.023,
+        "right": 0.8126,
+        "bottom": 0.6401
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 4.63,
+        "width": 1.52,
+        "height": 0.17
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.5924,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.6448
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 4.44,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "20%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.7194,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.7718
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 5.4,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "60%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.7272,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.7547
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 5.45,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "ADENO Virus"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.813,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.8409
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 6.1,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "HIV 1"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.8269,
+        "width": 0.1142,
+        "height": 0.0461,
+        "right": 0.8126,
+        "bottom": 0.8731
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 6.2,
+        "width": 1.52,
+        "height": 0.35
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.8453,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.8731
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 6.34,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "HIV 2"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.8775,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.9054
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 6.58,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "HIV Subtyping"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.8731,
+        "width": 0.1142,
+        "height": 0.0184,
+        "right": 0.8126,
+        "bottom": 0.8915
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 6.55,
+        "width": 1.52,
+        "height": 0.14
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.8592,
+        "width": 0.1142,
+        "height": 0.0139,
+        "right": 0.8126,
+        "bottom": 0.8731
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 6.44,
+        "width": 1.52,
+        "height": 0.1
+      },
+      "zone": "bottom_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.4206,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.448
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 3.15,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Infectious diseases"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.4343,
+        "width": 0.1142,
+        "height": 0.0457,
+        "right": 0.5565,
+        "bottom": 0.48
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 3.26,
+        "width": 1.52,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.3931,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.4206
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 2.95,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Virus Typing"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.4069,
+        "width": 0.1142,
+        "height": 0.0274,
+        "right": 0.8126,
+        "bottom": 0.4343
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 3.05,
+        "width": 1.52,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.4389,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.9545,
+        "bottom": 0.4664
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 3.29,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Virus Screen"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.4343,
+        "width": 0.1142,
+        "height": 0.0184,
+        "right": 0.8126,
+        "bottom": 0.4527
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 3.26,
+        "width": 1.52,
+        "height": 0.14
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.2486,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.2765
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 1.86,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "MRSA"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.2834,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.3113
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 2.13,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Hepatitis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.3179,
+        "width": 0.1419,
+        "height": 0.0279,
+        "right": 0.9545,
+        "bottom": 0.3458
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 2.38,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Flu"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.2834,
+        "width": 0.1419,
+        "height": 0.0274,
+        "right": 0.6984,
+        "bottom": 0.3108
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 2.13,
+        "width": 1.89,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Infectious diseases"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4423,
+        "top": 0.2971,
+        "width": 0.1142,
+        "height": 0.0366,
+        "right": 0.5565,
+        "bottom": 0.3337
+      },
+      "position_inches": {
+        "left": 5.9,
+        "top": 2.23,
+        "width": 1.52,
+        "height": 0.27
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.2626,
+        "width": 0.1142,
+        "height": 0.0345,
+        "right": 0.8126,
+        "bottom": 0.2971
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 1.97,
+        "width": 1.52,
+        "height": 0.26
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.2971,
+        "width": 0.1142,
+        "height": 0.0347,
+        "right": 0.8126,
+        "bottom": 0.3318
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 2.23,
+        "width": 1.52,
+        "height": 0.26
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6984,
+        "top": 0.2971,
+        "width": 0.1142,
+        "height": 0.0002,
+        "right": 0.8126,
+        "bottom": 0.2973
+      },
+      "position_inches": {
+        "left": 9.31,
+        "top": 2.23,
+        "width": 1.52,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.2713,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.3237
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 2.04,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "80%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.3447,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.3971
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 2.59,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "20%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.4081,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.4605
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 3.06,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "90%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4851,
+        "top": 0.5034,
+        "width": 0.0295,
+        "height": 0.0524,
+        "right": 0.5145,
+        "bottom": 0.5557
+      },
+      "position_inches": {
+        "left": 6.47,
+        "top": 3.78,
+        "width": 0.39,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "10%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0444,
+        "top": 0.1941,
+        "width": 0.1419,
+        "height": 0.0336,
+        "right": 0.1863,
+        "bottom": 0.2276
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 1.46,
+        "width": 1.89,
+        "height": 0.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Lab type"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.1941,
+        "width": 0.1419,
+        "height": 0.0336,
+        "right": 0.9545,
+        "bottom": 0.2276
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 1.46,
+        "width": 1.89,
+        "height": 0.25
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Test examples"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0444,
+        "top": 0.2355,
+        "width": 0.1419,
+        "height": 0.0,
+        "right": 0.1863,
+        "bottom": 0.2355
+      },
+      "position_inches": {
+        "left": 0.59,
+        "top": 1.77,
+        "width": 1.89,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8126,
+        "top": 0.2355,
+        "width": 0.1419,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2355
+      },
+      "position_inches": {
+        "left": 10.83,
+        "top": 1.77,
+        "width": 1.89,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.1941,
+        "width": 0.1419,
+        "height": 0.0336,
+        "right": 0.4423,
+        "bottom": 0.2276
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 1.46,
+        "width": 1.89,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Technologies"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3004,
+        "top": 0.2355,
+        "width": 0.1419,
+        "height": 0.0,
+        "right": 0.4423,
+        "bottom": 0.2355
+      },
+      "position_inches": {
+        "left": 4.01,
+        "top": 1.77,
+        "width": 1.89,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.1941,
+        "width": 0.1419,
+        "height": 0.0336,
+        "right": 0.6984,
+        "bottom": 0.2276
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 1.46,
+        "width": 1.89,
+        "height": 0.25
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Diseases"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5565,
+        "top": 0.2355,
+        "width": 0.1419,
+        "height": 0.0,
+        "right": 0.6984,
+        "bottom": 0.2355
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 1.77,
+        "width": 1.89,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Industry reports and team analysis based o"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0444,
+        "top": 0.1941,
+        "right": 0.3004,
+        "bottom": 0.8257,
+        "width": 0.256,
+        "height": 0.6316
+      },
+      "element_count": 9,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3004,
+        "top": 0.1941,
+        "right": 0.6984,
+        "bottom": 0.8228,
+        "width": 0.398,
+        "height": 0.6287
+      },
+      "element_count": 25,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.7999,
+        "right": 0.6984,
+        "bottom": 0.9852,
+        "width": 0.66,
+        "height": 0.1853
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6984,
+        "top": 0.1941,
+        "right": 0.9545,
+        "bottom": 0.7954,
+        "width": 0.2561,
+        "height": 0.6013
+      },
+      "element_count": 27,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6984,
+        "top": 0.813,
+        "right": 0.9545,
+        "bottom": 0.9054,
+        "width": 0.2561,
+        "height": 0.0924
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 74
+  },
+  "category": "multi_column"
+}

@@ -1,0 +1,591 @@
+{
+  "id": "5a2298fd0a6e",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 203,
+  "layout_name": "Default",
+  "element_count": 22,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Balanced Scorecard"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2096,
+        "width": 0.1682,
+        "height": 0.045,
+        "right": 0.2137,
+        "bottom": 0.2545
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.57,
+        "width": 2.24,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Perspective"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8202,
+        "top": 0.2096,
+        "width": 0.1302,
+        "height": 0.045,
+        "right": 0.9504,
+        "bottom": 0.2545
+      },
+      "position_inches": {
+        "left": 10.94,
+        "top": 1.57,
+        "width": 1.74,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Targets"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2619,
+        "width": 0.1682,
+        "height": 0.1575,
+        "right": 0.2137,
+        "bottom": 0.4195
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.96,
+        "width": 2.24,
+        "height": 1.18
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Financial"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8202,
+        "top": 0.2619,
+        "width": 0.1302,
+        "height": 0.1575,
+        "right": 0.9504,
+        "bottom": 0.4195
+      },
+      "position_inches": {
+        "left": 10.94,
+        "top": 1.96,
+        "width": 1.74,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "xx"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4285,
+        "width": 0.1682,
+        "height": 0.1575,
+        "right": 0.2137,
+        "bottom": 0.586
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.21,
+        "width": 2.24,
+        "height": 1.18
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Customer"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8202,
+        "top": 0.4285,
+        "width": 0.1302,
+        "height": 0.1575,
+        "right": 0.9504,
+        "bottom": 0.586
+      },
+      "position_inches": {
+        "left": 10.94,
+        "top": 3.21,
+        "width": 1.74,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "xx"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.595,
+        "width": 0.1682,
+        "height": 0.1575,
+        "right": 0.2137,
+        "bottom": 0.7525
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.46,
+        "width": 2.24,
+        "height": 1.18
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Internal"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8202,
+        "top": 0.595,
+        "width": 0.1302,
+        "height": 0.1575,
+        "right": 0.9504,
+        "bottom": 0.7525
+      },
+      "position_inches": {
+        "left": 10.94,
+        "top": 4.46,
+        "width": 1.74,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "xx"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7615,
+        "width": 0.1682,
+        "height": 0.1575,
+        "right": 0.2137,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.71,
+        "width": 2.24,
+        "height": 1.18
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Learning & Growth"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2202,
+        "top": 0.2096,
+        "width": 0.3267,
+        "height": 0.045,
+        "right": 0.5469,
+        "bottom": 0.2545
+      },
+      "position_inches": {
+        "left": 2.94,
+        "top": 1.57,
+        "width": 4.36,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Strategic Objectives"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2202,
+        "top": 0.2619,
+        "width": 0.3267,
+        "height": 0.1575,
+        "right": 0.5469,
+        "bottom": 0.4195
+      },
+      "position_inches": {
+        "left": 2.94,
+        "top": 1.96,
+        "width": 4.36,
+        "height": 1.18
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic objectives] [Insert strategic ob"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2202,
+        "top": 0.4285,
+        "width": 0.3267,
+        "height": 0.1575,
+        "right": 0.5469,
+        "bottom": 0.586
+      },
+      "position_inches": {
+        "left": 2.94,
+        "top": 3.21,
+        "width": 4.36,
+        "height": 1.18
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic objectives] [Insert strategic ob"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2202,
+        "top": 0.595,
+        "width": 0.3267,
+        "height": 0.1575,
+        "right": 0.5469,
+        "bottom": 0.7525
+      },
+      "position_inches": {
+        "left": 2.94,
+        "top": 4.46,
+        "width": 4.36,
+        "height": 1.18
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic objectives] [Insert strategic ob"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2202,
+        "top": 0.7615,
+        "width": 0.3267,
+        "height": 0.1575,
+        "right": 0.5469,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 2.94,
+        "top": 5.71,
+        "width": 4.36,
+        "height": 1.18
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Insert strategic objectives] [Insert strategic ob"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5534,
+        "top": 0.2096,
+        "width": 0.2603,
+        "height": 0.045,
+        "right": 0.8137,
+        "bottom": 0.2545
+      },
+      "position_inches": {
+        "left": 7.38,
+        "top": 1.57,
+        "width": 3.47,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "KPIs"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5534,
+        "top": 0.2619,
+        "width": 0.2603,
+        "height": 0.1575,
+        "right": 0.8137,
+        "bottom": 0.4195
+      },
+      "position_inches": {
+        "left": 7.38,
+        "top": 1.96,
+        "width": 3.47,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert KPIs e.g., revenue, margin, growth]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5534,
+        "top": 0.4285,
+        "width": 0.2603,
+        "height": 0.1575,
+        "right": 0.8137,
+        "bottom": 0.586
+      },
+      "position_inches": {
+        "left": 7.38,
+        "top": 3.21,
+        "width": 3.47,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert KPIs e.g., NPS, lifetime value, # of retur"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5534,
+        "top": 0.595,
+        "width": 0.2603,
+        "height": 0.1575,
+        "right": 0.8137,
+        "bottom": 0.7525
+      },
+      "position_inches": {
+        "left": 7.38,
+        "top": 4.46,
+        "width": 3.47,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "[Insert KPIs e.g., production time, error levels,"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5534,
+        "top": 0.7615,
+        "width": 0.2603,
+        "height": 0.1575,
+        "right": 0.8137,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 7.38,
+        "top": 5.71,
+        "width": 3.47,
+        "height": 1.18
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "[Insert KPIs e.g., employee retention, employee sa"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8202,
+        "top": 0.7615,
+        "width": 0.1302,
+        "height": 0.1575,
+        "right": 0.9504,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 10.94,
+        "top": 5.71,
+        "width": 1.74,
+        "height": 1.18
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "xx"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2096,
+        "right": 0.2137,
+        "bottom": 0.7525,
+        "width": 0.1682,
+        "height": 0.5429
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5534,
+        "top": 0.2096,
+        "right": 0.9504,
+        "bottom": 0.7525,
+        "width": 0.397,
+        "height": 0.5429
+      },
+      "element_count": 8,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.7615,
+        "right": 0.2137,
+        "bottom": 0.9191,
+        "width": 0.1682,
+        "height": 0.1576
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.2202,
+        "top": 0.2096,
+        "right": 0.5469,
+        "bottom": 0.7525,
+        "width": 0.3267,
+        "height": 0.5429
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.2202,
+        "top": 0.7615,
+        "right": 0.5469,
+        "bottom": 0.9191,
+        "width": 0.3267,
+        "height": 0.1576
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5534,
+        "top": 0.7615,
+        "right": 0.9504,
+        "bottom": 0.9191,
+        "width": 0.397,
+        "height": 0.1576
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0809,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.61
+  },
+  "content_types": {
+    "other": 22
+  },
+  "category": "multi_column"
+}

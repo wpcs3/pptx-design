@@ -1,0 +1,403 @@
+{
+  "id": "b836404f5362",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 263,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6847,
+        "top": 0.2048,
+        "width": 0.2695,
+        "height": 0.7075,
+        "right": 0.9542,
+        "bottom": 0.9123
+      },
+      "position_inches": {
+        "left": 9.13,
+        "top": 1.54,
+        "width": 3.59,
+        "height": 5.31
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Status on dialogue between [Buyer]/[PE Firm 2] and"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Dialogue initiated with [BabyCo1] and [BabyCo2] bo"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.2048,
+        "width": 0.3029,
+        "height": 0.4573,
+        "right": 0.3488,
+        "bottom": 0.6621
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.54,
+        "width": 4.04,
+        "height": 3.43
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "About [BabyCo1] (NE) Founded in 1993 as voluntary"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.3603,
+        "top": 0.3515,
+        "width": 0.1274,
+        "height": 0.0286,
+        "right": 0.4877,
+        "bottom": 0.3801
+      },
+      "position_inches": {
+        "left": 4.8,
+        "top": 2.64,
+        "width": 1.7,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4023,
+        "top": 0.5708,
+        "width": 0.0975,
+        "height": 0.0286,
+        "right": 0.4997,
+        "bottom": 0.5994
+      },
+      "position_inches": {
+        "left": 5.36,
+        "top": 4.28,
+        "width": 1.3,
+        "height": 0.21
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1332,
+        "top": 0.6758,
+        "width": 0.3091,
+        "height": 0.2419,
+        "right": 0.4423,
+        "bottom": 0.9177
+      },
+      "position_inches": {
+        "left": 1.78,
+        "top": 5.07,
+        "width": 4.12,
+        "height": 1.81
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "About [BabyCo2] (NE) Founded in 1986 as voluntary"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.8425,
+        "top": 0.1267,
+        "width": 0.112,
+        "height": 0.0325,
+        "right": 0.9545,
+        "bottom": 0.1592
+      },
+      "position_inches": {
+        "left": 11.23,
+        "top": 0.95,
+        "width": 1.49,
+        "height": 0.24
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Ambition case"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6548,
+        "top": 0.2878,
+        "width": 0.0,
+        "height": 0.56,
+        "right": 0.6548,
+        "bottom": 0.8478
+      },
+      "position_inches": {
+        "left": 8.73,
+        "top": 2.16,
+        "width": 0.0,
+        "height": 4.2
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "GROUP (6)",
+      "category": "other",
+      "position": {
+        "left": 0.6379,
+        "top": 0.5378,
+        "width": 0.0337,
+        "height": 0.06,
+        "right": 0.6716,
+        "bottom": 0.5978
+      },
+      "position_inches": {
+        "left": 8.51,
+        "top": 4.03,
+        "width": 0.45,
+        "height": 0.45
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.2988,
+        "top": 0.2146,
+        "width": 0.0443,
+        "height": 0.0525,
+        "right": 0.3431,
+        "bottom": 0.2671
+      },
+      "position_inches": {
+        "left": 3.98,
+        "top": 1.61,
+        "width": 0.59,
+        "height": 0.39
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3908,
+        "top": 0.6876,
+        "width": 0.0443,
+        "height": 0.0525,
+        "right": 0.4351,
+        "bottom": 0.7401
+      },
+      "position_inches": {
+        "left": 5.21,
+        "top": 5.16,
+        "width": 0.59,
+        "height": 0.39
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6847,
+        "top": 0.2048,
+        "right": 0.9542,
+        "bottom": 0.9123,
+        "width": 0.2695,
+        "height": 0.7075
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.1592,
+        "width": 0.3287,
+        "height": 0.1445
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0458,
+        "top": 0.2048,
+        "right": 0.4423,
+        "bottom": 0.9177,
+        "width": 0.3965,
+        "height": 0.7129
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3603,
+        "top": 0.2878,
+        "right": 0.6716,
+        "bottom": 0.8478,
+        "width": 0.3113,
+        "height": 0.56
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "multi_column"
+}

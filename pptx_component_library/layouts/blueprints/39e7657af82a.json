@@ -1,0 +1,132 @@
+{
+  "id": "39e7657af82a",
+  "template": "template_business_case",
+  "slide_num": 1,
+  "layout_name": "Frontpage",
+  "element_count": 4,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "right": 1.0,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 13.33,
+        "height": 7.5
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0994,
+        "top": 0.0,
+        "width": 0.7976,
+        "height": 0.8186,
+        "right": 0.8971,
+        "bottom": 0.8186
+      },
+      "position_inches": {
+        "left": 1.33,
+        "top": 0.0,
+        "width": 10.64,
+        "height": 6.14
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.132,
+        "top": 0.0849,
+        "width": 0.606,
+        "height": 0.2468,
+        "right": 0.738,
+        "bottom": 0.3317
+      },
+      "position_inches": {
+        "left": 1.76,
+        "top": 0.64,
+        "width": 8.08,
+        "height": 1.85
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Business Case Template \u000b\u000bComplete PowerPoint templ"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.7214,
+        "width": 0.1707,
+        "height": 0.0577,
+        "right": 0.3114,
+        "bottom": 0.7791
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 5.41,
+        "width": 2.28,
+        "height": 0.43
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.1407,
+        "top": 0.7214,
+        "right": 0.3114,
+        "bottom": 0.7791,
+        "width": 0.1707,
+        "height": 0.0577
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0,
+    "bottom": 0.0,
+    "left_inches": 0.0,
+    "right_inches": 0.0,
+    "top_inches": 0.0,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 4
+  },
+  "category": "mixed_content"
+}

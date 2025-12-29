@@ -1,0 +1,1660 @@
+{
+  "id": "6e9ea195a0b4",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 297,
+  "layout_name": "Default",
+  "element_count": 73,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Many private equity funds have made investments in"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.3079,
+        "width": 0.1211,
+        "height": 0.0302,
+        "right": 0.3719,
+        "bottom": 0.338
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 2.31,
+        "width": 1.61,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target EV EUR M 75-800"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.2978,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.3481
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 2.23,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Independent mid-market European private equity inv"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.3079,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.338
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 2.31,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "UK"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.2877,
+        "width": 0.1898,
+        "height": 0.0706,
+        "right": 0.9446,
+        "bottom": 0.3582
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 2.16,
+        "width": 2.53,
+        "height": 0.53
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Interest in retail sector. However no current inve"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.561,
+        "width": 0.1211,
+        "height": 0.0302,
+        "right": 0.3719,
+        "bottom": 0.5912
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 4.21,
+        "width": 1.61,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "EV < EUR B 2.0"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.5414,
+        "width": 0.3491,
+        "height": 0.0706,
+        "right": 0.7382,
+        "bottom": 0.612
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 4.06,
+        "width": 4.65,
+        "height": 0.53
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Buyout, recap and equity investments in Western an"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.561,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.5912
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 4.21,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "US"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.5509,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.6013
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 4.13,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Strong focus on \u2018Retail & Consumer\u2019 sector. Many i"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.3711,
+        "width": 0.1211,
+        "height": 0.0302,
+        "right": 0.3719,
+        "bottom": 0.4013
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 2.78,
+        "width": 1.61,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Mid-market companies"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.3713,
+        "width": 0.3491,
+        "height": 0.0302,
+        "right": 0.7382,
+        "bottom": 0.4015
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 2.78,
+        "width": 4.65,
+        "height": 0.23
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Focus on investments in the Nordic region, with no"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.3711,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.4013
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 2.78,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "SE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.3711,
+        "width": 0.1898,
+        "height": 0.0302,
+        "right": 0.9446,
+        "bottom": 0.4013
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 2.78,
+        "width": 2.53,
+        "height": 0.23
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Does not seem to fit with current portfolio"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.4243,
+        "width": 0.1211,
+        "height": 0.0504,
+        "right": 0.3719,
+        "bottom": 0.4747
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 3.18,
+        "width": 1.61,
+        "height": 0.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Turnover range from EUR 200-3000"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.4246,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.475
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 3.18,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Paris-based PE fund investing in mid-market compan"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.4344,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.4646
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 3.26,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "FR"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.4243,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.4747
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 3.18,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Interest in clothing retail sector through ownersh"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.4977,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.5279
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 3.73,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "GE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.4881,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.5384
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 3.66,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Leading private equity group with operations\u00a0in No"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.4876,
+        "width": 0.1969,
+        "height": 0.0504,
+        "right": 0.9516,
+        "bottom": 0.538
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 3.66,
+        "width": 2.62,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Clothing retail/wholesale interest through ownersh"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.4876,
+        "width": 0.1211,
+        "height": 0.0504,
+        "right": 0.3719,
+        "bottom": 0.538
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 3.66,
+        "width": 1.61,
+        "height": 0.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target equity size of around EUR M 250"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.6142,
+        "width": 0.1211,
+        "height": 0.0504,
+        "right": 0.3719,
+        "bottom": 0.6646
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 4.61,
+        "width": 1.61,
+        "height": 0.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Alt. buyer] has committed capital of EUR M 1550"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.625,
+        "width": 0.3491,
+        "height": 0.0302,
+        "right": 0.7382,
+        "bottom": 0.6552
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 4.69,
+        "width": 4.65,
+        "height": 0.23
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "German investment fund \u2013 no specific sector focus."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.6243,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.6545
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 4.68,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "GE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.6243,
+        "width": 0.1898,
+        "height": 0.0302,
+        "right": 0.9446,
+        "bottom": 0.6545
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 4.68,
+        "width": 2.53,
+        "height": 0.23
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Does not seem to fit with current portfolio"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.6876,
+        "width": 0.1211,
+        "height": 0.0302,
+        "right": 0.3719,
+        "bottom": 0.7177
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 5.16,
+        "width": 1.61,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Target EV EUR M 350-500"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.6876,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.7177
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 5.16,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "BE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.6784,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.7288
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 5.09,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Mid-market buyouts of mature companies with proven"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.6775,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.7278
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 5.08,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Interest in retail/wholesale sector with investmen"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.7407,
+        "width": 0.1211,
+        "height": 0.0504,
+        "right": 0.3719,
+        "bottom": 0.7911
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 5.56,
+        "width": 1.61,
+        "height": 0.38
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Equity investment of EUR M 20-100"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.7418,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.7922
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 5.56,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "PE fund with focus on investments in Benelux count"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.7508,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.781
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 5.63,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "BE"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.7407,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.7911
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 5.56,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Interest in retail sector through ownership of [Re"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.804,
+        "width": 0.1211,
+        "height": 0.0504,
+        "right": 0.3719,
+        "bottom": 0.8544
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 6.03,
+        "width": 1.61,
+        "height": 0.38
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Target EV EUR M 250- 20 000"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.8052,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.8556
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 6.04,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "PE fund with global focus. 14 investments in Asia"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.8141,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.8443
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 6.11,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "LUX"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.804,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.8544
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 6.03,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Interest in retail sector through ownership of [Ba"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.8788,
+        "width": 0.1211,
+        "height": 0.0302,
+        "right": 0.3719,
+        "bottom": 0.909
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 6.59,
+        "width": 1.61,
+        "height": 0.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Target EV > EUR M 750"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.8687,
+        "width": 0.3491,
+        "height": 0.0504,
+        "right": 0.7382,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 6.52,
+        "width": 4.65,
+        "height": 0.38
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Strong European focus. Focus split on four sectors"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.8788,
+        "width": 0.0702,
+        "height": 0.0302,
+        "right": 0.2335,
+        "bottom": 0.909
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 6.59,
+        "width": 0.94,
+        "height": 0.23
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "UK"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.8687,
+        "width": 0.1898,
+        "height": 0.0504,
+        "right": 0.9446,
+        "bottom": 0.9191
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 6.52,
+        "width": 2.53,
+        "height": 0.38
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Strong presence in retail sector including clothin"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.2488,
+        "width": 0.0707,
+        "height": 0.0369,
+        "right": 0.8255,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 1.87,
+        "width": 0.94,
+        "height": 0.28
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Comments"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7548,
+        "top": 0.2913,
+        "width": 0.1898,
+        "height": 0.0,
+        "right": 0.9446,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 10.06,
+        "top": 2.18,
+        "width": 2.53,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.2488,
+        "width": 0.1008,
+        "height": 0.0369,
+        "right": 0.146,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 1.87,
+        "width": 1.34,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Company Name"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0452,
+        "top": 0.2913,
+        "width": 0.1008,
+        "height": 0.0,
+        "right": 0.146,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.18,
+        "width": 1.34,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3546,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3546
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.66,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6077,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.6077
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.56,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4179,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4179
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.13,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4812,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.4812
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.61,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5444,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5444
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.08,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.671,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.671
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.03,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7343,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7343
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.51,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.7976,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.7976
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 5.98,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.8609,
+        "width": 0.909,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.8609
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.46,
+        "width": 12.12,
+        "height": 0.0
+      },
+      "zone": "bottom_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.2488,
+        "width": 0.0702,
+        "height": 0.0369,
+        "right": 0.2335,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 1.87,
+        "width": 0.94,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Nationality"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1633,
+        "top": 0.2913,
+        "width": 0.0702,
+        "height": 0.0,
+        "right": 0.2335,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 2.18,
+        "top": 2.18,
+        "width": 0.94,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.2488,
+        "width": 0.0995,
+        "height": 0.0369,
+        "right": 0.3502,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 1.87,
+        "width": 1.33,
+        "height": 0.28
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Investment size"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2508,
+        "top": 0.2913,
+        "width": 0.1211,
+        "height": 0.0,
+        "right": 0.3719,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 3.34,
+        "top": 2.18,
+        "width": 1.61,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.2488,
+        "width": 0.0428,
+        "height": 0.0369,
+        "right": 0.432,
+        "bottom": 0.2858
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 1.87,
+        "width": 0.57,
+        "height": 0.28
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Focus"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3891,
+        "top": 0.2913,
+        "width": 0.3491,
+        "height": 0.0,
+        "right": 0.7382,
+        "bottom": 0.2913
+      },
+      "position_inches": {
+        "left": 5.19,
+        "top": 2.18,
+        "width": 4.65,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.2979,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.3473
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 2.23,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.3612,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.4106
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 2.71,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.4245,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.4738
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 3.18,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.4877,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.5371
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 3.66,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.551,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.6004
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 4.13,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.6143,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.6636
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 4.61,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.6775,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.7269
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 5.08,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.7408,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.7901
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 5.56,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.804,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.8534
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 6.03,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.049,
+        "top": 0.8673,
+        "width": 0.0932,
+        "height": 0.0494,
+        "right": 0.1422,
+        "bottom": 0.9167
+      },
+      "position_inches": {
+        "left": 0.65,
+        "top": 6.5,
+        "width": 1.24,
+        "height": 0.37
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "[Sanitized logo]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [ConsultingCo] analysis"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0452,
+        "top": 0.2488,
+        "right": 0.3719,
+        "bottom": 0.7911,
+        "width": 0.3267,
+        "height": 0.5423
+      },
+      "element_count": 30,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2488,
+        "right": 0.9545,
+        "bottom": 0.7976,
+        "width": 0.909,
+        "height": 0.5488
+      },
+      "element_count": 18,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7548,
+        "top": 0.2488,
+        "right": 0.9516,
+        "bottom": 0.7911,
+        "width": 0.1968,
+        "height": 0.5423
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.049,
+        "top": 0.804,
+        "right": 0.3719,
+        "bottom": 0.9167,
+        "width": 0.3229,
+        "height": 0.1127
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.8052,
+        "right": 0.9545,
+        "bottom": 0.9852,
+        "width": 0.9161,
+        "height": 0.18
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.7548,
+        "top": 0.804,
+        "right": 0.9446,
+        "bottom": 0.9191,
+        "width": 0.1898,
+        "height": 0.1151
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 73
+  },
+  "category": "multi_column"
+}

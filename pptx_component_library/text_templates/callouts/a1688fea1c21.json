@@ -1,0 +1,26 @@
+{
+  "template": "template_market_analysis",
+  "slide_num": 4,
+  "pattern_type": "callout",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "center (2)",
+      "text_length": 89,
+      "word_count": 14,
+      "font_size": 12.0,
+      "font_name": "Arial",
+      "bold": false,
+      "italic": true
+    }
+  ],
+  "sample_text": "Note: Some reports will have the key findings up front, following the pyramid principle. ",
+  "usage_count": 90,
+  "callout_type": "note",
+  "id": "a1688fea1c21"
+}

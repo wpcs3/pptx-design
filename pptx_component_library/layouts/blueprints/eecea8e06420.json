@@ -1,0 +1,420 @@
+{
+  "id": "eecea8e06420",
+  "template": "template_business_case",
+  "slide_num": 34,
+  "layout_name": "Default",
+  "element_count": 14,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Executive summary"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2929,
+        "width": 0.5639,
+        "height": 0.3002,
+        "right": 0.6094,
+        "bottom": 0.593
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.2,
+        "width": 7.52,
+        "height": 2.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Project background and benefits [Insert brief desc"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.6125,
+        "width": 0.5639,
+        "height": 0.3002,
+        "right": 0.6094,
+        "bottom": 0.9127
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.59,
+        "width": 7.52,
+        "height": 2.25
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Costs, team, and setup"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.2929,
+        "width": 0.3287,
+        "height": 0.6198,
+        "right": 0.9545,
+        "bottom": 0.9127
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 2.2,
+        "width": 4.38,
+        "height": 4.65
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Expected outcome"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0628,
+        "top": 0.8,
+        "width": 0.2573,
+        "height": 0.0996,
+        "right": 0.3201,
+        "bottom": 0.8996
+      },
+      "position_inches": {
+        "left": 0.84,
+        "top": 6.0,
+        "width": 3.43,
+        "height": 0.75
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Number of FTEs needed: [Insert number]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3348,
+        "top": 0.6816,
+        "width": 0.2573,
+        "height": 0.0996,
+        "right": 0.592,
+        "bottom": 0.7812
+      },
+      "position_inches": {
+        "left": 4.46,
+        "top": 5.11,
+        "width": 3.43,
+        "height": 0.75
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Project sponsor: [Insert name]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0628,
+        "top": 0.6816,
+        "width": 0.2573,
+        "height": 0.0996,
+        "right": 0.3201,
+        "bottom": 0.7812
+      },
+      "position_inches": {
+        "left": 0.84,
+        "top": 5.11,
+        "width": 3.43,
+        "height": 0.75
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Project costs: [Insert expected costs]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3348,
+        "top": 0.8,
+        "width": 0.2573,
+        "height": 0.0996,
+        "right": 0.592,
+        "bottom": 0.8996
+      },
+      "position_inches": {
+        "left": 4.46,
+        "top": 6.0,
+        "width": 3.43,
+        "height": 0.75
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Project manager: [Insert name]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6425,
+        "top": 0.353,
+        "width": 0.2953,
+        "height": 0.0449,
+        "right": 0.9378,
+        "bottom": 0.3979
+      },
+      "position_inches": {
+        "left": 8.57,
+        "top": 2.65,
+        "width": 3.94,
+        "height": 0.34
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Revenue generated, [unit]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6425,
+        "top": 0.6816,
+        "width": 0.2953,
+        "height": 0.0996,
+        "right": 0.9378,
+        "bottom": 0.7812
+      },
+      "position_inches": {
+        "left": 8.57,
+        "top": 5.11,
+        "width": 3.94,
+        "height": 0.75
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Net present value (NPV): [Insert NPV]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6425,
+        "top": 0.8,
+        "width": 0.2953,
+        "height": 0.0996,
+        "right": 0.9378,
+        "bottom": 0.8996
+      },
+      "position_inches": {
+        "left": 8.57,
+        "top": 6.0,
+        "width": 3.94,
+        "height": 0.75
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Return on investment (ROI): [Insert ROI]"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.6419,
+        "top": 0.3979,
+        "width": 0.2953,
+        "height": 0.2649,
+        "right": 0.9372,
+        "bottom": 0.6628
+      },
+      "position_inches": {
+        "left": 8.56,
+        "top": 2.98,
+        "width": 3.94,
+        "height": 1.99
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.7812,
+        "width": 0.909,
+        "height": 0.5889
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.2929,
+        "right": 0.6094,
+        "bottom": 0.9127,
+        "width": 0.5639,
+        "height": 0.6198
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.2929,
+        "right": 0.9545,
+        "bottom": 0.9127,
+        "width": 0.3287,
+        "height": 0.6198
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0628,
+        "top": 0.8,
+        "right": 0.3201,
+        "bottom": 0.8996,
+        "width": 0.2573,
+        "height": 0.0996
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.3348,
+        "top": 0.8,
+        "right": 0.592,
+        "bottom": 0.8996,
+        "width": 0.2572,
+        "height": 0.0996
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.6425,
+        "top": 0.8,
+        "right": 0.9378,
+        "bottom": 0.8996,
+        "width": 0.2953,
+        "height": 0.0996
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0873,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.65
+  },
+  "content_types": {
+    "other": 14
+  },
+  "category": "multi_column"
+}

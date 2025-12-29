@@ -1,0 +1,166 @@
+{
+  "id": "3cedc9aa06d4",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 117,
+  "layout_name": "Frontpage dark",
+  "element_count": 5,
+  "elements": [
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 1.0,
+        "height": 1.0,
+        "right": 1.0,
+        "bottom": 1.0
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 13.33,
+        "height": 7.5
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0994,
+        "top": 0.0,
+        "width": 0.7976,
+        "height": 0.8186,
+        "right": 0.8971,
+        "bottom": 0.8186
+      },
+      "position_inches": {
+        "left": 1.33,
+        "top": 0.0,
+        "width": 10.64,
+        "height": 6.14
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.3049,
+        "width": 0.5131,
+        "height": 0.0449,
+        "right": 0.6538,
+        "bottom": 0.3498
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 2.29,
+        "width": 6.84,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Presentation to [Buyer], September 2023"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.1407,
+        "top": 0.0756,
+        "width": 0.5617,
+        "height": 0.2117,
+        "right": 0.7024,
+        "bottom": 0.2873
+      },
+      "position_inches": {
+        "left": 1.88,
+        "top": 0.57,
+        "width": 7.49,
+        "height": 1.59
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Pre-study of [Target]"
+    }
+  ],
+  "zones": [
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0,
+        "top": 0.0,
+        "right": 1.0,
+        "bottom": 1.0,
+        "width": 1.0,
+        "height": 1.0
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0002,
+        "bottom": 0.0005,
+        "width": 0.0001,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.1407,
+        "top": 0.0756,
+        "right": 0.7024,
+        "bottom": 0.2873,
+        "width": 0.5617,
+        "height": 0.2117
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0,
+    "right": 0.0,
+    "top": 0.0,
+    "bottom": 0.0,
+    "left_inches": 0.0,
+    "right_inches": 0.0,
+    "top_inches": 0.0,
+    "bottom_inches": 0.0
+  },
+  "content_types": {
+    "other": 5
+  },
+  "category": "mixed_content"
+}

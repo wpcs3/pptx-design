@@ -1,0 +1,99 @@
+{
+  "version": "1.0.0",
+  "description": "LLM configuration for pptx_generator Phase 1",
+  "defaults": {
+    "model": "claude-3.5-sonnet",
+    "use_litellm": true,
+    "tone": "professional",
+    "verbosity": "standard",
+    "max_tokens": 4096,
+    "temperature": 0.7
+  },
+  "tone_options": {
+    "default": {
+      "description": "No specific tone modification",
+      "use_case": "General purpose generation"
+    },
+    "professional": {
+      "description": "Formal business language with precise terminology",
+      "use_case": "Investor presentations, board materials"
+    },
+    "casual": {
+      "description": "Conversational, approachable language",
+      "use_case": "Internal team presentations, informal updates"
+    },
+    "sales_pitch": {
+      "description": "Persuasive language with clear calls to action",
+      "use_case": "Sales decks, marketing materials"
+    },
+    "educational": {
+      "description": "Clear explanations with examples",
+      "use_case": "Training materials, onboarding"
+    },
+    "executive": {
+      "description": "Concise, strategic, focused on business impact",
+      "use_case": "C-suite presentations, executive summaries"
+    }
+  },
+  "verbosity_options": {
+    "concise": {
+      "description": "Extremely brief, bullet-focused",
+      "max_bullets_per_slide": 4,
+      "max_words_per_bullet": 8
+    },
+    "standard": {
+      "description": "Balanced detail with complete sentences",
+      "max_bullets_per_slide": 6,
+      "max_words_per_bullet": 15
+    },
+    "detailed": {
+      "description": "Comprehensive coverage with supporting context",
+      "max_bullets_per_slide": 8,
+      "max_words_per_bullet": 25
+    }
+  },
+  "recommended_models": {
+    "high_quality": {
+      "model": "claude-3.5-sonnet",
+      "description": "Best for final presentations requiring high quality",
+      "cost": "medium"
+    },
+    "fast_iteration": {
+      "model": "claude-3.5-haiku",
+      "description": "Good for drafts and quick iterations",
+      "cost": "low"
+    },
+    "budget_friendly": {
+      "model": "gpt-4o-mini",
+      "description": "Cost-effective for bulk generation",
+      "cost": "very_low"
+    },
+    "local": {
+      "model": "ollama-llama3.2",
+      "description": "Free local generation (requires Ollama running)",
+      "cost": "free"
+    }
+  },
+  "presentation_type_settings": {
+    "investment_pitch": {
+      "recommended_tone": "professional",
+      "recommended_verbosity": "standard",
+      "model_recommendation": "high_quality"
+    },
+    "market_analysis": {
+      "recommended_tone": "professional",
+      "recommended_verbosity": "detailed",
+      "model_recommendation": "high_quality"
+    },
+    "internal_update": {
+      "recommended_tone": "casual",
+      "recommended_verbosity": "concise",
+      "model_recommendation": "fast_iteration"
+    },
+    "executive_summary": {
+      "recommended_tone": "executive",
+      "recommended_verbosity": "concise",
+      "model_recommendation": "high_quality"
+    }
+  }
+}

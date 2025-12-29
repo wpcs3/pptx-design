@@ -1,0 +1,31 @@
+{
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 14,
+  "pattern_type": "title",
+  "paragraph_count": 1,
+  "max_level": 0,
+  "has_bullets": false,
+  "structure": [
+    {
+      "level": 0,
+      "has_bullet": false,
+      "bullet_char": null,
+      "alignment": "left",
+      "text_length": 9,
+      "word_count": 1,
+      "font_size": 48.0,
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "sample_text": "[Section]",
+  "usage_count": 9,
+  "title_style": {
+    "format": "statement",
+    "case": "title",
+    "font_size": 48.0,
+    "bold": false,
+    "alignment": "left"
+  },
+  "id": "c0561630eddf"
+}

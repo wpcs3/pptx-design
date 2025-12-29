@@ -1,0 +1,600 @@
+{
+  "id": "ae5991f1a785",
+  "template": "template_market_analysis",
+  "slide_num": 132,
+  "layout_name": "Default",
+  "element_count": 24,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0445,
+        "width": 0.909,
+        "height": 0.114,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.85
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "The purpose of this project was to determine wheth"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0404,
+        "right": 0.9545,
+        "bottom": 0.2327
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Objective and key hypotheses for this project"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #1"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.4626,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.2373,
+        "bottom": 0.528
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.47,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Objective"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.528,
+        "width": 0.1918,
+        "height": 0.1951,
+        "right": 0.2373,
+        "bottom": 0.7231
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.96,
+        "width": 2.56,
+        "height": 1.46
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Clarify if existing research into customer EV buyi"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.5118,
+        "top": 0.6506,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.7036,
+        "bottom": 0.716
+      },
+      "position_inches": {
+        "left": 6.82,
+        "top": 4.88,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Research"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.745,
+        "top": 0.4626,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.9368,
+        "bottom": 0.528
+      },
+      "position_inches": {
+        "left": 9.93,
+        "top": 3.47,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Conclusion"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.5118,
+        "top": 0.3114,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.7036,
+        "bottom": 0.3768
+      },
+      "position_inches": {
+        "left": 6.82,
+        "top": 2.34,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Research"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2787,
+        "top": 0.3114,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.4704,
+        "bottom": 0.3768
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 2.34,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Hypothesis 1"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2787,
+        "top": 0.3768,
+        "width": 0.1918,
+        "height": 0.1583,
+        "right": 0.4704,
+        "bottom": 0.5351
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 2.83,
+        "width": 2.56,
+        "height": 1.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Perceived inability to complete any journey as con"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5118,
+        "top": 0.3768,
+        "width": 0.1918,
+        "height": 0.1583,
+        "right": 0.7036,
+        "bottom": 0.5351
+      },
+      "position_inches": {
+        "left": 6.82,
+        "top": 2.83,
+        "width": 2.56,
+        "height": 1.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Does existing research support this hypothesis?"
+    },
+    {
+      "shape_type": "FREEFORM (5)",
+      "category": "other",
+      "position": {
+        "left": 0.2787,
+        "top": 0.6506,
+        "width": 0.1918,
+        "height": 0.0654,
+        "right": 0.4704,
+        "bottom": 0.716
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 4.88,
+        "width": 2.56,
+        "height": 0.49
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Hypothesis 2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2787,
+        "top": 0.716,
+        "width": 0.1918,
+        "height": 0.1583,
+        "right": 0.4704,
+        "bottom": 0.8743
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 5.37,
+        "width": 2.56,
+        "height": 1.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Rapid chargers are effective method of improving p"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5118,
+        "top": 0.716,
+        "width": 0.1918,
+        "height": 0.1583,
+        "right": 0.7036,
+        "bottom": 0.8743
+      },
+      "position_inches": {
+        "left": 6.82,
+        "top": 5.37,
+        "width": 2.56,
+        "height": 1.19
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Does existing research support this hypothesis?"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.745,
+        "top": 0.528,
+        "width": 0.1918,
+        "height": 0.1951,
+        "right": 0.9368,
+        "bottom": 0.7231
+      },
+      "position_inches": {
+        "left": 9.93,
+        "top": 3.96,
+        "width": 2.56,
+        "height": 1.46
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Determine: Is the lack of rapid charging a determi"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2373,
+        "top": 0.6255,
+        "width": 0.0414,
+        "height": 0.1696,
+        "right": 0.2787,
+        "bottom": 0.7951
+      },
+      "position_inches": {
+        "left": 3.16,
+        "top": 4.69,
+        "width": 0.55,
+        "height": 1.27
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2373,
+        "top": 0.4559,
+        "width": 0.0414,
+        "height": 0.1696,
+        "right": 0.2787,
+        "bottom": 0.6255
+      },
+      "position_inches": {
+        "left": 3.16,
+        "top": 3.42,
+        "width": 0.55,
+        "height": 1.27
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7036,
+        "top": 0.6255,
+        "width": 0.0414,
+        "height": 0.1696,
+        "right": 0.745,
+        "bottom": 0.7951
+      },
+      "position_inches": {
+        "left": 9.38,
+        "top": 4.69,
+        "width": 0.55,
+        "height": 1.27
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.7036,
+        "top": 0.4559,
+        "width": 0.0414,
+        "height": 0.1696,
+        "right": 0.745,
+        "bottom": 0.6255
+      },
+      "position_inches": {
+        "left": 9.38,
+        "top": 3.42,
+        "width": 0.55,
+        "height": 1.27
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4704,
+        "top": 0.4559,
+        "width": 0.0414,
+        "height": 0.0,
+        "right": 0.5118,
+        "bottom": 0.4559
+      },
+      "position_inches": {
+        "left": 6.27,
+        "top": 3.42,
+        "width": 0.55,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4704,
+        "top": 0.7951,
+        "width": 0.0414,
+        "height": 0.0,
+        "right": 0.5118,
+        "bottom": 0.7951
+      },
+      "position_inches": {
+        "left": 6.27,
+        "top": 5.96,
+        "width": 0.55,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.286,
+        "top": 0.3231,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.3096,
+        "bottom": 0.3651
+      },
+      "position_inches": {
+        "left": 3.81,
+        "top": 2.42,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "1"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.286,
+        "top": 0.6623,
+        "width": 0.0236,
+        "height": 0.042,
+        "right": 0.3096,
+        "bottom": 0.7043
+      },
+      "position_inches": {
+        "left": 3.81,
+        "top": 4.97,
+        "width": 0.31,
+        "height": 0.31
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "2"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0445,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1139
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.8743,
+        "width": 0.909,
+        "height": 0.682
+      },
+      "element_count": 11,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3231,
+        "right": 0.3096,
+        "bottom": 0.7951,
+        "width": 0.2641,
+        "height": 0.472
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.7036,
+        "top": 0.4559,
+        "right": 0.9368,
+        "bottom": 0.7951,
+        "width": 0.2332,
+        "height": 0.3392
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.1257,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.94
+  },
+  "content_types": {
+    "other": 24
+  },
+  "category": "multi_column"
+}

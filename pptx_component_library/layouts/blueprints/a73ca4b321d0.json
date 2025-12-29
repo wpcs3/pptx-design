@@ -1,0 +1,790 @@
+{
+  "id": "a73ca4b321d0",
+  "template": "template_market_analysis",
+  "slide_num": 199,
+  "layout_name": "Default",
+  "element_count": 32,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.351,
+        "width": 0.3047,
+        "height": 0.3837,
+        "right": 0.9545,
+        "bottom": 0.7347
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.63,
+        "width": 4.06,
+        "height": 2.88
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "According to market research1, 90% of customers in"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "width": 0.909,
+        "height": 0.1141,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.33,
+        "width": 12.12,
+        "height": 0.86
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Majority of consumers favour online channels for e"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #3"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.9482,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6439,
+        "bottom": 0.9684
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 7.11,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: [sanitized]; [sanitized]; [sanitized]; Tea"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0458,
+        "top": 0.9101,
+        "width": 0.5984,
+        "height": 0.0202,
+        "right": 0.6443,
+        "bottom": 0.9303
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 6.83,
+        "width": 7.98,
+        "height": 0.15
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Footnote: 1. Link here; 2. Link here, n=2150; 3. L"
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0449,
+        "top": 0.3759,
+        "width": 0.5985,
+        "height": 0.3771,
+        "right": 0.6434,
+        "bottom": 0.753
+      },
+      "position_inches": {
+        "left": 0.6,
+        "top": 2.82,
+        "width": 7.98,
+        "height": 2.83
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5593,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0449,
+        "right": 0.6434,
+        "bottom": 0.846
+      },
+      "position_inches": {
+        "left": 7.46,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.34
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "View equipment in more detail"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0508,
+        "top": 0.7167,
+        "width": 0.0725,
+        "height": 0.0673,
+        "right": 0.1232,
+        "bottom": 0.784
+      },
+      "position_inches": {
+        "left": 0.68,
+        "top": 5.37,
+        "width": 0.97,
+        "height": 0.5
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Check if equipment available"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0917,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0449,
+        "right": 0.1758,
+        "bottom": 0.846
+      },
+      "position_inches": {
+        "left": 1.22,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.34
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Compare specific models"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1443,
+        "top": 0.7167,
+        "width": 0.0725,
+        "height": 0.0449,
+        "right": 0.2167,
+        "bottom": 0.7615
+      },
+      "position_inches": {
+        "left": 1.92,
+        "top": 5.37,
+        "width": 0.97,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Look for best deal"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.1852,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0673,
+        "right": 0.2693,
+        "bottom": 0.8684
+      },
+      "position_inches": {
+        "left": 2.47,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.5
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Explore equipment finance options"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2378,
+        "top": 0.7167,
+        "width": 0.0725,
+        "height": 0.0449,
+        "right": 0.3103,
+        "bottom": 0.7615
+      },
+      "position_inches": {
+        "left": 3.17,
+        "top": 5.37,
+        "width": 0.97,
+        "height": 0.34
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Decide add-ons"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2787,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0449,
+        "right": 0.3629,
+        "bottom": 0.846
+      },
+      "position_inches": {
+        "left": 3.72,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.34
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Contacting a supplier / seller"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3251,
+        "top": 0.7167,
+        "width": 0.085,
+        "height": 0.0449,
+        "right": 0.41,
+        "bottom": 0.7615
+      },
+      "position_inches": {
+        "left": 4.33,
+        "top": 5.37,
+        "width": 1.13,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Arranging delivery/ collection"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.3723,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0224,
+        "right": 0.4564,
+        "bottom": 0.8235
+      },
+      "position_inches": {
+        "left": 4.96,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.17
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "[Sanitized]"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4195,
+        "top": 0.7167,
+        "width": 0.0833,
+        "height": 0.0449,
+        "right": 0.5027,
+        "bottom": 0.7615
+      },
+      "position_inches": {
+        "left": 5.59,
+        "top": 5.37,
+        "width": 1.11,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Complete finance agreement"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4658,
+        "top": 0.8011,
+        "width": 0.0841,
+        "height": 0.0224,
+        "right": 0.5499,
+        "bottom": 0.8235
+      },
+      "position_inches": {
+        "left": 6.21,
+        "top": 6.01,
+        "width": 1.12,
+        "height": 0.17
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Agree on price"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5184,
+        "top": 0.7167,
+        "width": 0.0725,
+        "height": 0.0449,
+        "right": 0.5908,
+        "bottom": 0.7615
+      },
+      "position_inches": {
+        "left": 6.91,
+        "top": 5.37,
+        "width": 0.97,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Complete purchase"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1302,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.1302,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 1.74,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.2273,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.2273,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 3.03,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3208,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.3208,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 4.28,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4158,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.4158,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 5.54,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5108,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.5108,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 6.81,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6086,
+        "top": 0.7167,
+        "width": 0.0,
+        "height": 0.0844,
+        "right": 0.6086,
+        "bottom": 0.8011
+      },
+      "position_inches": {
+        "left": 8.11,
+        "top": 5.37,
+        "width": 0.0,
+        "height": 0.63
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.2552,
+        "width": 0.5879,
+        "height": 0.0624,
+        "right": 0.6334,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.91,
+        "width": 7.84,
+        "height": 0.47
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The closer a consumer gets to final purchase, the"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3298,
+        "width": 0.588,
+        "height": 0.0,
+        "right": 0.6335,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.47,
+        "width": 7.84,
+        "height": 0.0
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "width": 0.3047,
+        "height": 0.0624,
+        "right": 0.9545,
+        "bottom": 0.3176
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 1.91,
+        "width": 4.06,
+        "height": 0.47
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Further market research"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6498,
+        "top": 0.3298,
+        "width": 0.3047,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3298
+      },
+      "position_inches": {
+        "left": 8.66,
+        "top": 2.47,
+        "width": 4.06,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "width": 0.5211,
+        "height": 0.0269,
+        "right": 0.5666,
+        "bottom": 0.3672
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.55,
+        "width": 6.95,
+        "height": 0.2
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Where consumers would prefer to carry out stages o"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6416,
+        "top": 0.2488,
+        "width": 0.0,
+        "height": 0.6567,
+        "right": 0.6416,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 8.55,
+        "top": 1.87,
+        "width": 0.0,
+        "height": 4.93
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.3742,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_left",
+      "has_text": true,
+      "text_sample": "MARKET DYNAMICS"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.3742,
+        "bottom": 0.0326,
+        "width": 0.3741,
+        "height": 0.0324
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.6498,
+        "top": 0.2552,
+        "right": 0.9545,
+        "bottom": 0.7347,
+        "width": 0.3047,
+        "height": 0.4795
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0444,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.114
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.8011,
+        "right": 0.6443,
+        "bottom": 0.9684,
+        "width": 0.5988,
+        "height": 0.1673
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0449,
+        "top": 0.2488,
+        "right": 0.6434,
+        "bottom": 0.9056,
+        "width": 0.5985,
+        "height": 0.6568
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3402,
+        "right": 0.5666,
+        "bottom": 0.8011,
+        "width": 0.5211,
+        "height": 0.4609
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.0917,
+        "top": 0.8011,
+        "right": 0.3629,
+        "bottom": 0.8684,
+        "width": 0.2712,
+        "height": 0.0673
+      },
+      "element_count": 3,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0316,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.24
+  },
+  "content_types": {
+    "other": 32
+  },
+  "category": "multi_column"
+}

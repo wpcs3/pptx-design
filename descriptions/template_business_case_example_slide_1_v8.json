@@ -1,0 +1,130 @@
+{
+  "slide_dimensions": {
+    "width_inches": 13.333,
+    "height_inches": 7.5,
+    "aspect_ratio": "16:9"
+  },
+  "background": {
+    "type": "solid",
+    "color": "#FFFFFF"
+  },
+  "elements": [
+    {
+      "id": "top_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.0,
+        "width_inches": 12.333,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "fill_color": "#000000",
+        "border_color": "#000000",
+        "border_width_pt": 1.5,
+        "shape_type": "line"
+      }
+    },
+    {
+      "id": "executive_summary_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 1.7,
+        "width_inches": 6.0,
+        "height_inches": 4.0
+      },
+      "text_properties": {
+        "placeholder_text": "Executive\nsummary",
+        "font_family": "Calibri",
+        "font_size_pt": 48,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "large_number_1",
+      "type": "textbox",
+      "position": {
+        "left_inches": 9.0,
+        "top_inches": 1.6,
+        "width_inches": 3.5,
+        "height_inches": 4.5
+      },
+      "text_properties": {
+        "placeholder_text": "1",
+        "font_family": "Calibri",
+        "font_size_pt": 200,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "right",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "bottom_line",
+      "type": "line",
+      "position": {
+        "left_inches": 0.5,
+        "top_inches": 6.8,
+        "width_inches": 12.333,
+        "height_inches": 0.0
+      },
+      "shape_properties": {
+        "fill_color": "#000000",
+        "border_color": "#000000",
+        "border_width_pt": 1.5,
+        "shape_type": "line"
+      }
+    },
+    {
+      "id": "company_name_text",
+      "type": "textbox",
+      "position": {
+        "left_inches": 10.3,
+        "top_inches": 6.9,
+        "width_inches": 1.8,
+        "height_inches": 0.35
+      },
+      "text_properties": {
+        "placeholder_text": "Company Name",
+        "font_family": "Calibri",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    },
+    {
+      "id": "footer_page_number",
+      "type": "textbox",
+      "position": {
+        "left_inches": 12.6,
+        "top_inches": 6.9,
+        "width_inches": 0.25,
+        "height_inches": 0.35
+      },
+      "text_properties": {
+        "placeholder_text": "1",
+        "font_family": "Calibri",
+        "font_size_pt": 10,
+        "font_color": "#000000",
+        "bold": false,
+        "italic": false,
+        "alignment": "left",
+        "vertical_alignment": "top"
+      }
+    }
+  ],
+  "color_palette": [
+    "#FFFFFF",
+    "#000000"
+  ],
+  "design_notes": "Clean, minimalist slide design with strong black typography on white background. Features horizontal lines at top and bottom as design elements with moderate 1.5pt weight matching original template thickness. Large decorative number '1' on right side uses slightly reduced font size (200pt) to match original weight and rendering appearance. Professional corporate styling with clear visual hierarchy. Footer contains separate textboxes for company name and page number positioned in bottom right area with proper spacing between elements. Font rendering should use natural weight without additional bolding - text appears substantial due to large font size rather than bold formatting. Ensure consistent high-quality anti-aliasing across all text elements with smooth edges rather than overly sharp rendering to match original template appearance. The large number '1' should have smooth, consistent font rendering at reduced size to prevent appearing too bold compared to original."
+}

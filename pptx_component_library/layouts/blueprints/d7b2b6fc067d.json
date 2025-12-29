@@ -1,0 +1,433 @@
+{
+  "id": "d7b2b6fc067d",
+  "template": "pptx_template_due_diligence",
+  "slide_num": 15,
+  "layout_name": "Default",
+  "element_count": 16,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Adopting an investor mindset will make it easier t"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Best-practice guide"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5284,
+        "width": 0.1349,
+        "height": 0.168,
+        "right": 0.1804,
+        "bottom": 0.6964
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.96,
+        "width": 1.8,
+        "height": 1.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Is this a good  business to be in?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2582,
+        "top": 0.3093,
+        "width": 0.1349,
+        "height": 0.168,
+        "right": 0.3931,
+        "bottom": 0.4773
+      },
+      "position_inches": {
+        "left": 3.44,
+        "top": 2.32,
+        "width": 1.8,
+        "height": 1.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "What are the growth opportunities?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2557,
+        "top": 0.5284,
+        "width": 0.1349,
+        "height": 0.168,
+        "right": 0.3906,
+        "bottom": 0.6964
+      },
+      "position_inches": {
+        "left": 3.41,
+        "top": 3.96,
+        "width": 1.8,
+        "height": 1.26
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "What are the  potential  downsides?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2557,
+        "top": 0.7475,
+        "width": 0.1349,
+        "height": 0.168,
+        "right": 0.3906,
+        "bottom": 0.9155
+      },
+      "position_inches": {
+        "left": 3.41,
+        "top": 5.61,
+        "width": 1.8,
+        "height": 1.26
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Are there good  exit opportunities?"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.5277,
+        "width": 0.5469,
+        "height": 0.1687,
+        "right": 0.9545,
+        "bottom": 0.6964
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 3.96,
+        "width": 7.29,
+        "height": 1.27
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "How realistic are our growth projections? Who has"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.3108,
+        "width": 0.5469,
+        "height": 0.168,
+        "right": 0.9545,
+        "bottom": 0.4787
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 2.33,
+        "width": 7.29,
+        "height": 1.26
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Is this business healthy to begin with? What are t"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.7475,
+        "width": 0.5469,
+        "height": 0.168,
+        "right": 0.9545,
+        "bottom": 0.9155
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 5.61,
+        "width": 7.29,
+        "height": 1.26
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Who could potentially acquire this company from us"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1804,
+        "top": 0.3933,
+        "width": 0.0778,
+        "height": 0.2191,
+        "right": 0.2582,
+        "bottom": 0.6124
+      },
+      "position_inches": {
+        "left": 2.41,
+        "top": 2.95,
+        "width": 1.04,
+        "height": 1.64
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1804,
+        "top": 0.6124,
+        "width": 0.0753,
+        "height": 0.0,
+        "right": 0.2557,
+        "bottom": 0.6124
+      },
+      "position_inches": {
+        "left": 2.41,
+        "top": 4.59,
+        "width": 1.0,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1804,
+        "top": 0.6124,
+        "width": 0.0753,
+        "height": 0.2191,
+        "right": 0.2557,
+        "bottom": 0.8315
+      },
+      "position_inches": {
+        "left": 2.41,
+        "top": 4.59,
+        "width": 1.0,
+        "height": 1.64
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.2413,
+        "width": 0.5469,
+        "height": 0.0421,
+        "right": 0.9545,
+        "bottom": 0.2834
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 1.81,
+        "width": 7.29,
+        "height": 0.32
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Key questions"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.2948,
+        "width": 0.5469,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.2948
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 2.21,
+        "width": 7.29,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.5032,
+        "width": 0.5469,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.5032
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 3.77,
+        "width": 7.29,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.4076,
+        "top": 0.722,
+        "width": 0.5469,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.722
+      },
+      "position_inches": {
+        "left": 5.43,
+        "top": 5.41,
+        "width": 7.29,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3093,
+        "right": 0.3931,
+        "bottom": 0.8315,
+        "width": 0.3476,
+        "height": 0.5222
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.2557,
+        "top": 0.7475,
+        "right": 0.3906,
+        "bottom": 0.9155,
+        "width": 0.1349,
+        "height": 0.168
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.4076,
+        "top": 0.2413,
+        "right": 0.9545,
+        "bottom": 0.722,
+        "width": 0.5469,
+        "height": 0.4807
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.4076,
+        "top": 0.7475,
+        "right": 0.9545,
+        "bottom": 0.9155,
+        "width": 0.5469,
+        "height": 0.168
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0845,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.63
+  },
+  "content_types": {
+    "other": 16
+  },
+  "category": "mixed_content"
+}

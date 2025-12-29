@@ -1,0 +1,357 @@
+{
+  "id": "a7372c3c4158",
+  "template": "template_business_case",
+  "slide_num": 241,
+  "layout_name": "Default",
+  "element_count": 13,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Proposed investments with >10x payback in cost sav"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3296,
+        "width": 0.4314,
+        "height": 0.3186,
+        "right": 0.9545,
+        "bottom": 0.6483
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.47,
+        "width": 5.75,
+        "height": 2.39
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Approx. 56 mUSD in total savings over 10 years: Dr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.262,
+        "width": 0.4314,
+        "height": 0.0359,
+        "right": 0.4769,
+        "bottom": 0.2979
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.97,
+        "width": 5.75,
+        "height": 0.27
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Annual savings of ~3% in operational costs..."
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.262,
+        "width": 0.4314,
+        "height": 0.0359,
+        "right": 0.9545,
+        "bottom": 0.2979
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 1.97,
+        "width": 5.75,
+        "height": 0.27
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "...equaling >10x direct operational cost payback"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3102,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.4769,
+        "bottom": 0.3102
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.33,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.3102,
+        "width": 0.4314,
+        "height": 0.0,
+        "right": 0.9545,
+        "bottom": 0.3102
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 2.33,
+        "width": 5.75,
+        "height": 0.0
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "CHART (3)",
+      "category": "other",
+      "position": {
+        "left": 0.0454,
+        "top": 0.4015,
+        "width": 0.3591,
+        "height": 0.5041,
+        "right": 0.4045,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.01,
+        "width": 4.79,
+        "height": 3.78
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.418,
+        "top": 0.4545,
+        "width": 0.0,
+        "height": 0.0455,
+        "right": 0.418,
+        "bottom": 0.5
+      },
+      "position_inches": {
+        "left": 5.57,
+        "top": 3.41,
+        "width": 0.0,
+        "height": 0.34
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4231,
+        "top": 0.4588,
+        "width": 0.0489,
+        "height": 0.0412,
+        "right": 0.472,
+        "bottom": 0.5
+      },
+      "position_inches": {
+        "left": 5.64,
+        "top": 3.44,
+        "width": 0.65,
+        "height": 0.31
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "-15%"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5231,
+        "top": 0.736,
+        "width": 0.4314,
+        "height": 0.1013,
+        "right": 0.9545,
+        "bottom": 0.8373
+      },
+      "position_inches": {
+        "left": 6.97,
+        "top": 5.52,
+        "width": 5.75,
+        "height": 0.76
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "10.8x ROI over next 10 years from operations alone"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6548,
+        "top": 0.6809,
+        "width": 0.168,
+        "height": 0.0319,
+        "right": 0.8228,
+        "bottom": 0.7129
+      },
+      "position_inches": {
+        "left": 8.73,
+        "top": 5.11,
+        "width": 2.24,
+        "height": 0.24
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.3264,
+        "width": 0.1631,
+        "height": 0.0314,
+        "right": 0.2086,
+        "bottom": 0.3578
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 2.45,
+        "width": 2.17,
+        "height": 0.24
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Expected costs, mUSD"
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5231,
+        "top": 0.262,
+        "right": 0.9545,
+        "bottom": 0.8373,
+        "width": 0.4314,
+        "height": 0.5753
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0454,
+        "top": 0.262,
+        "right": 0.4769,
+        "bottom": 0.9056,
+        "width": 0.4315,
+        "height": 0.6436
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.418,
+        "top": 0.4545,
+        "right": 0.472,
+        "bottom": 0.5,
+        "width": 0.054,
+        "height": 0.0455
+      },
+      "element_count": 2,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0454,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0944,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.71
+  },
+  "content_types": {
+    "other": 13
+  },
+  "category": "multi_column"
+}

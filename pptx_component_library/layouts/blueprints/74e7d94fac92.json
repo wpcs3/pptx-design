@@ -1,0 +1,730 @@
+{
+  "id": "74e7d94fac92",
+  "template": "template_market_analysis",
+  "slide_num": 169,
+  "layout_name": "Default",
+  "element_count": 30,
+  "elements": [
+    {
+      "shape_type": "EMBEDDED_OLE_OBJECT (7)",
+      "category": "other",
+      "position": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "width": 0.0001,
+        "height": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005
+      },
+      "position_inches": {
+        "left": 0.0,
+        "top": 0.0,
+        "width": 0.0,
+        "height": 0.0
+      },
+      "zone": "top_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Market research indicates clear opportunity for a"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "width": 0.909,
+        "height": 0.0718,
+        "right": 0.9545,
+        "bottom": 0.2641
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 1.44,
+        "width": 12.12,
+        "height": 0.54
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "The US and Canada SME market, digital disruption i"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Real-life sanitized case example #2"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.599,
+        "width": 0.1785,
+        "height": 0.3066,
+        "right": 0.224,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 4.49,
+        "width": 2.38,
+        "height": 2.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Technological innovations and demographic changes"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2281,
+        "top": 0.599,
+        "width": 0.1785,
+        "height": 0.3066,
+        "right": 0.4066,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 4.49,
+        "width": 2.38,
+        "height": 2.3
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Global SME market is growing significantly. Within"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4108,
+        "top": 0.599,
+        "width": 0.1785,
+        "height": 0.3066,
+        "right": 0.5892,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 5.48,
+        "top": 4.49,
+        "width": 2.38,
+        "height": 2.3
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "SME digital threat is more pronounced than for lar"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5934,
+        "top": 0.599,
+        "width": 0.1785,
+        "height": 0.3066,
+        "right": 0.7718,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 7.91,
+        "top": 4.49,
+        "width": 2.38,
+        "height": 2.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Market research found no evidence across the US an"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.776,
+        "top": 0.599,
+        "width": 0.1785,
+        "height": 0.3066,
+        "right": 0.9545,
+        "bottom": 0.9056
+      },
+      "position_inches": {
+        "left": 10.35,
+        "top": 4.49,
+        "width": 2.38,
+        "height": 2.3
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "No evidence of a competitor \u201cgetting it right\u201d acr"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "width": 0.5984,
+        "height": 0.0532,
+        "right": 0.6368,
+        "bottom": 0.9852
+      },
+      "position_inches": {
+        "left": 0.51,
+        "top": 6.99,
+        "width": 7.98,
+        "height": 0.4
+      },
+      "zone": "bottom_center",
+      "has_text": true,
+      "text_sample": "Source: Team analysis"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.0904,
+        "top": 0.3041,
+        "width": 0.0886,
+        "height": 0.1575,
+        "right": 0.179,
+        "bottom": 0.4616
+      },
+      "position_inches": {
+        "left": 1.21,
+        "top": 2.28,
+        "width": 1.18,
+        "height": 1.18
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2731,
+        "top": 0.3041,
+        "width": 0.0886,
+        "height": 0.1575,
+        "right": 0.3616,
+        "bottom": 0.4616
+      },
+      "position_inches": {
+        "left": 3.64,
+        "top": 2.28,
+        "width": 1.18,
+        "height": 1.18
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4557,
+        "top": 0.3041,
+        "width": 0.0886,
+        "height": 0.1575,
+        "right": 0.5443,
+        "bottom": 0.4616
+      },
+      "position_inches": {
+        "left": 6.08,
+        "top": 2.28,
+        "width": 1.18,
+        "height": 1.18
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.6383,
+        "top": 0.3041,
+        "width": 0.0886,
+        "height": 0.1575,
+        "right": 0.7269,
+        "bottom": 0.4616
+      },
+      "position_inches": {
+        "left": 8.51,
+        "top": 2.28,
+        "width": 1.18,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.821,
+        "top": 0.3041,
+        "width": 0.0886,
+        "height": 0.1575,
+        "right": 0.9095,
+        "bottom": 0.4616
+      },
+      "position_inches": {
+        "left": 10.95,
+        "top": 2.28,
+        "width": 1.18,
+        "height": 1.18
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.5016,
+        "width": 0.1785,
+        "height": 0.0882,
+        "right": 0.224,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 3.76,
+        "width": 2.38,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Wider business and demographic trends drive move t"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.2281,
+        "top": 0.5016,
+        "width": 0.1785,
+        "height": 0.0882,
+        "right": 0.4066,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 3.04,
+        "top": 3.76,
+        "width": 2.38,
+        "height": 0.66
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Global SME segment is growing rapidly"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.4108,
+        "top": 0.5016,
+        "width": 0.1785,
+        "height": 0.0882,
+        "right": 0.5892,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 5.48,
+        "top": 3.76,
+        "width": 2.38,
+        "height": 0.66
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Digital more important for SMEs than corporates"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.5934,
+        "top": 0.5016,
+        "width": 0.1785,
+        "height": 0.0882,
+        "right": 0.7718,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 7.91,
+        "top": 3.76,
+        "width": 2.38,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "No one \u201cleading the pack\u201d in digital yet"
+    },
+    {
+      "shape_type": "TEXT_BOX (17)",
+      "category": "other",
+      "position": {
+        "left": 0.776,
+        "top": 0.5016,
+        "width": 0.1785,
+        "height": 0.0882,
+        "right": 0.9545,
+        "bottom": 0.5898
+      },
+      "position_inches": {
+        "left": 10.35,
+        "top": 3.76,
+        "width": 2.38,
+        "height": 0.66
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Opportunities to differentiate across the customer"
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.1347,
+        "top": 0.4616,
+        "width": 0.0,
+        "height": 0.04,
+        "right": 0.1347,
+        "bottom": 0.5016
+      },
+      "position_inches": {
+        "left": 1.8,
+        "top": 3.46,
+        "width": 0.0,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.3174,
+        "top": 0.4616,
+        "width": 0.0,
+        "height": 0.04,
+        "right": 0.3174,
+        "bottom": 0.5016
+      },
+      "position_inches": {
+        "left": 4.23,
+        "top": 3.46,
+        "width": 0.0,
+        "height": 0.3
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.5,
+        "top": 0.4616,
+        "width": 0.0,
+        "height": 0.04,
+        "right": 0.5,
+        "bottom": 0.5016
+      },
+      "position_inches": {
+        "left": 6.67,
+        "top": 3.46,
+        "width": 0.0,
+        "height": 0.3
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.6826,
+        "top": 0.4616,
+        "width": 0.0,
+        "height": 0.04,
+        "right": 0.6826,
+        "bottom": 0.5016
+      },
+      "position_inches": {
+        "left": 9.1,
+        "top": 3.46,
+        "width": 0.0,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "LINE (9)",
+      "category": "other",
+      "position": {
+        "left": 0.8652,
+        "top": 0.4616,
+        "width": 0.0,
+        "height": 0.04,
+        "right": 0.8652,
+        "bottom": 0.5016
+      },
+      "position_inches": {
+        "left": 11.54,
+        "top": 3.46,
+        "width": 0.0,
+        "height": 0.3
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.8446,
+        "top": 0.3461,
+        "width": 0.0413,
+        "height": 0.0735,
+        "right": 0.8859,
+        "bottom": 0.4196
+      },
+      "position_inches": {
+        "left": 11.26,
+        "top": 2.6,
+        "width": 0.55,
+        "height": 0.55
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.6619,
+        "top": 0.3461,
+        "width": 0.0413,
+        "height": 0.0735,
+        "right": 0.7033,
+        "bottom": 0.4196
+      },
+      "position_inches": {
+        "left": 8.83,
+        "top": 2.6,
+        "width": 0.55,
+        "height": 0.55
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4793,
+        "top": 0.3461,
+        "width": 0.0413,
+        "height": 0.0735,
+        "right": 0.5207,
+        "bottom": 0.4196
+      },
+      "position_inches": {
+        "left": 6.39,
+        "top": 2.6,
+        "width": 0.55,
+        "height": 0.55
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.2967,
+        "top": 0.3461,
+        "width": 0.0413,
+        "height": 0.0735,
+        "right": 0.338,
+        "bottom": 0.4196
+      },
+      "position_inches": {
+        "left": 3.96,
+        "top": 2.6,
+        "width": 0.55,
+        "height": 0.55
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1141,
+        "top": 0.3461,
+        "width": 0.0413,
+        "height": 0.0735,
+        "right": 0.1554,
+        "bottom": 0.4196
+      },
+      "position_inches": {
+        "left": 1.52,
+        "top": 2.6,
+        "width": 0.55,
+        "height": 0.55
+      },
+      "zone": "middle_left",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_left",
+      "bounds": {
+        "left": 0.0001,
+        "top": 0.0002,
+        "right": 0.0003,
+        "bottom": 0.0005,
+        "width": 0.0002,
+        "height": 0.0003
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.1923,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.909,
+        "height": 0.7133
+      },
+      "element_count": 6,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.3041,
+        "right": 0.4066,
+        "bottom": 0.9056,
+        "width": 0.3611,
+        "height": 0.6015
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5934,
+        "top": 0.3041,
+        "right": 0.9545,
+        "bottom": 0.9056,
+        "width": 0.3611,
+        "height": 0.6015
+      },
+      "element_count": 10,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_center",
+      "bounds": {
+        "left": 0.0384,
+        "top": 0.9319,
+        "right": 0.6368,
+        "bottom": 0.9852,
+        "width": 0.5984,
+        "height": 0.0533
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0001,
+    "right": 0.0455,
+    "top": 0.0002,
+    "bottom": 0.0148,
+    "left_inches": 0.0,
+    "right_inches": 0.61,
+    "top_inches": 0.0,
+    "bottom_inches": 0.11
+  },
+  "content_types": {
+    "other": 30
+  },
+  "category": "multi_column"
+}

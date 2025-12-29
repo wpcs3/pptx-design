@@ -1,0 +1,1995 @@
+{
+  "templates": {
+    "business_case": {
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            }
+          ]
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "1_Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Custom Layout",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Agenda",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank dark",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        }
+      ],
+      "layout_names": [
+        "Frontpage",
+        "Default",
+        "Top left title",
+        "Mid left title",
+        "Section breaker",
+        "1/4 grey",
+        "1/3 grey",
+        "1/2 grey",
+        "1_1/2 grey",
+        "2/3 grey",
+        "3/4 grey",
+        "End",
+        "Frontpage dark",
+        "Default dark",
+        "1_Top left title",
+        "1_Mid left title",
+        "1_Section breaker",
+        "1_1/4 grey",
+        "1_1/3 grey",
+        "2_1/2 grey",
+        "3_1/2 grey",
+        "1_2/3 grey",
+        "1_3/4 grey",
+        "1_End",
+        "1_Blank white",
+        "Custom Layout",
+        "Blank",
+        "Agenda",
+        "Blank dark",
+        "2_1/4 grey"
+      ],
+      "dimensions": {
+        "width_inches": 13.33,
+        "height_inches": 7.5
+      },
+      "slide_count": 271,
+      "path": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_business_case\\template_business_case.pptx",
+      "directory": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_business_case",
+      "palette": [
+        "#051C2C",
+        "#3C96B4",
+        "#E5546C",
+        "#FFFFFF"
+      ],
+      "fonts": {
+        "title": "Arial Bold 28pt",
+        "body": "Arial 14pt"
+      },
+      "use_cases": [
+        "business case",
+        "proposal",
+        "investment",
+        "decision"
+      ]
+    },
+    "business_consulting_toolkit": {
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            }
+          ]
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "1_Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank dark",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Custom Layout",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Agenda",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Title Only",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            }
+          ]
+        }
+      ],
+      "layout_names": [
+        "Frontpage",
+        "Default",
+        "Top left title",
+        "Mid left title",
+        "Section breaker",
+        "1/4 grey",
+        "1/3 grey",
+        "1/2 grey",
+        "1_1/2 grey",
+        "2/3 grey",
+        "3/4 grey",
+        "End",
+        "Blank white",
+        "Frontpage dark",
+        "Default dark",
+        "1_Top left title",
+        "1_Mid left title",
+        "1_Section breaker",
+        "1_1/4 grey",
+        "1_1/3 grey",
+        "2_1/2 grey",
+        "3_1/2 grey",
+        "1_2/3 grey",
+        "1_3/4 grey",
+        "1_End",
+        "1_Blank white",
+        "Blank dark",
+        "Custom Layout",
+        "Blank",
+        "Agenda",
+        "Title Only"
+      ],
+      "dimensions": {
+        "width_inches": 13.33,
+        "height_inches": 7.5
+      },
+      "slide_count": 215,
+      "path": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_business_consulting_toolkit\\template_business_consulting_toolkit.pptx",
+      "directory": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_business_consulting_toolkit",
+      "palette": [
+        "#00213F",
+        "#3C96B4",
+        "#FFFFFF",
+        "#333333"
+      ],
+      "fonts": {
+        "title": "Arial Bold 28pt",
+        "body": "Arial 15pt"
+      },
+      "use_cases": [
+        "consulting",
+        "strategy",
+        "business review",
+        "analysis"
+      ]
+    },
+    "due_diligence": {
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            }
+          ]
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "1_Blank white",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Section slide",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Custom Layout",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Agenda",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        }
+      ],
+      "layout_names": [
+        "Frontpage",
+        "Default",
+        "Top left title",
+        "Mid left title",
+        "Section breaker",
+        "1/4 grey",
+        "1/3 grey",
+        "1/2 grey",
+        "1_1/2 grey",
+        "2/3 grey",
+        "3/4 grey",
+        "End",
+        "Blank white",
+        "Frontpage dark",
+        "Default dark",
+        "1_Top left title",
+        "1_Mid left title",
+        "1_Section breaker",
+        "1_1/4 grey",
+        "1_1/3 grey",
+        "2_1/2 grey",
+        "3_1/2 grey",
+        "1_2/3 grey",
+        "1_3/4 grey",
+        "1_End",
+        "1_Blank white",
+        "Section slide",
+        "Custom Layout",
+        "Agenda"
+      ],
+      "dimensions": {
+        "width_inches": 13.33,
+        "height_inches": 7.5
+      },
+      "slide_count": 329,
+      "path": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_due_diligence\\pptx_template_due_diligence.pptx",
+      "directory": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_due_diligence",
+      "palette": [
+        "#051C2C",
+        "#3C96B4",
+        "#00B050",
+        "#FFFFFF"
+      ],
+      "fonts": {
+        "title": "Arial Bold 28pt",
+        "body": "Arial 14pt"
+      },
+      "use_cases": [
+        "due diligence",
+        "analysis",
+        "audit",
+        "review"
+      ]
+    },
+    "market_analysis": {
+      "layouts": [
+        {
+          "name": "Frontpage",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Default",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "End",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            }
+          ]
+        },
+        {
+          "name": "Frontpage dark",
+          "placeholders": [
+            {
+              "idx": 14,
+              "type": "PICTURE (18"
+            },
+            {
+              "idx": 13,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            }
+          ]
+        },
+        {
+          "name": "Default dark",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Top left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Mid left title",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_Section breaker",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_1/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "2_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "3_1/2 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_2/3 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "1_3/4 grey",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "SUBTITLE (4"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank dark",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Custom Layout",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Blank",
+          "placeholders": [
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        },
+        {
+          "name": "Agenda",
+          "placeholders": [
+            {
+              "idx": 0,
+              "type": "TITLE (1"
+            },
+            {
+              "idx": 1,
+              "type": "BODY (2"
+            },
+            {
+              "idx": 17,
+              "type": "BODY (2"
+            }
+          ]
+        }
+      ],
+      "layout_names": [
+        "Frontpage",
+        "Default",
+        "Top left title",
+        "Mid left title",
+        "Section breaker",
+        "1/4 grey",
+        "1/3 grey",
+        "1/2 grey",
+        "1_1/2 grey",
+        "2/3 grey",
+        "3/4 grey",
+        "End",
+        "Frontpage dark",
+        "Default dark",
+        "1_Top left title",
+        "1_Mid left title",
+        "1_Section breaker",
+        "1_1/4 grey",
+        "1_1/3 grey",
+        "2_1/2 grey",
+        "3_1/2 grey",
+        "1_2/3 grey",
+        "1_3/4 grey",
+        "Blank dark",
+        "Custom Layout",
+        "Blank",
+        "Agenda"
+      ],
+      "dimensions": {
+        "width_inches": 13.33,
+        "height_inches": 7.5
+      },
+      "slide_count": 316,
+      "path": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_market_analysis\\template_market_analysis.pptx",
+      "directory": "C:\\Users\\wpcol\\claudecode\\pptx-design\\pptx_templates\\pptx_template_market_analysis",
+      "palette": [
+        "#051C2C",
+        "#3C96B4",
+        "#E5546C",
+        "#FFFFFF"
+      ],
+      "fonts": {
+        "title": "Arial Bold 28pt",
+        "body": "Arial 14pt"
+      },
+      "use_cases": [
+        "market analysis",
+        "research",
+        "industry",
+        "competitive"
+      ]
+    }
+  },
+  "version": "1.0"
+}

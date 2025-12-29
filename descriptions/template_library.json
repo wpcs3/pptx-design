@@ -1,0 +1,92 @@
+{
+  "version": "1.0",
+  "total_templates": 2,
+  "unique_patterns": 2,
+  "templates": [
+    {
+      "id": "template_business_case_example_slide_001",
+      "source_file": "template_business_case_example.pptx",
+      "slide_index": 1,
+      "slide_type": "content",
+      "template_category": "content",
+      "layout_category": "two_column",
+      "complexity_score": 3,
+      "reusability_score": 3,
+      "color_scheme": "monochrome",
+      "visual_style": "classic",
+      "primary_font": "Arial",
+      "element_count": 6,
+      "has_chart": false,
+      "has_table": false,
+      "has_image": false,
+      "content_zones": [],
+      "style_tokens": {
+        "primary_font": "Arial",
+        "heading_weight": "bold",
+        "color_scheme": "monochrome",
+        "visual_style": "classic"
+      },
+      "description_path": "descriptions\\template_business_case_example_slide_1_final.json",
+      "similarity_hash": "12f207abfc6f"
+    },
+    {
+      "id": "template_business_case_example_slide_002",
+      "source_file": "template_business_case_example.pptx",
+      "slide_index": 2,
+      "slide_type": "section_divider",
+      "template_category": "section_divider",
+      "layout_category": "two_column",
+      "complexity_score": 4,
+      "reusability_score": 3,
+      "color_scheme": "corporate",
+      "visual_style": "classic",
+      "primary_font": "Arial",
+      "element_count": 9,
+      "has_chart": false,
+      "has_table": false,
+      "has_image": false,
+      "content_zones": [],
+      "style_tokens": {
+        "primary_font": "Arial",
+        "heading_weight": "bold",
+        "color_scheme": "corporate",
+        "visual_style": "classic"
+      },
+      "description_path": "descriptions\\template_business_case_example_slide_2_final.json",
+      "similarity_hash": "db188eb15288"
+    }
+  ],
+  "categories": {
+    "content": [
+      "template_business_case_example_slide_001"
+    ],
+    "section_divider": [
+      "template_business_case_example_slide_002"
+    ]
+  },
+  "style_clusters": {
+    "monochrome_classic": [
+      "template_business_case_example_slide_001"
+    ],
+    "corporate_classic": [
+      "template_business_case_example_slide_002"
+    ]
+  },
+  "statistics": {
+    "total_templates": 2,
+    "unique_patterns": 2,
+    "by_category": {
+      "content": 1,
+      "section_divider": 1
+    },
+    "by_style": {
+      "monochrome_classic": 1,
+      "corporate_classic": 1
+    },
+    "avg_complexity": 3.5,
+    "avg_reusability": 3.0,
+    "with_charts": 0,
+    "with_tables": 0,
+    "with_images": 0
+  }
+}

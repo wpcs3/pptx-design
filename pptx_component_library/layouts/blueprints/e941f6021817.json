@@ -1,0 +1,527 @@
+{
+  "id": "e941f6021817",
+  "template": "template_business_consulting_toolkit",
+  "slide_num": 195,
+  "layout_name": "Default",
+  "element_count": 20,
+  "elements": [
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "width": 0.909,
+        "height": 0.1067,
+        "right": 0.9545,
+        "bottom": 0.1584
+      },
+      "position_inches": {
+        "left": 0.61,
+        "top": 0.39,
+        "width": 12.12,
+        "height": 0.8
+      },
+      "zone": "top_center",
+      "has_text": true,
+      "text_sample": "Business Model Canvas"
+    },
+    {
+      "shape_type": "PLACEHOLDER (14)",
+      "category": "other",
+      "position": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "width": 0.3287,
+        "height": 0.018,
+        "right": 0.9545,
+        "bottom": 0.0326
+      },
+      "position_inches": {
+        "left": 8.34,
+        "top": 0.11,
+        "width": 4.38,
+        "height": 0.13
+      },
+      "zone": "top_right",
+      "has_text": true,
+      "text_sample": "Appendix A: Frameworks"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.05,
+        "top": 0.1923,
+        "width": 0.1688,
+        "height": 0.55,
+        "right": 0.2188,
+        "bottom": 0.7422
+      },
+      "position_inches": {
+        "left": 0.67,
+        "top": 1.44,
+        "width": 2.25,
+        "height": 4.12
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key Partners Who are our Key Partners? \u000bWho are ou"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.4156,
+        "top": 0.1923,
+        "width": 0.1688,
+        "height": 0.55,
+        "right": 0.5844,
+        "bottom": 0.7422
+      },
+      "position_inches": {
+        "left": 5.54,
+        "top": 1.44,
+        "width": 2.25,
+        "height": 4.12
+      },
+      "zone": "middle_center",
+      "has_text": true,
+      "text_sample": "Value Propositions What value do we deliver to the"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2328,
+        "top": 0.1923,
+        "width": 0.1688,
+        "height": 0.2676,
+        "right": 0.4016,
+        "bottom": 0.4599
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 1.44,
+        "width": 2.25,
+        "height": 2.01
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key Activities What Key Activities do our Value Pr"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5984,
+        "top": 0.1923,
+        "width": 0.1688,
+        "height": 0.2676,
+        "right": 0.7672,
+        "bottom": 0.4599
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 1.44,
+        "width": 2.25,
+        "height": 2.01
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Customer Relationships What type of relationship d"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.05,
+        "top": 0.7562,
+        "width": 0.4434,
+        "height": 0.174,
+        "right": 0.4935,
+        "bottom": 0.9302
+      },
+      "position_inches": {
+        "left": 0.67,
+        "top": 5.67,
+        "width": 5.91,
+        "height": 1.31
+      },
+      "zone": "bottom_left",
+      "has_text": true,
+      "text_sample": "Cost Structure What are the most important costs i"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5065,
+        "top": 0.7562,
+        "width": 0.4434,
+        "height": 0.174,
+        "right": 0.95,
+        "bottom": 0.9302
+      },
+      "position_inches": {
+        "left": 6.75,
+        "top": 5.67,
+        "width": 5.91,
+        "height": 1.31
+      },
+      "zone": "bottom_right",
+      "has_text": true,
+      "text_sample": "Revenue Streams For what value are our customers r"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.7812,
+        "top": 0.1923,
+        "width": 0.1688,
+        "height": 0.55,
+        "right": 0.95,
+        "bottom": 0.7422
+      },
+      "position_inches": {
+        "left": 10.42,
+        "top": 1.44,
+        "width": 2.25,
+        "height": 4.12
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Customer Segments For whom are we creating value?"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.2328,
+        "top": 0.4746,
+        "width": 0.1688,
+        "height": 0.2676,
+        "right": 0.4016,
+        "bottom": 0.7422
+      },
+      "position_inches": {
+        "left": 3.1,
+        "top": 3.56,
+        "width": 2.25,
+        "height": 2.01
+      },
+      "zone": "middle_left",
+      "has_text": true,
+      "text_sample": "Key Resources What Key Resources do our Value Prop"
+    },
+    {
+      "shape_type": "AUTO_SHAPE (1)",
+      "category": "other",
+      "position": {
+        "left": 0.5982,
+        "top": 0.4746,
+        "width": 0.1688,
+        "height": 0.2676,
+        "right": 0.767,
+        "bottom": 0.7422
+      },
+      "position_inches": {
+        "left": 7.98,
+        "top": 3.56,
+        "width": 2.25,
+        "height": 2.01
+      },
+      "zone": "middle_right",
+      "has_text": true,
+      "text_sample": "Channels Through which Channels do our Customer Se"
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.1916,
+        "top": 0.1971,
+        "width": 0.022,
+        "height": 0.0391,
+        "right": 0.2136,
+        "bottom": 0.2363
+      },
+      "position_inches": {
+        "left": 2.56,
+        "top": 1.48,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_left",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.5569,
+        "top": 0.1971,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.5786,
+        "bottom": 0.2358
+      },
+      "position_inches": {
+        "left": 7.42,
+        "top": 1.48,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.9241,
+        "top": 0.7639,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.9458,
+        "bottom": 0.8026
+      },
+      "position_inches": {
+        "left": 12.32,
+        "top": 5.73,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7394,
+        "top": 0.1971,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.7612,
+        "bottom": 0.2358
+      },
+      "position_inches": {
+        "left": 9.86,
+        "top": 1.48,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.7394,
+        "top": 0.4807,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.7612,
+        "bottom": 0.5193
+      },
+      "position_inches": {
+        "left": 9.86,
+        "top": 3.6,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.4672,
+        "top": 0.7639,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.489,
+        "bottom": 0.8026
+      },
+      "position_inches": {
+        "left": 6.23,
+        "top": 5.73,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3747,
+        "top": 0.1971,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.3965,
+        "bottom": 0.2358
+      },
+      "position_inches": {
+        "left": 5.0,
+        "top": 1.48,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.9241,
+        "top": 0.1971,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.9458,
+        "bottom": 0.2358
+      },
+      "position_inches": {
+        "left": 12.32,
+        "top": 1.48,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_right",
+      "has_text": false
+    },
+    {
+      "shape_type": "PICTURE (13)",
+      "category": "other",
+      "position": {
+        "left": 0.3747,
+        "top": 0.4807,
+        "width": 0.0217,
+        "height": 0.0387,
+        "right": 0.3965,
+        "bottom": 0.5193
+      },
+      "position_inches": {
+        "left": 5.0,
+        "top": 3.6,
+        "width": 0.29,
+        "height": 0.29
+      },
+      "zone": "middle_center",
+      "has_text": false
+    }
+  ],
+  "zones": [
+    {
+      "name": "top_center",
+      "bounds": {
+        "left": 0.0455,
+        "top": 0.0518,
+        "right": 0.9545,
+        "bottom": 0.1584,
+        "width": 0.909,
+        "height": 0.1066
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "top_right",
+      "bounds": {
+        "left": 0.6258,
+        "top": 0.0147,
+        "right": 0.9545,
+        "bottom": 0.0326,
+        "width": 0.3287,
+        "height": 0.0179
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_left",
+      "bounds": {
+        "left": 0.05,
+        "top": 0.1923,
+        "right": 0.4016,
+        "bottom": 0.7422,
+        "width": 0.3516,
+        "height": 0.5499
+      },
+      "element_count": 4,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_center",
+      "bounds": {
+        "left": 0.3747,
+        "top": 0.1923,
+        "right": 0.5844,
+        "bottom": 0.8026,
+        "width": 0.2097,
+        "height": 0.6103
+      },
+      "element_count": 5,
+      "primary_content": "other"
+    },
+    {
+      "name": "middle_right",
+      "bounds": {
+        "left": 0.5982,
+        "top": 0.1923,
+        "right": 0.95,
+        "bottom": 0.8026,
+        "width": 0.3518,
+        "height": 0.6103
+      },
+      "element_count": 7,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_left",
+      "bounds": {
+        "left": 0.05,
+        "top": 0.7562,
+        "right": 0.4935,
+        "bottom": 0.9302,
+        "width": 0.4435,
+        "height": 0.174
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    },
+    {
+      "name": "bottom_right",
+      "bounds": {
+        "left": 0.5065,
+        "top": 0.7562,
+        "right": 0.95,
+        "bottom": 0.9302,
+        "width": 0.4435,
+        "height": 0.174
+      },
+      "element_count": 1,
+      "primary_content": "other"
+    }
+  ],
+  "margins": {
+    "left": 0.0455,
+    "right": 0.0455,
+    "top": 0.0147,
+    "bottom": 0.0698,
+    "left_inches": 0.61,
+    "right_inches": 0.61,
+    "top_inches": 0.11,
+    "bottom_inches": 0.52
+  },
+  "content_types": {
+    "other": 20
+  },
+  "category": "multi_column"
+}
