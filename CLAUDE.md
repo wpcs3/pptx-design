@@ -2,6 +2,8 @@
 
 Project-specific instructions for Claude Code when working in this repository.
 
+**Repository**: https://github.com/wpcs3/pptx-design
+
 ## Project Overview
 
 A Python system for:
@@ -43,6 +45,7 @@ cd C:\Users\wpcol\claudecode\pptx-design
 
 - **LibreOffice**: Required for PPTX → PDF conversion (headless mode)
 - **Poppler**: Required for PDF → PNG conversion (via pdf2image)
+- **GitHub CLI**: Installed at `C:\Program Files\GitHub CLI\gh.exe` for repository operations
 
 ---
 
