@@ -65,10 +65,12 @@ except ImportError:
     logger.info("LayoutParser not installed, using basic classification")
 
 # Try to import PaddleOCR as fallback (Windows-friendly)
+# Note: paddleocr 3.x uses LayoutDetection instead of PPStructure
+LayoutDetectionCls = None
 try:
-    from paddleocr import PPStructure
+    from paddleocr import LayoutDetection as LayoutDetectionCls
     PADDLEOCR_AVAILABLE = True
-    logger.info("PaddleOCR/PPStructure available as fallback")
+    logger.info("PaddleOCR/LayoutDetection available as fallback")
 except ImportError:
     logger.debug("PaddleOCR not installed (optional fallback)")
 
@@ -200,17 +202,12 @@ class SlideLayoutClassifier:
                 self.model = None
 
         # Try PaddleOCR as fallback (Windows-friendly)
+        # Note: paddleocr 3.x uses LayoutDetection instead of PPStructure
         if self.model is None and PADDLEOCR_AVAILABLE:
             try:
-                self.paddle_engine = PPStructure(
-                    layout=True,
-                    table=False,  # Disable table structure recognition for speed
-                    ocr=False,    # Disable OCR for speed, we only need layout
-                    show_log=False,
-                    use_gpu=use_gpu
-                )
+                self.paddle_engine = LayoutDetectionCls()
                 self.backend = "paddleocr"
-                logger.info("Loaded PaddleOCR/PPStructure for layout analysis")
+                logger.info("Loaded PaddleOCR/LayoutDetection for layout analysis")
             except Exception as e:
                 logger.warning(f"Failed to load PaddleOCR: {e}")
                 self.paddle_engine = None
@@ -338,72 +335,102 @@ class SlideLayoutClassifier:
         height: int
     ) -> List[DetectedRegion]:
         """
-        Detect regions using PaddleOCR/PPStructure.
+        Detect regions using PaddleOCR/LayoutDetection.
 
-        PPStructure provides layout analysis that works on Windows
+        LayoutDetection provides layout analysis that works on Windows
         without requiring Detectron2.
 
-        Label mapping from PPStructure:
-        - text: Regular text blocks
-        - title: Title/heading text
-        - figure: Images, charts, diagrams
+        Label mapping from LayoutDetection (PP-DocLayout model):
+        - paragraph_title: Title/heading text
+        - text/plain_text: Regular text blocks
+        - image/figure: Images, charts, diagrams
         - table: Tables
-        - list: Bullet lists
+        - footer/header: Page elements
+        - number: Page numbers
         """
         try:
+            # Save image temporarily for LayoutDetection (requires file path)
+            import tempfile
             import numpy as np
-            image_array = np.array(image)
+            from PIL import Image as PILImage
 
-            # Run PPStructure layout analysis
-            result = self.paddle_engine(image_array)
+            with tempfile.NamedTemporaryFile(suffix='.png', delete=False) as tmp:
+                tmp_path = tmp.name
+                if isinstance(image, np.ndarray):
+                    PILImage.fromarray(image).save(tmp_path)
+                else:
+                    image.save(tmp_path)
+
+            # Run LayoutDetection
+            results = self.paddle_engine.predict(tmp_path)
 
             regions = []
             slide_area = width * height
 
-            # PPStructure label mapping to our standard types
+            # LayoutDetection label mapping to our standard types
             label_map = {
-                "text": "text",
+                "paragraph_title": "title",
+                "doc_title": "title",
                 "title": "title",
+                "text": "text",
+                "plain_text": "text",
+                "paragraph": "text",
                 "figure": "figure",
+                "image": "figure",
+                "chart": "figure",
                 "table": "table",
                 "list": "list",
                 "header": "title",
                 "footer": "text",
+                "number": "text",
                 "reference": "text",
                 "equation": "figure",
+                "formula": "figure",
+                "abstract": "text",
+                "caption": "text",
             }
 
-            for item in result:
-                # PPStructure returns dict with 'type' and 'bbox'
-                item_type = item.get("type", "text").lower()
-                bbox = item.get("bbox", [0, 0, 0, 0])
+            for page_result in results:
+                boxes = page_result.get("boxes", [])
+                for box in boxes:
+                    label = box.get("label", "text").lower()
+                    score = float(box.get("score", 0.75))
+                    coord = box.get("coordinate", [0, 0, 0, 0])
 
-                # bbox format: [x1, y1, x2, y2]
-                if len(bbox) >= 4:
-                    x1, y1, x2, y2 = bbox[0], bbox[1], bbox[2], bbox[3]
-                else:
-                    continue
+                    # Skip low confidence detections
+                    if score < self.confidence_threshold:
+                        continue
 
-                # Map label to our standard types
-                region_type = label_map.get(item_type, "text")
+                    # coordinate format: [x1, y1, x2, y2]
+                    if len(coord) >= 4:
+                        x1, y1, x2, y2 = float(coord[0]), float(coord[1]), float(coord[2]), float(coord[3])
+                    else:
+                        continue
 
-                # Calculate metrics
-                area = (x2 - x1) * (y2 - y1)
-                area_ratio = area / slide_area if slide_area > 0 else 0
-                center_x = ((x1 + x2) / 2) / width if width > 0 else 0
-                center_y = ((y1 + y2) / 2) / height if height > 0 else 0
+                    # Map label to our standard types
+                    region_type = label_map.get(label, "text")
 
-                # PPStructure doesn't provide confidence scores, use default
-                confidence = 0.75
+                    # Calculate metrics
+                    area = (x2 - x1) * (y2 - y1)
+                    area_ratio = area / slide_area if slide_area > 0 else 0
+                    center_x = ((x1 + x2) / 2) / width if width > 0 else 0
+                    center_y = ((y1 + y2) / 2) / height if height > 0 else 0
 
-                region = DetectedRegion(
-                    region_type=region_type,
-                    bbox=(x1, y1, x2, y2),
-                    confidence=confidence,
-                    area_ratio=area_ratio,
-                    center=(center_x, center_y)
-                )
-                regions.append(region)
+                    region = DetectedRegion(
+                        region_type=region_type,
+                        bbox=(x1, y1, x2, y2),
+                        confidence=score,
+                        area_ratio=area_ratio,
+                        center=(center_x, center_y)
+                    )
+                    regions.append(region)
+
+            # Cleanup temp file
+            import os
+            try:
+                os.unlink(tmp_path)
+            except:
+                pass
 
             logger.debug(f"PaddleOCR detected {len(regions)} regions")
             return regions
