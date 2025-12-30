@@ -69,7 +69,7 @@ class GenerationOptions:
     auto_ending: bool = False  # Auto-insert ending slide
     min_quality_score: float = 0.0  # Minimum quality score (0 = no threshold)
     # Phase 4: SlidePool options
-    use_slide_pool: bool = True  # Use SlidePool for clone-and-edit workflow
+    use_slide_pool: bool = False  # Disabled: clone-and-edit copies template content. Use clean layouts instead.
     # Phase 4: Iterative refinement options
     iterative_refinement: bool = False  # Enable iterative refinement
     target_grade: str = "B"  # Target quality grade (A, B, C, D)
