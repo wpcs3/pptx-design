@@ -327,6 +327,8 @@ builder.save("output.pptx")
   - Exported: `MarkdownParser`, `markdown_to_outline`, `parse_marp_file`
 - ✅ **ML Layout Classification**: LayoutParser for semantic zone detection (`pptx_extractor/layout_classifier.py`)
   - Detects title, text, figure, table regions
+  - **Three-tier fallback**: Detectron2 → PaddleOCR → Basic heuristics
+  - PaddleOCR added as Windows-friendly alternative (2025-12-30)
   - Exported: `SlideLayoutClassifier`, `classify_slide`, `classify_presentation_slides`
 - ✅ **LayoutLMv3 Semantic Analyzer**: Deep document understanding (`pptx_extractor/semantic_analyzer.py`)
   - Content purpose classification, template suggestions
@@ -577,7 +579,10 @@ The improvement roadmap (Phases 1-4) is now fully implemented.
 - ✅ **Template registry** (4 templates, 117 layouts)
 
 ### Platform Notes
-- **Windows**: Detectron2 not available (no pre-built wheels), LayoutParser uses heuristic fallback
+- **Windows**: Detectron2 not available (no pre-built wheels), use PaddleOCR as ML fallback:
+  ```bash
+  pip install paddlepaddle paddleocr
+  ```
 - **Linux/macOS**: Full ML support with `pip install layoutparser[detectron2]`
 
 ### Future Ideas

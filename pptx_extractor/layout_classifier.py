@@ -11,6 +11,10 @@ Phase 4 Enhancement (2025-12-29):
 - Confidence scoring for classifications
 - Batch processing for multiple slides
 
+Phase 4.1 Enhancement (2025-12-30):
+- Added PaddleOCR/PPStructure as fallback for Windows (no Detectron2)
+- Three-tier fallback: Detectron2 -> PaddleOCR -> Basic heuristics
+
 Usage:
     from pptx_extractor.layout_classifier import SlideLayoutClassifier
 
@@ -21,14 +25,17 @@ Usage:
 
 Requirements:
     pip install layoutparser
-    pip install "layoutparser[detectron2]"  # For PubLayNet model
+    pip install "layoutparser[detectron2]"  # For PubLayNet model (Linux/Mac)
+
+    # Or use PaddleOCR as fallback (Windows-friendly):
+    pip install paddlepaddle paddleocr
 
     # Or use ONNX backend (lighter weight):
     pip install "layoutparser[ocr]"
 
 Note:
     This module provides graceful fallbacks when ML models are unavailable.
-    Basic classification works without deep learning dependencies.
+    Fallback order: Detectron2 -> PaddleOCR -> Basic heuristics
 """
 
 import logging
@@ -41,6 +48,7 @@ logger = logging.getLogger(__name__)
 # Try to import layoutparser and related dependencies
 LAYOUTPARSER_AVAILABLE = False
 DETECTRON2_AVAILABLE = False
+PADDLEOCR_AVAILABLE = False
 
 try:
     import layoutparser as lp
@@ -55,6 +63,14 @@ try:
         logger.info("Detectron2 not available, using fallback methods")
 except ImportError:
     logger.info("LayoutParser not installed, using basic classification")
+
+# Try to import PaddleOCR as fallback (Windows-friendly)
+try:
+    from paddleocr import PPStructure
+    PADDLEOCR_AVAILABLE = True
+    logger.info("PaddleOCR/PPStructure available as fallback")
+except ImportError:
+    logger.debug("PaddleOCR not installed (optional fallback)")
 
 
 @dataclass
@@ -164,8 +180,11 @@ class SlideLayoutClassifier:
         self.confidence_threshold = confidence_threshold
         self.use_gpu = use_gpu
         self.model = None
+        self.paddle_engine = None
         self.model_config = model_config
+        self.backend = "basic"  # Track which backend is active
 
+        # Try Detectron2 first (best quality, but not available on Windows)
         if LAYOUTPARSER_AVAILABLE and DETECTRON2_AVAILABLE:
             try:
                 device = "cuda" if use_gpu else "cpu"
@@ -174,10 +193,30 @@ class SlideLayoutClassifier:
                     extra_config=["MODEL.DEVICE", device],
                     label_map=self.PUBLAYNET_LABELS
                 )
-                logger.info(f"Loaded LayoutParser model on {device}")
+                self.backend = "detectron2"
+                logger.info(f"Loaded LayoutParser/Detectron2 model on {device}")
             except Exception as e:
                 logger.warning(f"Failed to load LayoutParser model: {e}")
                 self.model = None
+
+        # Try PaddleOCR as fallback (Windows-friendly)
+        if self.model is None and PADDLEOCR_AVAILABLE:
+            try:
+                self.paddle_engine = PPStructure(
+                    layout=True,
+                    table=False,  # Disable table structure recognition for speed
+                    ocr=False,    # Disable OCR for speed, we only need layout
+                    show_log=False,
+                    use_gpu=use_gpu
+                )
+                self.backend = "paddleocr"
+                logger.info("Loaded PaddleOCR/PPStructure for layout analysis")
+            except Exception as e:
+                logger.warning(f"Failed to load PaddleOCR: {e}")
+                self.paddle_engine = None
+
+        if self.model is None and self.paddle_engine is None:
+            logger.info("Using basic heuristic layout classification")
 
     def classify(self, image_path: str) -> LayoutClassification:
         """
@@ -210,9 +249,11 @@ class SlideLayoutClassifier:
             logger.error(f"Failed to load image: {e}")
             return LayoutClassification(layout_type="unknown", confidence=0.0, regions=[])
 
-        # Detect regions
+        # Detect regions using available backend
         if self.model:
             regions = self._detect_with_layoutparser(image, width, height)
+        elif self.paddle_engine:
+            regions = self._detect_with_paddleocr(image, width, height)
         else:
             regions = self._detect_basic(image, width, height)
 
@@ -288,6 +329,87 @@ class SlideLayoutClassifier:
 
         except Exception as e:
             logger.error(f"LayoutParser detection failed: {e}")
+            return self._detect_basic(image, width, height)
+
+    def _detect_with_paddleocr(
+        self,
+        image,
+        width: int,
+        height: int
+    ) -> List[DetectedRegion]:
+        """
+        Detect regions using PaddleOCR/PPStructure.
+
+        PPStructure provides layout analysis that works on Windows
+        without requiring Detectron2.
+
+        Label mapping from PPStructure:
+        - text: Regular text blocks
+        - title: Title/heading text
+        - figure: Images, charts, diagrams
+        - table: Tables
+        - list: Bullet lists
+        """
+        try:
+            import numpy as np
+            image_array = np.array(image)
+
+            # Run PPStructure layout analysis
+            result = self.paddle_engine(image_array)
+
+            regions = []
+            slide_area = width * height
+
+            # PPStructure label mapping to our standard types
+            label_map = {
+                "text": "text",
+                "title": "title",
+                "figure": "figure",
+                "table": "table",
+                "list": "list",
+                "header": "title",
+                "footer": "text",
+                "reference": "text",
+                "equation": "figure",
+            }
+
+            for item in result:
+                # PPStructure returns dict with 'type' and 'bbox'
+                item_type = item.get("type", "text").lower()
+                bbox = item.get("bbox", [0, 0, 0, 0])
+
+                # bbox format: [x1, y1, x2, y2]
+                if len(bbox) >= 4:
+                    x1, y1, x2, y2 = bbox[0], bbox[1], bbox[2], bbox[3]
+                else:
+                    continue
+
+                # Map label to our standard types
+                region_type = label_map.get(item_type, "text")
+
+                # Calculate metrics
+                area = (x2 - x1) * (y2 - y1)
+                area_ratio = area / slide_area if slide_area > 0 else 0
+                center_x = ((x1 + x2) / 2) / width if width > 0 else 0
+                center_y = ((y1 + y2) / 2) / height if height > 0 else 0
+
+                # PPStructure doesn't provide confidence scores, use default
+                confidence = 0.75
+
+                region = DetectedRegion(
+                    region_type=region_type,
+                    bbox=(x1, y1, x2, y2),
+                    confidence=confidence,
+                    area_ratio=area_ratio,
+                    center=(center_x, center_y)
+                )
+                regions.append(region)
+
+            logger.debug(f"PaddleOCR detected {len(regions)} regions")
+            return regions
+
+        except Exception as e:
+            logger.error(f"PaddleOCR detection failed: {e}")
             return self._detect_basic(image, width, height)
 
     def _detect_basic(
@@ -609,6 +731,7 @@ if __name__ == "__main__":
         print(f"Classifying: {image_path}")
         print(f"LayoutParser available: {LAYOUTPARSER_AVAILABLE}")
         print(f"Detectron2 available: {DETECTRON2_AVAILABLE}")
+        print(f"PaddleOCR available: {PADDLEOCR_AVAILABLE}")
         print()
 
         result = classify_slide(image_path)
@@ -634,6 +757,7 @@ if __name__ == "__main__":
         print()
         print("Classify slide layout from rendered image.")
         print()
-        print("Dependencies:")
-        print("  pip install layoutparser")
-        print("  pip install 'layoutparser[detectron2]'  # For ML model")
+        print("Dependencies (in order of preference):")
+        print("  pip install layoutparser 'layoutparser[detectron2]'  # Best (Linux/Mac)")
+        print("  pip install paddlepaddle paddleocr                   # Fallback (Windows)")
+        print("  (no dependencies)                                    # Basic heuristics")
