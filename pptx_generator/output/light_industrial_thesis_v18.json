@@ -1,0 +1,1265 @@
+{
+  "presentation_type": "investment_pitch",
+  "title": "Light Industrial Investment Thesis",
+  "subtitle": "US Portfolio Acquisition Strategy | Institutional Joint Venture",
+  "template": "consulting_toolkit",
+  "sections": [
+    {
+      "name": "Executive Summary",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Light Industrial Investment Thesis",
+            "subtitle": "US Portfolio Acquisition Strategy | Institutional Joint Venture",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\title_slide.png"
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Investment Opportunity Overview",
+            "takeaway": "Small-bay industrial delivers superior returns with the lowest vacancy and highest historical performance of any property type.",
+            "metrics": [
+              {
+                "label": "JV Structure",
+                "value": "49/49/2"
+              },
+              {
+                "label": "Target IRR",
+                "value": "10-15%"
+              },
+              {
+                "label": "Small-Bay Vacancy",
+                "value": "3.4%"
+              },
+              {
+                "label": "10-Yr Returns",
+                "value": "12.4%"
+              }
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Investment Thesis Summary",
+            "takeaway": "A rare convergence of structural undersupply, compelling entry pricing, and durable demand drivers creates a generational investment opportunity.",
+            "bullets": [
+              "12.4% ten-year annualized returns - highest among property types (vs 9.8% multifamily, 8.2% retail, 6.5% office)",
+              "Small-bay vacancy at 3.4% nationally vs 7.1% overall industrial - structural undersupply in the sub-50,000 SF segment",
+              "Construction pipeline at decade lows: 0.3% of small-bay stock under development vs 2.0%+ for bulk logistics",
+              "Cap rates repriced 130 bps from Q2 2022 trough (5.22% to 6.51%) - compelling entry with lowest rate sensitivity (41 bps per 100 bps Fed move)",
+              "Three converging structural demand drivers: e-commerce acceleration (23% to 32% of retail by 2035), nearshoring wave ($400B+ announced), and obsolescence cycle",
+              "Sunbelt market focus: Nashville (4.1% vacancy), Tampa (3.0%), and Raleigh-Durham leading Tier 1 allocation",
+              "Portfolio diversification: 2-4M SF across 15-25 multi-tenant properties in 7+ markets with max 20% concentration"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Market Fundamentals",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Market Fundamentals",
+            "subtitle": "Understanding the Industrial Real Estate Landscape",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\market_fundamentals.png"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "The 2022-2024 Repricing: Context for Today's Entry Point",
+            "takeaway": "The recent repricing reflects transitory factors now resolving, while small-bay fundamentals remain exceptionally strong.",
+            "bullets": [
+              "INTEREST RATE SHOCK: Fed funds rose 525 bps in 18 months (Mar 2022 - Jul 2023), forcing broad CRE repricing. Industrial adjusted least - only 41 bps per 100 bps Fed move - due to fundamental strength.",
+              "BULK LOGISTICS OVERSUPPLY: 2.5 billion SF delivered 2020-2024, concentrated in large-format (>200K SF). Small-bay (<50K SF) received minimal new supply - pipeline at 0.3% of stock vs 2.0%+ for bulk.",
+              "CAPITAL MARKETS DISLOCATION: Transaction volume fell 60% in 2023 as bid-ask spreads widened. Industrial bid-ask has now normalized; pricing reflects appropriate risk premiums.",
+              "WHY SMALL-BAY WAS INSULATED: Development economics favor larger buildings (lower per-SF construction cost, institutional tenant credit). Small-bay construction peaked in 2007 and never recovered. Result: structural undersupply now exceeding 15 years.",
+              "ENTRY OPPORTUNITY: The 130 bps cap rate expansion reflects transitory factors now resolving, while small-bay fundamentals remain exceptionally strong."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "US Industrial Market Overview (Q3 2025)",
+            "takeaway": "Small-bay industrial outperforms across every key metric: tighter vacancy, stronger rent growth, and minimal new supply.",
+            "headers": [
+              "Metric",
+              "National",
+              "Small-Bay (<50K SF)"
+            ],
+            "data": [
+              [
+                "Total Inventory",
+                "20 billion SF",
+                "~4 billion SF (20%)"
+              ],
+              [
+                "Vacancy Rate",
+                "7.1%",
+                "3.4% (370 bps tighter)"
+              ],
+              [
+                "Under Construction",
+                "382.7M SF",
+                "0.3% of stock"
+              ],
+              [
+                "Avg. Asking Rent",
+                "$10.10/SF",
+                "$12-15/SF"
+              ],
+              [
+                "Net Absorption (YTD)",
+                "145M SF",
+                "Positive (outperforming)"
+              ],
+              [
+                "Cap Rate Range",
+                "5.5-7.5%",
+                "5.5-6.5%"
+              ],
+              [
+                "5-Year Rent Growth",
+                "+60%",
+                "+65-80%"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Light Industrial vs. Bulk Logistics: Why Small-Bay Outperforms",
+            "takeaway": "Small-bay's structural advantages - limited supply, diversified tenants, and frequent rent resets - drive superior risk-adjusted returns.",
+            "left_column": {
+              "header": "Light Industrial (<50,000 SF)",
+              "bullets": [
+                "Clear Heights: 20-28 ft (functional for SMBs)",
+                "Vacancy: 3.4% (supply-constrained)",
+                "Pipeline: 0.3% of stock (minimal competition)",
+                "Tenants: Diversified SMBs, 15-50 per building",
+                "Lease Terms: 3-5 years, frequent rent resets",
+                "Rent Upside: 20-40% on rollover",
+                "Barriers: Zoning, land cost, economics favor larger"
+              ]
+            },
+            "right_column": {
+              "header": "Bulk Logistics (200,000+ SF)",
+              "bullets": [
+                "Clear Heights: 36-40+ ft (specialized)",
+                "Vacancy: 9-10% (oversupplied)",
+                "Pipeline: 2.0%+ of stock (significant supply)",
+                "Tenants: National corporates, single-tenant",
+                "Lease Terms: 10-15 years, limited bumps",
+                "Rent Growth: Contractual 2-3% escalations",
+                "Competition: Institutional capital concentrated"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Supply Pipeline Contraction Supports Rent Growth",
+            "takeaway": "Construction down 62% from peak with small-bay at a decade low - creating a supply-constrained environment through 2027.",
+            "chart_data": {
+              "type": "column",
+              "categories": [
+                "2021",
+                "2022",
+                "2023",
+                "2024",
+                "2025"
+              ],
+              "series": [
+                {
+                  "name": "Under Construction (M SF)",
+                  "values": [
+                    550,
+                    1000,
+                    850,
+                    550,
+                    383
+                  ]
+                }
+              ]
+            },
+            "narrative": "Industrial construction down 62% from 2022 peak. Small-bay pipeline at 0.3% of stock - decade low. Limited new supply combined with steady demand supports continued rent growth and occupancy strength through 2027. The 2025 bar represents the lowest construction level since 2015."
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Cap Rate Evolution: Attractive Entry After Repricing",
+            "takeaway": "Industrial cap rates have expanded 130 bps from cycle lows but show the lowest rate sensitivity of any property type.",
+            "chart_data": {
+              "type": "line",
+              "categories": [
+                "Q2 2022",
+                "Q4 2022",
+                "Q2 2023",
+                "Q4 2023",
+                "Q2 2024",
+                "Q4 2024"
+              ],
+              "series": [
+                {
+                  "name": "Industrial Cap Rate (%)",
+                  "values": [
+                    5.22,
+                    5.75,
+                    6.1,
+                    6.4,
+                    6.51,
+                    6.29
+                  ]
+                },
+                {
+                  "name": "10-Yr Treasury (%)",
+                  "values": [
+                    2.95,
+                    3.87,
+                    3.84,
+                    4.57,
+                    4.4,
+                    4.5
+                  ]
+                }
+              ]
+            },
+            "narrative": "Cap rates expanded 130 bps from Q2 2022 cycle low (5.22%) to Q2 2024 peak (6.51%), now stabilizing at 6.29%. Industrial shows lowest rate sensitivity at 41 bps per 100 bps Fed move (vs 70 bps office, 75 bps multifamily). Spread to Treasury remains healthy at 180 bps. Q4 2024 compression signals market stabilization."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Target Markets",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Target Markets",
+            "subtitle": "Sunbelt-Focused Geographic Strategy",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\target_markets.png"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Target Market Matrix: Tiered Allocation Strategy",
+            "takeaway": "A three-tier allocation strategy balances growth potential, scale opportunities, and yield across top-performing Sunbelt markets.",
+            "headers": [
+              "Market",
+              "Tier",
+              "Vacancy",
+              "Rent Growth",
+              "Cap Rate",
+              "Key Catalyst"
+            ],
+            "data": [
+              [
+                "Nashville",
+                "1-Core",
+                "4.1%",
+                "+8% YoY",
+                "5.5-6.5%",
+                "$1.4B 2024 volume (+37%)"
+              ],
+              [
+                "Tampa",
+                "1-Core",
+                "3.0%",
+                "+69% (5-yr)",
+                "5.5-6.5%",
+                "75% pre-leasing rate"
+              ],
+              [
+                "Raleigh-Durham",
+                "1-Core",
+                "6.3%",
+                "+39%",
+                "5.5-6.5%",
+                "Life sciences cluster"
+              ],
+              [
+                "Dallas-Fort Worth",
+                "2-Scale",
+                "9.7%",
+                "+5% YoY",
+                "6.0-7.0%",
+                "55 qtrs positive absorption"
+              ],
+              [
+                "Atlanta",
+                "2-Scale",
+                "8.4%",
+                "+4% YoY",
+                "6.0-7.0%",
+                "$11B Amazon investment"
+              ],
+              [
+                "Phoenix",
+                "2-Scale",
+                "10.6%",
+                "+3% YoY",
+                "6.5-7.5%",
+                "#1 mfg job growth"
+              ],
+              [
+                "San Antonio",
+                "3-Yield",
+                "2.7%",
+                "+6% YoY",
+                "7.0-8.5%",
+                "Military/aerospace base"
+              ],
+              [
+                "Jacksonville",
+                "3-Yield",
+                "5.2%",
+                "+5% YoY",
+                "6.5-7.5%",
+                "Port expansion"
+              ],
+              [
+                "Salt Lake City",
+                "3-Yield",
+                "2.5%",
+                "+7% YoY",
+                "6.0-7.0%",
+                "Tech migration"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Tier 1 Deep Dive: Nashville, Tampa, Raleigh-Durham",
+            "takeaway": "Tier 1 markets combine the tightest vacancy, strongest rent growth, and most compelling demographic tailwinds in the country.",
+            "bullets": [
+              "NASHVILLE: Overall vacancy 4.1-4.4% (lowest among targets). 2024 investment volume $1.4B (+37% YoY). East submarket absorbed 1.5M SF. 79% of corporate relocations involve industrial users. Amazon, Oracle, AllianceBernstein driving ecosystem growth.",
+              "TAMPA: Small-bay vacancy 3.0-3.2% - most constrained Florida market. Pre-leasing rate 75% (highest in state). Construction down 70% from 2022 peak. Five-year rent growth of 69.1%. Port Tampa Bay expansion driving logistics demand.",
+              "RALEIGH-DURHAM: Triangle market vacancy 6.3% with strong absorption. 39% rent growth since 2019. Life sciences and tech driving quality tenant demand. Research Triangle Park ecosystem supports long-term growth. Limited competing supply.",
+              "ALLOCATION: 40-50% of capital to Tier 1 markets. We target 6-10 assets across three MSAs. Focus on infill locations with barriers to new supply."
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Tier 2 & 3 Markets: Scale and Yield Opportunities",
+            "takeaway": "Tier 2 markets provide scale and liquidity while Tier 3 markets offer yield premiums with limited institutional competition.",
+            "bullets": [
+              "DALLAS-FORT WORTH (Tier 2): Largest US industrial market with 1B+ SF inventory. 55 consecutive quarters of positive absorption. 9.7% vacancy elevated but concentrated in bulk. Small-bay fundamentals remain strong in core submarkets.",
+              "ATLANTA (Tier 2): 8.4% vacancy with $11B Amazon regional investment. Savannah port connectivity supports logistics growth. Small-bay vacancy 5.2% in core submarkets. Acquisition focus on I-285 infill.",
+              "PHOENIX (Tier 2): #1 manufacturing job growth nationally. TSMC, Intel driving semiconductor ecosystem. 10.6% vacancy concentrated in new bulk spec. We target small-bay in established submarkets.",
+              "SAN ANTONIO (Tier 3): Manufacturing vacancy 2.7% - tightest among targets. Military and aerospace tenant base provides stability. 7.0-8.5% cap rates offer yield premium with limited institutional competition.",
+              "SALT LAKE CITY (Tier 3): Small-bay vacancy 2.5%. Tech and outdoor recreation migration supporting growth. 6.0-7.0% cap rates. Strong rent growth trajectory.",
+              "ALLOCATION: 30-40% to Tier 2 (scale), 15-25% to Tier 3 (yield). Diversification across 7+ markets with max 20% single-market concentration."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demand Drivers",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Demand Drivers",
+            "subtitle": "Structural Tailwinds Supporting Industrial Real Estate",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\demand_drivers.png"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Three Converging Structural Demand Drivers",
+            "takeaway": "E-commerce growth, nearshoring momentum, and building obsolescence create durable, long-term demand for modern small-bay space.",
+            "bullets": [
+              "E-COMMERCE ACCELERATION: Online retail at 23.2% of total sales, projected to reach 32% by 2035. Each $1B in e-commerce sales requires 1.25M SF of distribution space. Last-mile delivery driving demand for urban infill industrial.",
+              "NEARSHORING & RESHORING: 300+ manufacturing facility announcements since 2020 representing $400B+ committed investment. CHIPS Act, IRA, and supply chain security driving domestic production. Mexico trade now exceeds China - supporting border market logistics.",
+              "OBSOLESCENCE CYCLE: Pre-2000 industrial buildings posting negative absorption as tenants upgrade. Modern requirements (clear height, power, truck courts) not met by 60%+ of existing stock. Functional obsolescence accelerating replacement demand.",
+              "INTEREST RATE RESILIENCE: Industrial cap rates moved only 41 bps per 100 bps of Fed tightening - lowest sensitivity among all property types. Strong fundamentals insulate valuations from rate volatility.",
+              "TENANT DEMAND COMPOSITION: 70% of small-bay leasing from local/regional SMBs with sticky demand. E-commerce, contractors, light manufacturing, and last-mile distribution represent a durable tenant base."
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Manufacturing Construction Renaissance",
+            "takeaway": "Manufacturing construction has tripled since 2020, driven by CHIPS Act and IRA investments totaling $430B+.",
+            "chart_data": {
+              "type": "column",
+              "categories": [
+                "2020",
+                "2021",
+                "2022",
+                "2023",
+                "2024"
+              ],
+              "series": [
+                {
+                  "name": "Annual Spending ($B)",
+                  "values": [
+                    80,
+                    95,
+                    128,
+                    195,
+                    237
+                  ]
+                }
+              ]
+            },
+            "narrative": "Manufacturing construction spending increased 196% since 2020 ($80B to $237B). CHIPS Act driving $280B in semiconductor investments. IRA spurring $150B+ in clean energy manufacturing. Small-bay benefits from supplier/contractor ecosystem growth around mega-projects. Key policy catalysts: CHIPS Act (Aug 2022), IRA (Aug 2022)."
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Property Type Comparison: Interest Rate Sensitivity & Returns",
+            "takeaway": "Industrial combines the highest returns with the lowest interest rate sensitivity - a rare combination of performance and stability.",
+            "headers": [
+              "Property Type",
+              "Cap Rate Sensitivity",
+              "10-Yr Return",
+              "Volatility",
+              "Recovery Time"
+            ],
+            "data": [
+              [
+                "Industrial",
+                "41 bps (lowest)",
+                "12.4%",
+                "Low",
+                "6-9 months"
+              ],
+              [
+                "Multifamily",
+                "75 bps",
+                "9.8%",
+                "Medium",
+                "12-18 months"
+              ],
+              [
+                "Retail",
+                "78 bps",
+                "8.2%",
+                "Medium",
+                "18-24 months"
+              ],
+              [
+                "Office",
+                "70 bps",
+                "6.5%",
+                "High",
+                "24-36+ months"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Investment Strategy",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Investment Strategy",
+            "subtitle": "Portfolio Construction and Value Creation Approach",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\investment_strategy.png"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Portfolio Construction & Underwriting Criteria",
+            "takeaway": "Disciplined underwriting targets properties with 20%+ mark-to-market upside, diversified tenants, and below-replacement-cost basis.",
+            "bullets": [
+              "TARGET PORTFOLIO: 2-4M SF across 15-25 multi-tenant properties. Average deal size $15-40M. Total capitalization $250-400M.",
+              "PROPERTY CRITERIA: <50,000 SF per building, 15-50 tenants, 1990+ construction (functional modern spec), 20-28 ft clear heights, adequate truck courts and parking.",
+              "LOCATION CRITERIA: Infill or first-ring suburban, proximity to population centers, limited competing developable land, access to labor and transportation.",
+              "TENANT CRITERIA: 85%+ occupied at acquisition, diversified tenant mix (no >10% single tenant), credit-worthy SMBs, below-market rents with 20%+ mark-to-market opportunity.",
+              "UNDERWRITING: Our base case projects 6.0-7.5% going-in cap rate, 3-4% annual rent growth, 95%+ stabilized occupancy, 50-60% LTV financing, 5-7 year hold period.",
+              "VALUE CREATION: Mark-to-market on lease rollover (20-40% rent upside), occupancy improvement to 95%+, OpEx efficiency through scale, selective capital improvements, ESG enhancements."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Representative Acquisition: Nashville Small-Bay Portfolio",
+            "takeaway": "This illustrative deal demonstrates a clear path to 14.8% gross IRR through lease-up, rent growth, and operational improvements.",
+            "headers": [
+              "Category",
+              "Detail",
+              "Value Creation"
+            ],
+            "data": [
+              [
+                "Location",
+                "I-40 Corridor, Nashville MSA (Tier 1)",
+                "Prime Sunbelt submarket"
+              ],
+              [
+                "Buildings",
+                "3 multi-tenant, 1995-2002 vintage",
+                "Functional modern spec"
+              ],
+              [
+                "Total SF",
+                "127,500 SF across 42 tenants",
+                "Diversified tenant base"
+              ],
+              [
+                "Clear Heights",
+                "22-24 feet",
+                "Meets modern requirements"
+              ],
+              [
+                "Acquisition Occupancy",
+                "88% (vacancy in one building)",
+                "Lease-up opportunity"
+              ],
+              [
+                "Purchase Price",
+                "$18.2M ($143/SF)",
+                "Below replacement cost"
+              ],
+              [
+                "Going-In Cap Rate",
+                "6.4%",
+                "Attractive entry yield"
+              ],
+              [
+                "Going-In NOI",
+                "$1.165M",
+                "Stabilization target: $1.722M"
+              ],
+              [
+                "Stabilized Exit Value",
+                "$28.7M at 6.0% cap",
+                "+$10.5M value creation"
+              ],
+              [
+                "Projected Gross IRR",
+                "14.8% (1.72x multiple)",
+                "Net IRR: 12.1%"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Nashville Case Study: Value Creation Plan",
+            "takeaway": "Lease-up and mark-to-market alone generate $512K of annual NOI growth - no development risk required.",
+            "bullets": [
+              "LEASE-UP: Fill 15,300 SF vacancy at market rents. Projected NOI impact: +$214K annually. Timeline: 6-12 months. Local broker relationships provide tenant pipeline.",
+              "MARK-TO-MARKET: In-place rents average $9.72/SF vs $13.52/SF market - 39% embedded upside. 2026-2027 rollovers represent +$298K NOI on renewals at market rates.",
+              "OPEX EFFICIENCY: Consolidate property management across three buildings. Projected savings: $45K annually. Implement utility benchmarking and procurement optimization.",
+              "CAPITAL IMPROVEMENTS: $385K budget for LED lighting retrofit ($180K), facade refresh ($120K), and signage upgrades ($85K). Payback: 2-3 years through rent premiums and tenant retention.",
+              "5-YEAR PROJECTION: Stabilized NOI (Year 3) of $1.722M. Exit at 6.0% cap rate implies $28.7M value. Gross IRR: 14.8%. Equity Multiple: 1.72x. Net IRR (after fees): 12.1%."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Return Sensitivity Analysis",
+            "takeaway": "Even our stress case delivers positive returns, while the base case exceeds pension hurdles by 520 bps.",
+            "headers": [
+              "Scenario",
+              "Rent Growth",
+              "Exit Cap",
+              "Net IRR",
+              "Equity Multiple"
+            ],
+            "data": [
+              [
+                "Bull Case",
+                "4.5% annually",
+                "5.5%",
+                "16.8%",
+                "1.92x"
+              ],
+              [
+                "Base Case",
+                "3.5% annually",
+                "6.0%",
+                "12.1%",
+                "1.72x"
+              ],
+              [
+                "Conservative",
+                "2.5% annually",
+                "6.5%",
+                "8.4%",
+                "1.48x"
+              ],
+              [
+                "Stress Case",
+                "1.5% annually",
+                "7.0%",
+                "5.2%",
+                "1.28x"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Sensitivity Analysis: Key Observations",
+            "takeaway": "Multiple layers of downside protection - mark-to-market cushion, replacement cost floor, and structural demand - limit loss potential.",
+            "bullets": [
+              "BASE CASE ASSUMPTIONS: 3.5% annual rent growth, 6.0% exit cap (25 bps compression), 95% stabilized occupancy, 5-year hold, 55% LTV at 6.5% interest rate.",
+              "PENSION HURDLE COMPARISON: Base case (12.1% net IRR) exceeds 6.91% public pension assumed return by 520 bps. Conservative case (8.4%) still exceeds hurdle by 150 bps.",
+              "STRESS TEST RESILIENCE: Even with 1.5% rent growth and 70 bps cap rate expansion, returns remain positive at 5.2% net IRR. Downside protection from mark-to-market cushion.",
+              "DOWNSIDE PROTECTION SOURCES: (1) 39% embedded mark-to-market upside provides rent floor, (2) replacement cost premium limits new competition, (3) structural demand from e-commerce, nearshoring, obsolescence.",
+              "UPSIDE POTENTIAL: Bull case (16.8% IRR) achievable if rent growth accelerates and cap rates compress as interest rates normalize. Industrial fundamentals support optimistic scenario."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Return Expectations by Strategy",
+            "takeaway": "Our JV targets the core-plus/value-add sweet spot: 10-15% IRR with moderate leverage and 5-7 year holds.",
+            "headers": [
+              "Strategy",
+              "Target IRR",
+              "Equity Multiple",
+              "Leverage",
+              "Hold Period",
+              "Risk Profile"
+            ],
+            "data": [
+              [
+                "Core",
+                "7-10%",
+                "1.3-1.6x",
+                "40-45%",
+                "7-10 years",
+                "Stabilized, credit tenants"
+              ],
+              [
+                "Core-Plus",
+                "8-12%",
+                "1.4-1.7x",
+                "45-60%",
+                "5-7 years",
+                "Light value-add, lease-up"
+              ],
+              [
+                "Value-Add",
+                "13-20%",
+                "1.7-2.0x",
+                "60-75%",
+                "3-5 years",
+                "Repositioning, vacancy"
+              ],
+              [
+                "JV Target",
+                "10-15%",
+                "1.5-1.8x",
+                "50-60%",
+                "5-7 years",
+                "Core-Plus/Value-Add blend"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Historical Returns: Industrial Outperformance",
+            "takeaway": "Industrial has outperformed every other property type over 10 years by 260-590 bps - a track record of consistent excellence.",
+            "chart_data": {
+              "type": "bar",
+              "categories": [
+                "Industrial",
+                "Multifamily",
+                "Retail",
+                "Office"
+              ],
+              "series": [
+                {
+                  "name": "10-Yr Annualized Return (%)",
+                  "values": [
+                    12.4,
+                    9.8,
+                    8.2,
+                    6.5
+                  ]
+                }
+              ]
+            },
+            "narrative": "Industrial delivered 12.4% annualized returns over 10 years - 260 bps above multifamily (+2.6%), 420 bps above retail (+4.2%), and 590 bps above office (+5.9%). Outperformance driven by e-commerce tailwinds, supply discipline, and short lease terms enabling rent capture. Forward outlook: We expect 8-12% returns as cap rates stabilize."
+          }
+        }
+      ]
+    },
+    {
+      "name": "Competitive Positioning",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Competitive Positioning",
+            "subtitle": "Why This Partnership",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\competitive_positioning.png"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "The Institutional Industrial Landscape",
+            "takeaway": "Mega-funds structurally avoid small-bay, creating a less competitive segment with superior returns.",
+            "bullets": [
+              "SCALED PLAYERS DOMINATE BULK LOGISTICS: Prologis ($108B market cap, 1.2B SF global) focuses on >200K SF. Blackstone ($90B+ North American industrial) targets minimum $100M deals. GLP, KKR, and Brookfield operate at similar scale thresholds.",
+              "THE SMALL-BAY OPPORTUNITY GAP: Mega-funds underweight small-bay for structural reasons. Deal size friction: $15-40M acquisitions don't move the needle for $50B+ funds. Operational intensity: 15-50 tenants per building requires hands-on management.",
+              "FRAGMENTED OWNERSHIP: 70%+ of small-bay industrial owned by private individuals and small LLCs. Relationship-driven sourcing requires local broker networks. Off-market transactions are the norm, not the exception.",
+              "RESULT: A segment generating 12.4% historical returns with less competition than bulk logistics, at yields 50-150 bps wider than comparable large-format assets."
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Our Differentiation: Why This GP",
+            "takeaway": "Right-sized capital, operational capability, and local relationships position us to capture returns that larger platforms cannot access.",
+            "bullets": [
+              "RIGHT-SIZED CAPITAL: Our $250-400M fund matches small-bay deal flow. We can pursue $15-40M acquisitions that are too small for mega-funds but offer superior risk-adjusted returns.",
+              "OPERATIONAL CAPABILITY: We have built property management infrastructure for multi-tenant assets. Our team manages 15-50 tenant relationships per building - operational intensity that larger platforms avoid.",
+              "LOCAL MARKET PRESENCE: Established broker relationships in target Sunbelt markets. 20-30% of acquisitions sourced off-market through proprietary relationships.",
+              "ALIGNED INCENTIVES: 2% GP co-investment ensures skin in the game. Our success is directly tied to investor returns. We eat our own cooking.",
+              "INSTITUTIONAL STANDARDS: GRESB participation, quarterly financials, robust governance framework. We provide institutional-quality reporting and transparency while pursuing middle-market opportunities."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Risk Management",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Risk Management",
+            "subtitle": "Identifying and Mitigating Investment Risks",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\risk_management.png"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Risk Matrix: Factors and Mitigation Strategies",
+            "takeaway": "Proactive risk management through diversification, tenant screening, and focus on supply-constrained submarkets.",
+            "headers": [
+              "Risk Factor",
+              "Probability",
+              "Impact",
+              "Mitigation Strategy"
+            ],
+            "data": [
+              [
+                "Supply overhang in bulk",
+                "Medium",
+                "Low",
+                "Focus on small-bay with 0.3% pipeline; avoid markets with >5% under construction"
+              ],
+              [
+                "Tenant credit/defaults",
+                "Medium",
+                "Medium",
+                "15+ tenant diversification per property; no >10% single tenant; credit screening"
+              ],
+              [
+                "Interest rate volatility",
+                "Medium",
+                "Low",
+                "Lowest sensitivity (41 bps); moderate leverage (50-60%); fixed-rate debt"
+              ],
+              [
+                "Economic recession",
+                "Low",
+                "Medium",
+                "E-commerce counter-cyclical; essential infrastructure; diversified SMB base"
+              ],
+              [
+                "Geographic concentration",
+                "Low",
+                "Medium",
+                "7+ market diversification; max 20% single market; Sunbelt demographics"
+              ],
+              [
+                "Cap rate expansion",
+                "Low",
+                "Medium",
+                "Already repriced 130 bps; strong fundamentals; focus on cash flow"
+              ],
+              [
+                "Obsolescence risk",
+                "Low",
+                "Low",
+                "1990+ vintage requirement; modern functional spec; avoid pre-1980 assets"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Defensive Portfolio Characteristics",
+            "takeaway": "NNN lease structure, tenant diversification, and below-market rents provide multiple layers of downside protection.",
+            "bullets": [
+              "LEASE STRUCTURE: Triple-net (NNN) leases pass operating expenses, property taxes, and insurance to tenants. Landlord responsibility limited to structural and roof. Expense volatility eliminated.",
+              "RENT CAPTURE: 3-5 year lease terms (vs 10-15 years for bulk) enable frequent mark-to-market. Current portfolio averages 20-40% below market - significant embedded value on rollover.",
+              "TENANT DIVERSITY: We target 15-50 tenants per property from local/regional SMBs. No single tenant >10% of property income. Reduces concentration risk and provides negotiating leverage.",
+              "ESSENTIAL USE: Small-bay industrial serves last-mile distribution, contractor storage, light manufacturing - essential economic functions with sticky demand regardless of cycle.",
+              "REPLACEMENT COST FLOOR: Current pricing at 10-20% discount to replacement cost in most markets. Provides valuation floor and limits new competitive supply.",
+              "INFLATION HEDGE: Annual rent escalators (2.5-3.5%) plus mark-to-market on rollover provide natural inflation protection. Real returns positive across economic cycles."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Mark-to-Market Opportunity: Illustrative Rent Roll Analysis",
+            "takeaway": "39% average mark-to-market upside across the rent roll provides a significant embedded value cushion.",
+            "headers": [
+              "Tenant",
+              "SF",
+              "In-Place",
+              "Market",
+              "Variance",
+              "Expiry"
+            ],
+            "data": [
+              [
+                "Tenant A (HVAC Contractor)",
+                "8,500",
+                "$9.25/SF",
+                "$13.50/SF",
+                "+46%",
+                "Q2 2026"
+              ],
+              [
+                "Tenant B (E-Commerce 3PL)",
+                "12,000",
+                "$10.00/SF",
+                "$14.00/SF",
+                "+40%",
+                "Q4 2025"
+              ],
+              [
+                "Tenant C (Auto Parts Dist.)",
+                "6,200",
+                "$8.75/SF",
+                "$12.50/SF",
+                "+43%",
+                "Q1 2027"
+              ],
+              [
+                "Tenant D (Electrical Supply)",
+                "9,800",
+                "$11.50/SF",
+                "$14.25/SF",
+                "+24%",
+                "Q3 2026"
+              ],
+              [
+                "Tenant E (Food Service Dist.)",
+                "7,500",
+                "$9.00/SF",
+                "$13.00/SF",
+                "+44%",
+                "Q2 2026"
+              ],
+              [
+                "Weighted Average",
+                "44,000",
+                "$9.72/SF",
+                "$13.52/SF",
+                "+39%",
+                ""
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Mark-to-Market: NOI Impact Analysis",
+            "takeaway": "Capturing market rents on expiring leases drives 39% NOI growth with no capital expenditure required.",
+            "bullets": [
+              "CURRENT NOI (at $9.72/SF): $427,680 annually on illustrative 44,000 SF rent roll. Represents below-market leases signed during prior cycle.",
+              "STABILIZED NOI (at $13.52/SF): $594,880 annually. Captures market rent on 2025-2027 lease expirations as tenants renew or are replaced.",
+              "NOI UPLIFT: +$167,200 annually (+39%) through mark-to-market alone. No capital expenditure required - purely capturing embedded value.",
+              "CAP RATE IMPACT: Going-in 6.5% cap rate improves to 4.7% yield-on-cost at stabilization. Demonstrates value creation through operational execution.",
+              "IMPLIED VALUE CREATION: At 6.0% exit cap, NOI uplift implies $2.57M value increase on $6.58M basis (39% appreciation). This embedded upside provides significant downside protection."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "ESG Strategy",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "ESG Strategy",
+            "subtitle": "Environmental, Social, and Governance Integration",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\esg_strategy.png"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "ESG Value Creation: Economics of Green Industrial",
+            "takeaway": "Green building initiatives generate measurable rent and sale premiums with payback periods of 1-4 years.",
+            "headers": [
+              "Initiative",
+              "Investment",
+              "Rent Premium",
+              "Sales Premium",
+              "Payback"
+            ],
+            "data": [
+              [
+                "LEED Certification",
+                "$2-5/SF",
+                "6-31%",
+                "7.6-21%",
+                "2-4 years"
+              ],
+              [
+                "ENERGY STAR Label",
+                "$0.50-1/SF",
+                "3-7%",
+                "5-10%",
+                "1-2 years"
+              ],
+              [
+                "Rooftop Solar (PPA)",
+                "$0 upfront",
+                "2-5%",
+                "3-8%",
+                "Immediate NOI"
+              ],
+              [
+                "LED Lighting Retrofit",
+                "$1-2/SF",
+                "N/A",
+                "2-4%",
+                "1-3 years"
+              ],
+              [
+                "EV Charging Stations",
+                "$5-15K/station",
+                "1-3%",
+                "2-5%",
+                "2-4 years"
+              ],
+              [
+                "Cool Roof/Insulation",
+                "$2-4/SF",
+                "N/A",
+                "2-4%",
+                "3-5 years"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "ESG Integration & GRESB Roadmap",
+            "takeaway": "Industrial's low carbon intensity and large roof areas make it ideally suited for cost-effective decarbonization and GRESB leadership.",
+            "bullets": [
+              "BASELINE ADVANTAGE: Industrial has lowest GHG intensity at 21.1 kg/m2 (vs 55+ for office). Large roof areas ideal for solar. Low energy intensity buildings easier to decarbonize.",
+              "YEAR 1: GRESB baseline assessment and data collection infrastructure. Energy benchmarking across portfolio. Sustainability policy implementation. Target: GRESB participation.",
+              "YEAR 2-3: LED lighting retrofits (100% portfolio). Water efficiency measures. Building automation upgrades. Tenant engagement program. Target: 2-star GRESB rating.",
+              "YEAR 3-5: Rooftop solar on 50%+ of portfolio roof area via PPA (no upfront cost). EV charging at high-visibility properties. LEED certification for select assets. Target: 3-star GRESB, top quartile.",
+              "INVESTOR ALIGNMENT: GRESB covers 2,200+ companies with $7T AUM. 170 institutional investors with $51T+ use GRESB data for allocation decisions. ESG performance increasingly required for institutional capital.",
+              "TENANT DEMAND: Corporate sustainability commitments driving preference for green-certified space. ESG-forward properties achieving faster lease-up and reduced vacancy."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "JV Structure",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "JV Structure",
+            "subtitle": "Partnership Terms and Governance",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\jv_structure.png"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Joint Venture Structure & Economics",
+            "takeaway": "Market-standard terms with GP co-investment ensure alignment of interests and institutional-quality governance.",
+            "headers": [
+              "Component",
+              "Detail",
+              "Market Comparison"
+            ],
+            "data": [
+              [
+                "LP 1: US Public Pension",
+                "49% commitment",
+                "Standard institutional allocation"
+              ],
+              [
+                "LP 2: International SWF",
+                "49% commitment",
+                "Co-investment partnership"
+              ],
+              [
+                "GP Sponsor",
+                "2% commitment",
+                "Alignment through co-invest"
+              ],
+              [
+                "Acquisition Fee",
+                "1.0% of gross price",
+                "Market: 0.75-1.25%"
+              ],
+              [
+                "Asset Management Fee",
+                "0.75% of GAV",
+                "Market: 0.50-1.00%"
+              ],
+              [
+                "Disposition Fee",
+                "0.5% of gross price",
+                "Market: 0.25-0.75%"
+              ],
+              [
+                "Preferred Return",
+                "8% cumulative",
+                "Standard hurdle"
+              ],
+              [
+                "Promote Above Pref",
+                "20% to GP",
+                "Market: 15-25%"
+              ],
+              [
+                "Catch-Up",
+                "50% to GP until 20% achieved",
+                "Standard structure"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "GP Capabilities & Governance Framework",
+            "takeaway": "Institutional-quality governance with LP representation ensures transparency, accountability, and alignment throughout the investment lifecycle.",
+            "bullets": [
+              "SOURCING: Proprietary deal flow through broker relationships, direct owner outreach, and off-market transactions. We target 20-30% off-market acquisitions for pricing advantage.",
+              "UNDERWRITING: Institutional-quality due diligence including rent comps, tenant credit analysis, physical inspection, environmental review, and title/survey. IC approval required for all acquisitions.",
+              "ASSET MANAGEMENT: Dedicated property management oversight, leasing strategy execution, tenant relationship management, capital project supervision, and operating budget control.",
+              "REPORTING: Quarterly financial statements, annual audited financials, GRESB data submission, investor portal access, and annual investor meeting. Monthly informal updates.",
+              "GOVERNANCE: Investment Committee with LP representation for major decisions (acquisitions >$30M, dispositions, refinancing, capital calls >$10M). Advisory Board quarterly meetings.",
+              "EXIT STRATEGY: We target 5-7 year hold with flexibility for market timing. Portfolio sale, asset-by-asset disposition, or recapitalization options. 18-month exit planning runway."
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "GP Track Record & Team",
+            "takeaway": "A proven team with a track record of executing this strategy successfully across multiple market cycles.",
+            "headers": [
+              "Category",
+              "Detail",
+              ""
+            ],
+            "data": [
+              [
+                "Firm Overview",
+                "[GP Name] founded [Year]",
+                ""
+              ],
+              [
+                "AUM",
+                "$[X]B across [X] funds",
+                ""
+              ],
+              [
+                "Industrial Focus",
+                "[X] properties, [X]M SF to date",
+                ""
+              ],
+              [
+                "Fund I (20XX)",
+                "[Strategy] - XX.X% Gross IRR",
+                "X.Xx Multiple - Realized"
+              ],
+              [
+                "Fund II (20XX)",
+                "[Strategy] - XX.X% Gross IRR",
+                "X.Xx Multiple - Active"
+              ],
+              [
+                "Co-Invest (20XX)",
+                "[Strategy] - XX.X% Gross IRR",
+                "X.Xx Multiple - Realized"
+              ],
+              [
+                "Key Principal 1",
+                "[Name], [Title]",
+                "[XX] years CRE, formerly [Firm]"
+              ],
+              [
+                "Key Principal 2",
+                "[Name], [Title]",
+                "[XX] years CRE, formerly [Firm]"
+              ],
+              [
+                "Key Principal 3",
+                "[Name], [Title]",
+                "[XX] years CRE, formerly [Firm]"
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conclusion",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Conclusion",
+            "subtitle": "Investment Summary and Next Steps",
+            "background_image": "C:\\Users\\wpcol\\claudecode\\pptx-design\\cache\\images\\conclusion.png"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Investment Summary: Target Portfolio Parameters",
+            "takeaway": "A disciplined, diversified portfolio targeting 10-15% net IRR through operational value creation in the best-performing property sector.",
+            "headers": [
+              "Attribute",
+              "Target",
+              "Rationale"
+            ],
+            "data": [
+              [
+                "Total Capitalization",
+                "$250-400M",
+                "Institutional scale, diversification"
+              ],
+              [
+                "Portfolio Size",
+                "2-4 million SF",
+                "Critical mass for operating efficiency"
+              ],
+              [
+                "Property Count",
+                "15-25 assets",
+                "Diversification, risk mitigation"
+              ],
+              [
+                "Average Deal Size",
+                "$15-40M",
+                "Core small-bay acquisition range"
+              ],
+              [
+                "Geographic Markets",
+                "7+ (Sunbelt emphasis)",
+                "Demographic tailwinds, max 20% concentration"
+              ],
+              [
+                "Target Net IRR",
+                "10-15%",
+                "Core-Plus/Value-Add blend"
+              ],
+              [
+                "Equity Multiple",
+                "1.5-1.8x",
+                "5-7 year hold assumption"
+              ],
+              [
+                "Hold Period",
+                "5-7 years",
+                "Full cycle value realization"
+              ],
+              [
+                "Leverage",
+                "50-60% LTV",
+                "Moderate risk, cash flow coverage"
+              ]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Partnership Invitation & Next Steps",
+            "takeaway": "We invite institutional partners to capitalize on this generational opportunity in US light industrial real estate.",
+            "bullets": [
+              "We invite institutional partners to capitalize on this generational opportunity in US light industrial real estate. The convergence of structural demand tailwinds, favorable entry pricing, and our differentiated small-bay strategy creates a compelling risk-adjusted investment proposition.",
+              "TIMING: Attractive entry point after 130 bps cap rate expansion. Pricing at 10-20% discount to replacement cost. Supply pipeline at decade lows. Fundamentals inflecting positive.",
+              "RETURNS: 10-15% target net IRR exceeds 6.91% public pension assumed return by 310-810 bps. 12.4% historical 10-year returns - highest among all property types.",
+              "PHASE 1 (Months 1-3): Finalize JV documentation, establish governance framework, set up reporting infrastructure, activate acquisition pipeline.",
+              "PHASE 2 (Months 4-12): Execute 3-5 seed investments totaling $75-150M. Establish market presence. Validate underwriting assumptions.",
+              "PHASE 3 (Years 2-3): Scale through programmatic acquisitions. Target $50-100M annual deployment. Implement ESG initiatives.",
+              "We welcome the opportunity to discuss partnership terms and address any questions your investment committee may have."
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Contact Information",
+            "bullets": [
+              "[GP Name]",
+              "[Address Line 1]",
+              "[Address Line 2]",
+              "[Phone Number]",
+              "[Email Address]",
+              "[Website URL]"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Important Disclosures",
+            "bullets": [
+              "This presentation is provided for informational purposes only and does not constitute an offer to sell or a solicitation of an offer to buy any securities. Any such offer would be made only pursuant to definitive documentation.",
+              "Past performance is not indicative of future results. Actual returns may differ materially from projections presented herein. Forward-looking statements are based on assumptions that may not be realized.",
+              "Real estate investments are subject to various risks including market conditions, tenant defaults, interest rate fluctuations, and illiquidity. There can be no assurance that investment objectives will be achieved.",
+              "This presentation contains confidential and proprietary information. Recipients agree to maintain confidentiality and not distribute without prior written consent.",
+              "[GP Name] | [Date] | Confidential"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

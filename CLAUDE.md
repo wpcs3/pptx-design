@@ -319,7 +319,20 @@ builder.save("output.pptx")
 
 ---
 
-## Current Status (2025-12-29)
+## Current Status (2025-12-31)
+
+### Light Industrial Thesis Presentation (2025-12-29 to 2025-12-31)
+- ✅ **46-slide investor pitch deck** generated from JSON outline
+- ✅ **Template-based generation**: Uses `Light_Industrial_Thesis_v27_CS_edits.pptx` as base template
+- ✅ **Custom formatting scripts**: `generate_formatted_v27.py` through `generate_formatted_v30.py`
+- ✅ **Template format config**: `pptx_generator/config/template_format_v27.json` with layout indices and styling
+- ✅ **Chart formatting**: Slides 8, 9, 16, 25 with proper number formats (comma, percentage, USD)
+- ✅ **Section images**: Gemini-generated backgrounds for section dividers
+- ✅ **Logo handling**: White logo with correct aspect ratio (2.382)
+- ✅ **Table styling**: Cell margins, column alignment by majority, alternating row colors
+- ⚠️ **Known issue**: Table borders still show as white in PowerPoint (PDF renders correctly)
+  - Attempted fixes: noFill, zero-width borders, color matching
+  - May require manual adjustment in PowerPoint or alternative library (Spire.Presentation)
 
 ### Phase 4: Advanced Features (2025-12-29)
 - ✅ **Markdown Input**: Parse Markdown/Marp to presentation outlines (`pptx_generator/modules/markdown_parser.py`)

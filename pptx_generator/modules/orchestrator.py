@@ -259,7 +259,9 @@ class PresentationOrchestrator:
         Returns:
             Generated Presentation object
         """
-        prs = self.renderer.create_presentation()
+        # Get presentation title for metadata
+        presentation_title = outline.get("title", "Presentation")
+        prs = self.renderer.create_presentation(title=presentation_title)
         layout_decisions = []
 
         for section_idx, section in enumerate(outline.get("sections", [])):

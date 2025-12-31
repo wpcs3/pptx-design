@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "description": "LLM configuration for pptx_generator Phase 1",
   "defaults": {
-    "model": "claude-3.5-sonnet",
+    "model": "gemini-3-flash-preview",
     "use_litellm": true,
     "tone": "professional",
     "verbosity": "standard",
@@ -48,23 +48,28 @@
     },
     "detailed": {
       "description": "Comprehensive coverage with supporting context",
-      "max_bullets_per_slide": 8,
-      "max_words_per_bullet": 25
+      "max_bullets_per_slide": 10,
+      "max_words_per_bullet": 35
+    },
+    "dense": {
+      "description": "Maximum content density for written materials consumption",
+      "max_bullets_per_slide": 12,
+      "max_words_per_bullet": 50
     }
   },
   "recommended_models": {
     "high_quality": {
-      "model": "claude-3.5-sonnet",
-      "description": "Best for final presentations requiring high quality",
+      "model": "gemini-3-pro-preview",
+      "description": "Best for extended thinking and complex writing tasks",
       "cost": "medium"
     },
     "fast_iteration": {
-      "model": "claude-3.5-haiku",
-      "description": "Good for drafts and quick iterations",
+      "model": "gemini-3-flash-preview",
+      "description": "Fast and inexpensive for lower-level work",
       "cost": "low"
     },
     "budget_friendly": {
-      "model": "gpt-4o-mini",
+      "model": "gemini-2.0-flash",
       "description": "Cost-effective for bulk generation",
       "cost": "very_low"
     },

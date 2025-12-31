@@ -223,6 +223,34 @@ AVAILABLE_MODELS = {
         litellm_model="o1-mini"
     ),
     # Google models (Gemini series)
+    "gemini-3-pro-preview": ModelConfig(
+        provider=ModelProvider.GOOGLE,
+        model_id="gemini-3-pro-preview",
+        display_name="Gemini 3 Pro Preview",
+        max_tokens=8192,
+        litellm_model="gemini/gemini-3-pro-preview"
+    ),
+    "gemini-3-flash-preview": ModelConfig(
+        provider=ModelProvider.GOOGLE,
+        model_id="gemini-3-flash-preview",
+        display_name="Gemini 3 Flash Preview",
+        max_tokens=8192,
+        litellm_model="gemini/gemini-3-flash-preview"
+    ),
+    "gemini-2.5-pro": ModelConfig(
+        provider=ModelProvider.GOOGLE,
+        model_id="gemini-2.5-pro",
+        display_name="Gemini 2.5 Pro",
+        max_tokens=8192,
+        litellm_model="gemini/gemini-2.5-pro"
+    ),
+    "gemini-2.5-flash": ModelConfig(
+        provider=ModelProvider.GOOGLE,
+        model_id="gemini-2.5-flash",
+        display_name="Gemini 2.5 Flash",
+        max_tokens=8192,
+        litellm_model="gemini/gemini-2.5-flash"
+    ),
     "gemini-2.0-flash": ModelConfig(
         provider=ModelProvider.GOOGLE,
         model_id="gemini-2.0-flash-exp",

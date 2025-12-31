@@ -88,23 +88,46 @@ class TemplateRenderer:
         "white": RGBColor(0xFF, 0xFF, 0xFF),
         "light_gray": RGBColor(0xE6, 0xE6, 0xE6),
         "background": RGBColor(0xF2, 0xF2, 0xF2),
+        "overlay_navy": RGBColor(0x05, 0x1C, 0x2C), # Dark navy for overlays
+        "footnote": RGBColor(0xA6, 0xA6, 0xA6),     # Gray for footnotes
+        "chart_bar": RGBColor(0x30, 0x9C, 0xE7),    # Blue #309CE7 for bar charts
+        "chart_line_primary": RGBColor(0x05, 0x1C, 0x2C),  # Dark navy #051C2C for line charts
+        "chart_line_secondary": RGBColor(0x22, 0x22, 0xF6),  # Blue #2222F6 for secondary lines
+        "chart_gridline": RGBColor(0xD9, 0xD9, 0xD9),  # Light gray #D9D9D9 for gridlines
     }
 
-    # Font settings - adjusted sizes for better fit
+    # Line widths
+    LINE_WIDTH_CHART = Pt(3)      # 3pt for chart lines
+    LINE_WIDTH_GRIDLINE = Pt(0.5)  # 0.5pt for gridlines
+
+    # Footer configuration
+    FOOTER_COMPANY = "PCCP, LLC"
+
+    # Overlay transparency (0-100000, where 100000 = fully transparent)
+    OVERLAY_TRANSPARENCY = 30000  # 30% transparent (70% opaque)
+
+    # Font settings - configured per user requirements
+    # Cover title: 44pt, Section titles: 36pt, Slide titles: 36pt
+    # Bullets: min 14pt, Tables: min 12pt, Charts: min 12pt, Footnotes: 8pt
     FONTS = {
-        "title": {"name": "Arial", "size": Pt(24), "bold": True, "color": "text_dark"},
-        "subtitle": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
-        "section": {"name": "Arial", "size": Pt(32), "bold": True, "color": "text_dark"},
-        "heading": {"name": "Arial", "size": Pt(14), "bold": True, "color": "text_dark"},
-        "body": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
-        "body_large": {"name": "Arial", "size": Pt(13), "bold": False, "color": "text_body"},
-        "bullet": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
+        "cover_title": {"name": "Arial", "size": Pt(44), "bold": True, "color": "white"},
+        "section_title": {"name": "Arial", "size": Pt(36), "bold": True, "color": "white"},
+        "title": {"name": "Arial", "size": Pt(36), "bold": True, "color": "text_dark"},
+        "subtitle": {"name": "Arial", "size": Pt(18), "bold": False, "color": "white"},
+        "section": {"name": "Arial", "size": Pt(36), "bold": True, "color": "white"},
+        "heading": {"name": "Arial", "size": Pt(16), "bold": True, "color": "text_dark"},
+        "body": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
+        "body_large": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
+        "bullet": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
         "caption": {"name": "Arial", "size": Pt(9), "bold": False, "color": "text_light"},
+        "footnote": {"name": "Arial", "size": Pt(8), "bold": False, "color": "footnote"},
         "metric_value": {"name": "Arial", "size": Pt(28), "bold": True, "color": "white"},
-        "metric_label": {"name": "Arial", "size": Pt(11), "bold": False, "color": "white"},
-        "table_header": {"name": "Arial", "size": Pt(10), "bold": True, "color": "white"},
-        "table_cell": {"name": "Arial", "size": Pt(10), "bold": False, "color": "text_body"},
-        "chart_label": {"name": "Arial", "size": Pt(10), "bold": False, "color": "text_body"},
+        "metric_label": {"name": "Arial", "size": Pt(12), "bold": False, "color": "white"},
+        "table_header": {"name": "Arial", "size": Pt(12), "bold": True, "color": "white"},
+        "table_cell": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
+        "chart_label": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
+        "chart_axis": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
+        "takeaway": {"name": "Arial", "size": Pt(18), "bold": True, "italic": False, "color": "text_dark"},
     }
 
     def __init__(self, template_path: str, use_library: bool = True):
@@ -199,8 +222,15 @@ class TemplateRenderer:
             "height": self.SLIDE_HEIGHT - content_top - self.MARGIN_BOTTOM,
         }
 
-    def create_presentation(self) -> Presentation:
-        """Create a new empty presentation with template layouts."""
+    def create_presentation(self, title: str = None) -> Presentation:
+        """Create a new empty presentation with template layouts.
+
+        Args:
+            title: Optional title for the presentation (used in metadata)
+
+        Returns:
+            Empty Presentation object with layouts from template
+        """
         prs = Presentation(str(self.template_path))
 
         # Remove all existing slides from the template
@@ -212,8 +242,31 @@ class TemplateRenderer:
             sldIdLst.remove(sldId)
             prs.part.drop_rel(sldId.rId)
 
+        # Set presentation metadata
+        if title:
+            self.set_presentation_metadata(prs, title=title)
+
         logger.info(f"Created empty presentation with {len(prs.slide_layouts)} layouts")
         return prs
+
+    def set_presentation_metadata(self, prs: Presentation, title: str = None, author: str = None, subject: str = None) -> None:
+        """Set presentation metadata (title, author, subject).
+
+        This metadata appears in PDF properties when converted.
+
+        Args:
+            prs: Presentation object
+            title: Document title
+            author: Document author
+            subject: Document subject
+        """
+        core_props = prs.core_properties
+        if title:
+            core_props.title = title
+        if author:
+            core_props.author = author
+        if subject:
+            core_props.subject = subject
 
     def get_layout(self, prs: Presentation, slide_type: str):
         """Get the appropriate layout for a slide type."""
@@ -273,7 +326,18 @@ class TemplateRenderer:
         else:
             self._render_default(slide, content, layout_name)
 
+        # Set footer text on all slides
+        self._set_footer(slide)
+
         return slide
+
+    def _set_footer(self, slide: Slide) -> None:
+        """Set footer text to company name on slide."""
+        for shape in slide.placeholders:
+            ph_type = str(shape.placeholder_format.type)
+            if "FOOTER" in ph_type:
+                shape.text = self.FOOTER_COMPANY
+                break
 
     def _add_title_to_blank_slide(self, slide: Slide, title: str, slide_type: str) -> None:
         """Add a title text box to a blank slide layout."""
@@ -310,11 +374,24 @@ class TemplateRenderer:
         - Title placeholder (we'll fill it)
         - Footer/slide number/date placeholders
         - Horizontal lines in footer area (decorative dividers)
+
+        Also removes any text that looks like template section names
+        (e.g., "Template overview", "Guide: How to write...", etc.)
         """
         shapes_to_remove = []
 
         # Get title shape reference before iterating
         title_shape = slide.shapes.title
+
+        # Template section names to remove (partial matches)
+        template_section_names = [
+            "Template overview",
+            "Guide:",
+            "How to write",
+            "Section Name",
+            "Click to edit",
+            "Add your",
+        ]
 
         # Identify ALL shapes to remove
         for shape in slide.shapes:
@@ -340,6 +417,16 @@ class TemplateRenderer:
 
                 if shape_top > footer_area and is_horizontal_line:
                     continue
+            except Exception:
+                pass
+
+            # Check if shape contains template section name text - remove it
+            try:
+                if hasattr(shape, 'text') and shape.text:
+                    text = shape.text.strip()
+                    if any(template_name in text for template_name in template_section_names):
+                        shapes_to_remove.append(shape)
+                        continue
             except Exception:
                 pass
 
@@ -397,7 +484,19 @@ class TemplateRenderer:
         area: Dict[str, float],
         style: str = "bullet"
     ) -> None:
-        """Add bullet points to a slide."""
+        """Add bullet points to a slide with proper PowerPoint bullet formatting.
+
+        Paragraph formatting (from PowerPoint dialog):
+        - Alignment: Left
+        - Before text: 0.2"
+        - Special: Hanging, By: 0.2"
+        - Spacing Before: 0 pt
+        - Spacing After: 6 pt
+        - Line Spacing: Single
+        """
+        import re
+        from lxml import etree
+
         if not bullets:
             return
 
@@ -411,53 +510,426 @@ class TemplateRenderer:
         tf = textbox.text_frame
         tf.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
 
+        font_style = self.FONTS.get(style, self.FONTS["bullet"])
+
         for i, bullet in enumerate(bullets):
             if i == 0:
                 p = tf.paragraphs[0]
             else:
                 p = tf.add_paragraph()
 
-            p.text = f"{self.BULLET_CHAR}  {bullet}"
+            # Set bullet level and alignment
             p.level = 0
-            self._apply_font(p, style)
-            p.space_before = Pt(6)
-            p.space_after = Pt(4)
+            p.alignment = PP_ALIGN.LEFT
+
+            # Apply proper PowerPoint bullet formatting via XML
+            try:
+                pPr = p._p.get_or_add_pPr()
+
+                # Set indentation attributes on pPr element:
+                # marL = left margin (where text wraps to on subsequent lines)
+                # indent = first line indent relative to marL (negative = hanging)
+                #
+                # PowerPoint "Before text: 0.2" + Hanging: 0.2"" means:
+                # - marL = 0.4" (text starts here)
+                # - indent = -0.2" (bullet hangs 0.2" left of marL, so at 0.2")
+                # This creates 0.2" spacing between bullet (at 0.2") and text (at 0.4")
+                marL_emu = int(Inches(0.4))  # Text starts at 0.4"
+                indent_emu = int(Inches(-0.2))  # Bullet at marL + indent = 0.2"
+                pPr.set(qn('a:marL'), str(marL_emu))
+                pPr.set(qn('a:indent'), str(indent_emu))
+
+                # Remove ALL existing child elements to rebuild from scratch
+                for child in list(pPr):
+                    pPr.remove(child)
+
+                # OOXML schema requires elements in specific order:
+                # 1. lnSpc, spcBef, spcAft (spacing)
+                # 2. buClr (bullet color)
+                # 3. buSzPct (bullet size)
+                # 4. buFont (bullet font)
+                # 5. buChar (bullet character)
+
+                # Line Spacing: Single (100%)
+                lnSpc = etree.SubElement(pPr, qn('a:lnSpc'))
+                spcPct = etree.SubElement(lnSpc, qn('a:spcPct'))
+                spcPct.set('val', '100000')
+
+                # Spacing Before: 0 pt
+                spcBef = etree.SubElement(pPr, qn('a:spcBef'))
+                spcPts = etree.SubElement(spcBef, qn('a:spcPts'))
+                spcPts.set('val', '0')
+
+                # Spacing After: 6 pt (600 = 6pt * 100)
+                spcAft = etree.SubElement(pPr, qn('a:spcAft'))
+                spcPts = etree.SubElement(spcAft, qn('a:spcPts'))
+                spcPts.set('val', '600')
+
+                # Bullet color (black)
+                buClr = etree.SubElement(pPr, qn('a:buClr'))
+                srgbClr = etree.SubElement(buClr, qn('a:srgbClr'))
+                srgbClr.set('val', '000000')
+
+                # Bullet size (100% of text size)
+                buSzPct = etree.SubElement(pPr, qn('a:buSzPct'))
+                buSzPct.set('val', '100000')
+
+                # Bullet font (Arial)
+                buFont = etree.SubElement(pPr, qn('a:buFont'))
+                buFont.set('typeface', 'Arial')
+                buFont.set('pitchFamily', '34')
+                buFont.set('charset', '0')
+
+                # Bullet character (standard round bullet)
+                buChar = etree.SubElement(pPr, qn('a:buChar'))
+                buChar.set('char', '•')
+
+            except Exception as e:
+                logger.debug(f"Could not set bullet formatting via XML: {e}")
+
+            # Check if bullet has a header pattern (CAPS TEXT: rest of text)
+            header_match = re.match(r'^([A-Z][A-Z\s\-&/]+:)\s*(.*)$', bullet)
+
+            if header_match:
+                # Split into header (bold) and body (normal)
+                header_text = header_match.group(1)
+                body_text = header_match.group(2)
+
+                # Add bold header run
+                run1 = p.add_run()
+                run1.text = header_text + " "
+                run1.font.name = font_style["name"]
+                run1.font.size = font_style["size"]
+                run1.font.bold = True
+                run1.font.color.rgb = self.COLORS.get(font_style.get("color", "text_body"), self.COLORS["text_body"])
+
+                # Add normal body run
+                if body_text:
+                    run2 = p.add_run()
+                    run2.text = body_text
+                    run2.font.name = font_style["name"]
+                    run2.font.size = font_style["size"]
+                    run2.font.bold = False
+                    run2.font.color.rgb = self.COLORS.get(font_style.get("color", "text_body"), self.COLORS["text_body"])
+            else:
+                # No header pattern - apply normal styling
+                run = p.add_run()
+                run.text = bullet
+                run.font.name = font_style["name"]
+                run.font.size = font_style["size"]
+                run.font.bold = False
+                run.font.color.rgb = self.COLORS.get(font_style.get("color", "text_body"), self.COLORS["text_body"])
+
+    def _add_takeaway(self, slide: Slide, takeaway: str) -> float:
+        """
+        Add a takeaway/subheader text below the horizontal line.
+
+        The takeaway provides a quick summary of the slide's main point,
+        making it easy for readers to get the gist when scanning the deck.
+
+        Args:
+            slide: Slide to add takeaway to
+            takeaway: The takeaway text (1-2 sentences)
+
+        Returns:
+            The height consumed by the takeaway (for adjusting content area)
+        """
+        if not takeaway:
+            return 0.0
+
+        # Position and size from PowerPoint specifications:
+        # Horizontal: 0.6", Vertical: 1.5", Width: 12.2", Height: 0.7"
+        takeaway_left = 0.6
+        takeaway_top = 1.5
+        takeaway_width = 12.2
+        takeaway_height = 0.7
+
+        textbox = self._create_text_box(
+            slide,
+            left=takeaway_left,
+            top=takeaway_top,
+            width=takeaway_width,
+            height=takeaway_height,
+            auto_size=False
+        )
+
+        tf = textbox.text_frame
+        tf.word_wrap = True
+        tf.auto_size = MSO_AUTO_SIZE.NONE
+
+        p = tf.paragraphs[0]
+        p.text = takeaway
+        p.alignment = PP_ALIGN.LEFT
+        self._apply_font(p, "takeaway")
+
+        # Return the space consumed (for adjusting content area)
+        # Takeaway ends at 1.5" + 0.7" = 2.2", add small gap
+        return (takeaway_top + takeaway_height) - 1.8 + 0.1  # Adjust relative to default content_top
 
     # ==================== Slide Renderers ====================
 
     def _render_title_slide(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a title/frontpage slide."""
-        subtitle = content.get("subtitle", "")
+        """Render a title/frontpage slide with left-aligned overlay boxes for readability."""
+        import datetime
 
-        # Find and set subtitle placeholder
-        for shape in slide.placeholders:
-            ph_type = str(shape.placeholder_format.type)
-            if "SUBTITLE" in ph_type:
-                shape.text = subtitle
-                tf = shape.text_frame
-                tf.word_wrap = True
-                for para in tf.paragraphs:
-                    self._apply_font(para, "subtitle")
-                break
+        title = content.get("title", "")
+        subtitle = content.get("subtitle", "")
+        background_image = content.get("background_image")
+
+        # Add background image if provided
+        if background_image:
+            self._add_background_image(slide, background_image)
+
+            # Clear existing title placeholder (we'll use overlay box instead)
+            if slide.shapes.title:
+                try:
+                    sp = slide.shapes.title._element
+                    sp.getparent().remove(sp)
+                except Exception:
+                    pass
+
+            # Clear subtitle placeholder too
+            for shape in list(slide.placeholders):
+                ph_type = str(shape.placeholder_format.type)
+                if "SUBTITLE" in ph_type:
+                    try:
+                        sp = shape._element
+                        sp.getparent().remove(sp)
+                    except Exception:
+                        pass
+
+            # Add title overlay box (LEFT-ALIGNED)
+            # Using 44pt font for cover title
+            title_box_width = 8.0
+            title_box_height = 1.5
+            title_left = self.MARGIN_LEFT
+            title_top = 2.5
+
+            self._add_text_overlay_box(
+                slide,
+                left=title_left,
+                top=title_top,
+                width=title_box_width,
+                height=title_box_height,
+                text=title,
+                font_style="cover_title",
+                padding=0.3,
+                align_left=True
+            )
+
+            # Add subtitle overlay box below title (LEFT-ALIGNED)
+            if subtitle:
+                subtitle_box_width = 6.0
+                subtitle_box_height = 0.8
+                subtitle_left = self.MARGIN_LEFT
+                subtitle_top = title_top + title_box_height + 0.2
+
+                self._add_text_overlay_box(
+                    slide,
+                    left=subtitle_left,
+                    top=subtitle_top,
+                    width=subtitle_box_width,
+                    height=subtitle_box_height,
+                    text=subtitle,
+                    font_style="subtitle",
+                    padding=0.2,
+                    align_left=True
+                )
+
+                # Add date below subtitle
+                date_top = subtitle_top + subtitle_box_height + 0.2
+            else:
+                # Add date below title if no subtitle
+                date_top = title_top + title_box_height + 0.2
+
+            # Add today's date
+            today_str = datetime.date.today().strftime("%B %d, %Y")
+            date_box_width = 3.0
+            date_box_height = 0.5
+
+            self._add_text_overlay_box(
+                slide,
+                left=self.MARGIN_LEFT,
+                top=date_top,
+                width=date_box_width,
+                height=date_box_height,
+                text=today_str,
+                font_style="subtitle",
+                padding=0.15,
+                align_left=True
+            )
+        else:
+            # No background image - use standard placeholder styling
+            for shape in slide.placeholders:
+                ph_type = str(shape.placeholder_format.type)
+                if "SUBTITLE" in ph_type:
+                    shape.text = subtitle
+                    tf = shape.text_frame
+                    tf.word_wrap = True
+                    for para in tf.paragraphs:
+                        self._apply_font(para, "subtitle")
+                    break
 
     def _render_section_divider(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a section divider slide."""
-        # Title already set in create_slide
-        pass
+        """Render a section divider slide with left-aligned overlay box for readability."""
+        title = content.get("title", "")
+        background_image = content.get("background_image")
+
+        # Add background image if provided
+        if background_image:
+            self._add_background_image(slide, background_image)
+
+            # Clear existing title placeholder (we'll use overlay box instead)
+            if slide.shapes.title:
+                try:
+                    sp = slide.shapes.title._element
+                    sp.getparent().remove(sp)
+                except Exception:
+                    pass
+
+            # Add section title overlay box (LEFT-ALIGNED)
+            # Using 36pt font for section titles
+            title_box_width = 7.0
+            title_box_height = 1.3
+            title_left = self.MARGIN_LEFT
+            title_top = (self.SLIDE_HEIGHT - title_box_height) / 2
+
+            self._add_text_overlay_box(
+                slide,
+                left=title_left,
+                top=title_top,
+                width=title_box_width,
+                height=title_box_height,
+                text=title,
+                font_style="section_title",
+                padding=0.25,
+                align_left=True
+            )
+
+    def _add_background_image(self, slide: Slide, image_path: str) -> None:
+        """Add a background image to a slide."""
+        from pptx.util import Inches
+
+        image_path = Path(image_path)
+        if not image_path.exists():
+            logger.warning(f"Background image not found: {image_path}")
+            return
+
+        # Add image to fill the entire slide
+        left = Inches(0)
+        top = Inches(0)
+        width = Inches(self.SLIDE_WIDTH)
+        height = Inches(self.SLIDE_HEIGHT)
+
+        # Add the image
+        picture = slide.shapes.add_picture(
+            str(image_path), left, top, width, height
+        )
+
+        # Send to back (behind all other shapes)
+        # Move to position 0 in the shape tree
+        spTree = slide.shapes._spTree
+        pic_element = picture._element
+        spTree.remove(pic_element)
+        spTree.insert(2, pic_element)  # Insert after nvGrpSpPr and grpSpPr
+
+    def _add_text_overlay_box(
+        self,
+        slide: Slide,
+        left: float,
+        top: float,
+        width: float,
+        height: float,
+        text: str,
+        font_style: str = "cover_title",
+        padding: float = 0.3,
+        align_left: bool = False,
+        background_color: str = "overlay_navy"
+    ) -> Any:
+        """
+        Add a semi-transparent box with text.
+
+        Args:
+            slide: Slide to add overlay to
+            left: Left position in inches
+            top: Top position in inches
+            width: Width in inches
+            height: Height in inches
+            text: Text to display
+            font_style: Font style key from FONTS dict
+            padding: Padding around text in inches
+            align_left: If True, align text left; otherwise center
+            background_color: Color key from COLORS dict
+
+        Returns:
+            The created shape
+        """
+        # Create the rectangle shape
+        shape = slide.shapes.add_shape(
+            MSO_SHAPE.RECTANGLE,
+            Inches(left), Inches(top),
+            Inches(width), Inches(height)
+        )
+
+        # Set fill with transparency
+        shape.fill.solid()
+        shape.fill.fore_color.rgb = self.COLORS.get(background_color, self.COLORS["overlay_navy"])
+
+        # Set transparency using alpha channel in XML
+        # python-pptx doesn't directly support transparency, so we use XML
+        fill_elem = shape.fill._xPr
+        srgbClr = fill_elem.find(qn('a:solidFill')).find(qn('a:srgbClr'))
+        if srgbClr is not None:
+            from lxml import etree
+            alpha = etree.SubElement(srgbClr, qn('a:alpha'))
+            alpha.set('val', str(100000 - self.OVERLAY_TRANSPARENCY))  # 70000 = 70% opaque
+
+        # Remove border
+        shape.line.fill.background()
+
+        # Add text to the shape
+        tf = shape.text_frame
+        tf.word_wrap = True
+        tf.auto_size = MSO_AUTO_SIZE.NONE
+
+        # Set margins/padding
+        tf.margin_left = Inches(padding)
+        tf.margin_right = Inches(padding)
+        tf.margin_top = Inches(padding)
+        tf.margin_bottom = Inches(padding)
+
+        # Center text vertically
+        tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+
+        p = tf.paragraphs[0]
+        p.text = text
+        p.alignment = PP_ALIGN.LEFT if align_left else PP_ALIGN.CENTER
+        self._apply_font(p, font_style)
+
+        return shape
 
     def _render_default(self, slide: Slide, content: dict, layout_name: str) -> None:
         """Render a default content slide."""
         self._render_title_content(slide, content, layout_name)
 
     def _render_title_content(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a title + content slide."""
+        """Render a title + content slide with optional takeaway subheader."""
         bullets = content.get("bullets", [])
         body = content.get("body", "")
+        takeaway = content.get("takeaway", "")
+
+        # Add takeaway subheader if provided
+        takeaway_offset = self._add_takeaway(slide, takeaway)
 
         if not bullets and not body:
             return
 
         area = self._get_content_area(layout_name)
+
+        # Adjust content area if takeaway was added
+        if takeaway_offset > 0:
+            area["top"] += takeaway_offset
+            area["height"] -= takeaway_offset
 
         if body:
             textbox = self._create_text_box(
@@ -477,11 +949,21 @@ class TemplateRenderer:
             self._add_bullets(slide, bullets, area)
 
     def _render_two_column(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a two-column comparison slide."""
+        """Render a two-column comparison slide with optional takeaway subheader."""
         left_col = content.get("left_column", content.get("left", {}))
         right_col = content.get("right_column", content.get("right", {}))
+        takeaway = content.get("takeaway", "")
+
+        # Add takeaway subheader if provided
+        takeaway_offset = self._add_takeaway(slide, takeaway)
 
         area = self._get_content_area(layout_name)
+
+        # Adjust content area if takeaway was added
+        if takeaway_offset > 0:
+            area["top"] += takeaway_offset
+            area["height"] -= takeaway_offset
+
         col_width = (area["width"] - 0.4) / 2  # Gap between columns
 
         if left_col:
@@ -503,7 +985,19 @@ class TemplateRenderer:
             self._render_column(slide, right_col, right_area)
 
     def _render_column(self, slide: Slide, col_content: dict, area: Dict[str, float]) -> None:
-        """Render a single column."""
+        """Render a single column with proper PowerPoint bullet formatting.
+
+        Paragraph formatting (from PowerPoint dialog):
+        - Alignment: Left
+        - Before text: 0.2"
+        - Special: Hanging, By: 0.2"
+        - Spacing Before: 0 pt
+        - Spacing After: 6 pt
+        - Line Spacing: Single
+        """
+        import re
+        from lxml import etree
+
         header = col_content.get("header", col_content.get("heading", ""))
         bullets = col_content.get("bullets", [])
 
@@ -514,6 +1008,8 @@ class TemplateRenderer:
         tf = textbox.text_frame
         tf.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
 
+        font_style = self.FONTS["bullet"]
+
         # Header
         if header:
             p = tf.paragraphs[0]
@@ -521,22 +1017,125 @@ class TemplateRenderer:
             self._apply_font(p, "heading")
             p.space_after = Pt(10)
 
-        # Bullets
+        # Bullets with proper PowerPoint formatting
         for i, bullet in enumerate(bullets):
             p = tf.add_paragraph() if (i > 0 or header) else tf.paragraphs[0]
-            p.text = f"{self.BULLET_CHAR}  {bullet}"
+
+            # Set bullet level and alignment
             p.level = 0
-            self._apply_font(p, "body")
-            p.space_before = Pt(4)
-            p.space_after = Pt(2)
+            p.alignment = PP_ALIGN.LEFT
+
+            # Apply proper PowerPoint bullet formatting via XML
+            try:
+                pPr = p._p.get_or_add_pPr()
+
+                # Set indentation attributes on pPr element:
+                # marL = left margin (where text wraps to on subsequent lines)
+                # indent = first line indent relative to marL (negative = hanging)
+                #
+                # PowerPoint "Before text: 0.2" + Hanging: 0.2"" means:
+                # - marL = 0.4" (text starts here)
+                # - indent = -0.2" (bullet hangs 0.2" left of marL, so at 0.2")
+                # This creates 0.2" spacing between bullet (at 0.2") and text (at 0.4")
+                marL_emu = int(Inches(0.4))  # Text starts at 0.4"
+                indent_emu = int(Inches(-0.2))  # Bullet at marL + indent = 0.2"
+                pPr.set(qn('a:marL'), str(marL_emu))
+                pPr.set(qn('a:indent'), str(indent_emu))
+
+                # Remove ALL existing child elements to rebuild from scratch
+                for child in list(pPr):
+                    pPr.remove(child)
+
+                # OOXML schema requires elements in specific order:
+                # 1. lnSpc, spcBef, spcAft (spacing)
+                # 2. buClr (bullet color)
+                # 3. buSzPct (bullet size)
+                # 4. buFont (bullet font)
+                # 5. buChar (bullet character)
+
+                # Line Spacing: Single (100%)
+                lnSpc = etree.SubElement(pPr, qn('a:lnSpc'))
+                spcPct = etree.SubElement(lnSpc, qn('a:spcPct'))
+                spcPct.set('val', '100000')
+
+                # Spacing Before: 0 pt
+                spcBef = etree.SubElement(pPr, qn('a:spcBef'))
+                spcPts = etree.SubElement(spcBef, qn('a:spcPts'))
+                spcPts.set('val', '0')
+
+                # Spacing After: 6 pt (600 = 6pt * 100)
+                spcAft = etree.SubElement(pPr, qn('a:spcAft'))
+                spcPts = etree.SubElement(spcAft, qn('a:spcPts'))
+                spcPts.set('val', '600')
+
+                # Bullet color (black)
+                buClr = etree.SubElement(pPr, qn('a:buClr'))
+                srgbClr = etree.SubElement(buClr, qn('a:srgbClr'))
+                srgbClr.set('val', '000000')
+
+                # Bullet size (100% of text size)
+                buSzPct = etree.SubElement(pPr, qn('a:buSzPct'))
+                buSzPct.set('val', '100000')
+
+                # Bullet font (Arial)
+                buFont = etree.SubElement(pPr, qn('a:buFont'))
+                buFont.set('typeface', 'Arial')
+                buFont.set('pitchFamily', '34')
+                buFont.set('charset', '0')
+
+                # Bullet character (standard round bullet)
+                buChar = etree.SubElement(pPr, qn('a:buChar'))
+                buChar.set('char', '•')
+
+            except Exception:
+                pass
+
+            # Check if bullet has a header pattern (CAPS TEXT: rest of text)
+            header_match = re.match(r'^([A-Z][A-Z\s\-&/]+:)\s*(.*)$', bullet)
+
+            if header_match:
+                header_text = header_match.group(1)
+                body_text = header_match.group(2)
+
+                run1 = p.add_run()
+                run1.text = header_text + " "
+                run1.font.name = font_style["name"]
+                run1.font.size = font_style["size"]
+                run1.font.bold = True
+                run1.font.color.rgb = self.COLORS["text_body"]
+
+                if body_text:
+                    run2 = p.add_run()
+                    run2.text = body_text
+                    run2.font.name = font_style["name"]
+                    run2.font.size = font_style["size"]
+                    run2.font.bold = False
+                    run2.font.color.rgb = self.COLORS["text_body"]
+            else:
+                run = p.add_run()
+                run.text = bullet
+                run.font.name = font_style["name"]
+                run.font.size = font_style["size"]
+                run.font.bold = False
+                run.font.color.rgb = self.COLORS["text_body"]
 
     def _render_key_metrics(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a key metrics slide with KPI boxes."""
+        """Render a key metrics slide with KPI boxes and optional takeaway subheader."""
         metrics = content.get("metrics", [])
+        takeaway = content.get("takeaway", "")
+
+        # Add takeaway subheader if provided
+        takeaway_offset = self._add_takeaway(slide, takeaway)
+
         if not metrics:
             return
 
         area = self._get_content_area(layout_name)
+
+        # Adjust content area if takeaway was added
+        if takeaway_offset > 0:
+            area["top"] += takeaway_offset
+            area["height"] -= takeaway_offset
 
         num_metrics = min(len(metrics), 5)
         box_margin = 0.15
@@ -556,9 +1155,9 @@ class TemplateRenderer:
                 Inches(box_width), Inches(box_height)
             )
 
-            # Style the box
+            # Style the box with #309CE7 blue color
             shape.fill.solid()
-            shape.fill.fore_color.rgb = self.COLORS["primary"]
+            shape.fill.fore_color.rgb = self.COLORS["chart_bar"]  # #309CE7
             shape.line.fill.background()
 
             # Add text
@@ -579,14 +1178,23 @@ class TemplateRenderer:
             self._apply_font(p2, "metric_label")
 
     def _render_table_slide(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a slide with a data table."""
+        """Render a slide with a data table and optional takeaway subheader."""
         headers = content.get("headers", [])
         data = content.get("data", [])
+        takeaway = content.get("takeaway", "")
+
+        # Add takeaway subheader if provided
+        takeaway_offset = self._add_takeaway(slide, takeaway)
 
         if not data and not headers:
             return
 
         area = self._get_content_area(layout_name)
+
+        # Adjust content area if takeaway was added
+        if takeaway_offset > 0:
+            area["top"] += takeaway_offset
+            area["height"] -= takeaway_offset
 
         rows = len(data) + (1 if headers else 0)
         cols = len(headers) if headers else (len(data[0]) if data else 0)
@@ -611,7 +1219,7 @@ class TemplateRenderer:
                 cell = table.cell(0, i)
                 cell.text = str(header)
                 cell.fill.solid()
-                cell.fill.fore_color.rgb = self.COLORS["primary"]
+                cell.fill.fore_color.rgb = self.COLORS["overlay_navy"]  # Dark navy #051C2C
                 self._style_table_cell(cell, is_header=True)
 
         # Add data rows
@@ -633,32 +1241,43 @@ class TemplateRenderer:
                     self._style_table_cell(cell, is_header=False)
 
     def _style_table_cell(self, cell, is_header: bool = False) -> None:
-        """Style a table cell with proper margins and fonts."""
+        """Style a table cell with proper margins, fonts (min 12pt), and vertical centering."""
         cell.margin_left = Inches(0.05)
         cell.margin_right = Inches(0.05)
         cell.margin_top = Inches(0.03)
         cell.margin_bottom = Inches(0.03)
 
+        # Vertically center text in cell
+        cell.vertical_anchor = MSO_ANCHOR.MIDDLE
+
         tf = cell.text_frame
         tf.word_wrap = True
         tf.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
 
+        # Use FONTS settings for table cells (minimum 12pt)
+        style = self.FONTS["table_header"] if is_header else self.FONTS["table_cell"]
         for para in tf.paragraphs:
-            para.font.name = "Arial"
-            para.font.size = Pt(10)
-            if is_header:
-                para.font.bold = True
-                para.font.color.rgb = self.COLORS["white"]
-            else:
-                para.font.bold = False
-                para.font.color.rgb = self.COLORS["text_body"]
+            para.font.name = style["name"]
+            para.font.size = style["size"]  # 12pt minimum
+            para.font.bold = style.get("bold", False)
+            color_key = style.get("color", "text_body")
+            para.font.color.rgb = self.COLORS.get(color_key, self.COLORS["text_body"])
 
     def _render_data_chart(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a slide with a chart."""
+        """Render a slide with a chart and optional takeaway subheader."""
         chart_data = content.get("chart_data", {})
         narrative = content.get("narrative", "")
+        takeaway = content.get("takeaway", "")
+
+        # Add takeaway subheader if provided
+        takeaway_offset = self._add_takeaway(slide, takeaway)
 
         area = self._get_content_area(layout_name)
+
+        # Adjust content area if takeaway was added
+        if takeaway_offset > 0:
+            area["top"] += takeaway_offset
+            area["height"] -= takeaway_offset
 
         if chart_data:
             # Reserve space for narrative if present
@@ -723,34 +1342,108 @@ class TemplateRenderer:
         )
         chart = chart_shape.chart
 
-        # Style the chart
+        # Style the chart based on type
         if chart_type == "pie":
             self._style_pie_chart(chart)
+        elif chart_type == "line":
+            self._style_line_chart(chart)
         else:
             self._style_bar_chart(chart)
 
     def _style_bar_chart(self, chart) -> None:
-        """Style a bar/column/line chart."""
+        """Style a bar/column chart with minimum 12pt labels."""
+        from pptx.enum.chart import XL_TICK_MARK
+
         try:
             plot = chart.plots[0]
             if hasattr(plot, 'series'):
                 for i, series in enumerate(plot.series):
                     series.format.fill.solid()
                     if i == 0:
-                        series.format.fill.fore_color.rgb = self.COLORS["primary"]
+                        series.format.fill.fore_color.rgb = self.COLORS["chart_bar"]  # Blue #309CE7
                     else:
                         series.format.fill.fore_color.rgb = self.COLORS["secondary"]
 
-            # Add data labels
+            # Add data labels (minimum 12pt)
             plot.has_data_labels = True
             data_labels = plot.data_labels
-            data_labels.font.size = Pt(9)
+            data_labels.font.size = self.FONTS["chart_label"]["size"]  # 12pt
             data_labels.font.color.rgb = self.COLORS["text_body"]
+
+            # Style category axis (minimum 12pt) with no tick marks
+            if hasattr(chart, 'category_axis'):
+                chart.category_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
+                chart.category_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.category_axis.major_tick_mark = XL_TICK_MARK.NONE
+                chart.category_axis.minor_tick_mark = XL_TICK_MARK.NONE
+
+            # Style value axis (minimum 12pt) and gridlines, no tick marks
+            if hasattr(chart, 'value_axis'):
+                chart.value_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
+                chart.value_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.value_axis.major_tick_mark = XL_TICK_MARK.NONE
+                chart.value_axis.minor_tick_mark = XL_TICK_MARK.NONE
+
+                # Style major gridlines (#D9D9D9, 0.5pt)
+                if hasattr(chart.value_axis, 'major_gridlines'):
+                    chart.value_axis.has_major_gridlines = True
+                    gridlines = chart.value_axis.major_gridlines
+                    gridlines.format.line.color.rgb = self.COLORS["chart_gridline"]
+                    gridlines.format.line.width = self.LINE_WIDTH_GRIDLINE
+
+        except Exception:
+            pass
+
+    def _style_line_chart(self, chart) -> None:
+        """Style a line chart with specific colors and 3pt line width."""
+        from pptx.enum.chart import XL_DATA_LABEL_POSITION, XL_TICK_MARK
+
+        try:
+            plot = chart.plots[0]
+            if hasattr(plot, 'series'):
+                for i, series in enumerate(plot.series):
+                    # Set line color
+                    if i == 0:
+                        series.format.line.color.rgb = self.COLORS["chart_line_primary"]  # #051C2C
+                    else:
+                        series.format.line.color.rgb = self.COLORS["chart_line_secondary"]  # #2222F6
+
+                    # Set line width to 3pt
+                    series.format.line.width = self.LINE_WIDTH_CHART
+
+            # Add data labels (minimum 12pt) positioned ABOVE
+            plot.has_data_labels = True
+            data_labels = plot.data_labels
+            data_labels.font.size = self.FONTS["chart_label"]["size"]
+            data_labels.font.color.rgb = self.COLORS["text_body"]
+            data_labels.position = XL_DATA_LABEL_POSITION.ABOVE
+
+            # Style category axis (minimum 12pt) with no tick marks
+            if hasattr(chart, 'category_axis'):
+                chart.category_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
+                chart.category_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.category_axis.major_tick_mark = XL_TICK_MARK.NONE
+                chart.category_axis.minor_tick_mark = XL_TICK_MARK.NONE
+
+            # Style value axis (minimum 12pt) and gridlines, no tick marks
+            if hasattr(chart, 'value_axis'):
+                chart.value_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
+                chart.value_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.value_axis.major_tick_mark = XL_TICK_MARK.NONE
+                chart.value_axis.minor_tick_mark = XL_TICK_MARK.NONE
+
+                # Style major gridlines (#D9D9D9, 0.5pt)
+                if hasattr(chart.value_axis, 'major_gridlines'):
+                    chart.value_axis.has_major_gridlines = True
+                    gridlines = chart.value_axis.major_gridlines
+                    gridlines.format.line.color.rgb = self.COLORS["chart_gridline"]
+                    gridlines.format.line.width = self.LINE_WIDTH_GRIDLINE
+
         except Exception:
             pass
 
     def _style_pie_chart(self, chart) -> None:
-        """Style a pie chart."""
+        """Style a pie chart with minimum 12pt labels."""
         from pptx.enum.chart import XL_LEGEND_POSITION
 
         pie_colors = [
@@ -770,11 +1463,11 @@ class TemplateRenderer:
                     point.format.fill.solid()
                     point.format.fill.fore_color.rgb = pie_colors[i % len(pie_colors)]
 
-            # Add legend
+            # Add legend (minimum 12pt)
             chart.has_legend = True
             chart.legend.position = XL_LEGEND_POSITION.RIGHT
             chart.legend.include_in_layout = False
-            chart.legend.font.size = Pt(9)
+            chart.legend.font.size = self.FONTS["chart_label"]["size"]  # 12pt
         except Exception:
             pass
 
@@ -790,6 +1483,7 @@ class TemplateRenderer:
         run.font.name = style["name"]
         run.font.size = style["size"]
         run.font.bold = style.get("bold", False)
+        run.font.italic = style.get("italic", False)
 
         color_key = style.get("color", "text_body")
         run.font.color.rgb = self.COLORS.get(color_key, self.COLORS["text_body"])

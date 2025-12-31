@@ -1,0 +1,191 @@
+{
+  "version": "v24",
+  "template_file": "Light_Industrial_Thesis_v24_CS_edits.pptx",
+  "description": "Formatting preferences extracted from CS edits to v24",
+
+  "slide_dimensions": {
+    "width_inches": 11.0,
+    "height_inches": 8.5
+  },
+
+  "layouts": {
+    "frontpage": {
+      "index": 0,
+      "name": "Frontpage",
+      "use_for": ["title_slide"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "top": 3.1},
+        "subtitle": {"idx": 4, "type": "SUBTITLE", "top": 5.2},
+        "date": {"idx": 2, "type": "BODY", "top": 5.9},
+        "background_image": {"idx": 18, "type": "PICTURE", "top": 0.4}
+      }
+    },
+    "bullet_content": {
+      "index": 1,
+      "name": "Bullet Content",
+      "use_for": ["title_content", "content", "key_metrics"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.40, "top": 0.40, "width": 10.20, "height": 1.00},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.40, "top": 1.70, "width": 10.20, "height": 0.80},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.10, "top": 0.20, "width": 3.50, "height": 0.20},
+        "content": {"idx": 18, "type": "OBJECT", "left": 0.40, "top": 2.80, "width": 10.20, "height": 4.70},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.40, "top": 7.50, "width": 10.20, "height": 0.40}
+      }
+    },
+    "disclaimers": {
+      "index": 2,
+      "name": "Disclaimers",
+      "use_for": ["disclaimer", "legal"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "top": 0.40},
+        "content": {"idx": 2, "type": "BODY", "top": 1.60}
+      }
+    },
+    "chart": {
+      "index": 3,
+      "name": "Chart",
+      "use_for": ["data_chart", "chart"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.40, "top": 0.40},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.40, "top": 1.70},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.10, "top": 0.20},
+        "chart": {"idx": 21, "type": "CHART", "left": 0.40, "top": 2.70, "width": 10.20, "height": 4.00},
+        "chart_note": {"idx": 18, "type": "OBJECT", "left": 0.40, "top": 6.80, "width": 10.20, "height": 0.70},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.40, "top": 7.50}
+      }
+    },
+    "table": {
+      "index": 4,
+      "name": "Table",
+      "use_for": ["table_slide", "table"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.40, "top": 0.40},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.40, "top": 1.70},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.10, "top": 0.20},
+        "table": {"idx": 22, "type": "TABLE", "left": 0.40, "top": 2.70, "width": 10.20, "height": 4.00},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.40, "top": 7.50}
+      }
+    },
+    "side_by_side": {
+      "index": 5,
+      "name": "Side by Side List",
+      "use_for": ["two_column", "comparison"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.40, "top": 0.40},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.40, "top": 1.70},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.10, "top": 0.20},
+        "left_content": {"idx": 18, "type": "OBJECT", "left": 0.40, "top": 2.80, "width": 4.90, "height": 4.70},
+        "right_content": {"idx": 21, "type": "OBJECT", "left": 5.70, "top": 2.80, "width": 4.90, "height": 4.70},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.40, "top": 7.50}
+      }
+    },
+    "section_title": {
+      "index": 6,
+      "name": "Section Title Slide",
+      "use_for": ["section_divider", "section_header"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.40, "top": 5.53, "width": 9.12, "height": 0.94}
+      },
+      "background_image": {
+        "enabled": true,
+        "source": "gemini_generated",
+        "style": "realistic_commercial_real_estate_photography",
+        "position": {"left": 0, "top": 0, "width": 11.0, "height": 8.5}
+      }
+    },
+    "end": {
+      "index": 12,
+      "name": "End",
+      "use_for": ["closing", "thank_you"],
+      "placeholders": {
+        "background_image": {"idx": 18, "type": "PICTURE", "top": 3.6}
+      }
+    }
+  },
+
+  "table_formatting": {
+    "borders": {
+      "enabled": false,
+      "style": "noFill",
+      "comment": "All table borders removed per CS edits"
+    },
+    "header_row": {
+      "height_inches": 0.50,
+      "font_size": 16,
+      "font_bold": true,
+      "fill_color": "#051C2C",
+      "text_color": "#FFFFFF",
+      "vertical_align": "middle"
+    },
+    "data_rows": {
+      "height_inches": 0.40,
+      "font_size": 14,
+      "font_bold": false,
+      "text_color": "#061F32",
+      "vertical_align": "middle",
+      "alternating_fills": {
+        "odd": "#FFFFFF",
+        "even": "#F5F5F5"
+      }
+    },
+    "cell_margins": {
+      "first_column_left": 0.1,
+      "other_left": 0.0,
+      "right": 0.0,
+      "top": 0.0,
+      "bottom": 0.0
+    }
+  },
+
+  "footnotes": {
+    "placeholder_idx": 20,
+    "position": {"left": 0.40, "top": 7.50, "width": 10.20, "height": 0.40},
+    "font": {
+      "name": "Arial",
+      "size": 6,
+      "bold": false,
+      "color": "#061F32"
+    },
+    "alignment": "right",
+    "format": "Sources: {citations}."
+  },
+
+  "section_names": {
+    "placeholder_idx": 17,
+    "position": {"left": 7.10, "top": 0.20, "width": 3.50, "height": 0.20},
+    "font": {
+      "name": "Arial",
+      "size": 10,
+      "bold": false,
+      "color": "#061F32"
+    },
+    "alignment": "right",
+    "display_on": ["bullet_content", "chart", "table", "side_by_side"]
+  },
+
+  "section_images": {
+    "generator": "gemini",
+    "model": "imagen-3.0-generate-002",
+    "style_prompt": "Professional real estate photography, commercial industrial warehouse exterior or interior, modern architecture, high quality, realistic, no text or labels, no diagrams or illustrations",
+    "negative_prompt": "cartoon, illustration, diagram, text, labels, watermark, low quality",
+    "aspect_ratio": "16:9",
+    "output_format": "png",
+    "cache_directory": "cache/images/generated"
+  },
+
+  "colors": {
+    "dark_blue": "#051C2C",
+    "accent_blue": "#309CE7",
+    "white": "#FFFFFF",
+    "dark_text": "#061F32",
+    "light_gray": "#F5F5F5"
+  },
+
+  "fonts": {
+    "title": {"name": "Arial", "size": 36, "bold": true},
+    "title_long": {"name": "Arial", "size": 32, "bold": true},
+    "subtitle": {"name": "Arial", "size": 20, "bold": true},
+    "body": {"name": "Arial", "size": 14, "bold": false},
+    "section_title": {"name": "Arial", "size": 44, "bold": true, "color": "#FFFFFF"}
+  }
+}

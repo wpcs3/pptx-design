@@ -10,13 +10,34 @@
     "text": {
       "title": "#061F32",
       "body": "#000000",
-      "subtle": "#FFFFFF"
+      "subtle": "#FFFFFF",
+      "footnote": "#A6A6A6"
     },
     "backgrounds": [
       "#E6E6E6",
       "#FFFFFF",
       "#F2F2F2"
     ],
+    "overlay": {
+      "navy_blue": "#051C2C",
+      "transparency": 0.7
+    },
+    "footer": {
+      "company_name": "PCCP, LLC"
+    },
+    "table": {
+      "header_background": "#051C2C",
+      "header_text": "#FFFFFF"
+    },
+    "chart": {
+      "bar_primary": "#309CE7",
+      "bar_secondary": "#E5546C",
+      "line_primary": "#051C2C",
+      "line_secondary": "#2222F6",
+      "line_width_pt": 3,
+      "gridline_color": "#D9D9D9",
+      "gridline_width_pt": 0.5
+    },
     "all_colors": [
       "#000000",
       "#3C96B4",
@@ -27,23 +48,73 @@
       "#00B050",
       "#D8EED2",
       "#051C2C",
-      "#FAD3D3"
+      "#FAD3D3",
+      "#A6A6A6"
     ]
   },
   "fonts": {
+    "cover_title": {
+      "name": "Arial",
+      "size_pt": 44,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "section_title": {
+      "name": "Arial",
+      "size_pt": 36,
+      "bold": true,
+      "color": "#FFFFFF"
+    },
+    "slide_title": {
+      "name": "Arial",
+      "size_pt": 36,
+      "bold": true,
+      "word_wrap": true
+    },
     "title": {
       "name": "Arial",
-      "size_pt": 13,
+      "size_pt": 36,
       "bold": true
     },
     "subtitle": {
       "name": "Arial",
-      "size_pt": 9,
+      "size_pt": 18,
       "bold": false
     },
     "body": {
       "name": "Arial",
-      "size_pt": 13
+      "size_pt": 14
+    },
+    "bullet": {
+      "name": "Arial",
+      "size_pt": 14,
+      "min_size_pt": 14
+    },
+    "table_cell": {
+      "name": "Arial",
+      "size_pt": 12,
+      "min_size_pt": 12
+    },
+    "table_header": {
+      "name": "Arial",
+      "size_pt": 12,
+      "min_size_pt": 12,
+      "bold": true
+    },
+    "chart_label": {
+      "name": "Arial",
+      "size_pt": 12,
+      "min_size_pt": 12
+    },
+    "chart_axis": {
+      "name": "Arial",
+      "size_pt": 12,
+      "min_size_pt": 12
+    },
+    "footnote": {
+      "name": "Arial",
+      "size_pt": 8,
+      "color": "#A6A6A6"
     },
     "caption": {
       "name": "Arial",

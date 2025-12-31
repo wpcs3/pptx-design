@@ -1,0 +1,235 @@
+{
+  "version": "v27",
+  "template_file": "Light_Industrial_Thesis_v27_CS_edits.pptx",
+  "description": "Formatting preferences from v27 CS edits - updated layouts and formatting",
+
+  "slide_dimensions": {
+    "width_inches": 11.0,
+    "height_inches": 8.5
+  },
+
+  "layouts": {
+    "frontpage": {
+      "index": 0,
+      "name": "Frontpage",
+      "use_for": ["title_slide"],
+      "placeholders": {
+        "logo": {"idx": 14, "type": "PICTURE", "left": 0.4, "top": 0.4, "width": 2.5, "height": 1.8},
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 3.2, "width": 8.0, "height": 1.8},
+        "subtitle": {"idx": 15, "type": "BODY", "left": 0.4, "top": 5.2, "width": 8.0, "height": 1.1}
+      }
+    },
+    "section_title": {
+      "index": 1,
+      "name": "Section Title Slide",
+      "use_for": ["section_divider", "section_header"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 5.5, "width": 10.2, "height": 1.0}
+      },
+      "background_image": {
+        "enabled": true,
+        "source": "gemini_generated",
+        "position": {"left": 0, "top": 0, "width": 11.0, "height": 8.5}
+      }
+    },
+    "bullet_content": {
+      "index": 2,
+      "name": "Bullet Content",
+      "use_for": ["title_content", "content", "key_metrics"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 0.4, "width": 10.2, "height": 1.0},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.4, "top": 1.7, "width": 10.2, "height": 0.8},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.1, "top": 0.2, "width": 3.5, "height": 0.2},
+        "content": {"idx": 18, "type": "OBJECT", "left": 0.4, "top": 2.8, "width": 10.2, "height": 4.7},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.4, "top": 7.5, "width": 10.2, "height": 0.4}
+      }
+    },
+    "chart": {
+      "index": 3,
+      "name": "Chart",
+      "use_for": ["data_chart", "chart"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 0.4},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.4, "top": 1.7},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.1, "top": 0.2},
+        "chart": {"idx": 17, "type": "CHART", "left": 0.4, "top": 2.7, "width": 10.2, "height": 4.0},
+        "chart_note": {"idx": 19, "type": "OBJECT", "left": 0.4, "top": 6.8, "width": 10.2, "height": 0.7},
+        "footnote": {"idx": 16, "type": "BODY", "left": 0.4, "top": 7.5}
+      }
+    },
+    "table": {
+      "index": 4,
+      "name": "Table",
+      "use_for": ["table_slide", "table"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 0.4},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.4, "top": 1.7},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.1, "top": 0.2},
+        "table": {"idx": 22, "type": "TABLE", "left": 0.4, "top": 2.7, "width": 10.2, "height": 4.0},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.4, "top": 7.5}
+      }
+    },
+    "side_by_side": {
+      "index": 5,
+      "name": "Side by Side List",
+      "use_for": ["two_column", "comparison"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 0.4},
+        "subtitle": {"idx": 1, "type": "SUBTITLE", "left": 0.4, "top": 1.7},
+        "section_name": {"idx": 17, "type": "BODY", "left": 7.1, "top": 0.2},
+        "left_content": {"idx": 18, "type": "OBJECT", "left": 0.4, "top": 2.8, "width": 4.9, "height": 4.7},
+        "right_content": {"idx": 21, "type": "OBJECT", "left": 5.7, "top": 2.8, "width": 4.9, "height": 4.7},
+        "footnote": {"idx": 20, "type": "BODY", "left": 0.4, "top": 7.5}
+      }
+    },
+    "contact": {
+      "index": 6,
+      "name": "Contact",
+      "use_for": ["contact", "contact_info"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "left": 0.4, "top": 0.4, "width": 10.2, "height": 1.0},
+        "contact_1": {"idx": 21, "type": "BODY", "left": 0.4, "top": 2.3, "width": 3.0, "height": 2.5},
+        "contact_2": {"idx": 22, "type": "BODY", "left": 4.0, "top": 2.3, "width": 3.0, "height": 2.5},
+        "contact_3": {"idx": 23, "type": "BODY", "left": 7.6, "top": 2.3, "width": 3.0, "height": 2.5},
+        "contact_4": {"idx": 24, "type": "BODY", "left": 0.4, "top": 5.0, "width": 3.0, "height": 2.5},
+        "contact_5": {"idx": 25, "type": "BODY", "left": 4.0, "top": 5.0, "width": 3.0, "height": 2.5},
+        "contact_6": {"idx": 26, "type": "BODY", "left": 7.6, "top": 5.0, "width": 3.0, "height": 2.5}
+      }
+    },
+    "disclaimers": {
+      "index": 7,
+      "name": "Disclaimers",
+      "use_for": ["disclaimer", "legal"],
+      "placeholders": {
+        "title": {"idx": 0, "type": "TITLE", "top": 0.4},
+        "content": {"idx": 2, "type": "BODY", "top": 1.6}
+      }
+    },
+    "end": {
+      "index": 13,
+      "name": "End",
+      "use_for": ["closing", "end_slide"],
+      "placeholders": {
+        "logo": {"idx": 14, "type": "PICTURE", "left": 4.6, "top": 3.6, "width": 1.8, "height": 1.3}
+      },
+      "background_image": {
+        "enabled": true,
+        "source": "gemini_generated"
+      }
+    }
+  },
+
+  "table_formatting": {
+    "borders": {
+      "enabled": false,
+      "style": "noFill",
+      "comment": "All table borders removed - apply noFill to all border elements"
+    },
+    "position": {
+      "left_inches": 0.4,
+      "width_inches": 10.2,
+      "comment": "Tables always 10.2\" wide, 0.4\" from left edge"
+    },
+    "column_distribution": "equal",
+    "header_row": {
+      "height_inches": 0.50,
+      "font_size": 16,
+      "font_bold": true,
+      "fill_color": "#051C2C",
+      "text_color": "#FFFFFF",
+      "vertical_align": "middle",
+      "alignment_comment": "Header alignment matches column alignment (left for text columns, right for number columns)"
+    },
+    "data_rows": {
+      "height_inches": 0.40,
+      "font_size": 14,
+      "font_bold": false,
+      "text_color": "#061F32",
+      "vertical_align": "middle",
+      "alternating_fills": {
+        "odd": "#FFFFFF",
+        "even": "#F5F5F5"
+      }
+    },
+    "cell_margins": {
+      "left": 0.1,
+      "right": 0.1,
+      "top": 0.05,
+      "bottom": 0.05
+    },
+    "column_alignment": {
+      "method": "majority_based",
+      "comment": "Determine alignment by majority of cells in column. Numbers=right, text=left. ALL cells in column including header use same alignment."
+    }
+  },
+
+  "footnotes": {
+    "placeholder_idx": 20,
+    "position": {"left": 0.4, "top": 7.5, "width": 10.2, "height": 0.4},
+    "font": {
+      "name": "Arial",
+      "size": 6,
+      "bold": false,
+      "color": "#A6A6A6"
+    },
+    "alignment": "left",
+    "format": "Sources: {citations}."
+  },
+
+  "section_names": {
+    "placeholder_idx": 17,
+    "position": {"left": 7.1, "top": 0.2, "width": 3.5, "height": 0.2},
+    "font": {
+      "name": "Arial",
+      "size": 9,
+      "bold": false,
+      "color": "#A6A6A6"
+    },
+    "alignment": "right"
+  },
+
+  "confidential_watermark": {
+    "enabled": true,
+    "text": "CONFIDENTIAL",
+    "position": {"left": 0.4, "top": 8.1},
+    "font": {
+      "name": "Arial",
+      "size": 8,
+      "bold": false,
+      "color": "#000000"
+    },
+    "comment": "Added to master slide, inherited by all content slides"
+  },
+
+  "logo": {
+    "file_blue": "logos/pccp_logo_blue.png",
+    "file_white": "logos/pccp_logo_white.png",
+    "title_slide": {
+      "position": {"left": 0.4, "top": 0.4},
+      "size": {"width": 2.5, "height": 1.8},
+      "color": "white"
+    },
+    "end_slide": {
+      "position": {"left": 4.6, "top": 3.6},
+      "size": {"width": 1.8, "height": 1.3},
+      "color": "white"
+    }
+  },
+
+  "colors": {
+    "dark_blue": "#051C2C",
+    "accent_blue": "#309CE7",
+    "white": "#FFFFFF",
+    "dark_text": "#061F32",
+    "light_gray": "#F5F5F5",
+    "medium_gray": "#A6A6A6"
+  },
+
+  "fonts": {
+    "title": {"name": "Arial", "size": 36, "bold": true},
+    "title_long": {"name": "Arial", "size": 32, "bold": true},
+    "subtitle": {"name": "Arial", "size": 20, "bold": true},
+    "body": {"name": "Arial", "size": 14, "bold": false},
+    "section_title": {"name": "Arial", "size": 44, "bold": true, "color": "#FFFFFF"}
+  }
+}
