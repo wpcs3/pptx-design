@@ -69,9 +69,9 @@
       "cost": "low"
     },
     "budget_friendly": {
-      "model": "gemini-2.0-flash",
+      "model": "gemini-3-flash-preview",
       "description": "Cost-effective for bulk generation",
-      "cost": "very_low"
+      "cost": "low"
     },
     "local": {
       "model": "ollama-llama3.2",

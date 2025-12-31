@@ -222,7 +222,7 @@ AVAILABLE_MODELS = {
         max_tokens=8192,
         litellm_model="o1-mini"
     ),
-    # Google models (Gemini series)
+    # Google models (Gemini 3 series only)
     "gemini-3-pro-preview": ModelConfig(
         provider=ModelProvider.GOOGLE,
         model_id="gemini-3-pro-preview",
@@ -237,40 +237,12 @@ AVAILABLE_MODELS = {
         max_tokens=8192,
         litellm_model="gemini/gemini-3-flash-preview"
     ),
-    "gemini-2.5-pro": ModelConfig(
+    "gemini-3-pro-image": ModelConfig(
         provider=ModelProvider.GOOGLE,
-        model_id="gemini-2.5-pro",
-        display_name="Gemini 2.5 Pro",
+        model_id="gemini-3-pro-image-preview",
+        display_name="Gemini 3 Pro Image",
         max_tokens=8192,
-        litellm_model="gemini/gemini-2.5-pro"
-    ),
-    "gemini-2.5-flash": ModelConfig(
-        provider=ModelProvider.GOOGLE,
-        model_id="gemini-2.5-flash",
-        display_name="Gemini 2.5 Flash",
-        max_tokens=8192,
-        litellm_model="gemini/gemini-2.5-flash"
-    ),
-    "gemini-2.0-flash": ModelConfig(
-        provider=ModelProvider.GOOGLE,
-        model_id="gemini-2.0-flash-exp",
-        display_name="Gemini 2.0 Flash",
-        max_tokens=8192,
-        litellm_model="gemini/gemini-2.0-flash-exp"
-    ),
-    "gemini-1.5-pro": ModelConfig(
-        provider=ModelProvider.GOOGLE,
-        model_id="gemini-1.5-pro",
-        display_name="Gemini 1.5 Pro",
-        max_tokens=8192,
-        litellm_model="gemini/gemini-1.5-pro"
-    ),
-    "gemini-1.5-flash": ModelConfig(
-        provider=ModelProvider.GOOGLE,
-        model_id="gemini-1.5-flash",
-        display_name="Gemini 1.5 Flash",
-        max_tokens=8192,
-        litellm_model="gemini/gemini-1.5-flash"
+        litellm_model="gemini/gemini-3-pro-image-preview"
     ),
     # Ollama (Local models)
     "ollama-llama3.2": ModelConfig(

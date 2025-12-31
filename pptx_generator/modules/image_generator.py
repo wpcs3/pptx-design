@@ -255,7 +255,7 @@ class GeminiImageGenerator:
         height: int = 1080
     ) -> Path:
         """
-        Alternative method using Gemini 2.0 Flash with native image output.
+        Alternative method using Gemini 3 Flash Preview with native image output.
 
         This uses the multimodal generation capability of Gemini models
         that can output images directly.
@@ -274,9 +274,9 @@ class GeminiImageGenerator:
         )
 
         try:
-            # Use Gemini 2.0 Flash experimental with image generation
+            # Use Gemini 3 Flash Preview with image generation
             response = self.client.models.generate_content(
-                model="gemini-2.0-flash-exp",
+                model="gemini-3-flash-preview",
                 contents=full_prompt,
                 config=types.GenerateContentConfig(
                     response_modalities=["IMAGE", "TEXT"],
