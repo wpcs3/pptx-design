@@ -1,0 +1,913 @@
+{
+  "presentation_type": "investment_pitch",
+  "template": "consulting_toolkit",
+  "slides": [
+    {
+      "slide_type": "title_slide",
+      "content": {
+        "title": "Built-for-Rent Communities REIT",
+        "subtitle": "Open-ended private REIT investing in Class A BFR single-family communities",
+        "presenter": "Prepared for RIAs & Accredited Investors",
+        "date": "December 2025"
+      }
+    },
+    {
+      "slide_type": "key_metrics",
+      "content": {
+        "title": "Fund at a Glance",
+        "subtitle": "Perpetual capital platform for institutional-quality BFR communities",
+        "metrics": [
+          {
+            "label": "Target Net Total Return",
+            "value": "~12% (net, annualized)"
+          },
+          {
+            "label": "Target Raise",
+            "value": "$2\u20133B equity"
+          },
+          {
+            "label": "Asset Type",
+            "value": "100\u2013200 home BFR communities"
+          },
+          {
+            "label": "Unit Types",
+            "value": "Detached, townhome, cottage"
+          },
+          {
+            "label": "Amenities",
+            "value": "Class A: pool, clubhouse, fitness, trails, dog park, coworking"
+          },
+          {
+            "label": "Strategy",
+            "value": "Builder takeouts + JV ground-up development"
+          }
+        ],
+        "takeaway": "Scale + repeatable community model aims to deliver durable income and growth."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Investment Highlights",
+        "takeaway": "BFR combines single-family demand with multifamily operating efficiency.",
+        "bullets": [
+          "Housing affordability crisis keeps households renting longer; the monthly cost to own remains meaningfully above renting in many markets",
+          "Structural under-supply of homes supports long-term rental demand and limits oversupply risk",
+          "Purpose-built communities deliver privacy/space + professional management; potential for higher retention vs traditional multifamily",
+          "Dual deployment channels create cycle resilience: acquire stabilized communities from builders or develop ground-up with sponsor partners",
+          "Nationwide mandate with disciplined filters: growth, jobs, supply constraints, landlord friendliness, and climate/insurance diligence",
+          "Institutional validation: public SFR REITs at scale (AMH, INVH) plus large private capital scaling the category (e.g., Blackstone/Tricon)"
+        ],
+        "notes": "For discussion purposes only; not an offer to sell or a solicitation."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Open-Ended Private REIT Structure",
+        "takeaway": "NAV-based subscriptions and periodic liquidity aim to align long-duration housing with investor needs.",
+        "left_title": "Why a REIT Vehicle",
+        "left_bullets": [
+          "Perpetual capital can hold through cycles and capture long-duration housing returns",
+          "Diversification across MSAs and construction vintages can smooth cash flows",
+          "Potential for regular distributions from stabilized rental income",
+          "Operational scale (leasing, maintenance, procurement) can improve margins"
+        ],
+        "right_title": "Key Structural Features (Illustrative)",
+        "right_bullets": [
+          "NAV-based subscriptions/redemptions (frequency and gates TBD in offering docs)",
+          "Independent valuation process and audited financials",
+          "Moderate leverage target with liquidity buffers",
+          "Non-traded structure may reduce mark-to-market volatility vs public equities",
+          "RIA-friendly reporting and investor communications"
+        ],
+        "notes": "Final terms will be set in definitive offering documents."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Strategy at a Glance",
+        "takeaway": "A dual-track approach targets both speed-to-income and development alpha.",
+        "left_title": "Builder Takeouts (Stabilized or Near-Stabilized)",
+        "left_bullets": [
+          "Acquire new communities directly from homebuilders (single asset or portfolio)",
+          "Faster deployment and quicker cash-flow ramp",
+          "Potential to buy at or below replacement cost vs scattered retail SFR",
+          "Professional lease-up, branding, and operations to drive stabilization"
+        ],
+        "right_title": "Ground-Up JV Development",
+        "right_bullets": [
+          "Partner with sponsors for land, entitlements, and execution expertise",
+          "Capture development spread and optimize design-to-rent product",
+          "Phased deliveries support absorption and reduce lease-up risk",
+          "Exit optionality: hold, refinance, bulk sale, or retail disposition"
+        ],
+        "notes": "Transaction pace and mix will vary by cycle; underwriting includes stress tests."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "Why Now: Macro Housing Opportunity",
+        "section_subtitle": "Affordability + supply constraints are accelerating demand for built-for-rent."
+      }
+    },
+    {
+      "slide_type": "data_chart",
+      "content": {
+        "title": "Mortgage Payment vs Rent: Ownership Premium",
+        "takeaway": "Even before taxes/insurance/maintenance, the monthly payment to buy can be materially higher than rent.",
+        "chart_type": "bar",
+        "data": {
+          "categories": [
+            "Average monthly rent",
+            "Average monthly mortgage payment"
+          ],
+          "series": [
+            {
+              "name": "Cost Index (Rent = 100)",
+              "values": [
+                100,
+                152
+              ]
+            }
+          ]
+        },
+        "notes": "Source: CBRE Build-to-Rent Overview 2024 (national; Q2 2024 mortgage payment ~52% above rent)."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Homeownership Is Out of Reach for Many Households",
+        "takeaway": "High prices and elevated mortgage rates extend renter tenure and expand the addressable BFR market.",
+        "bullets": [
+          "Home prices increased sharply since early 2020, raising barriers for first-time buyers",
+          "Higher mortgage rates meaningfully increased the monthly payment on a median-priced home in 2024",
+          "The \u201clock-in\u201d effect discourages existing owners from selling, limiting for-sale inventory",
+          "Many renters prefer the space, schools, and lifestyle of single-family neighborhoods but cannot (or choose not to) buy",
+          "Implication: BFR provides a single-family lifestyle without the downpayment and long-term debt commitment"
+        ],
+        "notes": "Source: Harvard Joint Center for Housing Studies (2024/2025 press materials)."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Structural Housing Shortage Supports Rental Demand",
+        "takeaway": "The U.S. is under-housed\u2014supporting long-term occupancy and rent growth for well-located rental homes.",
+        "bullets": [
+          "National housing supply is structurally constrained after a decade-plus of underbuilding",
+          "Shortage estimates remain in the millions of units, especially in starter homes and affordable segments",
+          "New construction is challenged by land, labor, materials, and financing costs",
+          "Even with elevated multifamily deliveries in some metros, single-family demand remains resilient",
+          "Implication: new, professionally managed rental supply can be absorbed in growth markets with the right submarket selection"
+        ],
+        "notes": "Source: Freddie Mac housing supply gap analysis (Nov 2024)."
+      }
+    },
+    {
+      "slide_type": "data_chart",
+      "content": {
+        "title": "BTR Completions Have Scaled Rapidly",
+        "takeaway": "Purpose-built single-family rental supply is growing\u2014but remains small vs overall housing needs.",
+        "chart_type": "bar",
+        "data": {
+          "categories": [
+            "Pre-pandemic (\u22482019)",
+            "2023",
+            "2024"
+          ],
+          "series": [
+            {
+              "name": "BTR completions (units)",
+              "values": [
+                7000,
+                33800,
+                39000
+              ]
+            }
+          ]
+        },
+        "notes": "Source: Yardi Matrix via Point2Homes (Apr 2025). 2024 completions 39,000 (+15.5% vs 2023); pre-pandemic ~6\u20137k/yr."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "BTR Pipeline Is Large\u2014But the Sector Is Still Early",
+        "takeaway": "Near-term deliveries are meaningful, yet BTR remains a small slice of the U.S. housing stock.",
+        "bullets": [
+          "\u2248110k BTR homes are underway nationally across development stages (as of Mar 2025)",
+          "National BTR inventory is ~350k units (~1.5% of ~23M U.S. single-family rentals)",
+          "Institutional ownership of SFR remains low (often cited <2%), leaving a fragmented competitive landscape",
+          "Supply growth is constrained by the same factors affecting all housing: land, labor, materials, and financing",
+          "Implication: scale operators with capital access and repeatable models can grow into an under-institutionalized asset class"
+        ],
+        "notes": "Sources: Point2Homes/Yardi Matrix (pipeline) and CBRE Build-to-Rent Overview 2024 (inventory; ownership context)."
+      }
+    },
+    {
+      "slide_type": "table_slide",
+      "content": {
+        "title": "Top BTR Metros by 2024 Completions",
+        "takeaway": "BTR supply is concentrated in high-growth metros\u2014creating programmatic scale opportunities.",
+        "headers": [
+          "Metro",
+          "2024 BTR completions",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "Phoenix",
+            "4,460",
+            "Largest 2024 delivery market"
+          ],
+          [
+            "Dallas",
+            "3,197",
+            "High pipeline depth"
+          ],
+          [
+            "Atlanta",
+            "3,035",
+            "Strong household formation"
+          ],
+          [
+            "Houston",
+            "2,505",
+            "Scale + affordability"
+          ],
+          [
+            "Charlotte",
+            "1,415",
+            "Rapid population/job growth"
+          ],
+          [
+            "Jacksonville",
+            "1,201",
+            "In-migration + affordability"
+          ],
+          [
+            "Tampa",
+            "1,005",
+            "Demand + limited for-sale affordability"
+          ]
+        ],
+        "notes": "Source: Point2Homes (Apr 2025) using Yardi Matrix data."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Demand Is Broad-Based and Demographically Driven",
+        "takeaway": "BFR demand spans life stages\u2014improving resiliency versus single-tenant segments.",
+        "bullets": [
+          "Millennials forming families want space, storage, and school access but face affordability constraints",
+          "Baby Boomers value downsizing, low-maintenance living, and flexibility for relocation/caregiving",
+          "Remote/hybrid work increases the value of extra rooms, garages, and outdoor space",
+          "High-income renters by choice prioritize mobility and service over ownership responsibilities",
+          "Families seek suburban neighborhood quality with professional management and predictable costs"
+        ],
+        "notes": "Demographic demand themes reflected across CBRE, Point2Homes, and public SFR REIT commentary."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "BFR Product: Class A Horizontal Living",
+        "section_subtitle": "Townhomes, detached and cottage-style homes in amenity-rich communities."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "What We Build / Buy",
+        "takeaway": "Purpose-built design enables scale operations and a consistent resident experience.",
+        "bullets": [
+          "100\u2013200-home, professionally managed communities (horizontal multifamily operating model)",
+          "Mix of detached homes, townhomes, and cottage-style product to optimize density and affordability",
+          "Private outdoor space (yard/patio), garages/driveways, and durable finishes",
+          "Central amenity core supports resident experience and retention",
+          "Standardized plans simplify maintenance and reduce lifecycle CapEx volatility",
+          "Community design creates \u201cretail-like\u201d buyer optionality at exit (sell homes individually or in bulk)"
+        ],
+        "notes": "BTR community characteristics and density ranges described in CBRE research."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Unit Typologies & Design Principles",
+        "takeaway": "A blended unit mix expands the renter pool while optimizing land use and achievable rents.",
+        "left_title": "Townhomes & Cottages",
+        "left_bullets": [
+          "Efficient land use and infrastructure cost per unit",
+          "Private entries + patios/yards with strong community feel",
+          "Typically 2\u20133 bedrooms; fits young families and downsizers",
+          "Supports moderate rents with Class A finishes"
+        ],
+        "right_title": "Detached Single-Family",
+        "right_bullets": [
+          "3\u20134 bedrooms and larger yards for family demand",
+          "Higher rent point with strong retention potential",
+          "Garages/driveways and storage support suburban lifestyle",
+          "Phased delivery aligns supply with absorption"
+        ],
+        "notes": "Final unit mix will be market- and site-specific."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Class A Amenity Stack",
+        "takeaway": "Amenities create a differentiated lifestyle and support pricing power.",
+        "bullets": [
+          "Resort-style pool + clubhouse / community kitchen",
+          "Fitness studio, trails, greenspace, and outdoor gathering areas",
+          "Dog park + pet wash; playgrounds and flexible open space",
+          "Coworking / work-from-home spaces and package lockers",
+          "On-site leasing and maintenance with service-level targets",
+          "Community programming to build belonging and reduce churn"
+        ],
+        "notes": "Amenity package tailored to local demographics and competitive set."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "BFR Can Command a Rent Premium vs Apartments",
+        "takeaway": "Rent premiums and retention are core drivers of BFR NOI growth.",
+        "bullets": [
+          "Industry research and operator data frequently cite BTR rent premiums vs traditional multifamily (~10\u201320%) driven by space and privacy",
+          "Premium is supported by unit features: private yards/patios, garages, and no neighbors above/below",
+          "Amenity-rich communities attract renters seeking single-family lifestyle with professional management",
+          "Lower turnover can reduce vacancy and make-ready costs, improving NOI durability",
+          "Design-to-rent durability (standardized finishes) can reduce recurring CapEx volatility"
+        ],
+        "notes": "Sources include CBRE and industry/operator commentary (e.g., RCLCO; NexMetro)."
+      }
+    },
+    {
+      "slide_type": "data_chart",
+      "content": {
+        "title": "SFR Rent Growth Has Outpaced Multifamily",
+        "takeaway": "Over the last decade, single-family rent growth has exceeded multifamily nationally.",
+        "chart_type": "bar",
+        "data": {
+          "categories": [
+            "Single-family rents",
+            "Multifamily rents"
+          ],
+          "series": [
+            {
+              "name": "10-year CAGR since 2015",
+              "values": [
+                5.5,
+                4.2
+              ]
+            }
+          ]
+        },
+        "notes": "Source: Houlihan Lokey SFR Market Update (Aug 2025) citing ~5.5% SFR vs ~4.2% multifamily rent CAGR."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Two Core Resident Personas",
+        "takeaway": "BFR serves both renters-by-necessity and renters-by-choice.",
+        "bullets": [
+          "Millennials: household formation + desire for space; many are constrained by downpayment/mortgage qualification",
+          "Boomers: desire for low-maintenance living, flexibility, and \u201clock-and-leave\u201d convenience",
+          "Shared needs: privacy, safety, storage, pet-friendliness, and professional service",
+          "BFR offers the benefits of single-family living without maintenance burden and long-term leverage",
+          "Community design (fitness, trails, social spaces) supports cross-generational appeal"
+        ],
+        "notes": "Resident personas commonly cited across industry research and operator disclosures."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Operating Model = Horizontal Multifamily",
+        "takeaway": "Community operations create cost and service advantages vs scattered SFR.",
+        "bullets": [
+          "On-site leasing and centralized maintenance teams improve service and reduce travel time",
+          "Standardized plans drive predictable make-ready costs and consistent unit turns",
+          "Smart-home tech (locks, thermostats, sensors) can reduce risk and improve resident satisfaction",
+          "Bulk procurement and preferred vendors support margin expansion with scale",
+          "Data-driven pricing and renewal optimization support NOI growth",
+          "Single-family product typically has fewer shared-wall systems than MF, reducing some repair complexity"
+        ],
+        "notes": "Operating model tailored by market and property management platform."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "Investment Strategy",
+        "section_subtitle": "Cycle-resilient deployment across acquisition and development channels."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Sourcing Engine and Capital Deployment",
+        "takeaway": "A programmatic pipeline supports scale-up to a multi-billion-dollar portfolio.",
+        "bullets": [
+          "Direct builder relationships for single-asset and portfolio purchases (takeouts)",
+          "Preferred JV partnerships with regional sponsors for land and development execution",
+          "Repeatable community template enables faster underwriting and design standardization",
+          "Diversify across markets and delivery vintages to smooth lease-up and valuation cycles",
+          "Prioritize submarkets with strong household formation and limited competitive supply",
+          "Target communities sized for both operating scale and absorption velocity"
+        ],
+        "notes": "Execution plan balances pace of deployment with underwriting discipline."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Deal Sourcing: Two Complementary Channels",
+        "takeaway": "Builder takeouts accelerate deployment while JV development captures spread and product control.",
+        "left_title": "Builder Takeouts",
+        "left_bullets": [
+          "Acquire finished or near-finished communities directly from builders",
+          "Immediate leasing platform and reduced construction risk",
+          "Structured forward commitments can secure pipeline and pricing",
+          "Potential for volume pricing relative to scattered retail acquisitions"
+        ],
+        "right_title": "JV Ground-Up Development",
+        "right_bullets": [
+          "Partner with experienced sponsors for entitlements and build execution",
+          "Capture development economics and tailor product/amenities to renters",
+          "Phased completion reduces absorption and carry risk",
+          "Flexible exit strategies (hold, refinance, bulk or retail sale)"
+        ],
+        "notes": "Channel mix will reflect market conditions and relative risk-adjusted returns."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Underwriting Discipline and Downside Protection",
+        "takeaway": "Underwriting prioritizes durability and capital preservation across cycles.",
+        "bullets": [
+          "Target basis at or below replacement cost where feasible; focus on new, low-CapEx product",
+          "Stress test interest rates, lease-up timing, rent growth, and insurance costs",
+          "Preference for fixed-rate or hedged debt; ladder maturities and maintain liquidity buffers",
+          "Phased delivery and pre-leasing to reduce lease-up volatility",
+          "CapEx reserves and proactive maintenance reduce headline risk and improve resident satisfaction",
+          "Exit optionality provides additional downside protection"
+        ],
+        "notes": "Investment decisions governed by IC process and portfolio-level risk limits."
+      }
+    },
+    {
+      "slide_type": "table_slide",
+      "content": {
+        "title": "Target Underwriting Parameters (Illustrative)",
+        "takeaway": "Standardized targets support repeatability while allowing market-specific adjustments.",
+        "headers": [
+          "Metric",
+          "Target Range (Illustrative)",
+          "Rationale"
+        ],
+        "rows": [
+          [
+            "Community size",
+            "100\u2013200 homes",
+            "Amenity ROI + operating scale; manageable absorption"
+          ],
+          [
+            "Unit mix",
+            "2\u20134 BR; blend of detached/townhome/cottage",
+            "Broader affordability band; density optimization"
+          ],
+          [
+            "Stabilized occupancy",
+            "95\u201397%+",
+            "Aligned with large-scale SFR operator benchmarks"
+          ],
+          [
+            "Yield-on-cost",
+            "6.0\u20136.8% (stabilized)",
+            "Supports distributable cash flow and cap rate buffer"
+          ],
+          [
+            "Debt (LTV)",
+            "35\u201355% target",
+            "Moderate leverage to protect NAV across cycles"
+          ],
+          [
+            "Hold period",
+            "Perpetual; recycle capital opportunistically",
+            "Capture long-duration housing return stream"
+          ]
+        ],
+        "notes": "Illustrative targets; actual underwriting varies by market, timing, and asset channel."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Lease-Up and Stabilization Playbook",
+        "takeaway": "Execution focus shortens time to stabilized cash flow.",
+        "bullets": [
+          "Pre-marketing during construction (virtual tours, waitlists, broker outreach)",
+          "Staggered home deliveries to maintain leasing momentum and reduce vacancy clusters",
+          "Dynamic pricing by floorplan and finish package; renewal optimization to protect retention",
+          "Amenity activation early (clubhouse, trails, dog park) to accelerate absorption",
+          "Focus on resident experience KPIs: response time, satisfaction, renewal rate, delinquency",
+          "Local market intelligence loops into pricing, concessions, and staffing"
+        ],
+        "notes": "Lease-up approach is market-specific and informed by real-time comps."
+      }
+    },
+    {
+      "slide_type": "table_slide",
+      "content": {
+        "title": "Public Benchmarks: AMH & INVH Operating Metrics",
+        "takeaway": "Large-scale operators demonstrate high occupancy and steady rent growth through cycles.",
+        "headers": [
+          "Operator",
+          "Portfolio scale (reported)",
+          "Occupancy",
+          "Blended rent growth",
+          "Notes"
+        ],
+        "rows": [
+          [
+            "AMH (FY 2024)",
+            "60,531 homes",
+            "95.4% same-home occupied days",
+            "3.3% blended (new+renewal)",
+            "Integrated owner/operator/developer"
+          ],
+          [
+            "INVH (FY 2024)",
+            "76,601 same-store homes",
+            "97.3% avg occupancy",
+            "3.9% blended",
+            "Avg length of stay ~38 months; ~80% renewal rate in Q4 2024"
+          ],
+          [
+            "INVH (Q3 2025)",
+            "86,139 wholly owned homes",
+            "96.5% avg occupancy",
+            "3.0% blended",
+            "Renewals +4.5%; new leases -0.6%"
+          ]
+        ],
+        "notes": "Sources: AMH FY2024 results (Feb 2025) and Invitation Homes FY2024 & Q3 2025 supplemental disclosures."
+      }
+    },
+    {
+      "slide_type": "data_chart",
+      "content": {
+        "title": "Cap Rate Comparison: SFR vs Multifamily (Mar 31, 2025)",
+        "takeaway": "SFR cap rates have traded at a modest premium valuation vs multifamily in some segments.",
+        "chart_type": "bar",
+        "data": {
+          "categories": [
+            "REITs",
+            "Private Markets"
+          ],
+          "series": [
+            {
+              "name": "SFR",
+              "values": [
+                4.74,
+                5.19
+              ]
+            },
+            {
+              "name": "Multifamily",
+              "values": [
+                5.56,
+                5.65
+              ]
+            }
+          ]
+        },
+        "notes": "Source: Houlihan Lokey SFR Market Update (Aug 2025); cap rates as of Mar 31, 2025."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "Target Markets & Portfolio Construction",
+        "section_subtitle": "Nationwide mandate; disciplined filters to focus on resilient demand and controllable supply."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Market Selection Framework",
+        "takeaway": "Consistent filters allow investing across primary and secondary MSAs while protecting downside.",
+        "bullets": [
+          "Household formation and job growth supported by diversified employers",
+          "Affordability gap between owning and renting supports sustained rental demand",
+          "Favorable supply/demand dynamics: limited new home inventory or zoning/land constraints",
+          "Landlord-friendly legal environment and predictable property taxes",
+          "Climate and insurance diligence to avoid outsized tail risk (or price for it)",
+          "Depth of builder activity and local development pipeline for programmatic sourcing"
+        ],
+        "notes": "Framework is applied at both MSA and submarket levels."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Primary vs Secondary MSA Approach",
+        "takeaway": "A blended market strategy balances liquidity with yield and growth potential.",
+        "left_title": "Primary MSAs",
+        "left_bullets": [
+          "Deeper liquidity and buyer depth for bulk exits",
+          "Diverse employment bases and household formation engines",
+          "Ability to scale multiple communities within a single metro",
+          "Institutional-quality submarkets with strong school districts"
+        ],
+        "right_title": "Secondary MSAs",
+        "right_bullets": [
+          "Potentially higher yields and development spreads",
+          "Lower competition for land and approvals in select corridors",
+          "Fast-growing pockets anchored by universities, healthcare, and manufacturing",
+          "Opportunity to be early institutional operator with brand advantage"
+        ],
+        "notes": "Portfolio mix will be actively managed based on risk-adjusted opportunity."
+      }
+    },
+    {
+      "slide_type": "table_slide",
+      "content": {
+        "title": "Example Target MSAs (Illustrative)",
+        "takeaway": "Focus on metros combining household growth, affordability demand, and BTR momentum.",
+        "headers": [
+          "MSA",
+          "Why it fits BFR",
+          "BTR momentum (evidence)"
+        ],
+        "rows": [
+          [
+            "Phoenix",
+            "High in-migration; strong household growth; favorable suburban land availability",
+            "4,460 completions (2024); ~13,010 in pipeline"
+          ],
+          [
+            "Dallas\u2013Fort Worth",
+            "Large job base and affordability-driven renters; deep builder ecosystem",
+            "3,197 completions (2024); ~8,450 in pipeline"
+          ],
+          [
+            "Atlanta",
+            "Job growth + household formation; strong SFR culture",
+            "3,035 completions (2024); ~6,644 in pipeline"
+          ],
+          [
+            "Houston",
+            "Scale + affordability relative to other primaries; deep workforce demand",
+            "2,505 completions (2024)"
+          ],
+          [
+            "Charlotte",
+            "In-migration + white-collar growth; strong suburban submarkets",
+            "1,415 completions (2024)"
+          ],
+          [
+            "Tampa",
+            "Migration + constrained ownership affordability; high demand for space",
+            "1,005 completions (2024)"
+          ],
+          [
+            "Jacksonville",
+            "Affordable coastal Sun Belt metro; strong family renter demand",
+            "1,201 completions (2024)"
+          ],
+          [
+            "Columbus",
+            "Midwest growth node; stable employment and lower supply pressure",
+            "1,018 completions (2024)"
+          ],
+          [
+            "Austin",
+            "High-income renter base; strong lifestyle demand; supply requires submarket discipline",
+            "Active pipeline in broader region"
+          ],
+          [
+            "San Antonio",
+            "Affordable large metro with strong renter pool and land availability",
+            "Active BTR development presence"
+          ]
+        ],
+        "notes": "Source: Point2Homes (Apr 2025) for completions and pipeline stats where stated; remaining entries illustrative."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Submarket and Site Selection Criteria",
+        "takeaway": "Submarket discipline protects lease-up velocity and long-term liquidity.",
+        "bullets": [
+          "Proximity to employment nodes, retail convenience, and strong school districts",
+          "Commute and access: major road connectivity; avoid long-term infrastructure gaps",
+          "Parcel size supports 100\u2013200 homes plus meaningful greenspace and amenity core",
+          "Entitlements that allow horizontal density appropriate to product (often ~6\u201312 units/acre)",
+          "Construction feasibility: standardized plans, phased infrastructure, utility access",
+          "Competition mapping: quantify MF deliveries, BTR pipeline, and rent positioning by submarket"
+        ],
+        "notes": "Site criteria tailored to local zoning and market comps."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "Competitive Landscape & Differentiation",
+        "section_subtitle": "Public REIT benchmarks, private operators, and our competitive edge."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Competitive Landscape Snapshot",
+        "takeaway": "The sector has proven scalability, but institutional-quality BFR communities remain under-supplied.",
+        "bullets": [
+          "Public comps: AMH and INVH operate large-scale SFR portfolios with high occupancy and steady NOI growth",
+          "Private capital continues to scale: Blackstone acquired Tricon Residential and highlighted a sizable development pipeline",
+          "Horizontal multifamily operators validate cottage/townhome formats with amenity-driven demand",
+          "Most SFR remains owned by small landlords; institutional ownership remains relatively low",
+          "Opportunity: deliver consistent resident experience through purpose-built communities and professional operations"
+        ],
+        "notes": "Sources: public REIT disclosures; Blackstone/Tricon press releases; CBRE market commentary."
+      }
+    },
+    {
+      "slide_type": "two_column",
+      "content": {
+        "title": "Our Competitive Edge",
+        "takeaway": "BFR sits at the intersection of SFR demand and multifamily efficiency.",
+        "left_title": "Advantage vs Scattered SFR",
+        "left_bullets": [
+          "On-site teams reduce maintenance response times and travel costs",
+          "Amenities + branding support pricing power and faster lease-up",
+          "Standardized homes reduce make-ready variability and CapEx surprises",
+          "Concentrated communities improve data quality for pricing and renewals",
+          "Community design supports safety and resident satisfaction"
+        ],
+        "right_title": "Advantage vs Apartments",
+        "right_bullets": [
+          "Greater privacy: no neighbors above/below and more space",
+          "Garages/yards support families, pets, and hybrid work",
+          "Suburban school districts and neighborhood feel",
+          "Retention tends to be higher; turnover costs lower",
+          "Often competitively priced vs the cost of buying"
+        ],
+        "notes": "Relative advantages vary by market and competitive set."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Institutional Validation + Whitespace",
+        "takeaway": "Institutional momentum is rising, but sector penetration remains low\u2014creating opportunity.",
+        "bullets": [
+          "Large transactions (e.g., Blackstone/Tricon) signal conviction in the long-term SFR/BTR thesis",
+          "BTR remains a small fraction of the U.S. housing stock\u2014leaving room for institutional growth",
+          "BTR starts and completions have increased as builders respond to affordability-driven demand",
+          "Long runway: even modest increases in BTR\u2019s share of new single-family construction creates meaningful scale",
+          "Our REIT targets that whitespace through programmatic acquisition and development relationships"
+        ],
+        "notes": "Sources: Blackstone/Tricon press releases; NAHB built-for-rent starts analysis; CBRE BTR overview."
+      }
+    },
+    {
+      "slide_type": "section_divider",
+      "content": {
+        "section_title": "Return Profile & Investor Structure",
+        "section_subtitle": "Target ~12% net return supported by income, growth, and disciplined risk management."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "How We Aim to Deliver ~12% Net Return",
+        "takeaway": "Returns are designed to be driven primarily by income and NOI growth, not cap-rate bets.",
+        "bullets": [
+          "Current income from stabilized rental cash flow (net of expenses, reserves, and leverage costs)",
+          "Organic NOI growth from rent increases, lease-up, and renewal optimization",
+          "Development/acquisition alpha via programmatic sourcing and design standardization",
+          "Potential appreciation supported by long-term housing scarcity and home price floor dynamics",
+          "Exit optionality (bulk, retail, refinance) can protect downside and create upside"
+        ],
+        "notes": "Targets are not guaranteed; performance depends on market conditions and execution."
+      }
+    },
+    {
+      "slide_type": "data_chart",
+      "content": {
+        "title": "Illustrative Total Return Drivers (Net, Annualized)",
+        "takeaway": "Income + NOI growth are expected to be the largest contributors.",
+        "chart_type": "bar",
+        "data": {
+          "categories": [
+            "Net income yield",
+            "NOI growth",
+            "Development / sourcing alpha",
+            "Home value appreciation",
+            "Leverage enhancement"
+          ],
+          "series": [
+            {
+              "name": "Contribution (%)",
+              "values": [
+                5.0,
+                3.0,
+                1.5,
+                1.5,
+                1.0
+              ]
+            }
+          ]
+        },
+        "notes": "Illustrative only; not a forecast."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Liquidity Management for an Open-Ended REIT",
+        "takeaway": "Structure is designed to provide periodic liquidity while protecting remaining investors.",
+        "bullets": [
+          "Staggered community vintages create recurring stabilization events and cash-flow growth",
+          "Maintain liquidity buffer (cash + credit) to fund redemptions and CapEx needs",
+          "Moderate leverage and laddered maturities reduce refinancing concentration risk",
+          "Redemption program balances investor liquidity with long-duration assets (gates may apply)",
+          "Regular third-party valuation supports transparent NAV reporting"
+        ],
+        "notes": "Illustrative structure; final details set in offering documents."
+      }
+    },
+    {
+      "slide_type": "table_slide",
+      "content": {
+        "title": "Key Risks and Mitigations",
+        "takeaway": "Risks are identifiable and manageable with disciplined underwriting and operations.",
+        "headers": [
+          "Risk",
+          "How it shows up",
+          "Mitigation"
+        ],
+        "rows": [
+          [
+            "Interest rate / cap rate volatility",
+            "Higher debt costs; valuation pressure",
+            "Moderate leverage; fixed/hedged debt; conservative entry yields; liquidity buffers"
+          ],
+          [
+            "Construction costs / delays",
+            "Budget overruns; delayed cash flow",
+            "GMP contracts where possible; experienced sponsor partners; contingency; phased deliveries"
+          ],
+          [
+            "Lease-up risk",
+            "Slower absorption; higher concessions",
+            "Submarket discipline; pre-leasing; dynamic pricing; amenity activation; staffing plan"
+          ],
+          [
+            "Regulatory / public policy scrutiny",
+            "Restrictions on investor ownership or rent regulation in select areas",
+            "Jurisdiction selection; compliance programs; proactive resident experience and transparency"
+          ],
+          [
+            "Insurance / climate risk",
+            "Premium spikes; deductibles; market exits",
+            "Climate diligence; diversify geography; higher deductibles/risk pools; resilient construction standards"
+          ],
+          [
+            "Localized oversupply",
+            "Near-term rent pressure in certain submarkets",
+            "Avoid high-supply corridors; pipeline monitoring; differentiate via product/amenities; maintain pricing discipline"
+          ]
+        ],
+        "notes": "Policy discussion context includes research from the Federal Reserve Bank of Minneapolis (Mar 2024) and broader market commentary."
+      }
+    },
+    {
+      "slide_type": "title_content",
+      "content": {
+        "title": "Capital Raise Plan & Next Steps",
+        "takeaway": "We are building a scalable platform to meet demand for high-quality rental housing.",
+        "bullets": [
+          "Target raise: $2\u20133B to build a diversified, multi-market BFR portfolio",
+          "Pipeline: builder takeout opportunities plus curated JV sponsor relationships",
+          "Phased deployment: seed portfolio \u2192 scale to programmatic acquisitions \u2192 optimize operations",
+          "Investor diligence package: market research, underwriting framework, and case studies",
+          "Next steps: diligence meetings with RIAs, model portfolio fit assessment, and onboarding workflow"
+        ],
+        "notes": "Investment offered only via definitive offering documents."
+      }
+    }
+  ]
+}

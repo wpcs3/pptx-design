@@ -56,6 +56,24 @@ except ImportError:
     PresentationEvaluator = None
     EvaluationResult = None
 
+# Import presentation review system
+try:
+    from .presentation_review import PresentationReviewer, GapAnalysis
+    HAS_REVIEW = True
+except ImportError:
+    HAS_REVIEW = False
+    PresentationReviewer = None
+    GapAnalysis = None
+
+# Import output organizer
+try:
+    from .output_organizer import OutputOrganizer, TopicConfig
+    HAS_OUTPUT_ORGANIZER = True
+except ImportError:
+    HAS_OUTPUT_ORGANIZER = False
+    OutputOrganizer = None
+    TopicConfig = None
+
 logger = logging.getLogger(__name__)
 
 
@@ -74,6 +92,14 @@ class GenerationOptions:
     iterative_refinement: bool = False  # Enable iterative refinement
     target_grade: str = "B"  # Target quality grade (A, B, C, D)
     max_iterations: int = 3  # Maximum refinement iterations
+    # Style Guide Review options
+    style_review: bool = True  # Run style guide compliance review after generation
+    style_guide_version: Optional[str] = None  # Specific style guide version (None = latest)
+    auto_correct_style: bool = True  # Automatically apply style corrections
+    # Output organization options
+    organize_by_topic: bool = True  # Save to topic-specific subfolders
+    topic: Optional[str] = None  # Explicit topic (None = auto-detect)
+    auto_detect_topic: bool = True  # Auto-detect topic from title/filename
 
 
 @dataclass
@@ -87,6 +113,10 @@ class GenerationResult:
     # Phase 4: Refinement history
     refinement_history: Optional[Any] = None  # RefinementHistory if iterative refinement used
     slides_cloned: int = 0  # Number of slides created via clone-and-edit
+    # Style Guide Review results
+    style_review: Optional[Dict[str, Any]] = None  # Style review results
+    gap_analysis_path: Optional[Path] = None  # Path to gap analysis report
+    corrected_path: Optional[Path] = None  # Path to style-corrected presentation
 
 
 class PresentationOrchestrator:
@@ -131,7 +161,11 @@ class PresentationOrchestrator:
         # Initialize template renderer with formatting and library integration
         base_template = self._find_base_template()
         if base_template:
-            self.renderer = TemplateRenderer(base_template, use_library=True)
+            self.renderer = TemplateRenderer(
+                base_template,
+                use_library=True,
+                style_guide_version=self.options.style_guide_version
+            )
         else:
             raise FileNotFoundError("No base template found in templates directory")
 
@@ -140,6 +174,15 @@ class PresentationOrchestrator:
 
         # Phase 2: Initialize evaluator if available
         self.evaluator = PresentationEvaluator() if HAS_EVALUATION else None
+
+        # Initialize style guide reviewer if available
+        self.reviewer = None
+        if HAS_REVIEW and self.options.style_review:
+            try:
+                self.reviewer = PresentationReviewer(self.options.style_guide_version)
+                logger.info(f"Style reviewer initialized with guide version: {self.reviewer.spec.version}")
+            except Exception as e:
+                logger.warning(f"Failed to initialize style reviewer: {e}")
 
         # Phase 4: Initialize slide pool if available
         self.slide_pool = None
@@ -164,6 +207,12 @@ class PresentationOrchestrator:
                 evaluator=self.evaluator,
                 llm_manager=None  # Can be set later via set_llm_manager()
             )
+
+        # Initialize output organizer
+        self.output_organizer = None
+        if HAS_OUTPUT_ORGANIZER and self.options.organize_by_topic:
+            self.output_organizer = OutputOrganizer(self.output_dir)
+            logger.info(f"Output organizer initialized with {len(self.output_organizer.topics)} topics")
 
         # Ensure output directory exists
         self.output_dir.mkdir(parents=True, exist_ok=True)
@@ -496,6 +545,77 @@ class PresentationOrchestrator:
         """
         return self.layout_cascade.explain_selection(content)
 
+    def review_style_compliance(self, pptx_path: Path) -> Dict[str, Any]:
+        """
+        Review a presentation for style guide compliance.
+
+        Args:
+            pptx_path: Path to the PPTX file
+
+        Returns:
+            Review results dictionary with gap analysis
+        """
+        if not self.reviewer:
+            logger.warning("Style reviewer not available")
+            return {"error": "Style reviewer not available"}
+
+        return self.reviewer.review_and_correct(pptx_path, self.output_dir)
+
+    def export_with_review(
+        self,
+        presentation: Presentation,
+        filename: str = None,
+        title: str = None,
+        topic: str = None
+    ) -> GenerationResult:
+        """
+        Export presentation and run style guide review.
+
+        Args:
+            presentation: Presentation object to save
+            filename: Optional filename
+            title: Presentation title (for topic auto-detection)
+            topic: Explicit topic (overrides auto-detection)
+
+        Returns:
+            GenerationResult with export and review information
+        """
+        # First, save the presentation (with topic organization)
+        output_path = self.export_pptx(presentation, filename, title=title, topic=topic)
+
+        result = GenerationResult(
+            presentation=presentation,
+            output_path=output_path
+        )
+
+        # Run style review if enabled
+        if self.reviewer and self.options.style_review:
+            try:
+                logger.info("Running style guide compliance review...")
+                review_results = self.review_style_compliance(output_path)
+
+                result.style_review = review_results
+                result.gap_analysis_path = Path(review_results.get("report_path")) if review_results.get("report_path") else None
+
+                # Log review summary
+                logger.info(
+                    f"Style Review: {review_results.get('total_gaps', 0)} gaps found, "
+                    f"compliance {review_results.get('compliance_score', 0):.1f}%"
+                )
+
+                # Apply corrections if enabled
+                if self.options.auto_correct_style and review_results.get("corrections_applied", 0) > 0:
+                    result.corrected_path = Path(review_results.get("corrected_path"))
+                    logger.info(
+                        f"Applied {review_results.get('corrections_applied', 0)} automatic corrections"
+                    )
+
+            except Exception as e:
+                logger.warning(f"Style review failed: {e}")
+                result.warnings.append(f"Style review failed: {e}")
+
+        return result
+
     def _copy_reusable_section(self, presentation: Presentation, section: dict) -> None:
         """Copy slides from the reusable slide library."""
         section_id = section.get("reusable_section_id")
@@ -514,13 +634,21 @@ class PresentationOrchestrator:
         for slide_idx in source_slides:
             self.slide_lib.copy_slide(source_template, slide_idx, presentation)
 
-    def export_pptx(self, presentation: Presentation, filename: str = None) -> Path:
+    def export_pptx(
+        self,
+        presentation: Presentation,
+        filename: str = None,
+        title: str = None,
+        topic: str = None
+    ) -> Path:
         """
         Save a presentation to a PPTX file.
 
         Args:
             presentation: Presentation object to save
             filename: Optional filename (will be auto-generated if not provided)
+            title: Presentation title (for topic auto-detection)
+            topic: Explicit topic (overrides auto-detection)
 
         Returns:
             Path to the saved file
@@ -529,9 +657,23 @@ class PresentationOrchestrator:
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
             filename = f"presentation_{timestamp}.pptx"
 
-        output_path = self.output_dir / filename
-        presentation.save(str(output_path))
+        # Determine output path using organizer if available
+        if self.output_organizer and self.options.organize_by_topic:
+            # Use explicit topic, options topic, or auto-detect
+            effective_topic = topic or self.options.topic
+            output_path = self.output_organizer.get_output_path(
+                filename=filename,
+                topic=effective_topic,
+                title=title,
+                auto_detect=self.options.auto_detect_topic
+            )
+        else:
+            output_path = self.output_dir / filename
 
+        # Ensure parent directory exists
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+
+        presentation.save(str(output_path))
         logger.info(f"Saved presentation to: {output_path}")
         return output_path
 
@@ -761,15 +903,82 @@ class Workflow:
             return self.generation_result.layout_decisions
         return getattr(self.orchestrator, '_last_layout_decisions', [])
 
-    def export(self, filename: str = None) -> Path:
-        """Export the presentation to a file."""
+    def export(self, filename: str = None, with_review: bool = True, topic: str = None) -> Path:
+        """
+        Export the presentation to a file.
+
+        Args:
+            filename: Optional filename
+            with_review: If True, run style guide review after export
+            topic: Explicit topic for subfolder organization (None = auto-detect)
+
+        Returns:
+            Path to the exported file
+        """
         if not self.presentation:
             logger.warning("No presentation to export")
             return None
 
-        self.output_path = self.orchestrator.export_pptx(self.presentation, filename)
+        # Get title from outline for auto-detection
+        title = None
+        if self.enriched_outline:
+            title = self.enriched_outline.get("title")
+        elif self.outline:
+            title = self.outline.get("title")
+
+        if with_review and self.orchestrator.reviewer:
+            # Use export_with_review for integrated style checking
+            export_result = self.orchestrator.export_with_review(
+                self.presentation, filename, title=title, topic=topic
+            )
+            self.output_path = export_result.output_path
+
+            # Store style review results
+            if export_result.style_review:
+                self._log_action("style_review_completed", {
+                    "total_gaps": export_result.style_review.get("total_gaps", 0),
+                    "compliance_score": export_result.style_review.get("compliance_score", 0),
+                    "corrections_applied": export_result.style_review.get("corrections_applied", 0),
+                    "gap_analysis_path": str(export_result.gap_analysis_path) if export_result.gap_analysis_path else None,
+                    "corrected_path": str(export_result.corrected_path) if export_result.corrected_path else None,
+                })
+
+            # Update generation result if exists
+            if self.generation_result:
+                self.generation_result.style_review = export_result.style_review
+                self.generation_result.gap_analysis_path = export_result.gap_analysis_path
+                self.generation_result.corrected_path = export_result.corrected_path
+        else:
+            self.output_path = self.orchestrator.export_pptx(
+                self.presentation, filename, title=title, topic=topic
+            )
+
         self._log_action("presentation_exported", {"path": str(self.output_path)})
         return self.output_path
+
+    def get_style_review_summary(self) -> Optional[str]:
+        """Get a summary of the style guide review results."""
+        if not self.generation_result or not self.generation_result.style_review:
+            return None
+
+        review = self.generation_result.style_review
+        lines = [
+            f"Style Guide Review: {review.get('style_guide_version', 'unknown')}",
+            f"",
+            f"Compliance Score: {review.get('compliance_score', 0):.1f}%",
+            f"Total Gaps Found: {review.get('total_gaps', 0)}",
+            f"Corrections Applied: {review.get('corrections_applied', 0)}",
+            f"Corrections Failed: {review.get('corrections_failed', 0)}",
+        ]
+
+        if review.get('report_path'):
+            lines.append(f"")
+            lines.append(f"Gap Analysis Report: {review.get('report_path')}")
+
+        if review.get('corrected_path'):
+            lines.append(f"Corrected Presentation: {review.get('corrected_path')}")
+
+        return "\n".join(lines)
 
     def refine(self, feedback: str, slide_number: int = None) -> None:
         """Refine the presentation based on feedback."""
@@ -890,6 +1099,12 @@ def main():
         print("\n=== Exporting ===")
         output_path = workflow.finalize()
         print(f"Saved to: {output_path}")
+
+        # Show style review results
+        style_summary = workflow.get_style_review_summary()
+        if style_summary:
+            print("\n=== Style Guide Review ===")
+            print(style_summary)
 
     asyncio.run(run())
 

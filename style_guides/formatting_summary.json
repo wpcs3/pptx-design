@@ -1,0 +1,51 @@
+{
+  "title": {
+    "font_name": null,
+    "font_size_pt": 32.0,
+    "font_color": null,
+    "font_bold": null,
+    "sample_count": 45
+  },
+  "subtitle": {
+    "font_name": null,
+    "font_size_pt": null,
+    "font_color": null,
+    "font_bold": null,
+    "sample_count": 33
+  },
+  "body": {
+    "font_name": "Arial",
+    "font_size_pt": 18.0,
+    "font_color": null,
+    "font_bold": true,
+    "sample_count": 96
+  },
+  "section_name": {
+    "font_name": "Arial",
+    "font_size_pt": 9.0,
+    "font_color": null,
+    "font_bold": null,
+    "sample_count": 33
+  },
+  "footnote": {
+    "font_name": "Arial",
+    "font_size_pt": 6.0,
+    "font_color": null,
+    "font_bold": null,
+    "sample_count": 33
+  },
+  "chart": {
+    "value_axis": {
+      "has_major_gridlines": true,
+      "has_minor_gridlines": false,
+      "tick_mark": "OUTSIDE (3)",
+      "gridline_width_pt": null
+    },
+    "category_axis": {
+      "tick_mark": "OUTSIDE (3)"
+    },
+    "series_colors": [],
+    "data_label_font": {},
+    "sample_count": 1
+  }
+}

@@ -3,6 +3,7 @@ Template-Based Slide Renderer
 
 Generates slides using actual template master layouts and styling.
 Integrates with ComponentLibrary for reusable charts, tables, and diagrams.
+Uses StyleGuideConfig for centralized formatting specifications.
 
 Fixed version: Uses actual placeholder positions and proper auto-sizing.
 """
@@ -31,6 +32,15 @@ except ImportError:
     LIBRARY_AVAILABLE = False
     ComponentLibrary = None
     LibraryEnhancer = None
+
+# Import StyleGuideConfig for centralized formatting
+try:
+    from .style_guide_config import StyleGuideConfig, get_style_config
+    STYLE_CONFIG_AVAILABLE = True
+except ImportError:
+    STYLE_CONFIG_AVAILABLE = False
+    StyleGuideConfig = None
+    get_style_config = None
 
 logger = logging.getLogger(__name__)
 
@@ -82,18 +92,19 @@ class TemplateRenderer:
         "secondary": RGBColor(0xE5, 0x54, 0x6C),    # Coral/Red
         "accent1": RGBColor(0x05, 0x1C, 0x2C),      # Dark blue
         "accent2": RGBColor(0x00, 0xB0, 0x50),      # Green
-        "text_dark": RGBColor(0x06, 0x1F, 0x32),    # Dark navy
-        "text_body": RGBColor(0x33, 0x33, 0x33),    # Dark gray
-        "text_light": RGBColor(0x66, 0x66, 0x66),   # Medium gray
+        "black": RGBColor(0x00, 0x00, 0x00),        # Pure black for titles/subtitles (per PCCP style guide)
+        "text_dark": RGBColor(0x06, 0x1F, 0x32),    # Dark navy (legacy)
+        "text_body": RGBColor(0x2D, 0x37, 0x48),    # Slate #2D3748 for body text
+        "text_light": RGBColor(0x71, 0x80, 0x96),   # Gray #718096 for section names
         "white": RGBColor(0xFF, 0xFF, 0xFF),
         "light_gray": RGBColor(0xE6, 0xE6, 0xE6),
         "background": RGBColor(0xF2, 0xF2, 0xF2),
         "overlay_navy": RGBColor(0x05, 0x1C, 0x2C), # Dark navy for overlays
-        "footnote": RGBColor(0xA6, 0xA6, 0xA6),     # Gray for footnotes
+        "footnote": RGBColor(0xA6, 0xA6, 0xA6),     # Medium gray #A6A6A6 for footnotes (per PCCP style guide)
         "chart_bar": RGBColor(0x30, 0x9C, 0xE7),    # Blue #309CE7 for bar charts
         "chart_line_primary": RGBColor(0x05, 0x1C, 0x2C),  # Dark navy #051C2C for line charts
         "chart_line_secondary": RGBColor(0x22, 0x22, 0xF6),  # Blue #2222F6 for secondary lines
-        "chart_gridline": RGBColor(0xD9, 0xD9, 0xD9),  # Light gray #D9D9D9 for gridlines
+        "chart_gridline": RGBColor(0xE2, 0xE8, 0xF0),  # Light gray #E2E8F0 for gridlines (per PCCP style guide)
     }
 
     # Line widths
@@ -106,41 +117,61 @@ class TemplateRenderer:
     # Overlay transparency (0-100000, where 100000 = fully transparent)
     OVERLAY_TRANSPARENCY = 30000  # 30% transparent (70% opaque)
 
-    # Font settings - configured per user requirements
-    # Cover title: 44pt, Section titles: 36pt, Slide titles: 36pt
-    # Bullets: min 14pt, Tables: min 12pt, Charts: min 12pt, Footnotes: 8pt
+    # Font settings - per PCCP CS Style Guide (2026.01.01)
+    # Title (content slides): 32pt bold black
+    # Title (section/cover): 44pt bold white
+    # Subtitle (content): 20pt bold black
+    # Subtitle (frontpage): 18pt bold white
+    # Body/Bullets: 14pt regular black
+    # Content header (side-by-side): 18pt bold black
     FONTS = {
+        # Title styles
         "cover_title": {"name": "Arial", "size": Pt(44), "bold": True, "color": "white"},
-        "section_title": {"name": "Arial", "size": Pt(36), "bold": True, "color": "white"},
-        "title": {"name": "Arial", "size": Pt(36), "bold": True, "color": "text_dark"},
-        "subtitle": {"name": "Arial", "size": Pt(18), "bold": False, "color": "white"},
-        "section": {"name": "Arial", "size": Pt(36), "bold": True, "color": "white"},
-        "heading": {"name": "Arial", "size": Pt(16), "bold": True, "color": "text_dark"},
+        "section_title": {"name": "Arial", "size": Pt(44), "bold": True, "color": "white"},
+        "title": {"name": "Arial", "size": Pt(32), "bold": True, "color": "black"},  # Black per PCCP style guide
+        "section": {"name": "Arial", "size": Pt(44), "bold": True, "color": "white"},
+        # Subtitle styles
+        "subtitle": {"name": "Arial", "size": Pt(18), "bold": True, "color": "white"},  # Front page
+        "subtitle_content": {"name": "Arial", "size": Pt(20), "bold": True, "color": "black"},  # Black per PCCP style guide
+        "takeaway": {"name": "Arial", "size": Pt(18), "bold": True, "italic": False, "color": "black"},
+        # Body/content styles
+        "heading": {"name": "Arial", "size": Pt(16), "bold": True, "color": "black"},
+        "content_header": {"name": "Arial", "size": Pt(18), "bold": True, "color": "black"},  # Side-by-side headers
         "body": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
         "body_large": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
         "bullet": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},
         "caption": {"name": "Arial", "size": Pt(9), "bold": False, "color": "text_light"},
         "footnote": {"name": "Arial", "size": Pt(8), "bold": False, "color": "footnote"},
+        # Component styles
         "metric_value": {"name": "Arial", "size": Pt(28), "bold": True, "color": "white"},
         "metric_label": {"name": "Arial", "size": Pt(12), "bold": False, "color": "white"},
-        "table_header": {"name": "Arial", "size": Pt(12), "bold": True, "color": "white"},
-        "table_cell": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
-        "chart_label": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
-        "chart_axis": {"name": "Arial", "size": Pt(12), "bold": False, "color": "text_body"},
-        "takeaway": {"name": "Arial", "size": Pt(18), "bold": True, "italic": False, "color": "text_dark"},
+        "table_header": {"name": "Arial", "size": Pt(16), "bold": True, "color": "white"},  # 16pt per BTR standard
+        "table_cell": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},  # 14pt per BTR standard
+        "chart_label": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},  # 14pt per PCCP style guide
+        "chart_axis": {"name": "Arial", "size": Pt(14), "bold": False, "color": "text_body"},  # 14pt per PCCP style guide
     }
 
-    def __init__(self, template_path: str, use_library: bool = True):
+    def __init__(self, template_path: str, use_library: bool = True, style_guide_version: str = None):
         """
         Initialize renderer with a template.
 
         Args:
             template_path: Path to the PPTX template file
             use_library: Whether to use ComponentLibrary for charts/tables
+            style_guide_version: Specific style guide version to use (e.g., "2026.01.01")
         """
         self.template_path = Path(template_path)
         if not self.template_path.exists():
             raise FileNotFoundError(f"Template not found: {template_path}")
+
+        # Load style guide configuration
+        self.style_config = None
+        if STYLE_CONFIG_AVAILABLE:
+            try:
+                self.style_config = get_style_config(style_guide_version)
+                logger.info(f"Loaded style guide: {self.style_config.name} v{self.style_config.version}")
+            except Exception as e:
+                logger.warning(f"Could not load style guide config: {e}")
 
         # Load template to get layouts
         self._template_prs = Presentation(str(self.template_path))
@@ -807,8 +838,15 @@ class TemplateRenderer:
             )
 
     def _add_background_image(self, slide: Slide, image_path: str) -> None:
-        """Add a background image to a slide."""
+        """Add a background image to a slide with proper aspect ratio handling.
+
+        For 16:9 images on letter-size (11x8.5) slides, applies cropping to
+        maintain aspect ratio and fill the slide without stretching.
+        """
         from pptx.util import Inches
+        from lxml import etree
+        from PIL import Image as PILImage
+        from io import BytesIO
 
         image_path = Path(image_path)
         if not image_path.exists():
@@ -825,6 +863,50 @@ class TemplateRenderer:
         picture = slide.shapes.add_picture(
             str(image_path), left, top, width, height
         )
+
+        # Apply aspect ratio correction for 16:9 images on letter-size slides
+        # This prevents vertical stretching
+        try:
+            slide_aspect = self.SLIDE_WIDTH / self.SLIDE_HEIGHT
+            with open(image_path, 'rb') as f:
+                img = PILImage.open(f)
+                orig_width, orig_height = img.size
+                orig_aspect = orig_width / orig_height
+
+            # If image is wider than slide (16:9 = 1.778 > letter = 1.294), crop sides
+            if orig_aspect > slide_aspect + 0.05:
+                # Calculate crop percentage for each side
+                crop_ratio = 1 - (slide_aspect / orig_aspect)
+                crop_pct = int((crop_ratio / 2) * 100000)  # EMU percentage
+
+                pic_elem = picture._element
+
+                # Find blipFill - try multiple approaches for different PPTX structures
+                blipFill = pic_elem.find('.//{http://schemas.openxmlformats.org/drawingml/2006/main}blipFill')
+                if blipFill is None:
+                    blipFill = pic_elem.find('.//{http://schemas.openxmlformats.org/presentationml/2006/main}blipFill')
+                if blipFill is None:
+                    # Try direct child with local name
+                    for child in pic_elem:
+                        if child.tag.endswith('}blipFill') or child.tag == 'blipFill':
+                            blipFill = child
+                            break
+
+                if blipFill is not None:
+                    # Remove existing srcRect if present
+                    existing_srcRect = blipFill.find('{http://schemas.openxmlformats.org/drawingml/2006/main}srcRect')
+                    if existing_srcRect is not None:
+                        blipFill.remove(existing_srcRect)
+
+                    # Create new srcRect with cropping
+                    srcRect = etree.SubElement(blipFill, '{http://schemas.openxmlformats.org/drawingml/2006/main}srcRect')
+                    srcRect.set('l', str(crop_pct))
+                    srcRect.set('r', str(crop_pct))
+                    srcRect.set('t', '0')
+                    srcRect.set('b', '0')
+                    logger.debug(f"Applied {crop_pct/1000:.1f}% side crop to background image")
+        except Exception as e:
+            logger.debug(f"Could not apply aspect ratio correction: {e}")
 
         # Send to back (behind all other shapes)
         # Move to position 0 in the shape tree
@@ -1178,7 +1260,7 @@ class TemplateRenderer:
             self._apply_font(p2, "metric_label")
 
     def _render_table_slide(self, slide: Slide, content: dict, layout_name: str) -> None:
-        """Render a slide with a data table and optional takeaway subheader."""
+        """Render a slide with a data table using style guide specifications."""
         headers = content.get("headers", [])
         data = content.get("data", [])
         takeaway = content.get("takeaway", "")
@@ -1213,16 +1295,26 @@ class TemplateRenderer:
         )
         table = table_shape.table
 
+        # Get style config values (with fallbacks)
+        if self.style_config:
+            header_color = self.style_config.table.header_rgb
+            row_odd_color = self.style_config.table.row_odd_rgb
+            row_even_color = self.style_config.table.row_even_rgb
+        else:
+            header_color = self.COLORS["overlay_navy"]
+            row_odd_color = self.COLORS["white"]
+            row_even_color = self.COLORS["background"]
+
         # Style header row
         if headers:
             for i, header in enumerate(headers):
                 cell = table.cell(0, i)
                 cell.text = str(header)
                 cell.fill.solid()
-                cell.fill.fore_color.rgb = self.COLORS["overlay_navy"]  # Dark navy #051C2C
+                cell.fill.fore_color.rgb = header_color
                 self._style_table_cell(cell, is_header=True)
 
-        # Add data rows
+        # Add data rows with alternating colors (per style guide)
         start_row = 1 if headers else 0
         for i, row in enumerate(data):
             for j, value in enumerate(row):
@@ -1230,22 +1322,40 @@ class TemplateRenderer:
                     cell = table.cell(start_row + i, j)
                     cell.text = str(value)
 
-                    # Alternate row colors
+                    # Alternate row colors (per style guide: #FFFFFF / #F5F5F5)
+                    cell.fill.solid()
                     if i % 2 == 0:
-                        cell.fill.solid()
-                        cell.fill.fore_color.rgb = self.COLORS["white"]
+                        cell.fill.fore_color.rgb = row_odd_color
                     else:
-                        cell.fill.solid()
-                        cell.fill.fore_color.rgb = self.COLORS["background"]
+                        cell.fill.fore_color.rgb = row_even_color
 
                     self._style_table_cell(cell, is_header=False)
 
     def _style_table_cell(self, cell, is_header: bool = False) -> None:
-        """Style a table cell with proper margins, fonts (min 12pt), and vertical centering."""
-        cell.margin_left = Inches(0.05)
-        cell.margin_right = Inches(0.05)
-        cell.margin_top = Inches(0.03)
-        cell.margin_bottom = Inches(0.03)
+        """Style a table cell using style guide specifications."""
+        # Get style config values (with fallbacks)
+        if self.style_config:
+            margin_lr = self.style_config.table.cell_margin_lr
+            margin_tb = self.style_config.table.cell_margin_tb
+            header_text_color = self.style_config.table.header_text_rgb
+            row_text_color = self.style_config.table.row_text_rgb
+            header_font_size = Pt(self.style_config.table.header_font_size_pt)
+            row_font_size = Pt(self.style_config.table.row_font_size_pt)
+            font_name = self.style_config.table.header_font_name
+        else:
+            margin_lr = Inches(0.1)
+            margin_tb = Inches(0.05)
+            header_text_color = self.COLORS["white"]
+            row_text_color = self.COLORS["text_body"]
+            header_font_size = self.FONTS["table_header"]["size"]
+            row_font_size = self.FONTS["table_cell"]["size"]
+            font_name = "Arial"
+
+        # Apply cell margins (per style guide: 0.1" L/R, 0.05" T/B)
+        cell.margin_left = margin_lr
+        cell.margin_right = margin_lr
+        cell.margin_top = margin_tb
+        cell.margin_bottom = margin_tb
 
         # Vertically center text in cell
         cell.vertical_anchor = MSO_ANCHOR.MIDDLE
@@ -1254,14 +1364,17 @@ class TemplateRenderer:
         tf.word_wrap = True
         tf.auto_size = MSO_AUTO_SIZE.TEXT_TO_FIT_SHAPE
 
-        # Use FONTS settings for table cells (minimum 12pt)
-        style = self.FONTS["table_header"] if is_header else self.FONTS["table_cell"]
+        # Apply font styling based on header/data row
         for para in tf.paragraphs:
-            para.font.name = style["name"]
-            para.font.size = style["size"]  # 12pt minimum
-            para.font.bold = style.get("bold", False)
-            color_key = style.get("color", "text_body")
-            para.font.color.rgb = self.COLORS.get(color_key, self.COLORS["text_body"])
+            para.font.name = font_name
+            if is_header:
+                para.font.size = header_font_size
+                para.font.bold = True
+                para.font.color.rgb = header_text_color
+            else:
+                para.font.size = row_font_size
+                para.font.bold = False
+                para.font.color.rgb = row_text_color
 
     def _render_data_chart(self, slide: Slide, content: dict, layout_name: str) -> None:
         """Render a slide with a chart and optional takeaway subheader."""
@@ -1351,8 +1464,28 @@ class TemplateRenderer:
             self._style_bar_chart(chart)
 
     def _style_bar_chart(self, chart) -> None:
-        """Style a bar/column chart with minimum 12pt labels."""
+        """Style a bar/column chart using style guide specifications."""
         from pptx.enum.chart import XL_TICK_MARK
+
+        # Get style config values (with fallbacks)
+        if self.style_config:
+            gridline_color = self.style_config.chart.gridline_rgb
+            gridline_width = self.style_config.chart.gridline_width
+            gridline_enabled = self.style_config.chart.gridline_enabled
+            primary_color = self.style_config.chart.primary_series_rgb
+            secondary_color = self.style_config.chart.secondary_series_rgb
+            axis_color = self.style_config.chart.axis_label_rgb
+            axis_font_size = Pt(self.style_config.chart.axis_label_font_size_pt)
+            data_label_size = Pt(self.style_config.chart.data_label_font_size_pt)
+        else:
+            gridline_color = self.COLORS["chart_gridline"]
+            gridline_width = self.LINE_WIDTH_GRIDLINE
+            gridline_enabled = True
+            primary_color = self.COLORS["chart_bar"]
+            secondary_color = self.COLORS["secondary"]
+            axis_color = self.COLORS["text_body"]
+            axis_font_size = self.FONTS["chart_axis"]["size"]
+            data_label_size = self.FONTS["chart_label"]["size"]
 
         try:
             plot = chart.plots[0]
@@ -1360,43 +1493,72 @@ class TemplateRenderer:
                 for i, series in enumerate(plot.series):
                     series.format.fill.solid()
                     if i == 0:
-                        series.format.fill.fore_color.rgb = self.COLORS["chart_bar"]  # Blue #309CE7
+                        series.format.fill.fore_color.rgb = primary_color
                     else:
-                        series.format.fill.fore_color.rgb = self.COLORS["secondary"]
+                        series.format.fill.fore_color.rgb = secondary_color
 
-            # Add data labels (minimum 12pt)
+            # Add data labels
             plot.has_data_labels = True
             data_labels = plot.data_labels
-            data_labels.font.size = self.FONTS["chart_label"]["size"]  # 12pt
-            data_labels.font.color.rgb = self.COLORS["text_body"]
+            data_labels.font.size = data_label_size
+            data_labels.font.color.rgb = axis_color
 
-            # Style category axis (minimum 12pt) with no tick marks
+            # Style category axis with no tick marks (per style guide)
             if hasattr(chart, 'category_axis'):
-                chart.category_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
-                chart.category_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.category_axis.tick_labels.font.size = axis_font_size
+                chart.category_axis.tick_labels.font.color.rgb = axis_color
                 chart.category_axis.major_tick_mark = XL_TICK_MARK.NONE
                 chart.category_axis.minor_tick_mark = XL_TICK_MARK.NONE
 
-            # Style value axis (minimum 12pt) and gridlines, no tick marks
+                # Add gridlines to category axis (per PCCP style guide)
+                if gridline_enabled and hasattr(chart.category_axis, 'major_gridlines'):
+                    chart.category_axis.has_major_gridlines = True
+                    gridlines = chart.category_axis.major_gridlines
+                    gridlines.format.line.color.rgb = gridline_color
+                    gridlines.format.line.width = gridline_width
+
+            # Style value axis and gridlines with no tick marks (per style guide)
             if hasattr(chart, 'value_axis'):
-                chart.value_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
-                chart.value_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.value_axis.tick_labels.font.size = axis_font_size
+                chart.value_axis.tick_labels.font.color.rgb = axis_color
                 chart.value_axis.major_tick_mark = XL_TICK_MARK.NONE
                 chart.value_axis.minor_tick_mark = XL_TICK_MARK.NONE
 
-                # Style major gridlines (#D9D9D9, 0.5pt)
-                if hasattr(chart.value_axis, 'major_gridlines'):
+                # Style major gridlines (per PCCP style guide: 0.5pt, #E2E8F0)
+                if gridline_enabled and hasattr(chart.value_axis, 'major_gridlines'):
                     chart.value_axis.has_major_gridlines = True
                     gridlines = chart.value_axis.major_gridlines
-                    gridlines.format.line.color.rgb = self.COLORS["chart_gridline"]
-                    gridlines.format.line.width = self.LINE_WIDTH_GRIDLINE
+                    gridlines.format.line.color.rgb = gridline_color
+                    gridlines.format.line.width = gridline_width
 
-        except Exception:
-            pass
+        except Exception as e:
+            logger.debug(f"Error styling bar chart: {e}")
 
     def _style_line_chart(self, chart) -> None:
-        """Style a line chart with specific colors and 3pt line width."""
+        """Style a line chart using style guide specifications."""
         from pptx.enum.chart import XL_DATA_LABEL_POSITION, XL_TICK_MARK
+
+        # Get style config values (with fallbacks)
+        if self.style_config:
+            gridline_color = self.style_config.chart.gridline_rgb
+            gridline_width = self.style_config.chart.gridline_width
+            gridline_enabled = self.style_config.chart.gridline_enabled
+            primary_color = self.style_config.chart.primary_series_rgb
+            secondary_color = self.style_config.chart.secondary_series_rgb
+            line_width = self.style_config.chart.line_width
+            axis_color = self.style_config.chart.axis_label_rgb
+            axis_font_size = Pt(self.style_config.chart.axis_label_font_size_pt)
+            data_label_size = Pt(self.style_config.chart.data_label_font_size_pt)
+        else:
+            gridline_color = self.COLORS["chart_gridline"]
+            gridline_width = self.LINE_WIDTH_GRIDLINE
+            gridline_enabled = True
+            primary_color = self.COLORS["chart_line_primary"]
+            secondary_color = self.COLORS["chart_line_secondary"]
+            line_width = self.LINE_WIDTH_CHART
+            axis_color = self.COLORS["text_body"]
+            axis_font_size = self.FONTS["chart_axis"]["size"]
+            data_label_size = self.FONTS["chart_label"]["size"]
 
         try:
             plot = chart.plots[0]
@@ -1404,43 +1566,50 @@ class TemplateRenderer:
                 for i, series in enumerate(plot.series):
                     # Set line color
                     if i == 0:
-                        series.format.line.color.rgb = self.COLORS["chart_line_primary"]  # #051C2C
+                        series.format.line.color.rgb = primary_color
                     else:
-                        series.format.line.color.rgb = self.COLORS["chart_line_secondary"]  # #2222F6
+                        series.format.line.color.rgb = secondary_color
 
-                    # Set line width to 3pt
-                    series.format.line.width = self.LINE_WIDTH_CHART
+                    # Set line width
+                    series.format.line.width = line_width
 
-            # Add data labels (minimum 12pt) positioned ABOVE
+            # Add data labels positioned ABOVE
             plot.has_data_labels = True
             data_labels = plot.data_labels
-            data_labels.font.size = self.FONTS["chart_label"]["size"]
-            data_labels.font.color.rgb = self.COLORS["text_body"]
+            data_labels.font.size = data_label_size
+            data_labels.font.color.rgb = axis_color
             data_labels.position = XL_DATA_LABEL_POSITION.ABOVE
 
-            # Style category axis (minimum 12pt) with no tick marks
+            # Style category axis with no tick marks (per style guide)
             if hasattr(chart, 'category_axis'):
-                chart.category_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
-                chart.category_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.category_axis.tick_labels.font.size = axis_font_size
+                chart.category_axis.tick_labels.font.color.rgb = axis_color
                 chart.category_axis.major_tick_mark = XL_TICK_MARK.NONE
                 chart.category_axis.minor_tick_mark = XL_TICK_MARK.NONE
 
-            # Style value axis (minimum 12pt) and gridlines, no tick marks
+                # Add gridlines to category axis (per PCCP style guide)
+                if gridline_enabled and hasattr(chart.category_axis, 'major_gridlines'):
+                    chart.category_axis.has_major_gridlines = True
+                    gridlines = chart.category_axis.major_gridlines
+                    gridlines.format.line.color.rgb = gridline_color
+                    gridlines.format.line.width = gridline_width
+
+            # Style value axis and gridlines with no tick marks (per style guide)
             if hasattr(chart, 'value_axis'):
-                chart.value_axis.tick_labels.font.size = self.FONTS["chart_axis"]["size"]
-                chart.value_axis.tick_labels.font.color.rgb = self.COLORS["text_body"]
+                chart.value_axis.tick_labels.font.size = axis_font_size
+                chart.value_axis.tick_labels.font.color.rgb = axis_color
                 chart.value_axis.major_tick_mark = XL_TICK_MARK.NONE
                 chart.value_axis.minor_tick_mark = XL_TICK_MARK.NONE
 
-                # Style major gridlines (#D9D9D9, 0.5pt)
-                if hasattr(chart.value_axis, 'major_gridlines'):
+                # Style major gridlines (per PCCP style guide: 0.5pt, #E2E8F0)
+                if gridline_enabled and hasattr(chart.value_axis, 'major_gridlines'):
                     chart.value_axis.has_major_gridlines = True
                     gridlines = chart.value_axis.major_gridlines
-                    gridlines.format.line.color.rgb = self.COLORS["chart_gridline"]
-                    gridlines.format.line.width = self.LINE_WIDTH_GRIDLINE
+                    gridlines.format.line.color.rgb = gridline_color
+                    gridlines.format.line.width = gridline_width
 
-        except Exception:
-            pass
+        except Exception as e:
+            logger.debug(f"Error styling line chart: {e}")
 
     def _style_pie_chart(self, chart) -> None:
         """Style a pie chart with minimum 12pt labels."""

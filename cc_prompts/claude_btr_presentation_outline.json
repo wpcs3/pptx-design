@@ -1,0 +1,896 @@
+{
+  "presentation_type": "investment_pitch",
+  "title": "Build-for-Rent Single-Family Communities",
+  "subtitle": "A Structural Investment Opportunity | Open-Ended REIT",
+  "template": "consulting_toolkit",
+  "sections": [
+    {
+      "name": "Executive Summary",
+      "slides": [
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Build-for-Rent Single-Family Communities",
+            "subtitle": "Open-Ended REIT | $2-3B Target Raise | ~12% Net Returns"
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Investment Highlights",
+            "takeaway": "BFR combines development alpha with durable demographic demand",
+            "metrics": [
+              {"label": "Target Net Return", "value": "~12%"},
+              {"label": "Stabilized Occupancy", "value": "95-97%"},
+              {"label": "Tenant Retention", "value": "74-80%"},
+              {"label": "Avg Tenant Stay", "value": "36-38 mo"}
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Investment Thesis Summary",
+            "takeaway": "Structural affordability barriers create permanent rental demand for single-family living",
+            "bullets": [
+              "77% of U.S. households cannot afford median-priced new home—creating permanent rental demand",
+              "Purpose-built BFR communities deliver 23% rent premiums vs. scattered-site SFR",
+              "Development economics generate 150-200bp spreads (yield-on-cost vs. exit cap)",
+              "Operating efficiency: clustered communities achieve 50% lower personnel costs",
+              "Regulatory certainty: 33 states prohibit rent control; target markets landlord-friendly",
+              "Dual demographic tailwinds: millennials priced out + Boomers seeking flexibility"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Market Opportunity",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Market Opportunity",
+            "subtitle": "The Structural Affordability Crisis"
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "The Homeownership Gap",
+            "takeaway": "Historic affordability barriers have locked out a generation of would-be buyers",
+            "metrics": [
+              {"label": "Price-to-Income", "value": "5.0x"},
+              {"label": "Income to Buy Median Home", "value": "$126,700"},
+              {"label": "Renters Who Qualify", "value": "13%"},
+              {"label": "First-Time Buyer Share", "value": "21-24%"}
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Homeownership Is Structurally Broken",
+            "takeaway": "The gap between aspiration and reality has never been wider",
+            "bullets": [
+              "Median home price at 5x income vs. 3.2x in the 1990s—near historic highs",
+              "Median first-time buyer age has risen to all-time high of 38-40 years",
+              "Only 6M of 46M renter households earn $126,700+ needed to buy",
+              "Mortgage payments now 52% higher than average rents—largest gap in decades",
+              "79-80% of millennials aspire to own; only 54.9% actually do",
+              "25-percentage-point aspiration gap creates sustained demand for quality rentals"
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "First-Time Buyer Share Has Collapsed",
+            "takeaway": "First-time buyers have fallen from 40% historical norm to just 21-24%",
+            "chart_data": {
+              "type": "column",
+              "categories": ["Historical Norm", "2020", "2021", "2022", "2023", "2024"],
+              "series": [
+                {"name": "First-Time Buyer %", "values": [40, 31, 34, 26, 24, 21]}
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Student Debt Delays Ownership by 5+ Years",
+            "takeaway": "Debt burdens create structural barriers to accumulating down payments",
+            "bullets": [
+              "Average student debt: $38,000 per borrower",
+              "23% of millennials delayed homeownership 5+ years due to debt",
+              "Every $1,000 increase in student debt reduces ownership rates by 1.8%",
+              "Total student debt: $1.7 trillion across 45 million borrowers",
+              "Debt-burdened millennials become long-term renters by necessity",
+              "Renting single-family homes allows lifestyle without ownership burden"
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Rent vs. Buy Economics Favor Renting",
+            "takeaway": "Monthly cost differential makes renting the rational economic choice",
+            "left_column": {
+              "header": "Owning (Median Home)",
+              "bullets": [
+                "Monthly payment: ~$2,800+",
+                "Requires $126,700+ income",
+                "20% down = $82,500 cash",
+                "Maintenance responsibility",
+                "Property tax burden",
+                "Limited flexibility"
+              ]
+            },
+            "right_column": {
+              "header": "Renting (BFR Community)",
+              "bullets": [
+                "Monthly rent: ~$2,200-2,500",
+                "No down payment required",
+                "Professional maintenance",
+                "Community amenities",
+                "Flexibility to relocate",
+                "Predictable monthly costs"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Demographic Drivers",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Demographic Drivers",
+            "subtitle": "Dual Demand from Millennials and Boomers"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Millennials: Renters by Necessity",
+            "takeaway": "The largest generation wants single-family living but cannot afford to buy",
+            "bullets": [
+              "72 million millennials (ages 29-44)—largest living generation",
+              "Peak household formation years driving rental demand now",
+              "54.9% homeownership rate vs. 79-80% aspiration—25pt gap",
+              "40% of BFR tenants have children vs. 25% in apartments",
+              "Average BFR household income: $125,000+",
+              "Desire for space, yards, garages—unwilling to compromise on lifestyle"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Baby Boomers: Lifestyle Renters",
+            "takeaway": "65 million Boomers increasingly embrace rental living for flexibility",
+            "bullets": [
+              "Boomers control 50% of U.S. home equity (~$17.3 trillion)",
+              "66% of those planning to move intend to downsize",
+              "Nearly 9 in 10 currently own 3+ bedroom homes",
+              "Seeking liberation from maintenance and property taxes",
+              "9 million homes projected to free up over next decade",
+              "BFR offers bridge between ownership and eventual senior living"
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "BFR Tenant Demographics",
+            "takeaway": "BFR attracts higher-income families seeking single-family lifestyle",
+            "chart_data": {
+              "type": "bar",
+              "categories": ["Families w/ Children", "Avg Household Income", "Pet Owners", "Work From Home"],
+              "series": [
+                {"name": "BFR", "values": [40, 125, 65, 45]},
+                {"name": "Apartments", "values": [25, 85, 35, 30]}
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Migration Patterns Concentrate Opportunity",
+            "takeaway": "Domestic migration flows toward Sunbelt and secondary markets",
+            "bullets": [
+              "South gained 2.68M net domestic migrants (2020-2024)",
+              "Northeast lost 1.19M; West lost 978,000",
+              "Texas: +85,267 net movers in 2024 alone",
+              "California: -239,575 net movers in 2024",
+              "Remote work accelerates migration to lower-cost markets",
+              "Population growth = housing demand = BFR opportunity"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Supply Dynamics",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Supply Dynamics",
+            "subtitle": "Nascent Sector with Runway for Growth"
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "BFR Supply Remains Nascent",
+            "takeaway": "Despite record growth, BFR represents less than 1% of SFR housing stock",
+            "metrics": [
+              {"label": "Total BFR Inventory", "value": "~350K units"},
+              {"label": "2024 Deliveries", "value": "39,000"},
+              {"label": "Share of SFR Stock", "value": "<1%"},
+              {"label": "Housing Shortage", "value": "3.9M units"}
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "BFR Completions Have Surged 455%",
+            "takeaway": "Record deliveries still represent small fraction of housing need",
+            "chart_data": {
+              "type": "column",
+              "categories": ["2019", "2020", "2021", "2022", "2023", "2024"],
+              "series": [
+                {"name": "BFR Completions (000s)", "values": [7, 12, 18, 27, 35, 39]}
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Institutional SFR Is Highly Fragmented",
+            "takeaway": "Mom-and-pop landlords still dominate—massive institutionalization opportunity",
+            "bullets": [
+              "16-17 million single-family rental units in the U.S.",
+              "Institutional ownership: only 2-3% of total SFR stock",
+              "Individual landlords own 90%+ of rental homes",
+              "Purpose-built BFR: less than 1% of SFR housing",
+              "BFR now 8-9% of single-family starts—all-time high",
+              "Rising capital costs already constraining new supply"
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Top Markets by BFR Pipeline",
+            "takeaway": "Pipeline concentrated in high-growth Sunbelt metros",
+            "headers": ["Market", "Total Inventory", "Under Construction", "2024 Deliveries"],
+            "data": [
+              ["Phoenix-Mesa", "25,712", "13,010", "4,460"],
+              ["Dallas-Fort Worth", "18,863", "8,450", "3,197"],
+              ["Atlanta", "14,197", "6,644", "3,035"],
+              ["Houston", "9,219", "4,200", "2,505"],
+              ["Charlotte", "8,551", "4,886", "1,415"]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Target Markets",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Target Markets",
+            "subtitle": "High-Growth MSAs with Strong Fundamentals"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Priority Market Rankings",
+            "takeaway": "Sunbelt markets offer strongest combination of growth and regulatory certainty",
+            "headers": ["Rank", "Market", "Pop Growth", "Rent Control", "BFR Inventory"],
+            "data": [
+              ["1", "Phoenix-Mesa", "+85,000", "Prohibited", "25,712"],
+              ["2", "Dallas-Fort Worth", "+178,000", "Prohibited", "18,863"],
+              ["3", "Atlanta", "+75,000", "Prohibited", "14,197"],
+              ["4", "Houston", "+198,000", "Prohibited", "9,219"],
+              ["5", "Charlotte", "+69,000", "No Restrictions", "8,551"]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Phoenix-Mesa: Leading BFR Market",
+            "takeaway": "Largest BFR inventory with sustained population and job growth",
+            "bullets": [
+              "BFR inventory: 25,712 units (largest in U.S.)",
+              "2024 deliveries: 4,460 units",
+              "Population growth: +85,000 annually",
+              "Rent control: Prohibited statewide (Arizona)",
+              "Major employers: tech, healthcare, financial services",
+              "Land availability supports continued development"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Dallas-Fort Worth: Diversified Growth Engine",
+            "takeaway": "Strongest population growth with diversified economic base",
+            "bullets": [
+              "Population growth: +178,000 annually (top 3 nationally)",
+              "BFR inventory: 18,863 units; 3,197 delivered in 2024",
+              "Corporate relocations: Toyota, Schwab, CBRE, others",
+              "No state income tax attracts migration",
+              "Rent control: Prohibited statewide (Texas)",
+              "Strong job growth across multiple sectors"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Emerging Secondary Markets",
+            "takeaway": "Midwest markets offer lower competition and favorable fundamentals",
+            "bullets": [
+              "Columbus: Intel's $20B investment; price-to-income just 2.1x",
+              "Indianapolis: Strong logistics/healthcare employment base",
+              "Kansas City: Affordable land costs; growing tech presence",
+              "Smaller pipelines correlate with stronger rent growth (CBRE)",
+              "Less institutional competition than Sunbelt leaders",
+              "Attractive development economics with lower land basis"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Regulatory Environment by State",
+            "takeaway": "Target states provide maximum regulatory certainty",
+            "bullets": [
+              "Texas, Florida, Arizona, Georgia: Rent control prohibited",
+              "North Carolina, Tennessee: No statewide restrictions",
+              "33 states prohibit or preempt local rent control",
+              "New construction typically exempt in regulated states",
+              "California Prop 33 defeated (Nov 2024)—protections preserved",
+              "Strategy: concentrate in landlord-friendly jurisdictions"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Operating Fundamentals",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Operating Fundamentals",
+            "subtitle": "BFR Outperforms Alternatives"
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "BFR Operating Performance",
+            "takeaway": "Purpose-built communities deliver superior retention and occupancy",
+            "metrics": [
+              {"label": "Occupancy", "value": "95.4-96.6%"},
+              {"label": "Renewal Rate", "value": "74-80%"},
+              {"label": "Avg Tenure", "value": "36-38 mo"},
+              {"label": "NOI Margin", "value": "65-68%"}
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "BFR vs. Multifamily Comparison",
+            "takeaway": "BFR delivers 100bp+ occupancy advantage and 20pt higher retention",
+            "left_column": {
+              "header": "BFR Communities",
+              "bullets": [
+                "Occupancy: 95.4-96.6%",
+                "Renewal rate: 74-80%",
+                "Avg tenure: 36-38 months",
+                "NOI margin: 65-68%",
+                "Families w/ kids: 40%",
+                "2024 rent growth: 1.3-1.5%"
+              ]
+            },
+            "right_column": {
+              "header": "Traditional Multifamily",
+              "bullets": [
+                "Occupancy: 94.4%",
+                "Renewal rate: 50-58%",
+                "Avg tenure: 18-24 months",
+                "NOI margin: 60-65%",
+                "Families w/ kids: 25%",
+                "2024 rent growth: 0.3-0.6%"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Why BFR Tenants Stay Longer",
+            "takeaway": "Families with children and pets drive stickiness and stability",
+            "bullets": [
+              "40% of BFR tenants have children vs. 25% in apartments",
+              "Children = school districts = reluctance to move",
+              "65%+ are pet owners (harder to find alternative housing)",
+              "Professional management ranked #1 tenant priority",
+              "On-site maintenance ranked #2 tenant priority",
+              "Longer stays = lower turn costs = higher NOI"
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "SFR Rent Growth Outpaces Multifamily",
+            "takeaway": "Single-family rents consistently grow faster than apartments",
+            "chart_data": {
+              "type": "line",
+              "categories": ["2020", "2021", "2022", "2023", "2024"],
+              "series": [
+                {"name": "SFR", "values": [3.8, 12.5, 13.8, 5.2, 4.1]},
+                {"name": "Multifamily", "values": [2.1, 9.2, 10.5, 3.1, 2.5]}
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Purpose-Built Premium Over Scattered-Site",
+            "takeaway": "Professional communities command 23% rent premium",
+            "bullets": [
+              "23% rent premium vs. scattered-site SFR (John Burns Research)",
+              "New construction quality vs. aging existing stock",
+              "Community amenities: pools, fitness, dog parks, clubhouses",
+              "Professional management and responsive maintenance",
+              "Bulk purchasing reduces operating costs",
+              "Standardized construction lowers maintenance complexity"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Clustered Operating Efficiencies",
+            "takeaway": "Purpose-built communities achieve 50% lower personnel costs",
+            "bullets": [
+              "Personnel costs: 50% lower vs. scattered-site portfolios",
+              "On-site staff serves 100-200 homes vs. driving between sites",
+              "Centralized leasing and maintenance operations",
+              "Standardized floor plans simplify repairs and turns",
+              "Technology integration: smart locks, remote monitoring",
+              "Best-in-class NOI margins: 65-68% vs. 55-60% scattered"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Competitive Positioning",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Competitive Landscape",
+            "subtitle": "Differentiation Opportunity Exists"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Major SFR/BFR Operators",
+            "takeaway": "No public REIT focuses exclusively on purpose-built BFR",
+            "headers": ["Operator", "Portfolio", "Strategy", "Status"],
+            "data": [
+              ["AMH", "61,000+ homes", "Mixed: BFR + Acquisitions", "Public REIT"],
+              ["Invitation Homes", "85,000+ homes", "Scattered-site acquirer", "Public REIT"],
+              ["Blackstone/Tricon", "62,000+ homes", "Scattered-site + JVs", "Private"],
+              ["NexMetro", "60+ communities", "Pure-play BFR developer", "Private"]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "American Homes 4 Rent (AMH)",
+            "takeaway": "Leading BFR developer but maintains mixed portfolio strategy",
+            "bullets": [
+              "61,000+ homes across 24 states; 170+ BFR communities",
+              "10,000th development-program home delivered July 2024",
+              "Ranked 39th largest U.S. homebuilder",
+              "FY2024 revenue: $1.73B; NOI margin ~65%",
+              "Conservative leverage: 5.4x Net Debt/EBITDA",
+              "Q4 2024 blended rent growth: 3.3% (moderated from 5.6% Q1)"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Invitation Homes (INVH)",
+            "takeaway": "Largest public SFR REIT but focused on acquisitions, not development",
+            "bullets": [
+              "85,000+ homes—largest public SFR REIT",
+              "Strategy: scattered-site acquisitions, not ground-up BFR",
+              "FY2024 revenue: $2.62B; NOI margin 68%+",
+              "97%+ occupancy; 80% renewal rate",
+              "Operational excellence in asset management",
+              "Different strategy than purpose-built community development"
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Differentiation Opportunity",
+            "takeaway": "A pure-play BFR REIT addresses an underserved institutional need",
+            "left_column": {
+              "header": "Existing Operators",
+              "bullets": [
+                "AMH: mixed BFR + acquisitions",
+                "INVH: primarily acquisitions",
+                "Private operators lack scale",
+                "No transparency of REIT structure",
+                "Inconsistent community design",
+                "Limited geographic diversification"
+              ]
+            },
+            "right_column": {
+              "header": "Our Strategy",
+              "bullets": [
+                "Pure-play BFR focus",
+                "100-200 home communities",
+                "Consistent Class A amenities",
+                "REIT transparency and governance",
+                "Standardized product design",
+                "Diversified across high-growth MSAs"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Financial Projections",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Financial Framework",
+            "subtitle": "Path to ~12% Net Returns"
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Return Component Breakdown",
+            "takeaway": "Multiple value-creation layers combine for 12% target returns",
+            "headers": ["Component", "Contribution", "Mechanism"],
+            "data": [
+              ["Current Yield (Levered)", "5.0-5.5%", "5.5% cap, 60-65% LTV, ~6% debt"],
+              ["Rent Growth", "3.0-3.5%", "SFR historically 3-5% annually"],
+              ["Development Profit", "2.0-3.0%", "150-200bp development spread"],
+              ["Operational Alpha", "0.5-1.0%", "NOI margin 60% → 65%+"],
+              ["Total", "10.5-13.0%", "Execution-dependent range"]
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Development Economics",
+            "takeaway": "Development spread generates 15-25% profit margin on cost",
+            "bullets": [
+              "Current development yields: 6.5-8.5% (market dependent)",
+              "Stabilized BFR cap rates: 5.0-5.75% in primary markets",
+              "Development spread: 125-200 basis points",
+              "Profit margin on cost: 15-25% at stabilization",
+              "AMH development yields tracking 'just below mid-5%'",
+              "Higher yields available in secondary markets"
+            ]
+          }
+        },
+        {
+          "slide_type": "table_slide",
+          "content": {
+            "title": "Illustrative Per-Home Economics",
+            "takeaway": "Conservative assumptions support 14-16% levered IRR",
+            "headers": ["Metric", "Assumption", "Value"],
+            "data": [
+              ["Development Cost", "All-in per home", "$350,000"],
+              ["Annual Rent", "~$2,900/month", "$35,000"],
+              ["NOI Margin", "55%", "$19,250"],
+              ["Yield-on-Cost", "NOI / Cost", "5.5%"],
+              ["Exit Cap Rate", "4-year hold", "4.75%"],
+              ["Exit Value", "NOI / Cap", "$405,000"]
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Financing Environment",
+            "takeaway": "Current debt markets support development and permanent financing",
+            "metrics": [
+              {"label": "Construction Loan", "value": "6.5-9.0%"},
+              {"label": "Perm Financing", "value": "5.5-6.5%"},
+              {"label": "Target LTV", "value": "55-65%"},
+              {"label": "Fannie BFR Programs", "value": "Available"}
+            ]
+          }
+        },
+        {
+          "slide_type": "data_chart",
+          "content": {
+            "title": "Projected Portfolio Growth",
+            "takeaway": "Deploying $2-3B over 5 years across 15,000-20,000 homes",
+            "chart_data": {
+              "type": "column",
+              "categories": ["Year 1", "Year 2", "Year 3", "Year 4", "Year 5"],
+              "series": [
+                {"name": "Homes (000s)", "values": [2.5, 6.0, 10.5, 15.0, 18.5]},
+                {"name": "Deployed Capital ($M)", "values": [500, 1100, 1800, 2400, 2900]}
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Risk Factors",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Risk Factors",
+            "subtitle": "And Mitigation Strategies"
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Construction Risk",
+            "takeaway": "Fixed-price contracts and established partners mitigate cost overruns",
+            "left_column": {
+              "header": "Risk Factors",
+              "bullets": [
+                "Labor shortages: 450-550K workers needed",
+                "Material cost volatility",
+                "Entitlement and permitting delays",
+                "Weather-related construction delays",
+                "Subcontractor reliability"
+              ]
+            },
+            "right_column": {
+              "header": "Mitigation Strategies",
+              "bullets": [
+                "Fixed-price contracts with builders",
+                "Partnerships with national homebuilders",
+                "Phased development schedules",
+                "Pre-entitled land acquisition",
+                "Standardized designs reduce complexity"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Interest Rate & Capital Markets",
+            "takeaway": "Conservative leverage and staggered maturities reduce refinancing risk",
+            "left_column": {
+              "header": "Risk Factors",
+              "bullets": [
+                "Higher rates compress development returns",
+                "Cap rate expansion reduces values",
+                "Refinancing risk at maturity",
+                "Reduced liquidity in capital markets"
+              ]
+            },
+            "right_column": {
+              "header": "Mitigation Strategies",
+              "bullets": [
+                "Conservative LTV: 55-65%",
+                "Staggered debt maturities",
+                "Fixed-rate permanent financing",
+                "Higher rates strengthen rent vs. buy",
+                "'Lock-in effect' reduces supply"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Supply & Regulatory Risk",
+            "takeaway": "Market selection and geographic diversification provide protection",
+            "left_column": {
+              "header": "Risk Factors",
+              "bullets": [
+                "Phoenix pipeline: 44,500 units",
+                "DFW pipeline: 21,350 units",
+                "Potential rent control expansion",
+                "Local zoning restrictions",
+                "NIMBYism in target markets"
+              ]
+            },
+            "right_column": {
+              "header": "Mitigation Strategies",
+              "bullets": [
+                "Geographic diversification",
+                "Focus on secondary markets",
+                "33 states prohibit rent control",
+                "New construction typically exempt",
+                "Prop 33 defeat reinforces protections"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Economic Cycle Resilience",
+            "takeaway": "SFR has demonstrated counter-cyclical demand characteristics",
+            "bullets": [
+              "SFR REITs outperformed other property sectors by 23% in 2020",
+              "SFR rent growth: +3.8% YoY in Sept 2020 despite recession",
+              "Economic stress pushes households toward renting",
+              "Higher-income tenant profiles ($125K+) enhance stability",
+              "Families with children prioritize housing stability",
+              "Essential housing need vs. discretionary spending"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "REIT Structure",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Investment Structure",
+            "subtitle": "Open-Ended REIT Benefits"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Tax Efficiency Advantages",
+            "takeaway": "REIT structure provides pass-through taxation and QBI deduction",
+            "bullets": [
+              "Pass-through taxation eliminates corporate-level tax",
+              "20% QBI deduction (Section 199A) for shareholders",
+              "Effective top rate: 29.6% vs. 37% ordinary income",
+              "Return of capital can defer 60-90% of distributions",
+              "Depreciation offsets taxable income",
+              "90% distribution requirement ensures cash flow"
+            ]
+          }
+        },
+        {
+          "slide_type": "two_column",
+          "content": {
+            "title": "Open-Ended vs. Closed-Ended Structure",
+            "takeaway": "Open-ended structure aligns with long-term BFR investment horizon",
+            "left_column": {
+              "header": "Open-Ended Benefits",
+              "bullets": [
+                "Perpetual capital structure",
+                "Quarterly redemption windows",
+                "NAV-based pricing",
+                "No forced liquidation timeline",
+                "Continuous deployment ability",
+                "Capital recycling flexibility"
+              ]
+            },
+            "right_column": {
+              "header": "Investor Considerations",
+              "bullets": [
+                "2-5 year initial lock-up typical",
+                "~5% annual redemption limits",
+                "Less liquid than public REITs",
+                "Avoids public market volatility",
+                "Aligned with real estate illiquidity",
+                "Institutional governance standards"
+              ]
+            }
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Target Distribution Profile",
+            "takeaway": "Income orientation with growth characteristics",
+            "metrics": [
+              {"label": "Current Yield", "value": "4.5-5.5%"},
+              {"label": "Distribution Frequency", "value": "Quarterly"},
+              {"label": "ROC Portion", "value": "60-70%"},
+              {"label": "Total Return Target", "value": "~12%"}
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Conclusion",
+      "slides": [
+        {
+          "slide_type": "section_divider",
+          "content": {
+            "title": "Investment Summary",
+            "subtitle": "A Structural Opportunity"
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Why Build-for-Rent Now",
+            "takeaway": "Structural demand meets institutional capital need for scaled BFR exposure",
+            "bullets": [
+              "77% of households cannot afford homeownership—permanent demand driver",
+              "Dual tailwinds: millennials priced out + Boomers seeking flexibility",
+              "Purpose-built BFR delivers superior operating performance",
+              "Development economics generate 150-200bp spreads",
+              "Less than 1% of SFR stock is purpose-built—massive runway",
+              "Regulatory environment favorable in target markets"
+            ]
+          }
+        },
+        {
+          "slide_type": "key_metrics",
+          "content": {
+            "title": "Investment Summary",
+            "takeaway": "Compelling risk-adjusted returns with structural demand backdrop",
+            "metrics": [
+              {"label": "Target Raise", "value": "$2-3B"},
+              {"label": "Target Net Return", "value": "~12%"},
+              {"label": "Communities", "value": "100-200 homes"},
+              {"label": "Markets", "value": "High-Growth MSAs"}
+            ]
+          }
+        },
+        {
+          "slide_type": "title_content",
+          "content": {
+            "title": "Next Steps",
+            "takeaway": "We welcome the opportunity to discuss this investment thesis",
+            "bullets": [
+              "Schedule deep-dive meeting with investment team",
+              "Review detailed financial projections and assumptions",
+              "Discuss target market analysis and pipeline",
+              "Review legal structure and subscription documents",
+              "Complete investor due diligence process"
+            ]
+          }
+        },
+        {
+          "slide_type": "title_slide",
+          "content": {
+            "title": "Thank You",
+            "subtitle": "Contact Information | Investor Relations"
+          }
+        }
+      ]
+    }
+  ]
+}

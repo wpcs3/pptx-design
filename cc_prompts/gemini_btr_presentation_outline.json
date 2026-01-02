@@ -1,0 +1,158 @@
+{
+  "investment_thesis": {
+    "title": "Strategic Capital Allocation in the Housing Sector: The Institutional Thesis for Build-to-Rent Communities",
+    "target_fundraise": "$2-3 Billion",
+    "structure": "Open-Ended Private REIT (Interval Fund)",
+    "executive_summary": {
+      "core_premise": "The 'American Dream' is evolving from ownership to usership due to structural housing deficits and affordability constraints.",
+      "market_opportunity": {
+        "supply_deficit": "3.8 to 5.5 million units [1, 2]",
+        "supply_cliff": "Expected in 2026-2027 due to dropped starts in 2024-2025 [3]",
+        "target_demographic": "High-income Millennials (family formation) and downsizing Baby Boomers."
+      },
+      "financial_highlights": {
+        "rent_premium_vs_multifamily": "15-20% [2, 4]",
+        "expense_ratio": "28-32% (vs 40-50% for scattered SFR) [2]",
+        "tenant_retention": "~68% [2]"
+      }
+    },
+    "macroeconomic_imperatives": {
+      "chronic_supply_deficit": {
+        "description": "Housing starts lagged household formation from 2010-2019.",
+        "shortage_estimate": "3.8 to 5.5 million units [1, 2]",
+        "restoration_requirement": "Addition of 3-4 million homes (2.6% of total stock) [1]"
+      },
+      "affordability_collapse": {
+        "rent_vs_own_gap": {
+          "phoenix_az": "$1,150/month savings to rent [5]",
+          "national_avg": "$213/month savings to rent [6]"
+        },
+        "consumer_behavior": "High-income households (>$75k) becoming 'Renters by Choice' due to negative arbitrage of ownership.[2]"
+      },
+      "lock_in_effect": {
+        "description": "Homeowners with 2-4% mortgages are disincentivized to sell.",
+        "active_listings": "1.4-1.5 million (vs healthy normative of 2 million+) [7]"
+      },
+      "capital_market_dislocation": {
+        "10_year_treasury_forecast_2025": "4.0% - 4.25% [8]",
+        "multifamily_starts_2025": "Dropped 30.4% month-over-month in May 2025 [3]",
+        "implication": "Creates a 'supply air pocket' for assets delivering in 2027 [3, 9]"
+      }
+    },
+    "demographic_tailwinds": {
+      "millennials": {
+        "description": "Primary demand driver (64% of experts agree).[10]",
+        "drivers": "Family formation, need for 3-4 bedrooms, student loan debt preventing down payments."
+      },
+      "baby_boomers": {
+        "description": "Seeking maintenance-free living and liquidity from home equity.",
+        "preference": "Single-story cottages with 'lock-and-leave' convenience.[11]"
+      },
+      "gen_z": {
+        "description": "Emerging force (49% of experts note impact).[10]",
+        "preference": "Usership over ownership; flexibility for career mobility."
+      },
+      "migration_trends": {
+        "primary_region": "Sun Belt ('Smile States')",
+        "secondary_shift": "Spillover into Midwest (Indianapolis, Columbus) due to cost of living.[12, 13]"
+      }
+    },
+    "product_strategy": {
+      "community_scale": "100-200 homes (Operational sweet spot for onsite staff) [14]",
+      "typologies":",
+          "target": "Young professionals, couples",
+          "rent_premium": "+10% vs Apartments [16]"
+        },
+        {
+          "type": "Single-Family Detached",
+          "density": "3.5-8.5 units/acre",
+          "target": "Families with children/pets",
+          "rent_premium": "+23% vs Scattered SFR [16]"
+        },
+        {
+          "type": "Cottages",
+          "density": "10-14 units/acre [15]",
+          "target": "Boomers, Singles",
+          "rent_premium": "+18-19% vs Garden Apartments [16]"
+        }
+      ],
+      "unit_mix_strategy": {
+        "4_bedroom_allocation": "20-30%",
+        "rationale": "Scarcity and higher retention (families change schools less often).[11]"
+      },
+      "amenities": [
+        "Clubhouse with co-working space [17]",
+        "Resort-style pool",
+        "Dog parks (70% pet ownership rate) [14]",
+        "Smart home tech package"
+      ]
+    },
+    "operational_metrics": {
+      "expense_ratios": {
+        "btr_community": "28% - 32%",
+        "multifamily_avg": "35% - 45%",
+        "scattered_sfr": "40% - 50%",
+        "source": "[2, 18]"
+      },
+      "turnover_economics": {
+        "btr_retention": "~68% [2, 10]",
+        "turnover_cost": "$2,000 - $4,000 per turn [2, 19]",
+        "lease_duration": "Tenants stay 25-35% longer than multifamily [2]"
+      },
+      "valuation": {
+        "cap_rate_compression": "50-75 bps lower (higher value) than Class A Multifamily [2]"
+      }
+    },
+    "market_selection": {
+      "strategy": "Barbell Approach (High Growth Sun Belt + Stable Yield Midwest)",
+      "primary_markets":"
+        },
+        {
+          "name": "Dallas/Fort Worth, TX",
+          "status": "High supply (18k+ units pipeline), strong job growth [2]"
+        },
+        {
+          "name": "Tampa/Jacksonville, FL",
+          "status": "Strong in-migration (Jax +27% pop growth over 12 years) [21]"
+        }
+      ],
+      "secondary_markets":"
+        },
+        {
+          "name": "Indianapolis, IN",
+          "driver": "Stability; tight vacancy (<5.5%) [22]"
+        },
+        {
+          "name": "Charlotte/Raleigh, NC",
+          "driver": "Research Triangle high-income demand [23]"
+        }
+      ]
+    },
+    "investment_vehicle": {
+      "type": "Open-Ended Private REIT (Interval Fund)",
+      "liquidity_mechanism": "Periodic repurchase offers (5-25% of shares) at NAV [24, 25, 26]",
+      "benefits_for_rias": [
+        "Access to institutional assets ($50M+ communities) [27, 28]",
+        "No K-1s (Form 1099-DIV reporting) [27, 29]",
+        "Section 199A Tax Deduction (20% pass-through) [30, 31]",
+        "Low volatility (NAV-based pricing) [31]"
+      ]
+    },
+    "development_economics": {
+      "development_spread": {
+        "market_cap_rate": "4.75% - 5.50% [32, 33]",
+        "target_yield_on_cost": "6.50% - 7.00% [34, 35]",
+        "spread_target": "150 - 225 bps [34, 35]"
+      },
+      "construction_inputs": {
+        "lumber": "$550-$650 per 1,000 board feet [36]",
+        "hard_costs": "$150-$200 psf (builder grade) [36]"
+      }
+    },
+    "risk_management": {
+      "supply_overshoot": "Mitigated by strict underwriting (0% rent growth yrs 1-2) and Midwest diversification.",
+      "interest_rates": "Mitigated by 50-60% LTV leverage and interest rate caps.",
+      "exit_strategies": "ABS securitization (e.g., Pretium $810M deal) or recapitalization.[37]"
+    }
+  }
+}

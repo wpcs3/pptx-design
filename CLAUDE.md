@@ -87,6 +87,18 @@ python -m pptx_generator find-images -c icon
 
 # Re-index slide pool with enhanced classification
 python -m pptx_generator.modules.reindex_slides --templates-dir pptx_templates --output cache/slide_pool_index.json
+
+# Organize output files into topic subfolders
+python -m pptx_generator.modules.output_organizer
+
+# Preview file organization (dry run)
+python -m pptx_generator.modules.output_organizer --dry-run
+
+# Show output folder statistics
+python -m pptx_generator.modules.output_organizer --stats
+
+# List configured topics
+python -m pptx_generator.modules.output_organizer --list-topics
 ```
 
 ### Module Architecture
@@ -106,6 +118,9 @@ python -m pptx_generator.modules.reindex_slides --templates-dir pptx_templates -
 | `slide_pool.py` | Phase 4: PPTAgent-inspired slide indexing and clone-edit workflow |
 | `iterative_refiner.py` | Phase 4: Quality-based outline refinement loop |
 | `reindex_slides.py` | Phase 4: Enhanced slide type classification (95% accuracy) |
+| `presentation_review.py` | Style guide compliance checker with gap analysis |
+| `style_guide_config.py` | Centralized style configuration for chart/table formatting |
+| `output_organizer.py` | Topic-based output subfolder organization |
 
 ### ComponentLibrary Integration
 
@@ -319,7 +334,102 @@ builder.save("output.pptx")
 
 ---
 
-## Current Status (2025-12-31)
+## Current Status (2026-01-02)
+
+### BTR Comparison Generator (2026-01-02)
+- ✅ **Multi-LLM Comparison**: `generate_btr_comparison.py` generates presentations from Claude, ChatGPT, and Gemini research
+  - Claude BTR: 59 slides from `cc_prompts/claude_btr_presentation_outline.json`
+  - ChatGPT BTR: 47 slides from `cc_prompts/gpt_btr_presentation_outline.json`
+  - Gemini BTR: 27 slides (inline outline in script)
+- ✅ **Front Page Logo**: White PCCP logo placed on top of background image
+- ✅ **Footnote Positioning**: Text anchored to BOTTOM of text box (closer to slide bottom line)
+- ✅ **Thank You Slide Filter**: Automatically skipped during generation (Contact info in end module)
+- ✅ **PDF Metadata**: Title matches filename (e.g., "Claude_BTR_Comparison")
+- ✅ **Contact Slide Spacing**: Blank lines between header and address content
+- ✅ **100% Compliance**: All presentations pass style guide gap analysis
+- ✅ **End Module Integration**: Contact, Disclaimers, End slides cloned from template
+
+### Style Guide JSON (2026-01-02)
+- ✅ **JSON Format**: `style_guides/pccp_cs_style_guide_2026.01.01.json`
+  - Typography specs with placeholder indices
+  - Chart and table formatting specs
+  - Color palette with hex codes
+  - Layout dimensions and margins
+  - Footnote with vertical anchor: `"vertical_anchor": "BOTTOM"`
+  - Logo positioning specs for front page and end slide
+
+### Output Organization (2026-01-01)
+- ✅ **Topic-based Subfolders**: Presentations organized by topic
+  - `output/light_industrial/` - Light Industrial presentations (48 pptx, 33 pdf)
+  - `output/btr/` - Build-to-Rent presentations (7 pptx, 6 pdf)
+  - Additional topics: `multifamily/`, `office/`, `retail/`, `mixed_use/`, `hospitality/`, `fund_overview/`
+- ✅ **Auto-detection**: Topics detected from filename patterns or presentation title
+- ✅ **OutputOrganizer Module**: `pptx_generator/modules/output_organizer.py`
+  - `organize_output_directory()` - Organize existing files
+  - `--dry-run`, `--stats`, `--list-topics` CLI options
+- ✅ **Orchestrator Integration**: New presentations saved to topic subfolders automatically
+  - `GenerationOptions.organize_by_topic = True` (default)
+  - `GenerationOptions.topic = "light_industrial"` (explicit topic override)
+  - Auto-detect from presentation title when topic not specified
+
+### Style Guide System (2026-01-01)
+- ✅ **StyleGuideConfig Module**: `pptx_generator/modules/style_guide_config.py`
+  - Centralized style configuration for chart/table formatting
+  - JSON-based config: `style_guides/pccp_cs_style_guide_2026.01.01.json`
+  - Dataclasses: `ChartStyleConfig`, `TableStyleConfig`, `TypographyConfig`, `ColorPaletteConfig`
+- ✅ **Template Renderer Integration**: Styles applied during generation (not just post-processing)
+  - Charts created with correct gridlines, colors, tick marks
+  - Tables created with correct header colors, alternating rows, cell margins
+  - Style guide version passed to TemplateRenderer via `style_guide_version` parameter
+
+### Style Guide Review System (2026-01-01)
+- ✅ **Presentation Review Module**: `pptx_generator/modules/presentation_review.py`
+  - Automated style guide compliance checking
+  - Slide-by-slide gap analysis generation
+  - Automatic formatting corrections
+- ✅ **Style Guides Folder**: `style_guides/` for versioned style specifications
+  - Current version: `pccp_cs_style_guide_2026.01.01.md`
+  - Detailed formatting specs extracted from `Light_Industrial_Thesis_vFinal.pptx`
+- ✅ **Chart Formatting Specs**:
+  - Major horizontal gridlines: 0.5pt width, #D9D9D9 color
+  - Value/Category axis tick marks: NONE
+- ✅ **Table Formatting Specs**:
+  - Header color: #051C2C
+  - Alternating rows: #FFFFFF / #F5F5F5
+  - Cell margins: 0.1" L/R, 0.05" T/B
+- ✅ **Orchestrator Integration**: Review runs automatically after export
+  - `GenerationOptions.style_review = True` (default)
+  - `GenerationOptions.auto_correct_style = True` (default)
+  - Gap analysis saved as markdown report
+  - Corrected presentation saved as `_corrected.pptx`
+
+### Style Guide Review Commands
+
+```bash
+# Review a single presentation
+python -m pptx_generator.modules.presentation_review "output/presentation.pptx"
+
+# Review with specific style guide version
+python -m pptx_generator.modules.presentation_review "output/presentation.pptx" "2026.01.01"
+```
+
+### Programmatic Usage
+
+```python
+from pptx_generator.modules import PresentationReviewer, review_presentation
+
+# Quick review
+results = review_presentation("output/presentation.pptx")
+print(f"Compliance: {results['compliance_score']:.1f}%")
+print(f"Gaps found: {results['total_gaps']}")
+print(f"Corrections applied: {results['corrections_applied']}")
+
+# Detailed usage
+reviewer = PresentationReviewer(style_guide_version="2026.01.01")
+gap_analysis = reviewer.analyze(Path("output/presentation.pptx"))
+reviewer.generate_report(gap_analysis, Path("output/gap_analysis.md"))
+reviewer.apply_corrections(Path("output/presentation.pptx"), gap_analysis)
+```
 
 ### Light Industrial Thesis Presentation (2025-12-29 to 2025-12-31)
 - ✅ **46-slide investor pitch deck** generated from JSON outline
@@ -534,7 +644,7 @@ pptx-design/
 │   │   ├── content_patterns.json
 │   │   └── llm_config.json   # Phase 1: LLM configuration
 │   ├── modules/              # Core modules
-│   │   ├── orchestrator.py   # Updated: Phase 2 evaluation integration
+│   │   ├── orchestrator.py   # Updated: Phase 2 evaluation + style review integration
 │   │   ├── template_renderer.py  # Updated: uses master layout placeholders
 │   │   ├── component_library.py
 │   │   ├── library_enhancer.py
@@ -542,7 +652,8 @@ pptx-design/
 │   │   ├── layout_cascade.py # Phase 2: Cascading layout handlers
 │   │   ├── llm_provider.py   # Phase 1: Multi-provider LLM
 │   │   ├── image_search.py   # Phase 3: Pexels/Unsplash integration
-│   │   ├── markdown_parser.py # ⭐ Phase 4: Markdown-to-outline parser
+│   │   ├── markdown_parser.py # Phase 4: Markdown-to-outline parser
+│   │   ├── presentation_review.py # ⭐ NEW: Style guide compliance checker
 │   │   └── ...
 │   └── output/               # Generated presentations
 ├── pptx_extractor/           # Extractors and analyzers
@@ -560,13 +671,20 @@ pptx-design/
 │   ├── styles/, layouts/, text_templates/, sequences/
 │   └── ...
 ├── pptx_templates/           # Source PowerPoint templates (4 templates)
+├── style_guides/             # Style guide specifications
+│   └── pccp_cs_style_guide_2026.01.01.json  # Current PCCP style guide (JSON)
 ├── config/                   # Project configuration
-│   └── template_registry.json  # ⭐ NEW: Template metadata
+│   └── template_registry.json  # Template metadata
 ├── docs/                     # ⭐ NEW: Documentation
 │   ├── API_REFERENCE.md      # Full API documentation
 │   ├── TUTORIAL.md           # Getting started guide
 │   └── IMPROVEMENTS.md       # Roadmap and recommendations
 ├── outputs/                  # Generated outputs
+├── generate_btr_comparison.py  # ⭐ BTR comparison generator (Claude/ChatGPT/Gemini)
+├── cc_prompts/               # LLM research outputs and outlines
+│   ├── claude_btr_presentation_outline.json
+│   ├── gpt_btr_presentation_outline.json
+│   └── ...
 └── CLAUDE.md                 # This file
 ```
 

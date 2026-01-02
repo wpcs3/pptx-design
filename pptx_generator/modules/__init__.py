@@ -13,6 +13,10 @@ __all__ = [
     "ResearchAgent",
     "PresentationOrchestrator",
     "ComponentLibrary",
+    "PresentationReviewer",
+    "review_presentation",
+    "OutputOrganizer",
+    "organize_output_directory",
 ]
 
 
@@ -39,4 +43,16 @@ def __getattr__(name):
     elif name == "ComponentLibrary":
         from .component_library import ComponentLibrary
         return ComponentLibrary
+    elif name == "PresentationReviewer":
+        from .presentation_review import PresentationReviewer
+        return PresentationReviewer
+    elif name == "review_presentation":
+        from .presentation_review import review_presentation
+        return review_presentation
+    elif name == "OutputOrganizer":
+        from .output_organizer import OutputOrganizer
+        return OutputOrganizer
+    elif name == "organize_output_directory":
+        from .output_organizer import organize_output_directory
+        return organize_output_directory
     raise AttributeError(f"module {__name__!r} has no attribute {name!r}")
